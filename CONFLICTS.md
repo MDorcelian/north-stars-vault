@@ -2,9 +2,9 @@
 
 Unresolved contradictions awaiting Marvens' ruling. Present at most two per day. He can answer in shorthand ("1A, 3 delete").
 
-1. Entity and AdSense map. [M] says Royalty Media Co LLC runs Explainer Chris on a clean AdSense. [H] decision 07-26 says a "new business LLC holds ONLY explainerchris, explainerchris ESP, and Ace" and separately that Ace's AdSense is "separate from Royalty Media," while two older channels share the Royalty Media AdSense. These cannot all be true. Need the actual map: which LLC, which AdSense, which channels, today. This is load-bearing for every separation rule.
+1. RESOLVED 2026-08-01. Entity and AdSense map: Royalty Media LLC runs Explainer Chris, Explainer Chris ESP, and @AceKnowsAGuy. All other channels sit on his personal Gmail account. [G2] See 10-identity/entity-map.md.
 
-2. Canonical income target. A: $30k/mo net after tax [C]. B: $100k/mo gross via automation [H]. C: something else. Pick one as the vault's steering metric.
+2. RESOLVED 2026-08-01. Canonical income target: staged, $30k/mo net after tax is the current steering metric, $100k/mo gross via automation is the stretch goal, open ceiling above that. [G2] See 20-goals/goals.md.
 
 3. "explainerchris demonetization" entry in the old agent's failure log [H] contradicts every other source (main channel active and monetized; it was explainerguy01 that was flagged). Confirm this is the old agent's confusion and delete, or correct me.
 
