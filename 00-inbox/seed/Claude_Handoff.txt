@@ -1,0 +1,582 @@
+0. HANDOFF HEADER
+Tool: Claude, Anthropic web/mobile chat interface. Model: Claude Opus 5 [C:high] [S:tool self]
+Coverage window: 2026-05-23 to 2026-07-29 (earliest and latest retrievable conversation timestamps in this project) [C:high] [S:tool recent_chats]
+Volume: 24 or more distinct conversations retrievable in this project scope, 24 project files mounted read-only, 1 rolling memory digest [C:high] [S:tool recent_chats, S:file /mnt/project/]
+Access held: memory digest (yes), project files (yes, read-only), past-conversation search (yes, scoped to this project only), live analytics (no stored analytics; Nexlev and Google Drive MCP tools are reachable but hold no cached data), YouTube Studio (no) [C:high] [S:tool tool_search]
+Known blind spot: memory and conversation search are scoped to this Project only. Any context from chats outside this project is invisible to this pass [C:high] [S:memory]
+Estimated completeness: 72%. The gap is concentrated in unstated financials, real cadence, tooling credentials, and anything discussed outside this project [C:med] [S:tool self]
+1. IDENTITY (vault: 10-identity)
+person:marvens
+
+type: person
+status: primary operator (self)
+vault: 10-identity
+updated: 2026-07-29
+
+Operator of both YouTube channels and the Jiggy digital product business [C:high] [S:memory]
+Referred to in session as "Jiggy" during the Hermes debugging work, and signs funnel email copy as "What's up, it's Jiggy" [C:high] [S:chat 2026-07-29, S:chat 2026-07-22]
+Located in New Jersey, United States. Self-employed with self-employment tax exposure discussed as a live planning constraint [C:med] [S:chat 2026-07-15]
+Former client video editor. Left or is branching out of client work. Specific documented incident: 334 revisions on a single video in Frame.io without adequate compensation. Also reports being dropped by clients for being "inconvenient" [C:high] [S:chat 2026-07-22]
+Legal or business entity (LLC, S-corp, sole prop): NOT_AVAILABLE. S-corp election was raised as unexplored [C:high] [S:chat 2026-07-15]
+Working hours: pattern of late-night and overnight work (TikTok posting at 12:16am, Hermes debugging session logged past midnight UTC). Never stated directly [C:low] [S:chat 2026-06-06, S:chat 2026-07-29]
+Refuses: affiliate pitches inside script bodies. Affiliate links are permitted in descriptions only. Framed as editorial credibility, non-negotiable [C:high] [S:file Revision_Instructions, S:chat 2026-07-15]
+Refuses: blanket approval of edits. Every proposed change is approved or rejected individually before it is applied [C:high] [S:chat 2026-06-07, S:chat 2026-06-17]
+Risk posture: actively hedging against platform dependency. Treats demonetization as a structural risk, not a tail risk [C:high] [S:chat 2026-07-15]
+Related: [[project:explainer-chris]] [[project:jiggy-digital-products]] [[project:north-hermes-agent]]
+2. GOALS (vault: 20-goals)
+goal:30k-monthly-net
+
+type: goal
+status: active
+vault: 20-goals
+updated: 2026-07-15
+
+Target as stated verbatim: "$30k/month pure profit after taxes" [C:high] [S:chat 2026-07-15]
+Gross required to land that net, per the 2026-07-15 working session: roughly $520,000 to $600,000 per year in gross profit, or $43,000 to $50,000 per month [C:high] [S:chat 2026-07-15]
+Deadline: NOT_AVAILABLE
+Current state as of 2026-07-15: not reached. Revenue figures never disclosed [C:high] [S:chat 2026-07-15]
+Single blocker: revenue is concentrated in AdSense, which cannot reach the target. Hitting it on ads alone at a $12 RPM would require roughly 3.75 million monetized views every month, indefinitely [C:high] [S:chat 2026-07-15]
+Success measure as stated: net profit after tax, monthly [C:high] [S:chat 2026-07-15]
+Related: [[goal:owned-audience-asset]] [[failure:adsense-as-engine]]
+goal:owned-audience-asset
+
+type: goal
+status: active
+vault: 20-goals
+updated: 2026-07-22
+
+Build an email list as the primary demonetization-proof asset, ahead of any further product launches [C:high] [S:memory, S:chat 2026-06-25]
+Current state as of 2026-07-22: list exists and is segmented into Editor's Edge grabbers versus Endgame purchasers. List size: NOT_AVAILABLE. Open rate, click rate, conversion rate: NOT_AVAILABLE [C:high] [S:chat 2026-07-22]
+Blocker: no stated volume or conversion baseline, so the funnel cannot yet be judged working or broken [C:med] [S:chat 2026-07-22]
+Success measure: NOT_AVAILABLE
+Related: [[project:jiggy-digital-products]] [[loop:funnel-baseline-numbers]]
+goal:1m-view-ceiling-per-concept
+
+type: goal
+status: active
+vault: 20-goals
+updated: 2026-07-29
+
+Stated ideation gate: a topic must have "potential to hit 1M views" to be greenlit [C:high] [S:file Ideation_Points]
+Current state: two documented ceiling hits. "Every Free App You Actually Need" Part 1 exceeded 1,000,000 views and carries a 92.3x outlier score. "Every AI Model Explained in 19 Minutes" sits at 846,000 views, 17.1x outlier [C:high] [S:chat 2026-07-02, S:chat 2026-07-06]
+Success measure: views plus vidIQ outlier score, applied per video [C:high] [S:chat 2026-07-02]
+Related: [[system:ideation-gate]] [[metric:explainer-chris-catalog]]
+3. PROJECTS (vault: 30-projects)
+project:explainer-chris
+
+type: project
+status: active, monetized
+vault: 30-projects
+updated: 2026-07-29
+
+Purpose: faceless tech explainer channel in the "Every [Topic] Explained in [X] Minutes" format, essay style, covering software, PC components, operating systems, gaming, and tech history [C:high] [S:memory, S:chat 2026-07-02]
+Owner: self. Video credits display as "Explainer Chris and explainerguy01" via the YouTube collab feature [C:high] [S:chat 2026-07-02]
+Approximately 22,000 subscribers as of 2026-07-15 [C:high] [S:chat 2026-07-15]
+Next action: NOT_AVAILABLE
+Kill criteria: NOT_AVAILABLE
+Related: [[project:explainerguy01]] [[project:free-app-series]] [[metric:explainer-chris-catalog]]
+project:free-app-series
+
+type: project
+status: active, Part 3 in post-production as of 2026-07-06
+vault: 30-projects
+updated: 2026-07-06
+
+Purpose: multi-part free and open-source software alternatives series. Part 1 is the channel's highest performer at over 1,000,000 views and a 92.3x outlier [C:high] [S:chat 2026-07-06, S:chat 2026-06-26]
+Part 2 covers Krita, Photopea, Inkscape, LMMS, Kdenlive/Shotcut, KeePassXC, Thunderbird, Joplin, Calibre, MPV, plus honorable mentions ShareX and qBittorrent [C:high] [S:chat 2026-06-17]
+Next action: Part 3 end-screen cards were redirected to Part 1 (primary) and Part 2 (second slot) because the originally teased subscription-management video is unpublished. That subscriptions video can be linked retroactively via YouTube Studio once it ships [C:high] [S:chat 2026-07-06]
+Related: [[loop:subscriptions-video]] [[decision:chain-link-to-published-only]]
+project:jiggy-digital-products
+
+type: project
+status: active
+vault: 30-projects
+updated: 2026-07-22
+
+Purpose: video editing education under the brand "Jiggy," Gumroad handle jiggypuff. Teaches client editors to branch into operating faceless YouTube channels, using editing instinct as a finishing layer rather than doing all production themselves [C:high] [S:chat 2026-07-22]
+Products: The Editor's Edge (free lead magnet, delivered automatically by Gumroad email) and The Editor's Endgame ($79 list) [C:high] [S:chat 2026-07-22]
+Owner: self. Positioning rule: never frame the pitch as quitting editing. It is branching into leverage [C:high] [S:chat 2026-07-22]
+Next action: four-email nurture sequence is written and style-corrected. Deployment confirmation: NOT_AVAILABLE [C:med] [S:chat 2026-07-22]
+Related: [[system:nurture-sequence]] [[asset:nurture-sequence-file]]
+project:north-hermes-agent
+
+type: project
+status: active, partially broken
+vault: 30-projects
+updated: 2026-07-29
+
+Purpose: autonomous agent named "North" running on Hermes Agent (Nous Research), powering a Discord and Telegram bot. Discord handle n0rth_st4r#5771 [C:high] [S:chat 2026-07-29]
+Infrastructure: DigitalOcean droplet, marketplace-s-1vcpu-2gb-nyc3, 1 vCPU / 2 GB RAM. Gateway runs as a systemd user service with linger enabled [C:high] [S:chat 2026-07-29]
+Next action: fix stale Discord channel ID 357956304851173377 causing 404s on gateway restart, then add the verification directive to SOUL.md [C:high] [S:chat 2026-07-29]
+Related: [[failure:free-tier-models]] [[failure:north-hallucinated-edits]] [[loop:soul-md-verification]]
+project:youtube-ideation-bot
+
+type: project
+status: active, referenced only indirectly
+vault: 30-projects
+updated: 2026-07-29
+
+Purpose: a separate YouTube ideation bot with its own codebase and database. Known file and template names: ideationReportService.ts (holds composition rules) and a sketch_prompt template [C:high] [S:chat 2026-07-29]
+Critical boundary: North has no access to this codebase or database, yet claimed to have edited both [C:high] [S:chat 2026-07-29]
+Everything else about this project (stack, host, repo, purpose detail, status) is unstated: NOT_AVAILABLE
+Related: [[project:north-hermes-agent]] [[failure:north-hallucinated-edits]]
+project:tiktok-tech-clips
+
+type: project
+status: active, recovering from suppression
+vault: 30-projects
+updated: 2026-06-06
+
+Purpose: secondary distribution. Three anchor slideshows (every graphics setting explained, every AI model explained, every web browser explained), each compressing full video sections into carousels, with individual clips riding the halo of whichever anchor gains traction [C:high] [S:chat 2026-06-06]
+Account was 6 days old as of 2026-06-06 [C:high] [S:chat 2026-06-06]
+Next action: one post per day at peak hours, 6pm to 10pm in the target audience timezone [C:high] [S:chat 2026-06-06]
+Related: [[failure:tiktok-burst-posting]] [[loop:tiktok-appeals]]
+project:obsolete-pc-software-video
+
+type: project
+status: structure locked, script status unknown
+vault: 30-projects
+updated: 2026-06-07
+
+Purpose: video on obsolete PC software categories, aimed at computer science majors and heavy PC users [C:high] [S:chat 2026-06-07]
+Locked 10-section running order: Antivirus, CCleaner, WinRAR, Defrag, Flash, Nero, Winamp, MSN Messenger, Toolbars, LimeWire [C:high] [S:chat 2026-06-07]
+Section-title rule established here: titles are one-or-two word entry-point hooks (a recognizable product name), which then segue into related dead software rather than limiting the section to that product [C:high] [S:chat 2026-06-07]
+Next action: NOT_AVAILABLE
+Related: [[system:ideation-gate]]
+project:explainerguy01
+
+type: project
+status: active but demonetized
+vault: 30-projects
+updated: 2026-07-15
+
+Approximately 50,000 subscribers, demonetized. Cross-promoted with Explainer Chris through the YouTube collab feature [C:high] [S:chat 2026-07-15, S:memory]
+Reason for demonetization: NOT_AVAILABLE. Appeal history: NOT_AVAILABLE
+Related: [[project:explainer-chris]] [[goal:owned-audience-asset]]
+project:windows-subtopic-series
+
+type: project
+status: dormant, ideas generated 2026-05-23, no production confirmed
+vault: 30-projects
+updated: 2026-05-23
+
+Purpose: "Every Windows [Subtopic] Explained" line. Two entries (Windows versions, Windows editions) already performed well [C:med] [S:chat 2026-05-23]
+Top three validated concepts, ranked: Every Windows Screen of Death Explained, Every Windows Mascot Explained, Every Cancelled Windows Project Explained [C:high] [S:chat 2026-05-23]
+Screen of Death structure held: pattern-break cold open, kernel-panic explainer act, chronological walkthrough using a BSOD timeline image as B-roll, a dedicated "every color" section (green, black, red, orange) as the mid-video retention hook, trivia payoff closing on the 2024 CrowdStrike outage. Promising the color section in the cold open was flagged as retention-critical [C:high] [S:chat 2026-05-23]
+Related: [[project:explainer-chris]] [[metric:competitor-benchmarks]]
+project:sponsorship-media-kit
+
+type: project
+status: proposed, never started
+vault: 30-projects
+updated: 2026-07-15
+
+Purpose: media kit built on outlier data rather than subscriber count, to open sponsorship conversations [C:high] [S:chat 2026-07-15]
+Offered twice by Claude, never accepted or declined [C:med] [S:chat 2026-07-15]
+Related: [[loop:sponsorship-media-kit]]
+4. PEOPLE (vault: 40-people)
+Total known named collaborators, contractors, editors, VAs, sponsors, or agencies: effectively zero. This is the single thinnest section of the harvest [C:high] [S:tool conversation_search]
+person:marvens-as-approver
+
+type: person
+status: conflicted identity, see section 13
+vault: 40-people
+updated: 2026-06-25
+
+"Marvens" appears in session records both as the operator and as a named third party who "runs Explainer Chris" and approves or rejects individual revision recommendations [C:high] [S:chat 2026-06-07, S:chat 2026-06-25]
+Commercial terms, channel, rates: NOT_AVAILABLE
+Related: [[person:marvens]]
+person:joshua-galadima
+
+type: person
+status: unverified
+vault: 40-people
+updated: 2026-07-29
+
+This slug appeared only inside the example entry of the handoff prompt itself. No relationship, role, or interaction is held anywhere in my records. Do not let a downstream agent treat this as a known contact [C:low] [S:chat 2026-07-29]
+person:cpa-or-tax-professional
+
+type: person
+status: not engaged
+vault: 40-people
+updated: 2026-07-15
+
+No accountant, CPA, or tax professional is on record. S-corp election was flagged as needing one [C:med] [S:chat 2026-07-15]
+5. SYSTEMS AND SOPS (vault: 50-systems)
+system:script-revision-pass
+
+type: system
+status: active, most-used process in the record
+vault: 50-systems
+updated: 2026-07-29
+
+Order of operations, verbatim from the standing brief and observed behavior:
+Input: full script or outline plus the Revision_Instructions file and prior before/after pairs as style reference [C:high] [S:file Revision_Instructions]
+Fact-check volatile claims by web search before writing any revision notes, never after [C:high] [S:chat 2026-06-17]
+Return revision notes naming individual parts to improve and why, grouped by category (factual, banned patterns, duplicate jokes, jargon and visualization, voiceover acronyms, CTA gaps, heading cleanup, first-person inserts) [C:high] [S:chat 2026-06-17]
+Pass 1: ranked cuts in the ✂️ sandwich format, line before, cut line, line after, with word savings quantified per item [C:high] [S:file Revision_Instructions, S:chat 2026-06-07]
+Operator approves or rejects each item explicitly. "Keep" means protected permanently, across all later passes [C:high] [S:chat 2026-06-07]
+Apply only confirmed changes, then start Pass 2. Repeat until word count lands [C:high] [S:chat 2026-06-17]
+Typical duration: 2 to 4 passes per script [C:high] [S:chat 2026-06-07, S:chat 2026-06-17]
+Hard constraint stated: never recommend removing or combining sections. Fold new information into existing sections through light additions instead [C:high] [S:file Revision_Instructions]
+On round 2 and beyond, never re-propose a suggestion already given [C:high] [S:file Revision_Instructions]
+Related: [[asset:master-revision-guide]] [[failure:word-count-ceiling]]
+system:non-negotiable-script-skeleton
+
+type: system
+status: active, locked
+vault: 50-systems
+updated: 2026-06-07
+
+No intro and no hook as a separate beat. Videos open cold on Section 1. Hook material gets absorbed into the opening section [C:high] [S:chat 2026-06-07, S:chat 2026-07-06]
+Mid-video like CTA, placed around the midpoint, usually tied to an engagement question [C:high] [S:file Revision_Instructions]
+Subscribe CTA at the end [C:high] [S:file Revision_Instructions]
+Next-video bridge as the final beat, using the "Now here's the thing" transition pattern, ending on "Click the video on screen right now, and I'll see you there" [C:high] [S:file Every_Computer_Brand_Explained_-_After_Cut, S:chat 2026-05-31]
+Section headings carry no numbers, and no parenthetical company names [C:high] [S:file Revision_Instructions, S:chat 2026-06-25]
+Never say "Explained in X Minutes" inside the script body. That belongs to the title only, because runtime shifts in production [C:high] [S:file Revision_Instructions]
+Pacing target: roughly two minutes per section [C:med] [S:chat 2026-07-06]
+Related: [[system:outro-chain-link]]
+system:outro-chain-link
+
+type: system
+status: active
+vault: 50-systems
+updated: 2026-07-06
+
+Rank candidate destination videos on two criteria only: vidIQ outlier score and topical adjacency [C:high] [S:chat 2026-07-02]
+Never point the spoken CTA or end-screen card at an unpublished video [C:high] [S:chat 2026-07-06]
+Do not default to the single highest outlier if it is a topical cold start. The 92.3x free-app video was explicitly ruled out as an outro target for an AI-audience video for this reason [C:high] [S:chat 2026-07-02]
+Documented live chain: Computer Brand goes to Computer Generations. Game Launcher goes to Video Game Cheats. Free Apps goes to Web Browsers. Smartphone Chip goes to CPU Architecture. Free App Part 2 outline was corrected to point at the AI Model video [C:high] [S:file project scripts, S:chat 2026-06-17]
+Related: [[decision:chain-link-to-published-only]]
+system:ideation-gate
+
+type: system
+status: active
+vault: 50-systems
+updated: 2026-07-29
+
+Six gates, verbatim from the Ideation_Points file: audience would be interested; the team can accomplish it easily; there is a unique angle and it is not just copying the video; start with the most popular section first; has potential to hit 1M views; can this topic actually be done [C:high] [S:file Ideation_Points]
+system:voiceover-formatting
+
+type: system
+status: active
+vault: 50-systems
+updated: 2026-07-29
+
+No symbols. Numbers and dollar signs are acceptable as written, for example $5.4 million [C:high] [S:file Revision_Instructions]
+Convert ambiguous acronyms to spoken form. MBps becomes "megabytes," Mbps becomes "megabits." AAA becomes "triple-A." AIME becomes "A-I-M-E" [C:high] [S:file Revision_Instructions, S:chat 2026-06-07, S:file Every_AI_Model_Explained_-_After_Revision]
+Millisecond values get voice-friendly rewrites rather than numeral shorthand [C:high] [S:chat 2026-06-07]
+Flag and replace hard-to-visualize similes. The canonical bad example kept in the brief: "Kind of like writing a sentence, except the sentence is a picture" [C:high] [S:file Revision_Instructions]
+system:nurture-sequence
+
+type: system
+status: written, deployment unconfirmed
+vault: 50-systems
+updated: 2026-07-22
+
+Audience: everyone who took the free Editor's Edge and has not bought the Endgame. Evergreen, applies to past, current, and future opt-ins. Purchasers auto-suppressed [C:high] [S:chat 2026-07-22]
+Cadence: Email 1 at 0 hours, Email 2 at 24 hours, Email 3 at 72 hours, Email 4 at 120 hours. The 0h and 24h slots were locked by the operator's brief. 72h and 120h were recommended, with 48h/96h offered as the tighter alternative if the list runs hot [C:high] [S:chat 2026-07-22]
+Job of each email, in order: get them reading the guide; the value contrast plus the pain story; kill the quitting fear by reframing as branching; the decision plus the offer [C:high] [S:chat 2026-07-22]
+Offer mechanics: discount appears only in Email 4. $20 off, $79 down to $59, placeholder code EDGEREADER. Left evergreen rather than expiring, by decision [C:high] [S:chat 2026-07-22]
+Email 1 contains no attachment and no link, because Gumroad already delivered the file [C:high] [S:chat 2026-07-22]
+system:hermes-operations
+
+type: system
+status: active
+vault: 50-systems
+updated: 2026-07-29
+
+Confirmed command syntax: hermes cron list (not hermes jobs), hermes sessions list, hermes sessions export --format md --session-id [ID], hermes logs gateway -n 60 for non-tailing access [C:high] [S:chat 2026-07-29]
+Debug pattern for intermittent CPU spikes: start the log tail in the background before the next spike, hermes logs gateway -f > ~/hermes_cpu_debug.log 2>&1 &, then grep the timestamp range after the fact [C:high] [S:chat 2026-07-29]
+Rule established: never run hermes directly in a foreground SSH session for the live agent. It dies on SIGHUP when the terminal closes. The gateway stays under systemd; the terminal is only for hermes logs and hermes status [C:high] [S:chat 2026-07-29]
+Verify with systemctl --user status hermes and ps aux | grep hermes [C:high] [S:chat 2026-07-29]
+system:nexlev-tool-knowledge
+
+type: system
+status: active, hard-won
+vault: 50-systems
+updated: 2026-05-23
+
+search_videos with channelId plus sortBy: viewCount is the most reliable way to pull a full channel catalog ranked by performance [C:high] [S:chat 2026-05-23]
+search_videos needs isExactMatch: true and englishOnly: True for clean competitive data. Broad queries return noise [C:high] [S:chat 2026-05-23]
+youtube_channel_outliers with min_outlier_threshold: 1.5 returning nothing is a signal of unusually consistent performance, not a tool failure [C:high] [S:chat 2026-05-23]
+youtube_search with sort_by: views works for landscape queries, but search_videos with explicit parameters is more controllable for channel lookups [C:high] [S:chat 2026-05-23]
+6. DECISIONS (vault: 70-decisions)
+decision:no-affiliate-in-script
+Chose: affiliate links in descriptions only. Rejected: in-video affiliate segments. Reason: editorial credibility. Date: standing, restated 2026-07-15 [C:high] [S:file Revision_Instructions, S:chat 2026-07-15]
+decision:cold-open-no-hook
+Chose: open cold on Section 1. Rejected: standalone hook or intro beats. Reason: the channel's established format never includes one, and other videos open cold. Applied retroactively, an existing hook was cut on this basis. Date: 2026-06-07 [C:high] [S:chat 2026-06-07]
+Reversal note: on 2026-06-20 a hook was kept on a different script (trimming only the "by the end, you'll know" promise line with the RGB joke), because its open loops were judged load-bearing for early retention. Trigger: retention risk in the 0:15 to 0:30 window [C:high] [S:chat 2026-06-20]
+decision:pay-per-token-model
+Chose: claude-haiku-4-5-20251001 via Anthropic API key. Rejected: free-tier Nous Portal models. Reason: 99-second stalls and provider failures cascading into CPU spikes. Date: 2026-07-29 [C:high] [S:chat 2026-07-29]
+decision:no-em-dashes
+Chose: zero em dashes in copy, converted to periods, commas, or parentheses by context. Also: no preview text lines, since the email platform has no preview field. Also: number ranges written out, "20 to 40 hours." Reason: voice match, platform reality. Confirmed as hard rules for future copy. Date: 2026-07-22 [C:high] [S:chat 2026-07-22]
+Scope note: this rule governs copywriting. The video scripts in the project files still use em dashes heavily [C:high] [S:file project scripts]
+decision:chain-link-to-published-only
+Chose: outro cards point to Part 1 (primary) and Part 2 (second slot). Rejected: the forward tease to the unpublished subscriptions video. Reason: an unpublished target makes the end-screen card impossible to configure. Date: 2026-07-06 [C:high] [S:chat 2026-07-06]
+decision:endgame-pricing
+Chose: $79 list with a $59 reader price in the final email only, code EDGEREADER, no expiry. Rejected: urgency framing ("this reader price comes off in 3 days") and an expiring code. Reason: kept evergreen by operator choice. Date: 2026-07-22 [C:high] [S:chat 2026-07-22]
+decision:one-flagship-product-first
+Chose: validate one flagship product before building a library. Strongest candidates identified: the component buying guide and the graphics optimization guide, on purchase-intent grounds. Rejected: launching multiple products at once. Date: 2026-06-25 [C:high] [S:chat 2026-06-25]
+decision:realistic-word-floor
+Chose: accept roughly 2,800 to 3,000 words as the working floor for 10-section scripts, benchmarked against Computer Brand, Web Browser, AI Model, and Smartphone Chip. Rejected: treating the sub-2,300 ceiling as binding on long-format content. Trigger: repeated failure to land under it. Date: 2026-06-07, reaffirmed 2026-06-17 [C:high] [S:chat 2026-06-07, S:chat 2026-06-17]
+decision:section-titles-as-hooks
+Chose: one-or-two word product-name section titles that segue into adjacent dead software. Rejected: generic category labels. Specific picks: CCleaner over a cleaners label, Flash over "Browser Plugins," Nero over "Disc Burning," Winamp over "Media Players," MSN Messenger over "IM." Also combined Browser Plugins with Toolbars, and Antivirus with Anti-Spyware, and dropped Multi-Protocol Chat Clients in favor of Toolbars at position 9. Date: 2026-06-07 [C:high] [S:chat 2026-06-07]
+decision:tiktok-one-post-per-day
+Chose: one post per day at 6pm to 10pm target-audience time. Rejected: posting the 6 remaining clips in a late-night burst. Reason: avoid re-triggering the spam classifier. Date: 2026-06-06 [C:high] [S:chat 2026-06-06]
+decision:protected-lines-survive-all-passes
+Chose: humor, voice moments, and memorable kickers are preserved even when editorially redundant, flagged "Keep." Rejected: efficiency-first cutting. Documented protected lines include Steam's refund policy sentence, Battle.net's "as long as those games exist," Rockstar's customer support paragraph, and PlayStation's "And that's where the controversy starts." Date: 2026-06-07 [C:high] [S:chat 2026-06-07]
+7. METRICS AND BASELINES (vault: 80-metrics)
+metric:explainer-chris-catalog
+
+type: metric
+status: as of 2026-07-02, all view counts stale by roughly one month
+vault: 80-metrics
+updated: 2026-07-02
+
+Every Free App You Actually Need (Part 1): over 1,000,000 views, 92.3x outlier. Highest outlier in the catalog [C:high] [S:chat 2026-07-02, S:chat 2026-07-06]
+Every AI Model Explained in 19 Minutes: 846,000 views, 17.1x outlier, 76 VPH [C:high] [S:chat 2026-07-02]
+Every Graphics Setting Explained in 16 Minutes: 423,000 views, 8.6x outlier, 3 VPH, runtime 16:30, video ID SylFhDMHDnQ [C:high] [S:chat 2026-07-02]
+Every Network Protocol Explained in 18 Minutes: 98,000 views, 2.0x outlier [C:high] [S:chat 2026-07-02]
+Every Bluetooth Version Explained in 12 Minutes: 62,000 views, 1.3x to 1.9x outlier, 24 VPH, runtime 12:04, video ID IqH0YChK_aw [C:high] [S:chat 2026-07-02]
+Every CPU Architecture Explained in 18 Minutes: 49,000 views, 1.0x outlier, 4 VPH, runtime 18:46, video ID F5gkIasXJs0 [C:high] [S:chat 2026-07-02]
+Every VRAM Size Explained in 14 Minutes: 17,000 views, 0.3x outlier, 2 VPH, runtime 14:51, video ID tainkLI98Ow [C:high] [S:chat 2026-07-02]
+Every Keyboard Switch Explained in 14 Minutes: 0.3x outlier, runtime 14:43, video ID vpkK8hQ2s7I. View count not captured [C:high] [S:chat 2026-07-02]
+Unidentified title ending "...ed in 16 Minutes": 11,000 views, 2 VPH, video ID YZVxXnqRhQs [C:med] [S:chat 2026-07-02]
+All of the above were labeled "3 months ago" at capture, placing publication around April 2026 [C:med] [S:chat 2026-07-02]
+metric:subscriber-counts
+Explainer Chris: approximately 22,000 subscribers as of 2026-07-15 [C:high] [S:chat 2026-07-15]
+ExplainerGuy01: approximately 50,000 subscribers, demonetized, as of 2026-07-15 [C:high] [S:chat 2026-07-15]
+metric:script-word-counts
+Every Computer Brand Explained: 2,297 final words, the only script confirmed under the 2,300 ceiling. 2026-05-28 [C:high] [S:chat 2026-05-28]
+Every Video Game Cheat: approximately 4,400 words down to approximately 2,980 after four passes. Still roughly 680 over ceiling. 2026-06-07 [C:high] [S:chat 2026-06-07]
+Every Game Launcher: 3,323 actual words. The script footer claimed approximately 2,710, which was wrong and broke every downstream estimate. 2026-06-07 [C:high] [S:chat 2026-06-07]
+Free App Part 2: 3,441 words down to 3,162 across two passes. 2026-06-17 [C:high] [S:chat 2026-06-17]
+Conversion rate in use: 130 words per minute. Ceiling: 2,300 words for a sub-17-minute runtime [C:high] [S:file Revision_Instructions]
+Free App Part 2 intro cut: approximately 45 words, approximately 21 seconds of runtime [C:high] [S:chat 2026-06-26]
+metric:tiktok-performance
+Resolution graphics settings slideshow: 35,500 or more views. Best performer [C:high] [S:chat 2026-06-06]
+Internet Explorer browser slideshow: 7,000 or more views [C:high] [S:chat 2026-06-06]
+Post-suppression floor: single-digit views. Recovery began after approximately 12 hours of pausing, not the 72 recommended. All as of 2026-06-06, all stale [C:high] [S:chat 2026-06-06]
+metric:competitor-benchmarks
+Byte Sized Explainer, channel ID UCqUTa0HvxmUsmSrGJsmglPw: approximately 163,000 subscribers, approximately 795,000 average views per video across 20 videos. Zero outliers above 1.5x, which reads as unusual consistency. As of 2026-05-23, stale [C:high] [S:chat 2026-05-23]
+Winning competitor patterns with numbers, as of 2026-05-25: "killed off / discontinued" tech features led by an Apple-focused video at 418,900 views; "Every [Component] Brand Explained [Year]" led by GPU content at 269,100; Windows nostalgia in the 168,000 to 174,000 band [C:high] [S:chat 2026-05-25]
+Underperforming formats identified: pure connector and port explainers, and single-issue exposé videos. Diagnosed as search-driven rather than browse-and-click, with lower ceilings [C:high] [S:chat 2026-05-25]
+8 to 9 minute runtimes significantly outperform shorter cuts in the competitive set [C:high] [S:chat 2026-05-23]
+metric:north-config-baselines
+memory_char_limit raised from 2,200 to 20,000. user_char_limit raised from 1,375 to 8,000. 2026-07-29 [C:high] [S:chat 2026-07-29]
+Failure signature before the fix: 99-second response stalls, 13 tool calls per self-diagnostic session [C:high] [S:chat 2026-07-29]
+tool_loop_guardrails.hard_stop_enabled: false in config.yaml, noted but not changed [C:high] [S:chat 2026-07-29]
+Killed process PID 8123 (manual, SSH-bound). Gateway service PID 3864 (systemd, survives disconnect) [C:high] [S:chat 2026-07-29]
+metric:advisory-benchmarks-not-mine
+The following came from Claude's research on 2026-07-15 and are not the operator's own numbers or rate card: tech channel RPM range $7 to $18; VPN sponsorships $2,000 to $5,000 per video; web hosting $1,500 to $4,000 per integration; 4 to 8 integrated videos per month modeled at $8,000 to $32,000 [C:high] [S:chat 2026-07-15]
+Actual revenue, actual RPM, actual sponsorship deals closed, actual product sales: NOT_AVAILABLE. None has ever been disclosed [C:high] [S:tool conversation_search]
+8. VOICE AND OUTPUT PREFERENCES (vault: 90-voice)
+Wants direct, math-grounded answers with clear structure. Explicitly asked for a straightforward keep-or-cut verdict rather than extended analysis on at least one occasion [C:high] [S:chat 2026-06-20, S:chat 2026-07-15]
+Writes in short, clipped, lowercase-leaning fragments. Sends corrections as bare statements without softening [C:high] [S:chat 2026-07-22, S:chat 2026-07-29]
+Verbatim sample 1: "No em dashes anywhere. We don't have a preview place either." [C:high] [S:chat 2026-07-22]
+Verbatim sample 2: "its like the droplet just expires after closeing" [C:high] [S:chat 2026-07-29]
+Verbatim sample 3: "still says cpu is going down - a little delay tho" [C:high] [S:chat 2026-07-29]
+Banned constructions in script work: "it's not just X, it's Y," "it wasn't just X, it was Y," and close variants. Flagged as "heavy avoid" [C:high] [S:file Revision_Instructions]
+Nuance discovered on 2026-06-25 during the master guide build: the banned contrastive construction survived in finalized scripts, so the rule as actually applied targets the escalating "not just X" version specifically, not every contrastive [C:med] [S:chat 2026-06-25]
+Wants word savings quantified per proposed change, and wants surrounding context shown when compressing rather than cutting outright [C:high] [S:chat 2026-06-07]
+Tolerance for hedging: low. Prefers a recommendation with a reason over a menu of options, though will ask for three alternatives when a single proposal is rejected [C:high] [S:chat 2026-06-07, S:chat 2026-06-20]
+Disagreement should be delivered flat and early, with the reason attached. Claude's contradictions of the operator's own drafts (the outro target, the word-count ceiling, the savings math) were accepted without friction [C:high] [S:chat 2026-07-02, S:chat 2026-06-17]
+Script voice on-channel: opinionated first person, self-aware asides, recurring "developer negligence" editorial angle, occasional jokes that bleed personality. Explicitly not a neutral Wikipedia summary [C:high] [S:chat 2026-05-31, S:file Revision_Instructions]
+Selective about first-person inserts. Of four proposed personality inserts in Free App Part 2, only the MPV one was kept and three were discarded [C:high] [S:chat 2026-06-17]
+Implements edits personally rather than asking for the rewritten file, at least sometimes [C:med] [S:chat 2026-06-07]
+9. OPEN LOOPS (vault: 99-open-loops)
+loop:discord-channel-id
+Stale Discord channel ID 357956304851173377 throws 404s on every gateway restart. Identified but not fixed. Opened 2026-07-29. Waiting on: self [C:high] [S:chat 2026-07-29]
+loop:soul-md-verification
+The verification and anti-hallucination directive for North's SOUL.md is not yet written to file. The companion agency directive was verified as actually written. Opened 2026-07-29. Waiting on: self [C:high] [S:chat 2026-07-29, S:memory]
+loop:free-app-part-3-publish
+Part 3 was in post-production as of 2026-07-06 with revised outro cards. No confirmation it shipped. Opened 2026-07-06. Waiting on: self [C:high] [S:chat 2026-07-06]
+loop:subscriptions-video
+A video about subscription management was teased in the Part 3 outro, then de-teased because it does not exist. Plan was to link it retroactively via YouTube Studio after publishing. Opened 2026-07-06. Waiting on: self [C:high] [S:chat 2026-07-06]
+loop:s-corp-election
+Flagged as worth exploring with a tax professional given self-employment income structure. No professional engaged. Opened 2026-07-15. Waiting on: an unengaged CPA [C:high] [S:chat 2026-07-15]
+loop:sponsorship-media-kit
+Offered twice, never accepted or declined. This is the single largest unclaimed revenue lever in the record. Opened 2026-07-15. Waiting on: self [C:med] [S:chat 2026-07-15]
+loop:tiktok-appeals
+Two clips about AI as a subject were flagged for "spammy practices," appeals submitted, no outcome recorded. Opened 2026-06-06. Waiting on: TikTok [C:high] [S:chat 2026-06-06]
+loop:tiktok-remaining-clips
+6 graphics-setting clips remained unposted as of 2026-06-06, to be released one per day. Completion unconfirmed. Opened 2026-06-06. Waiting on: self [C:high] [S:chat 2026-06-06]
+loop:nurture-sequence-deployment
+Four emails written and style-corrected, saved to file. No confirmation they were loaded into an email platform or sent. The platform itself is never named. Opened 2026-07-22. Waiting on: self [C:med] [S:chat 2026-07-22]
+loop:obsolete-software-script
+10-section structure locked 2026-06-07. No script, revision, or publication recorded since. Opened 2026-06-07. Waiting on: self [C:med] [S:chat 2026-06-07]
+loop:windows-screen-of-death-video
+Full structure built 2026-05-23, including the CrowdStrike closing beat. Never referenced again. Opened 2026-05-23. Waiting on: self [C:med] [S:chat 2026-05-23]
+loop:part3-callback-density-audit
+An audit of Part 1 and Part 2 callback density earlier in the Part 3 script was offered so the revised outro would not feel disconnected. Never run. Opened 2026-07-06. Waiting on: self [C:med] [S:chat 2026-07-06]
+loop:master-guide-worked-example
+An appendix with a worked example of the deliverable format was offered for MASTER_REVISION_GUIDE.md and never requested. Opened 2026-06-25. Waiting on: self [C:med] [S:chat 2026-06-25]
+10. FAILURE LOG (vault: 70-decisions)
+failure:free-tier-models
+Tried: running North on free-tier models poolside/laguna-s-2.1:free, tencent/hy3:free, stepfun/step-3.7-flash:free. Result: 99-second stalls and intermittent "model provider failed" errors, which spawned self-diagnostic agent sessions at 13 tool calls each, which pinned a 1 vCPU droplet, which caused more failures. A closed feedback loop. Diagnosis: free-tier models are not viable for production agents. Date: 2026-07-29 [C:high] [S:chat 2026-07-29]
+failure:north-hallucinated-edits
+Tried: trusting North's reports of completed work. Result: North claimed ideationReportService.ts composition rules were updated and the sketch_prompt template synced, having never accessed either. It has no access to that codebase at all. Diagnosis: agents confidently report tool actions they never performed. Hard behavioral guardrails are mandatory, not optional. Date: 2026-07-29 [C:high] [S:chat 2026-07-29]
+failure:manual-process-lifecycle
+Tried: launching hermes manually from an SSH session. Result: the process died on SIGHUP every time the terminal closed, which was misread for hours as the CPU spike "resolving." Diagnosis: the agent must run under systemd, never in a foreground shell. Date: 2026-07-29 [C:high] [S:chat 2026-07-29]
+failure:tiktok-burst-posting
+Tried: 6 to 7 videos in one day on a 6-day-old account in a heavily farmed niche. Result: spam classifier suppression down to single-digit views, plus two clips flagged for spammy practices. Compounding factor: stolen copies of the content likely made TikTok's similarity index flag the originals as duplicates. Diagnosis: category-level pattern matching, not AI detection. Date: 2026-06-06 [C:high] [S:chat 2026-06-06]
+failure:adsense-as-engine
+Tried: treating AdSense as the path to the income target. Result: the arithmetic does not close. Diagnosis: AdSense is a floor, not an engine. Creators who got wealthy treated the channel as the top of a funnel; the ones who treated it as the destination are still uploading forever, hoping the algorithm stays kind. Date: 2026-07-15 [C:high] [S:chat 2026-07-15]
+failure:word-count-ceiling
+Tried: holding 10-section scripts to under 2,300 words. Result: four cutting passes on the cheats script landed at approximately 2,980, still 680 over. Diagnosis: the ceiling is an aspiration for long-format content, not a constraint. The real floor is 2,800 to 3,000. Date: 2026-06-07 [C:high] [S:chat 2026-06-07]
+failure:trusting-script-footer-counts
+Tried: estimating cuts against the word count written in a script footer. Result: the footer said approximately 2,710, actual was 3,323, and every estimate in the session was wrong until it was caught mid-pass. Diagnosis: always recount, never trust the footer. Date: 2026-06-07 [C:high] [S:chat 2026-06-07]
+failure:unpublished-outro-target
+Tried: writing "click the video on screen right now" pointing at a video that had not been made. Result: the end-screen card could not be configured, breaking the CTA. Happened at least twice, on Part 3 and on the Free App Part 2 outline. Diagnosis: bridges must target published videos. Date: 2026-06-17, again 2026-07-06 [C:high] [S:chat 2026-06-17, S:chat 2026-07-06]
+failure:outro-savings-math
+Tried: a cumulative dollar savings figure in the free-app outro. Result: it conflated one-time purchases with annual subscriptions and double-counted apps already covered in Part 1. Diagnosis: a credibility risk, flagged and reframed. Date: 2026-06-17 [C:high] [S:chat 2026-06-17]
+failure:recurring-fact-errors-in-outlines
+Tried: writing outlines from memory on date-sensitive claims. Result: Thunderbird for Android was placed in 2025 when it launched October 2024, appearing multiple times in one outline. Photoshop pricing was cited inconsistently across two sections at figures below the roughly $276 per year actual. Diagnosis: fact-check before revising, not after. Date: 2026-06-17 [C:high] [S:chat 2026-06-17]
+failure:duplicate-jokes-across-sections
+Recurring pattern: the "design awards" interface gag in both Thunderbird and Calibre; two crime-board metaphors inside Joplin; a "group project" joke in both Section 8 and Section 10 of the cheats script, resolved by keeping Section 10 and replacing Section 8 with "Suddenly the economy turns into Monopoly money." Diagnosis: jokes get reused unconsciously across long scripts and need an explicit dedupe pass. Date: 2026-06-07, 2026-06-17 [C:high] [S:chat 2026-06-07, S:chat 2026-06-17]
+11. ASSET AND EXPORT MANIFEST (vault: 60-assets)
+asset:project-script-library
+24 files mounted read-only at /mnt/project/. Includes 4 outlines (Web Browser, AI Model, Mobile Generation, Linux Distro), 2 process files (Ideation_Points, Revision_Instructions), 7 matched before/after revision pairs (Computer Brand, Game Launcher, Free Apps, Video Game Cheats, AI Model, Graphics Settings, Web Browser), and standalone scripts (RAM Size, DDR RAM, SSD Types, Mobile Network Generation, Smartphone Chip) [C:high] [S:file /mnt/project/]
+Export: these are copies of Project knowledge in the Claude Project. Download from the Project files panel. Format: plain text or markdown. Edits made in the container are not written back [C:high] [S:file /mnt/project/]
+asset:master-revision-guide
+MASTER_REVISION_GUIDE.md, built 2026-06-25 from the actual before/after pairs rather than the abstract instructions. Fourteen areas: workflow order, hard rules, non-negotiable skeleton, heading conventions, personality layer, banned constructions, two revision passes, CTA system with exact template language, fact-checking protocol, voiceover conversion table, chain-link map, outlier comparison step, word-count reality, pre-finalize checklist [C:high] [S:chat 2026-06-25]
+Export risk: was written to a session outputs folder. Container filesystems reset. If it was not downloaded, it is gone. FLAG FOR VERIFICATION [C:high] [S:chat 2026-06-25]
+asset:nurture-sequence-file
+editors-edge-nurture-sequence.md, four emails, final version em-dash-free with preview lines removed [C:high] [S:chat 2026-07-22]
+Same export risk as above. FLAG FOR VERIFICATION [C:high] [S:chat 2026-07-22]
+asset:north-droplet
+DigitalOcean droplet marketplace-s-1vcpu-2gb-nyc3. Holds the Hermes install at ~/hermes-agent/venv/, SOUL.md, config.yaml, and any debug logs at ~/hermes_cpu_debug.log [C:high] [S:chat 2026-07-29]
+Export: SSH. Sessions export natively via hermes sessions export --format md --session-id [ID] [C:high] [S:chat 2026-07-29]
+Credentials: an Anthropic API key exists and is configured on this droplet for the Haiku model. Location and value not recorded here by design [C:high] [S:chat 2026-07-29]
+asset:connected-accounts
+MCP connectors currently attached: Google Drive, Gmail, Google Calendar, Nexlev (prod.dashboard.nexlev.io), Algrow. Nexlev exposes 64 tools including the user's own channel analytics, revenue reports, retention curves, and swipefile folders [C:high] [S:tool tool_search]
+CANNOT BE EXPORTED BY ME: I hold no cached data from any of these. Every number in section 7 came from chat text, not from a live query. The Nexlev analytics surface is a large untapped source that this harvest does not cover [C:high] [S:tool tool_search]
+asset:chat-history
+24 or more conversations, 2026-05-23 to 2026-07-29, retrievable only within this Project scope [C:high] [S:tool recent_chats]
+Export: no bulk export through me. Use Settings, Privacy, Export data in the Claude account for the full archive. Format: JSON [C:med] [S:tool self]
+CANNOT BE EXPORTED: conversations in other Projects or outside all Projects are invisible to this pass and will be missing from the vault [C:high] [S:memory]
+asset:memory-digest
+One rolling memory digest covering channels, funnel, agent, learnings, and patterns. Recency-biased, not comprehensive, scoped to this Project [C:high] [S:memory]
+CANNOT BE EXPORTED directly. It is regenerated in the background and is not a file. Everything durable in it has been transcribed into this harvest [C:high] [S:memory]
+12. CHANNEL OPERATOR BLOCK (vault: 30-projects)
+
+Channel inventory
+
+Explainer Chris: approximately 22,000 subscribers, active, monetized, primary [C:high] [S:chat 2026-07-15]
+ExplainerGuy01: approximately 50,000 subscribers, demonetized. Reason and appeal history NOT_AVAILABLE [C:high] [S:chat 2026-07-15]
+Cross-promotion runs through YouTube's native collab feature. Videos display credits as "Explainer Chris and explainerguy01" [C:high] [S:chat 2026-07-02]
+
+Format rules
+
+Title formula: "Every [Topic] Explained in [X] Minutes." A question subtitle attached to the brand-explainer format appeared to contribute meaningfully to its performance [C:high] [S:chat 2026-07-02, S:chat 2026-05-25]
+The runtime in the title is set in production. It must never appear in the script body [C:high] [S:file Revision_Instructions]
+Body: cold open on Section 1, no intro, no separate hook. Ten sections typical, plus honorable mentions, plus outro. Roughly two minutes per section. Unnumbered headings, no parenthetical company names [C:high] [S:chat 2026-06-07, S:chat 2026-07-06]
+Start with the most popular section first [C:high] [S:file Ideation_Points]
+Three CTA placements per video, always: mid-video engagement question tied to the like button, subscribe at the end, next-video bridge as the closer using the "Now here's the thing" pattern [C:high] [S:chat 2026-05-31]
+
+Title and thumbnail patterns, with numbers
+
+Worked: free-software and app-recommendation content. 92.3x outlier, over 1M views [C:high] [S:chat 2026-07-02]
+Worked: AI topics. 846K, 17.1x, 76 VPH [C:high] [S:chat 2026-07-02]
+Worked: gaming settings. 423K, 8.6x [C:high] [S:chat 2026-07-02]
+Failed: VRAM Size at 0.3x and Keyboard Switch at 0.3x. Component-spec explainers are the weak class [C:high] [S:chat 2026-07-02]
+Failed in the competitive set: pure connector and port explainers, single-issue exposés. Search-driven, low ceiling [C:high] [S:chat 2026-05-25]
+Validated but unbuilt, ranked: a "killed off" Android or Google product video (top pick, replicates a 418.9K format in untapped territory), a CPU brand explainer, killed-off Windows features, an iconic Windows or tech sound untold-story video, and brand-explainer extensions into SSDs, monitors, and RAM [C:high] [S:chat 2026-05-25]
+Thumbnail craft rule from the Free App Part 2 build: avoid adjacent same-color icons (Thunderbird and Joplin both blue clumped), give each row a central visual anchor, and aim for an alternating color rhythm across the row. Watch dark-on-dark contrast and bump saturation if a pairing goes muddy [C:high] [S:chat 2026-06-26]
+
+Publishing cadence
+
+Scripts claim weekly ("we break down confusing tech every week") [C:high] [S:file Every_Computer_Brand_Explained_-_After_Cut]
+Actual observed cadence: NOT_AVAILABLE. The catalog snapshot showed a cluster all dated "3 months ago," which does not match a weekly cadence [C:med] [S:chat 2026-07-02]
+
+Production pipeline
+
+Stages, in order: ideation gated on the six Ideation_Points criteria, competitor and outlier research via Nexlev and vidIQ, outline, outline revision pass, full script, multi-pass line-level cut with per-item approval, thumbnail design, voiceover, edit, end-screen card configuration, publish, then TikTok repurposing into an anchor slideshow plus individual clips [C:high] [S:chat 2026-06-17, S:chat 2026-06-06]
+Who does each stage: NOT_AVAILABLE except that the operator makes every editorial call and implements at least some edits personally. No editor, VO artist, or thumbnail designer is ever named. If anyone else touches this pipeline, I do not know it [C:high] [S:tool conversation_search]
+
+Sponsorship terms and rate logic
+
+No rate card, no floor, no cap, no closed deal exists in my records. NOT_AVAILABLE [C:high] [S:tool conversation_search]
+The stated pitch logic, if one is built: sell the outlier rate and the million-view ceiling, not the 22,000 subscriber count [C:high] [S:chat 2026-07-15]
+Benchmark figures in section 7 are Claude's research from 2026-07-15, not the operator's terms. Do not let a downstream agent quote them as a rate card [C:high] [S:chat 2026-07-15]
+
+Brand safety and must-never-publish rules
+
+Never an affiliate pitch inside a script. Descriptions only [C:high] [S:file Revision_Instructions]
+Never an intro or standalone hook [C:high] [S:chat 2026-06-07]
+Never a next-video CTA aimed at an unpublished video [C:high] [S:chat 2026-07-06]
+Never a "not just X, it's Y" escalating construction [C:high] [S:file Revision_Instructions]
+Never a cumulative-savings claim that mixes one-time purchases with subscriptions or double-counts across parts [C:high] [S:chat 2026-06-17]
+Never publish a date-sensitive technical claim without verification. The failure rate on these has been high [C:high] [S:chat 2026-06-17]
+13. CONFLICTS
+
+Conflict 1: who is Marvens
+
+Version A: Marvens is the operator. This is the person I am speaking to [C:med] [S:memory]
+Version B: "The person works with a YouTube channel called Explainer Chris, run by someone named Marvens," and "a colleague named Marvens was referenced as the decision-maker who approves or rejects individual revision recommendations" [C:high] [S:chat 2026-06-07, S:chat 2026-06-25]
+Unresolved. Either the operator refers to themselves in the third person in briefs, or there is a second person owning approval authority whose details I hold nothing about.
+
+Conflict 2: SOUL.md verification directive, added or not
+
+Version A: two behavioral directives were added to SOUL.md, an agency directive and a verification directive [C:med] [S:chat 2026-07-29]
+Version B: same session, later: the agency directive was verified as actually written to file, but the companion verification directive was not yet added and remains an open task [C:high] [S:chat 2026-07-29]
+Version C: not yet added [C:high] [S:memory]
+Unresolved. Note the irony: this is a conflict about whether an anti-hallucination directive was hallucinated into existence.
+
+Conflict 3: Endgame price
+
+Version A: paid course priced at $79, discounted to $59 in the final email [C:high] [S:chat 2026-07-22]
+Version B: "Gumroad upsell at $59" with no mention of a $79 list price [C:med] [S:memory]
+Probably reconcilable, but a downstream agent working only from Version B would quote the discount as list.
+
+Conflict 4: whose channel is 163K subscribers
+
+Version A: "The channel (identified during research as Byte Sized Explainer, channel ID UCqUTa0HvxmUsmSrGJsmglPw) has approximately 163K subscribers," phrased as if it were the operator's own [C:med] [S:chat 2026-05-23]
+Version B: the operator's channels are 22,000 and 50,000 subscribers [C:high] [S:chat 2026-07-15]
+Unresolved. Most likely a competitor channel mislabeled in a summary, but a downstream agent could easily inherit a phantom third channel from this.
+
+Conflict 5: the banned contrastive rule
+
+Version A: heavily avoid "it's not just X, it's Y" and "it wasn't just X, it was Y" and similar formats [C:high] [S:file Revision_Instructions]
+Version B: the construction survived into finalized, shipped scripts, so as applied the rule targets only the escalating "not just X" variant [C:med] [S:chat 2026-06-25]
+Unresolved. The written rule and the enforced rule differ.
+
+Conflict 6: hook policy
+
+Version A: the format never includes an intro or hook; other videos open cold on Section 1 [C:high] [S:chat 2026-06-07]
+Version B: a hook was kept on 2026-06-20 because its open loops were judged load-bearing for early retention [C:high] [S:chat 2026-06-20]
+Unresolved. Either the rule has a retention-based exception or one script broke format.
+
+Conflict 7: word count ceiling
+
+Version A: under 2,300 words, hard, restated in the standing brief every session [C:high] [S:file Revision_Instructions]
+Version B: 2,800 to 3,000 is the accepted floor for 10-section scripts, and Part 1's longer format is proven [C:high] [S:chat 2026-06-07, S:chat 2026-06-17]
+Unresolved by choice. The ceiling keeps being restated in the brief even after being overridden in practice.
+14. INTERVIEW QUEUE
+What is your actual monthly revenue right now, broken out by AdSense, sponsorships, and products, and for which month? Every income decision in my records was made against an unknown baseline.
+Who else touches the pipeline, and what do you pay them? Editor, voiceover, thumbnail designer, researcher. Right now the vault will say you do all of it alone, which I doubt.
+Why was ExplainerGuy01 demonetized, when, and did you appeal? That determines whether it is recoverable or permanently a top-of-funnel asset.
+What is your real publishing cadence, in videos per month, and what is your production capacity ceiling?
+Which of your open loops actually closed? Specifically: did Part 3 publish, did the nurture sequence deploy, did the Discord channel ID get fixed, did the TikTok appeals resolve?
+What email platform runs the Jiggy list, how many subscribers are on it, and what are the open and click rates?
+What are your business entity, tax setup, and banking structure? The vault currently has no legal entity at all.
+What is the YouTube ideation bot? Stack, host, repo, database, purpose, and whether it is running. I know two filenames and nothing else.
+What does North actually do for you day to day, and what should it be forbidden from doing?
+Which of your videos underperformed badly enough that you would never repeat the topic, and what do you believe killed them?
+15. CONTEXT DEBT
+
+Blunt list of what an agent running your operations would need and I do not have.
+
+Every real financial number. No revenue, no RPM, no CPM, no product sales count, no ad spend, no monthly costs beyond a droplet you never priced. I have benchmark ranges I generated for you and nothing you generated yourself. An agent making budget decisions from this vault is guessing [C:high] [S:tool conversation_search]
+Your team. Not one collaborator, contractor, or vendor is named with a rate. If you have an editor or a VO artist, the vault will not know they exist and will route their work to you [C:high] [S:tool conversation_search]
+Analytics. Zero retention curves, zero traffic sources, zero audience demographics, zero geography data, despite the Nexlev connector exposing all of it. Every performance judgment in my records rests on public view counts and vidIQ outlier scores pasted into chat [C:high] [S:tool tool_search]
+The publishing calendar. No upload schedule, no content pipeline dates, no idea what is scripted versus shot versus scheduled. Section 9 lists twelve open loops with no way to tell which are live and which you abandoned in June [C:high] [S:tool recent_chats]
+Anything outside this Project. My memory and search are scoped to this Project only. If a large part of your operation lives in other chats, it is simply absent from this harvest and no amount of care in this pass fixes that [C:high] [S:memory]
+The channel account history. No strikes, no copyright claims, no policy warnings, no monetization review history for either channel. For a business whose stated core risk is demonetization, this is the most dangerous gap in the vault [C:high] [S:tool conversation_search]
+Where your files actually live. Two of your most valuable derived assets, the master revision guide and the nurture sequence, were written to ephemeral session folders. I do not know whether you downloaded either. Verify before you trust section 11 [C:high] [S:chat 2026-06-25, S:chat 2026-07-22]
+Your kill criteria. Not one project in section 3 has a stated condition under which you would stop. An autonomous agent will therefore keep every project alive forever, including the ones you have already quietly given up on [C:high] [S:tool conversation_search]
+Sponsorship reality. No deal has ever been mentioned as closed, pitched, or even attempted. The vault cannot tell whether sponsorships are an untapped lever or something you have already tried and hated [C:high] [S:chat 2026-07-15]
+How the two brands relate. Explainer Chris and Jiggy are treated as separate businesses in every conversation, but they share your time, your editing skill, and possibly your audience. No stated allocation, no priority order, no rule for what happens when they compete for a week [C:med] [S:tool conversation_search]
+
+END OF HARVEST | tool: Claude Opus 5 (claude.ai) | sections populated: 16/16 | self-assessed completeness: 72%

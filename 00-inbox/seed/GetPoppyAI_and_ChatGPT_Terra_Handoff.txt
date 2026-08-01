@@ -1,0 +1,574 @@
+0. HANDOFF HEADER
+Tool/model: GPT-5.6 Terra. [C:high] [S:memory]
+Coverage window: November 2024 to 2026; several source documents are undated within that range. [C:med] [S:file "Your Bad Habits Are Ruining Your Editing"; S:file "Channel Intelligence Prompts"; S:file "Faceless YouTube Track Record — Snapshot"]
+Volume reviewed: approximately 30 knowledge-base records, including documents, web-page captures, YouTube transcripts, channel analytics snapshots, one image, and one mindmap. [C:high] [S:memory]
+Access used: supplied knowledge-base files/content and stored channel snapshot; no authenticated live analytics, databases, password manager, or external account export was queried in this pass. [C:high] [S:memory]
+Estimated completeness: 88% of retained context. Missing areas are legal/entity information, current team roster and rates, current operating metrics, current calendar, and verified status of several projects. [C:med] [S:memory]
+1. IDENTITY (vault: 10-identity)
+person:marvens-dorcelian
+type: person
+status: active
+vault: 10-identity
+updated: 2026
+
+Name used publicly: Marvens; creator/business alias: Jiggy; brand/channel identity: Jiggy / JiggyPuffFridays. [C:high] [S:file "The Editor's Edge"; S:file "Jiggy (@JiggypuffFridays)"]
+Operational roles: faceless YouTube strategist, former professional video editor, education/media-business operator, channel operator, digital-product seller, and affiliate marketer. [C:high] [S:file "The Editor's Edge"; S:file "The Editor's Endgame"]
+Core positioning: an editor who moved from client editing toward channel ownership, systems, leverage, and recurring/evergreen revenue. [C:high] [S:file "The Editor's Edge"; S:file "I Quit Editing To Become A YouTube Strategist... Here's Why"]
+Primary audience: video editors who want to stop trading hours for client work, plus aspiring YouTubers stuck in the wrong niche or without a repeatable idea system. [C:high] [S:file "The Editor's Edge"; S:file "Marvens' Success Protocol Document"]
+Location: stated that he lives in America; exact city/state is NOT_AVAILABLE. [C:low] [S:file "I Quit Editing To Become A YouTube Strategist... Here's Why"]
+Time constraint: a prior operating protocol states a maximum of 2–3 hours/day, with a goal to avoid active work that scales linearly with time; current validity is NOT_AVAILABLE. [C:high] [S:file "Marvens' Success Protocol Document"]
+Stated non-negotiable business filter: prioritize “Speed × Simplicity × Proven Results”; do not build before validating demand; favor assets that earn without continuous direct labor. [C:high] [S:file "Marvens' Success Protocol Document"]
+Risk posture: avoids political content, clip/reaction channels, AI-generated visual-content channels, breaking-news formats, and copyright-heavy formats for beginner faceless operations. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"]
+Legal entity, tax structure, business registration, banking, contracts, and insurance: NOT_AVAILABLE. [C:high] [S:memory]
+2. GOALS (vault: 20-goals)
+goal:build-leveraged-youtube-assets
+type: goal
+status: active
+vault: 20-goals
+updated: 2026
+
+Target: replace time-for-money editing with owned YouTube-channel assets and recurring/evergreen income. No final income target/date is consistently stated. [C:high] [S:file "The Editor's Edge"; S:file "I Quit Editing To Become A YouTube Strategist... Here's Why"]
+Current state: operates multiple channels and sells education/products related to this transition; exact current channel count is conflicted. [C:high] [S:file "Faceless YouTube Track Record — Snapshot"; S:file "Marvens' Success Protocol Document"]
+Single stated blocker: treating editing skill as strategy; specifically, wrong niche/topic selection and lack of validated demand. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"; S:file "The Editor's Edge"]
+Success measure: revenue per hour invested, passive-income ratio, email-list growth, conversion from free to paid, and time to first dollar rather than vanity metrics. [C:high] [S:file "Marvens' Success Protocol Document"]
+goal:grow-faceless-youtube-portfolio
+type: goal
+status: active
+vault: 20-goals
+updated: 2026
+
+Target: build and operate profitable faceless YouTube channels; one course source frames an initial goal as making a successful first channel before scaling. [C:high] [S:file "Channel Intelligence Prompts"]
+Target cadence: 3–4 videos per month per channel is named as the minimum production target before hiring a full team. [C:high] [S:file "Channel Intelligence Prompts"]
+Current state: one snapshot reports five channels across explainer, AI stories, gaming, affiliate product reviews, and a Spanish-language expansion. [C:high] [S:file "Faceless YouTube Track Record — Snapshot"]
+Single stated blocker: channel/niche selection and repeatable video ideation, not effort or editing alone. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"; S:file "Outlier Signals"]
+Success measure: a niche must show new channels getting traction, consistent multi-video performance, fewer than 10 dominant players in the exact format, copycat validation, and a path to $5K–$10K/month. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"]
+goal:monetize-editor-audience-with-digital-products
+type: goal
+status: active
+vault: 20-goals
+updated: 2026
+
+Target: sell systems, templates, guides, tools, and education to editors and YouTube operators. Exact revenue target/deadline: NOT_AVAILABLE. [C:high] [S:file "The Editor's Endgame"; S:file "Tutorial ($19) YouTube Metadata Generator"]
+Current state: documented products include The Editor’s Endgame, Outlier Signals, YouTube Metadata Generator, The Editor’s Edge, KeySlides, sound-effect packs, and channel-intelligence prompts. [C:high] [S:file "The Editor's Endgame"; S:file "Tutorial ($19) YouTube Metadata Generator"]
+Single stated blocker: audience members often believe good editing alone causes growth and do not understand YouTube as a market/business. [C:high] [S:file "User Avatars"; S:file "The Editor's Edge"]
+Success measure: direct product sales, free-to-paid conversion, and an owned email audience rather than social reach alone. [C:high] [S:file "Marvens' Success Protocol Document"]
+goal:launch-explainer-tech-channel
+type: goal
+status: active
+vault: 20-goals
+updated: 2025
+
+Target: launch an explainer tech channel. Numeric target, deadline, owner, and current status after the stated plan: NOT_AVAILABLE. [C:high] [S:file "Marvens' Success Protocol Document"]
+Current state at the time of the protocol: “launching explainer tech channel.” [C:high] [S:file "Marvens' Success Protocol Document"]
+Single blocker: NOT_AVAILABLE. [C:high] [S:memory]
+Success measure: NOT_AVAILABLE. [C:high] [S:memory]
+3. PROJECTS (vault: 30-projects)
+project:jiggy
+type: project
+status: active
+vault: 30-projects
+updated: 2026
+
+Purpose: education/media business teaching editors and aspiring creators to build faceless YouTube channels through niche research, outlier modeling, editing/software strategy, AI workflows, and team-hiring systems. [C:high] [S:file "The Editor's Endgame"; S:file "The Editor's Edge"]
+Owner: [[person:marvens-dorcelian]]. [C:high] [S:file "The Editor's Edge"]
+Dependencies: YouTube content, Instagram audience, lead magnets, Gumroad/Kit distribution, affiliate partners, and operating channel proof. [C:high] [S:file "Tutorial ($19) YouTube Metadata Generator"; S:file "The Editor's Endgame"]
+Next action: NOT_AVAILABLE. [C:high] [S:memory]
+Kill criteria: NOT_AVAILABLE. [C:high] [S:memory]
+project:the-editors-endgame
+type: project
+status: active
+vault: 30-projects
+updated: 2026
+
+Purpose: paid 12-module system for experienced editors to operate faceless YouTube channels using niche research, outliers, delegation, hiring, AI revision, Trello, and a finishing/polish process. [C:high] [S:file "The Editor's Endgame"]
+Owner: [[person:marvens-dorcelian]]. [C:high] [S:file "The Editor's Endgame"]
+Includes: 12 video modules, AI Second Brain, copy-paste prompts/templates/job posts, live research session, Trello board, Upwork templates, metadata-generator build, and an end-to-end flowchart. [C:high] [S:file "The Editor's Endgame"]
+Buyer fit: editors with YouTube-editing experience, spare capital, and willingness to delegate. [C:high] [S:file "The Editor's Endgame"]
+Explicit exclusions: not for people who refuse to delegate, editors without YouTube-editing experience, or editors without spare capital. [C:high] [S:file "The Editor's Endgame"]
+Next action: NOT_AVAILABLE. [C:high] [S:memory]
+Kill criteria: NOT_AVAILABLE. [C:high] [S:memory]
+project:outlier-signals
+type: project
+status: active
+vault: 30-projects
+updated: 2026
+
+Purpose: paid PDF framework for identifying outlier videos, analyzing why they performed, extracting repeatable patterns, and converting signals into original video concepts. [C:high] [S:file "OUTLIER SIGNALS by Jiggy"]
+Listed product price: NOT_AVAILABLE in the PDF; associated product/bundle source identifies it as a paid guide and pairs it with the metadata generator. [C:med] [S:file "OUTLIER SIGNALS by Jiggy"; S:file "Tutorial ($19) YouTube Metadata Generator"]
+Core promise: YouTube has already tested millions of ideas; the operator should read the public results rather than guess. [C:high] [S:file "OUTLIER SIGNALS by Jiggy"]
+Dependencies: YouTube search, competitor channels, 1of10, NexLev, channel analytics, and AI ideation. [C:high] [S:file "OUTLIER SIGNALS by Jiggy"]
+Next action: NOT_AVAILABLE. [C:high] [S:memory]
+project:youtube-metadata-generator
+type: project
+status: active
+vault: 30-projects
+updated: 2026
+
+Purpose: $19 tutorial for building an AI tool that generates SEO descriptions, tags, timestamps, and pinned comments from a title, script, timestamps, keywords, and related videos. [C:high] [S:file "Tutorial ($19) YouTube Metadata Generator"]
+Claimed result: reduce metadata creation time by 80%; improve SEO targeting and search/related-video discovery. [C:high] [S:file "Tutorial ($19) YouTube Metadata Generator"]
+Distribution: Gumroad product. [C:high] [S:file "Tutorial ($19) YouTube Metadata Generator"]
+Next action: NOT_AVAILABLE. [C:high] [S:memory]
+project:the-editors-edge
+type: project
+status: active
+vault: 30-projects
+updated: 2026
+
+Purpose: free lead magnet reframing editors from service providers into owners/operators of channel assets. [C:high] [S:file "The Editor's Edge"]
+Funnel role: introduces The Editor’s Endgame as the next paid step. [C:high] [S:file "The Editor's Edge"]
+Core proof used: editing skill creates retention leverage; the owner keeps the long-tail revenue of uploads. [C:high] [S:file "The Editor's Edge"]
+Next action: NOT_AVAILABLE. [C:high] [S:memory]
+project:channel-intelligence-prompts
+type: project
+status: active
+vault: 30-projects
+updated: 2026
+
+Purpose: six prompts designed for NexLev MCP to find niches, decode competitor script DNA, mine comments, replicate outliers, map gaps, and diagnose underperformers. [C:high] [S:file "Channel Intelligence Prompts"]
+Dependency: NexLev MCP connected to an AI client; the source states the free tier is sufficient. [C:high] [S:file "Channel Intelligence Prompts"]
+Next action: NOT_AVAILABLE. [C:high] [S:memory]
+project:faceless-youtube-portfolio
+type: project
+status: active
+vault: 30-projects
+updated: 2026
+
+Purpose: operate/partner on faceless channels for ad and affiliate revenue in multiple formats and niches. [C:high] [S:file "Faceless YouTube Track Record — Snapshot"]
+Reported formats/niches: explainer, AI stories, gaming, affiliate product reviews, and Spanish-language expansion. [C:high] [S:file "Faceless YouTube Track Record — Snapshot"]
+Owner: [[person:marvens-dorcelian]], with at least one unnamed business partner documented. [C:high] [S:file "The Editor's Edge"; S:file "How I Went From $400 to $2,000/Month"]
+Next action: NOT_AVAILABLE. [C:high] [S:memory]
+Kill criteria: avoid niches missing 3+ validation criteria; avoid politics, copyright/clip channels, AI-generated visual content, breaking news, and oversaturated reviews. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"]
+project:ai-stories-channel
+type: project
+status: dormant
+vault: 30-projects
+updated: 2026
+
+Purpose: narrative-driven AI-story faceless channel operated with a partner. [C:high] [S:file "Faceless YouTube Track Record — Snapshot"]
+Status evidence: project generated $19,260 in six months, then was hit by YouTube inauthentic-content enforcement; source title states it was “banned.” [C:high] [S:file "I Made $19,260 with AI YouTube in 6 Months (Then YouTube Banned Us)"]
+Owner/partner: [[person:marvens-dorcelian]] plus unnamed partner. [C:high] [S:file "I Made $19,260 with AI YouTube in 6 Months (Then YouTube Banned Us)"]
+Next action: NOT_AVAILABLE. [C:high] [S:memory]
+Kill criteria / key risk: inauthentic-content enforcement. [C:high] [S:file "I Made $19,260 with AI YouTube in 6 Months (Then YouTube Banned Us)"]
+project:affiliate-product-review-channel
+type: project
+status: active-or-dormant
+vault: 30-projects
+updated: 2026
+
+Purpose: evergreen, search-based faceless affiliate-review channel. [C:high] [S:file "How I Make $714.14/month Passive Income with Faceless YouTube Videos"; S:file "I've never shared this publicly, but this was one of my biggest failures."]
+Status evidence: described as a “dead”/stopped-posting channel that continued to make hundreds monthly; one documented figure is $714.14/month. [C:high] [S:file "How I Make $714.14/month Passive Income with Faceless YouTube Videos"; S:file "I've never shared this publicly, but this was one of my biggest failures."]
+Exact current upload status: NOT_AVAILABLE. [C:high] [S:memory]
+Key dependency: search rankings and affiliate product demand. [C:high] [S:file "I've never shared this publicly, but this was one of my biggest failures."]
+4. PEOPLE (vault: 40-people)
+person:unnamed-business-partner
+type: person
+status: active-or-unknown
+vault: 40-people
+updated: 2026
+
+Relationship: business partner on at least one faceless-channel pivot and the AI YouTube project. [C:high] [S:file "The Editor's Edge"; S:file "I Made $19,260 with AI YouTube in 6 Months (Then YouTube Banned Us)"]
+What they do: co-built/operated a faceless channel; exact role split is NOT_AVAILABLE. [C:high] [S:file "The Editor's Edge"]
+Commercial terms, ownership split, rates, contact channel, and last interaction: NOT_AVAILABLE. [C:high] [S:memory]
+person:skye
+type: person
+status: audience-contact
+vault: 40-people
+updated: 2025-10-27
+
+Relationship: creator/audience member who requested channel diagnosis for a VTuber reaction channel. [C:high] [S:file "Jiggy Charles email thread with Skye"]
+What Jiggy provided: diagnosis that the channel’s successful format was reacting to several short-form clips in long-form, with fast intros; recommendation to study intro duration, SFX, clip style, retention drop-offs, and competitor outliers. [C:high] [S:file "Jiggy Charles email thread with Skye"]
+Current state: Skye stated an intention to test the recommended approach for approximately three weeks; no outcome is recorded. [C:high] [S:file "Jiggy Charles email thread with Skye"]
+Communication channel: email. [C:high] [S:file "Jiggy Charles email thread with Skye"]
+person:luke-markus
+type: person
+status: audience-contact
+vault: 40-people
+updated: undated
+
+Relationship: creator reporting $1,500–$1,800/month while uploading monthly and struggling to replicate a March hit. [C:high] [S:file "lukemarkus reply"]
+What Jiggy provided: advised reverse-engineering the March hit, identifying its topic/format and adjacent demand rather than chasing the original result emotionally. [C:high] [S:file "lukemarkus reply"]
+Commercial terms, contact channel, and subsequent outcome: NOT_AVAILABLE. [C:high] [S:memory]
+person:star-juneau
+type: person
+status: audience-contact
+vault: 40-people
+updated: undated
+
+Relationship: creator considering a new channel and struggling with consistent video ideas. [C:high] [S:file "Star Juneau reply"]
+What Jiggy provided: framed idea scarcity as potentially a wrong-niche problem and asked whether the issue was generating ideas versus validating which ideas would get views. [C:high] [S:file "Star Juneau reply"]
+Open promise: Jiggy said he would send a future framework for profitable niches and endless video ideas when it was ready; fulfillment is NOT_AVAILABLE. [C:high] [S:file "Star Juneau reply"]
+5. SYSTEMS AND SOPS (vault: 50-systems)
+system:niche-validation-framework
+type: system
+status: active
+vault: 50-systems
+updated: 2026
+
+Input: a possible niche, competitor channels, recent YouTube search data, monetization data, and the operator’s ability to generate ideas. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"]
+Step 1: use NexLev Niche Finder for long-form channels; suggested filters include maximum 150,000 subscribers, 35–44 maximum uploads, 4–20 minute videos, and an upload within the previous six months. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"]
+Step 2: pattern-match candidates; favor explainers, documentary-style content, niche entertainment, and educational deep-dives; reject channels that cannot yield 20 ideas in 30 minutes. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"]
+Step 3: analyze each candidate’s outliers, consistency, thumbnail patterns, video-length pattern, and uncovered content gaps. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"]
+Step 4: validate with YouTube search filtered to “This Year”; documented healthy-demand threshold is 2–3 views/hour consistently, while under 0.1 views/hour means move on. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"]
+Step 5: use AI to find an adjacent angle rather than copy the discovered channel; validate the AI-generated ideas back on YouTube. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"]
+Output: a niche only proceeds when all five gates are met: new channels get views, multiple uploads hit, fewer than 10 dominant exact-format players, copycats also win, and monetization can plausibly reach $5K–$10K/month. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"]
+Typical duration: the older landing-page framework states approximately 10 hours for validation; current duration is NOT_AVAILABLE. [C:high] [S:file "YouTube Niche Framework - From $400 to $2,000/Month"]
+system:outlier-research
+type: system
+status: active
+vault: 50-systems
+updated: 2026
+
+Input: a niche, competitor channels, channel analytics, and recent videos. [C:high] [S:file "OUTLIER SIGNALS by Jiggy"]
+Step 1: identify outliers manually through YouTube search, through 1of10, or via NexLev. An outlier is a video that materially exceeds the channel’s normal view baseline. [C:high] [S:file "OUTLIER SIGNALS by Jiggy"]
+Step 2: analyze packaging: thumbnail emotion/contrast/text/face, title promise, title structure, and whether the appeal is curiosity, outcome, fear, or relatability. [C:high] [S:file "OUTLIER SIGNALS by Jiggy"]
+Step 3: analyze content: first-30-second hook, format, viewer problem/desire, cold-viewer appeal, trend versus evergreen signal, and whether newer/smaller channels also win. [C:high] [S:file "OUTLIER SIGNALS by Jiggy"]
+Step 4: compare 3–5 outliers for recurring topic, format, thumbnail, title, length, and hook patterns. [C:high] [S:file "OUTLIER SIGNALS by Jiggy"]
+Step 5: produce an original adjacent concept; outperform packaging; match or exceed depth; optimize metadata. [C:high] [S:file "OUTLIER SIGNALS by Jiggy"]
+Step 6: identify internal outliers by comparing the last 90 days of top videos to the channel average; a video at 2x or more average is defined as an internal outlier. [C:high] [S:file "OUTLIER SIGNALS by Jiggy"]
+Output: a validated content blueprint, not a copied title/thumbnail. [C:high] [S:file "OUTLIER SIGNALS by Jiggy"]
+system:faceless-production-board
+type: system
+status: active
+vault: 50-systems
+updated: 2026
+
+Tool: Trello is preferred over Notion because thumbnail previews are visible on cards. [C:high] [S:file "Channel Intelligence Prompts"]
+Stages, in order: Ideas/Sources → Thumbnail → Scripting → Voiceover → Editing → Done/Approved. [C:high] [S:file "Channel Intelligence Prompts"]
+Input at Ideas/Sources: candidate title plus links to validating outliers and competitor references. [C:high] [S:file "Channel Intelligence Prompts"]
+Thumbnail stage: attach the thumbnail/reference so the board visually reveals packaging patterns. [C:high] [S:file "Channel Intelligence Prompts"]
+Scripting stage: attach script link, revise it, and add a “revised script” reference. [C:high] [S:file "Channel Intelligence Prompts"]
+Voiceover stage: attach a shareable voiceover link only after the script has been sent and the work is in progress. [C:high] [S:file "Channel Intelligence Prompts"]
+Editing stage: editor assembles the video; owner may conduct early rounds of polishing/revision to teach the standard. [C:high] [S:file "Channel Intelligence Prompts"]
+Output: approved upload plus a growing set of card-level SOPs, including thumbnail rules, script rules, music links, and editing rules based on what worked. [C:high] [S:file "Channel Intelligence Prompts"]
+system:freelancer-hiring
+type: system
+status: active
+vault: 50-systems
+updated: 2026
+
+Roles: scriptwriter, voiceover artist, thumbnail designer, and editor. [C:high] [S:file "Channel Intelligence Prompts"]
+Candidate requirements: niche/sister-niche evidence, YouTube links in portfolio, preferably two or more videos reaching 500,000+ or one million views, at least $1,000 earned on Upwork, and a job-success score above 90%. [C:high] [S:file "Channel Intelligence Prompts"]
+Test process: give candidates script, voiceover, thumbnail, and source resources; request the first minute as a test, sometimes unpaid; paid test is discretionary but should not be full rate. [C:high] [S:file "Channel Intelligence Prompts"]
+Job-post screening: include an attention instruction such as “type your favorite animal” and require portfolio links; warn against unverifiable NDA-only portfolio claims. [C:high] [S:file "Channel Intelligence Prompts"]
+Budget heuristic named in the training: editors at roughly $3–$5/minute; scriptwriters $20/script; thumbnails $10–$15 each; voiceover $20–$30, subject to niche/video length. [C:high] [S:file "Channel Intelligence Prompts"]
+Production volume gate: target 3–4 uploads/month before taking on a full hiring operation. [C:high] [S:file "Channel Intelligence Prompts"]
+system:script-revision-with-ai
+type: system
+status: active
+vault: 50-systems
+updated: 2026
+
+Input: script outline, draft script, prior channel/video references, revision checklist, and web search enabled. [C:high] [S:file "Channel Intelligence Prompts"]
+Step 1: ask AI to research and verify factual claims with sources. [C:high] [S:file "Channel Intelligence Prompts"]
+Step 2: ask for individual revision notes identifying what to improve and why, with focus on the most critical changes. [C:high] [S:file "Channel Intelligence Prompts"]
+Step 3: include an end-screen bridge directing viewers to a related video; explicit preferred wording includes “Click here.” [C:high] [S:file "Channel Intelligence Prompts"]
+Step 4: add a mid-video like CTA and an end/late-video subscribe CTA only after value has been delivered; avoid early CTAs. [C:high] [S:file "Channel Intelligence Prompts"]
+Step 5: compare original and revised sections with explanations; add recurring discovered mistakes to the standing checklist. [C:high] [S:file "Channel Intelligence Prompts"]
+Output: fact-checked, revised script with stronger session-time flow and reusable revision instructions. [C:high] [S:file "Channel Intelligence Prompts"]
+system:channel-intelligence-prompts
+type: system
+status: active
+vault: 50-systems
+updated: 2026
+
+Prompt 01: Niche Finder searches faceless channels under 90 days, 1M+ monthly views, monetized, sustained across 10 uploads, and fewer than 10 channels above 100K subscribers in the exact format. [C:high] [S:file "Channel Intelligence Prompts"]
+Prompt 02: Script DNA Extractor pulls top-three outliers and transcripts, then maps hook, payoffs, open loops, transitions, voice, and CTAs into a fill-in-the-blank format. [C:high] [S:file "Channel Intelligence Prompts"]
+Prompt 03: Comment-Mined Ideas uses top-liked comments from own and competitor outliers to produce 10 evidence-backed ideas and five-point outlines. [C:high] [S:file "Channel Intelligence Prompts"]
+Prompt 04: Outlier Replication Map compares top-three outliers against median videos and proposes five follow-ups. [C:high] [S:file "Channel Intelligence Prompts"]
+Prompt 05: Content Gap Map compares the creator’s topic inventory against nine competitor outliers and classifies direct, angle, and dead gaps. [C:high] [S:file "Channel Intelligence Prompts"]
+Prompt 06: Underperformer Autopsy identifies videos below 0.4x median views in the first 14 days, then classifies a primary failure cause in priority order: topic, angle, package, length, upload slot. [C:high] [S:file "Channel Intelligence Prompts"]
+Required operating note: always paste the full channel URL, use time windows in days, and force the model to redo skipped/thin output. [C:high] [S:file "Channel Intelligence Prompts"]
+6. DECISIONS (vault: 70-decisions)
+decision:pivot-from-client-editing-to-channel-ownership
+type: decision
+status: chosen
+vault: 70-decisions
+updated: 2025
+
+Chosen: move away from video editing as the primary business model and operate faceless YouTube channels. [C:high] [S:file "I Quit Video Editing for Faceless YouTube (1 Year Update)"; S:file "I Quit Editing To Become A YouTube Strategist... Here's Why"]
+Rejected: relying on daily client editing to reach and sustain $10,000/month. [C:high] [S:file "I Quit Editing To Become A YouTube Strategist... Here's Why"]
+Stated reason: $10,000/month in editing was perceived to require roughly $350/day and continuous labor while creating no owned asset. [C:high] [S:file "I Quit Video Editing To Become A YouTube Strategist... Here's Why"]
+Date: “a year ago” relative to the video source; exact calendar date is NOT_AVAILABLE. [C:low] [S:file "I Quit Editing for Faceless YouTube (1 Year Update)"]
+decision:use-niche-and-outlier-research-over-creative-guessing
+type: decision
+status: chosen
+vault: 70-decisions
+updated: 2026
+
+Chosen: base channel and video selection on evidence from small/new channel performance, outliers, competitor patterns, search demand, and monetization pathways. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"; S:file "OUTLIER SIGNALS by Jiggy"]
+Rejected: choosing topics solely from personal intuition, passion, trends, or audience requests without market validation. [C:high] [S:file "OUTLIER SIGNALS by Jiggy"; S:file "YouTube Niche Framework - From $400 to $2,000/Month"]
+Stated reason: prior results improved after changing the niche/vehicle rather than simply working harder or editing better. [C:high] [S:file "How I Went From $400 to $2,000/Month"; S:file "The Editor's Edge"]
+decision:delegate-low-leverage-production
+type: decision
+status: chosen
+vault: 70-decisions
+updated: 2026
+
+Chosen: retain the owner-level work—niche, hook, pacing pass, thumbnail call, and quality standard—while delegating scripting, voice, assembly/editing, and production components where possible. [C:high] [S:file "The Editor's Edge"]
+Rejected: personally editing every video end to end. [C:high] [S:file "The Editor's Edge"]
+Stated reason: directing the high-leverage 20% is more valuable than spending 20–40 hours completing every production task. [C:high] [S:file "The Editor's Edge"]
+decision:avoid-high-risk-faceless-formats
+type: decision
+status: chosen
+vault: 70-decisions
+updated: 2026
+
+Rejected/avoid: politics, AI-generated visual-content channels, clip/reaction channels, broad tech/AI news, and oversaturated product-review formats. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"]
+Stated reason: suppressed or volatile reach, inauthentic-content enforcement, copyright/licensing risk, weak evergreen value, and entrenched competition. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"]
+Related failure trigger: an AI stories project was hit by inauthentic-content enforcement. [C:high] [S:file "I Made $19,260 with AI YouTube in 6 Months (Then YouTube Banned Us)"]
+decision:do-not-move-or-reupload-channel-videos
+type: decision
+status: chosen
+vault: 70-decisions
+updated: 2025
+
+Chosen: publish once and leave videos/channels alone rather than moving uploads between channels. [C:high] [S:file "I've never shared this publicly, but this was one of my biggest failures."]
+Rejected: unlisting videos on one channel and reposting them to a monetized channel. [C:high] [S:file "I've never shared this publicly, but this was one of my biggest failures."]
+Stated reason: it confused audience matching, reduced affiliate sales, and was believed to destroy trust/momentum on the original channel. [C:high] [S:file "I've never shared this publicly, but this was one of my biggest failures."]
+7. METRICS AND BASELINES (vault: 80-metrics)
+metric:channel-portfolio-snapshot
+type: metric
+status: historical
+vault: 80-metrics
+updated: 2026
+
+Channels operated: 5 across distinct niches. [C:high] [S:file "Faceless YouTube Track Record — Snapshot"]
+Niches listed: explainer, AI stories, gaming, affiliate product reviews. [C:high] [S:file "Faceless YouTube Track Record — Snapshot"]
+Highest documented view count: 1.3 million views. [C:high] [S:file "Faceless YouTube Track Record — Snapshot"]
+Best documented single-video revenue: $5,000. [C:high] [S:file "Faceless YouTube Track Record — Snapshot"]
+Best documented outlier: 66x above channel average. [C:high] [S:file "Faceless YouTube Track Record — Snapshot"]
+Explainer channel subscribers: over 110,000. [C:high] [S:file "Faceless YouTube Track Record — Snapshot"]
+Staleness: exact month/date of this snapshot is NOT_AVAILABLE. [C:high] [S:memory]
+metric:revenue-snapshot
+type: metric
+status: historical
+vault: 80-metrics
+updated: 2026
+
+Revenue “last month”: $7,000, split as $6,000 main channel and $1,000 Spanish channel. [C:high] [S:file "Faceless YouTube Track Record — Snapshot"]
+Separate one-channel, 28-day screenshot: $7,151.87 estimated revenue, 1.5 million views, 122.2K watch hours, and 13.9K subscribers gained. [C:high] [S:file "The Editor's Edge"]
+Separate stated workload attached to that result: 1–2 hours per video to shepherd, versus 20–40 hours to edit end to end. [C:high] [S:file "The Editor's Edge"]
+Separate claim: “Last month I made over $7,000 working 5 hours a week.” [C:high] [S:file "The Editor's Endgame"]
+Staleness: all revenue claims are historical/undated within supplied material; do not treat as current without verification. [C:high] [S:memory]
+metric:400-to-2000-pivot
+type: metric
+status: historical
+vault: 80-metrics
+updated: 2025
+
+Previous channel result: $400/month after six months in the wrong niche. [C:high] [S:file "How I Went From $400 to $2,000/Month"; S:file "I Quit Editing To Become A YouTube Strategist... Here's Why"]
+Pivot result: $2,000 in the first month/within 30 days after changing niche/approach with a partner. [C:high] [S:file "How I Went From $400 to $2,000/Month"; S:file "The Editor's Edge"]
+Later partner-channel monthly sequence: month 1 $2,000; month 2 $3,700; month 3 $3,900. [C:high] [S:file "Most editors will edit forever."]
+Six-month result for that channel: over $20,000 generated. [C:high] [S:file "Most editors will edit forever."]
+metric:evergreen-affiliate-channel
+type: metric
+status: historical
+vault: 80-metrics
+updated: 2025
+
+Initial monthly progression: January $15, February $30, March $100, April $169, June $400. [C:high] [S:file "Jiggy Charles email thread with Skye"]
+After stopping uploads in June, the channel made over $700 in September. [C:high] [S:file "Jiggy Charles email thread with Skye"]
+Separate published case-study figure: $714.14/month passive income. [C:high] [S:file "How I Make $714.14/month Passive Income with Faceless YouTube Videos"]
+metric:main-youtube-channel
+type: metric
+status: snapshot
+vault: 80-metrics
+updated: 2026
+
+Channel: Jiggy (@JiggypuffFridays). [C:high] [S:file "Jiggy (@JiggypuffFridays)"]
+Current reported latest-video views include: “I Made $19,260 with AI YouTube in 6 Months (Then YouTube Banned Us)” 1.6K; “I Quit Video Editing for Faceless YouTube (1 Year Update)” 1.1K; “How to Find Profitable Faceless YouTube Niches in 2026” 877. [C:high] [S:file "Jiggy (@JiggypuffFridays)"]
+Highest listed historical video: “The Editing Goldmine You’re MISSING” at 561K views. [C:high] [S:file "Jiggy (@JiggypuffFridays)"]
+Other documented historical outliers: “FREE YouTube Subscribe + Bell Animation” 214.3K views/34.0x above average; “FREE MEME PACK” 55.8K/7.3x; “Make Premiere Pro ANIMATED Subtitles FAST” 39.3K/7.2x; “What I Learned Editing For Trick2G” 39.2K/6.1x. [C:high] [S:file "Jiggy (@JiggypuffFridays)"]
+Exact subscriber count of this personal channel: NOT_AVAILABLE. [C:high] [S:memory]
+metric:email-list-migration
+type: metric
+status: historical
+vault: 80-metrics
+updated: 2026-07-06
+
+Historical audience asset: 70K+ email list, largely attributed to a free YouTube subscribe-animation video. [C:high] [S:file "Marvens' Success Protocol Document"]
+Kit migration count: 5 email subscribers as of 2025-11-01; 40 as of 2026-07-06. [C:high] [S:file "Marvens' Success Protocol Document"]
+Conflict/risk: source does not clarify whether the 70K+ figure and 40 Kit subscribers represent different systems, total versus migrated subscribers, or an inaccurate historical note. [C:high] [S:file "Marvens' Success Protocol Document"]
+8. VOICE AND OUTPUT PREFERENCES (vault: 90-voice)
+system:jiggy-voice
+type: system
+status: active
+vault: 90-voice
+updated: 2026
+
+Core tone: direct, teacherly, conversational, evidence-led, lightly confrontational toward bad strategy, warm toward the viewer. [C:high] [S:file "The Editor's Edge"; S:file "I Quit Editing To Become A YouTube Strategist... Here's Why"]
+Preferred rhetorical order: personal failure/observation → broader lesson → concrete number or proof → practical action. [C:high] [S:file "The Editor's Edge"; S:file "How I Went From $400 to $2,000/Month"]
+Preferred communication value: systems, leverage, ownership, market research, audience psychology, and specific evidence over “grind harder” advice. [C:high] [S:file "The Editor's Edge"; S:file "OUTLIER SIGNALS by Jiggy"]
+Formatting style: short punchy fragments, hard line breaks, arrow bullets, regular bullets, bolded opening claim, and a punchy closing line. [C:high] [S:file "Your Bad Habits Are Ruining Your Editing"; S:file "Video Editors Should Do THIS Before It's Too Late"]
+Emoji rule: minimal and functional; not decorative. [C:med] [S:file "The Editor's Edge"; S:file "Video Editors Should Do THIS Before It's Too Late"]
+Hedges tolerated: low. He often gives clear verdicts and uses direct phrases such as “don’t guess,” “keep looking,” and “this is fixable.” [C:high] [S:file "OUTLIER SIGNALS by Jiggy"; S:file "YottomBottoms reply"]
+Verbatim sample 1: “Same effort. Different vehicle. Completely different results.” [C:high] [S:file "Jiggy Charles email thread with Skye"]
+Verbatim sample 2: “You’re not quitting editing. You’re aiming it at something you own.” [C:high] [S:file "The Editor's Edge"]
+Verbatim sample 3: “YouTube already ran the test. Your job is to see the results and execute smarter.” [C:high] [S:file "OUTLIER SIGNALS by Jiggy"]
+9. OPEN LOOPS (vault: 99-open-loops)
+loop:explainer-tech-channel-launch
+type: loop
+status: open
+vault: 99-open-loops
+updated: 2025
+
+Open since: prior success-protocol document. [C:high] [S:file "Marvens' Success Protocol Document"]
+Waiting on: [[person:marvens-dorcelian]]; execution/status confirmation. [C:med] [S:file "Marvens' Success Protocol Document"]
+Open question: was the explainer tech channel launched, what is its URL, and what metrics/status does it have? [C:high] [S:memory]
+loop:skye-three-week-test
+type: loop
+status: open
+vault: 99-open-loops
+updated: 2025-10-27
+
+Open since: 2025-10-27. [C:high] [S:file "Jiggy Charles email thread with Skye"]
+Waiting on: [[person:skye]]. [C:high] [S:file "Jiggy Charles email thread with Skye"]
+Promise/context: Skye said they would test short-form reaction compilations with tighter intros and collect findings over three weeks; no follow-up is retained. [C:high] [S:file "Jiggy Charles email thread with Skye"]
+loop:star-framework-promise
+type: loop
+status: open
+vault: 99-open-loops
+updated: undated
+
+Open since: date NOT_AVAILABLE. [C:high] [S:file "Star Juneau reply"]
+Waiting on: [[person:marvens-dorcelian]]. [C:high] [S:file "Star Juneau reply"]
+Promise: send Star a framework for profitable niches and generating video ideas “when it’s ready.” No fulfillment evidence is retained. [C:high] [S:file "Star Juneau reply"]
+loop:yottom-framework-promise
+type: loop
+status: open
+vault: 99-open-loops
+updated: undated
+
+Open since: date NOT_AVAILABLE. [C:high] [S:file "YottomBottoms reply"]
+Waiting on: [[person:marvens-dorcelian]]. [C:high] [S:file "YottomBottoms reply"]
+Promise: send a niche/video-format framework when ready; fulfillment evidence is NOT_AVAILABLE. [C:high] [S:file "YottomBottoms reply"]
+10. FAILURE LOG (vault: 70-decisions)
+failure:wrong-niche-six-month-grind
+type: failure
+status: documented
+vault: 70-decisions
+updated: 2025
+
+What failed: six months of consistent YouTube work in a niche that peaked around $400/month and did not break through. [C:high] [S:file "How I Went From $400 to $2,000/Month"; S:file "Jiggy Charles email thread with Skye"]
+Diagnosed reason: wrong niche/vehicle, not consistency or editing effort. [C:high] [S:file "How I Went From $400 to $2,000/Month"]
+Corrective action: niche pivot based on research; first month after pivot reached $2,000. [C:high] [S:file "How I Went From $400 to $2,000/Month"]
+failure:unlist-and-reupload-migration
+type: failure
+status: documented
+vault: 70-decisions
+updated: 2025
+
+What failed: unlisted all videos on a growing search-based affiliate channel and reposted them on a monetized channel. [C:high] [S:file "I've never shared this publicly, but this was one of my biggest failures."]
+Diagnosed reason: different audience, confused algorithmic distribution, reduced affiliate sales, lost browse impressions, weaker search performance, and a perceived loss of channel trust/momentum. [C:high] [S:file "I've never shared this publicly, but this was one of my biggest failures."]
+Corrective action: made videos on the monetized channel private and restored originals; lasting recovery was incomplete. [C:high] [S:file "I've never shared this publicly, but this was one of my biggest failures."]
+Permanent lesson: “Post it once and leave it alone.” [C:high] [S:file "I've never shared this publicly, but this was one of my biggest failures."]
+failure:ai-stories-inauthentic-content-enforcement
+type: failure
+status: documented
+vault: 70-decisions
+updated: 2026
+
+What failed: AI YouTube stories project that made $19,260 over six months. [C:high] [S:file "I Made $19,260 with AI YouTube in 6 Months (Then YouTube Banned Us)"]
+Diagnosed reason: YouTube inauthentic-content enforcement; exact enforcement mechanics and account outcome are NOT_AVAILABLE beyond the source title. [C:high] [S:file "I Made $19,260 with AI YouTube in 6 Months (Then YouTube Banned Us)"]
+Corrective implication: AI-generated visual content is listed among niches to avoid because of saturation and inauthentic-content-policy risk. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"]
+failure:personal-editing-channel-scale-ceiling
+type: failure
+status: documented
+vault: 70-decisions
+updated: undated
+
+What failed: personal editing-tutorial channel grew to 30,000 subscribers but could not be scaled beyond one major breakthrough/outlier. [C:high] [S:file "The Editor's Edge"; S:file "Jiggy (@JiggypuffFridays)"]
+Diagnosed reason: strategy, monetization, ideation, and niche understanding were weaker than editing ability. [C:high] [S:file "I Quit Editing To Become A YouTube Strategist... Here's Why"; S:file "The Editor's Edge"]
+Corrective action: shift attention toward research, ideation, intent, and operating owned channels. [C:high] [S:file "I Quit Editing To Become A YouTube Strategist... Here's Why"]
+failure:league-of-legends-creator-path
+type: failure
+status: documented
+vault: 70-decisions
+updated: undated
+
+What failed: personal League of Legends content did not reach desired scale despite editing effort and consistency. [C:high] [S:file "I Quit Editing To Become A YouTube Strategist... Here's Why"; S:file "BlueFireDudester reply"]
+Diagnosed reason: wrong vehicle/saturated competitive landscape; top competitors had elite gameplay or major entertainment/production advantages. [C:high] [S:file "BlueFireDudester reply"]
+Corrective action: used editing work to build skill, then pivoted toward YouTube strategy and faceless-channel operations. [C:high] [S:file "I Quit Editing To Become A YouTube Strategist... Here's Why"]
+11. ASSET AND EXPORT MANIFEST (vault: 60-assets)
+asset:knowledge-base-documents
+type: asset
+status: available-in-current-context
+vault: 60-assets
+updated: 2026
+
+Contents: product guides, course transcripts, emails, audience replies, frameworks, landing-page captures, YouTube transcripts, channel snapshot, mindmap, and image-description records supplied in the current knowledge base. [C:high] [S:memory]
+Export path/method: copy/export the source records from the host knowledge-base system; no direct file-system path or bulk-export tool was exposed in this session. [C:high] [S:memory]
+Output formats observed: text/markdown, transcript text, web-scrape text, structured YouTube channel snapshot, mindmap outline, and image description. [C:high] [S:memory]
+asset:jiggy-youtube-channel-snapshot
+type: asset
+status: available-in-current-context
+vault: 60-assets
+updated: 2026
+
+Contents: latest 20 titles with views, most-popular 20 titles with views, and top outlier rankings/multipliers for Jiggy (@JiggypuffFridays). [C:high] [S:file "Jiggy (@JiggypuffFridays)"]
+Export path/method: source record can be copied as structured text; direct YouTube Studio export is NOT_AVAILABLE in this session. [C:high] [S:memory]
+asset:product-and-funnel-copy
+type: asset
+status: available-in-current-context
+vault: 60-assets
+updated: 2026
+
+Contents: full/partial copy for The Editor’s Edge, The Editor’s Endgame, Outlier Signals, YouTube Metadata Generator, Niche Framework landing pages, and email/funnel messages. [C:high] [S:file "The Editor's Edge"; S:file "The Editor's Endgame"; S:file "Tutorial ($19) YouTube Metadata Generator"; S:file "YouTube Niche Framework - From $400 to $2,000/Month"]
+Export path/method: copy from source knowledge-base records; original editable Gumroad/Kit documents are not directly accessible here. [C:high] [S:memory]
+asset:credentials-and-connected-accounts
+type: asset
+status: NOT_AVAILABLE
+vault: 60-assets
+updated: 2026
+
+No passwords, tokens, API keys, recovery phrases, financial credentials, or authenticated account exports were exposed in this session. [C:high] [S:memory]
+Publicly named platforms used in the business include YouTube, Gumroad, Kit, Trello, Upwork, NexLev, 1of10, Claude, Poppy AI, ElevenLabs, Premiere Pro, and affiliate programs; credential locations are NOT_AVAILABLE. [C:high] [S:file "Tutorial ($19) YouTube Metadata Generator"; S:file "Channel Intelligence Prompts"]
+12. CHANNEL OPERATOR BLOCK (vault: 30-projects)
+project:jiggypufffridays
+type: project
+status: active
+vault: 30-projects
+updated: 2026
+
+Channel identity: Jiggy (@JiggypuffFridays), serving editors and creators with editing tutorials, YouTube strategy, faceless-channel case studies, software/tool content, and career-transition content. [C:high] [S:file "Jiggy (@JiggypuffFridays)"]
+Strongest documented title/format pattern: editor-facing utility/asset/tutorial content. “FREE YouTube Subscribe + Bell Animation | MOGRT Download | No Copyright” reached 214.3K views and 34.0x above average; “FREE MEME PACK | 700+ SFX, Overlays & More!” reached 55.8K and 7.3x. [C:high] [S:file "Jiggy (@JiggypuffFridays)"]
+Strongest documented broad emotional/strategic title: “The Editing Goldmine You’re MISSING” reached 561.9K views and 28.9x above average. [C:high] [S:file "Jiggy (@JiggypuffFridays)"]
+Strong documented tutorial format: “Make Premiere Pro ANIMATED Subtitles FAST” reached 39.3K/7.2x; “Premiere Pro Audio Memes Tutorial 2021” reached 40.9K/6.4x; “Pro Editor Ranks BEST Editing Programs” reached 31.5K/4.4x. [C:high] [S:file "Jiggy (@JiggypuffFridays)"]
+Recent strategy/case-study videos underperformed historical editing-tool outliers in the available snapshot: “How to Find Profitable Faceless YouTube Niches in 2026” 877 views/1.9x; “I Quit Video Editing for Faceless YouTube (1 Year Update)” 1.1K/2.4x; “I Made $19,260 with AI YouTube in 6 Months” 1.6K/3.6x. [C:high] [S:file "Jiggy (@JiggypuffFridays)"]
+Title rules: front-load clear topic/benefit, remain under 55 characters where possible, trigger curiosity/desire/fear, and accurately deliver on the promise. [C:high] [S:file "The Ultimate YouTube Title Writing Framework"]
+Thumbnail rules: clear focal point, high contrast, strong emotion where applicable, 2–3 words maximum, no clutter, no tiny text, and no important element in the bottom-right timestamp area. [C:high] [S:file "Ultimate YouTube Thumbnail Creation Framework"]
+Intro rule: create title and thumbnail first; first spoken line should match the title, first visual should match the thumbnail, and the hook should establish credibility, curiosity, stakes, and promised value in 20–30 seconds. [C:high] [S:file "Ultimate YouTube Video Intro Framework 2024"]
+Production pipeline: validated idea → thumbnail/reference → script → voiceover → editor assembly → Jiggy polish/revision → approval/upload → internal analytics/outlier analysis. [C:high] [S:file "Channel Intelligence Prompts"; S:file "OUTLIER SIGNALS by Jiggy"]
+Publishing cadence: channel-specific current cadence is NOT_AVAILABLE. Operational training target is 3–4 uploads/month for a faceless channel. [C:high] [S:file "Channel Intelligence Prompts"]
+Sponsorship terms/rates: NOT_AVAILABLE. [C:high] [S:memory]
+Monetization state: personal channel monetization status is NOT_AVAILABLE; business monetizes through digital products, affiliates, and owned channel revenue. [C:high] [S:file "Tutorial ($19) YouTube Metadata Generator"; S:file "The Editor's Endgame"]
+Brand-safety rules: do not promote copying exact competitor titles/thumbnails; model demand and create an original angle. Avoid politics, AI-generated visual content, clip/reaction channels, copyright-heavy media, breaking news, and misleading thumbnails/titles. [C:high] [S:file "OUTLIER SIGNALS by Jiggy"; S:file "How to Find Profitable Faceless YouTube Niches in 2026"; S:file "Ultimate YouTube Thumbnail Creation Framework"]
+Account-history rule: never unlist/reupload an established channel’s videos onto a different monetized channel as a shortcut. [C:high] [S:file "I've never shared this publicly, but this was one of my biggest failures."]
+13. CONFLICTS
+Editing-volume conflict: one source says “edited over 1,000 videos”; brand context says this later became “2,000+ videos.” [C:high] [S:file "The Editor's Edge"; S:memory]
+Active-channel-count conflict: a track-record snapshot says five channels operated; a separate protocol says two faceless channels at the time of writing. These may reflect different dates, but dates are not fully specified. [C:high] [S:file "Faceless YouTube Track Record — Snapshot"; S:file "Marvens' Success Protocol Document"]
+Revenue conflict: one snapshot reports $7,000 last month across two channels; another reports $7,151.87 in the last 28 days for one channel; a course page says over $7,000 last month working five hours/week. These may represent different periods/channels. [C:high] [S:file "Faceless YouTube Track Record — Snapshot"; S:file "The Editor's Edge"; S:file "The Editor's Endgame"]
+Subscriber-count scope conflict: personal editing/tutorial channel is described as reaching 30,000 subscribers; another snapshot reports over 110,000 subscribers in the explainer niche. These appear to be different channels but should not be merged without verification. [C:high] [S:file "The Editor's Edge"; S:file "Faceless YouTube Track Record — Snapshot"]
+AI-tool guidance conflict: Outlier Signals says “Avoid: ChatGPT” for ideation and recommends Claude; Channel Intelligence Prompts documents connecting NexLev MCP to both Claude and ChatGPT. This may be model/task-specific rather than a true contradiction. [C:high] [S:file "OUTLIER SIGNALS by Jiggy"; S:file "Channel Intelligence Prompts"]
+Faceless AI-content posture conflict: the niche framework says avoid AI-generated visual content because of inauthentic-content risk; other materials recommend AI for ideation, scripts, metadata, and workflow support. The distinction between AI-assisted production and AI-generated visual channels should be preserved. [C:high] [S:file "How to Find Profitable Faceless YouTube Niches in 2026"; S:file "Channel Intelligence Prompts"; S:file "Tutorial ($19) YouTube Metadata Generator"]
+14. INTERVIEW QUEUE
+What are your current active channels, their URLs, ownership splits, niches, languages, monetization states, and monthly revenue for the last 90 days? [C:high] [S:memory]
+What is your current monthly business revenue by source: AdSense, affiliate, products, sponsorships, services, and other? [C:high] [S:memory]
+Which projects are actively receiving time each week, and which are paused, abandoned, or quietly dead? [C:high] [S:memory]
+Who is currently on your team, what does each person own, what do they cost, and what is their performance/reliability level? [C:high] [S:memory]
+What exact entity structure, jurisdiction, tax setup, payment accounts, and contract templates govern Jiggy? [C:high] [S:memory]
+What is the current size and location of your email list across Gumroad, Kit, and any other systems, and what are the weekly conversion metrics? [C:high] [S:memory]
+What does your real weekly calendar look like, and is the 2–3-hour/day constraint still true? [C:high] [S:file "Marvens' Success Protocol Document"]
+What is the current status and outcome of the explainer tech channel, the Spanish channel, and the AI stories channel? [C:high] [S:file "Marvens' Success Protocol Document"; S:file "Faceless YouTube Track Record — Snapshot"]
+Which offers are currently for sale, what are their prices, traffic sources, conversion rates, refund rates, and last-30-day revenue? [C:high] [S:file "Tutorial ($19) YouTube Metadata Generator"; S:file "The Editor's Endgame"]
+What are the hard business, ethical, legal, and platform-risk boundaries an autonomous agent must never cross without your approval? [C:high] [S:memory]
+15. CONTEXT DEBT
+Current operating truth is missing: the retained context is rich in frameworks and historical proof but weak on live revenue, live channel performance, current priorities, and current team execution. [C:high] [S:memory]
+Financial operations are missing: no legal entity, payment processor ownership, budget, profit margin, tax obligations, contractor agreements, IP ownership, or approval limits are retained. [C:high] [S:memory]
+Team-management details are missing: no current names, access levels, rates, contracts, timezone coverage, backup freelancers, or performance history are retained. [C:high] [S:memory]
+Channel inventory is incomplete: “five channels” is documented, but the permanent knowledge base needs every channel URL, login/account ownership, status, language, monetization state, and operating objective. [C:high] [S:file "Faceless YouTube Track Record — Snapshot"]
+Audience/customer intelligence is incomplete: only scattered anecdotal customer replies are retained; no support inbox export, refund reasons, customer interviews, sales data, or cohort behavior is available. [C:high] [S:memory]
+Content-performance data is incomplete: only a limited personal-channel title/outlier snapshot exists; no CTR, retention, traffic-source, RPM, audience demographics, watch-time, or conversion data is retained for active channels. [C:high] [S:file "Jiggy (@JiggypuffFridays)"]
+Product operations are incomplete: offers are documented, but current pricing, checkout conversion, refund policy, affiliate commission terms, fulfillment workflow, and customer access/support process are NOT_AVAILABLE. [C:high] [S:memory]
+Agent authority is undefined: there is no documented approval matrix for publishing, spending, contractor hiring/firing, affiliate placement, customer communication, or account changes. [C:high] [S:memory]
+END OF HARVEST | tool: GPT-5.6 Terra | sections populated: 16/16 | self-assessed completeness: 88%

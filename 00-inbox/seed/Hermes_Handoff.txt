@@ -1,0 +1,521 @@
+n0rth_st4r
+APP
+ — 8:39 PM
+HANDOFF HEADER
+Tool: Hermes Agent / North
+Model: stepfun/step-3.7-flash:free via nous
+Coverage window: 2026-01-01 (WizofYT earliest post reference) to 2026-07-29
+Volume: ~10 sessions, 61 vault notes, ~10 message.txt dumps, Trello API, YouTube Data API
+Access: memory, files, terminal, web, trello, youtube-api
+Estimated completeness: 78%
+
+IDENTITY
+Legal/business name: Marvens Dorcelian [C:high] [S:memory]
+Contractor alias: Leonard Roselt [C:high] [S:memory]
+Discord handle: jiggypufffridays (display name) [C:high] [S:memory]
+Telegram ID: 8218066663, display name Marvens [C:high] [S:memory]
+Location: Bloomfield, NJ, USA [C:high] [S:memory]
+Timezone: EST [C:high] [S:memory]
+Does not drive, no license [C:high] [S:chat 2026-07-29]
+Boogie boarding interest, no formal surf ability [C:high] [S:chat 2026-07-29]
+Birthday: August 8 [C:high] [S:memory]
+Preferred output style: brief, no long multi-message dumps, single-message edited in place, no em-dashes in public/outward content [C:high] [S:memory]
+Async-only, no calls/meetings [C:high] [S:memory]
+Not a natural networker, prefers outreach done-for-him rather than cold networking [C:high] [S:memory]
+Natural networker: false [C:high] [S:memory]
+Has Discord Nitro [C:high] [S:memory]
+
+GOALS
+goal:100k-monthly-revenue
+type: goal
+status: active
+Target: $100k/month through YouTube automation [C:high] [S:memory]
+Deadline: NOT_AVAILABLE
+Current state: ~$3.5k/mo as of Jul 2026 (down from ~$7k Jun 2026) [C:high] [S:memory]
+Single blocker: EDITOR-CAPACITY on existing channels; GTA 6 channel is growth hedge/vehicle [C:high] [S:memory]
+Success measure: $100k/mo via YouTube automation + GTA channel [C:high] [S:memory]
+
+goal:gta6-launch-channel
+type: goal
+status: active
+Target: Launched documentary-style GTA channel timed to GTA 6 launch [C:high] [S:memory]
+Deadline: Nov 19, 2026 (GTA 6 launch) [C:high] [S:memory] (1/12)
+Current state: Brand locked (@AceKnowsAGuy), hero mascot in progress, CM search active, channel build pending [C:high] [S:memory]
+Single blocker: no CM hired yet [C:high] [S:memory]
+Success measure: channel live with consistent upload cadence before launch [C:high] [S:memory]
+
+goal:stay-organized
+type: goal
+status: active
+Target: Maintain organized system across life and business [C:high] [S:memory]
+Deadline: ongoing
+Current state: Obsidian vault at 61 notes, Hermes agent active as right-hand [C:high] [S:vault-index]
+Single blocker: NOT_AVAILABLE [C:low]
+
+PROJECTS
+project:gta-documentary-channel
+type: project
+status: active
+One-line purpose: New GTA 6 documentary explainer channel timed to Nov 19 2026 launch [C:high] [S:memory]
+Next action: hire CM, complete channel build (about/keywords/playlists) [C:high] [S:memory]
+Who owns it: Marvens; CM will own execution once hired [C:high] [S:Project-GTA-Documentary-Channel]
+Dependencies: CM hire, Vincent art delivery, channel build [C:high] [S:memory]
+Kill criteria: NOT_AVAILABLE [C:low]
+
+project:youtube-automation-business
+type: project
+status: active
+One-line purpose: Faceless YouTube automation operation with multiple channels and editor [C:high] [S:memory]
+Next action: scale explainerguy01 or deploy AceKnowsAGuy as hedge [C:high] [S:memory]
+Who owns it: Marvens [C:high] [S:memory]
+Dependencies: editor capacity, revenue recovery [C:high] [S:memory]
+Kill criteria: NOT_AVAILABLE [C:low]
+
+project:hermes-vault
+type: project
+status: active
+One-line purpose: Hermes Agent as personal knowledge base and operations agent [C:high] [S:memory]
+Next action: NOT_AVAILABLE [C:low]
+Who owns it: Marvens [C:high] [S:memory]
+
+project:videovault
+type: project
+status: dead
+One-line purpose: VideoVault [C:med] [S:vault-index]
+Next action: NOT_AVAILABLE [C:low]
+Who owns it: NOT_AVAILABLE
+Dependencies: NOT_AVAILABLE
+Kill criteria: NOT_AVAILABLE
+
+PEOPLE (2/12)
+person:joshua-galadima
+type: person
+status: active
+Relationship: editor on existing channels [C:high] [S:memory]
+Commercial terms: NOT_AVAILABLE [C:low]
+Comm channel: Discord [C:med]
+Current state: active [C:high]
+Last known interaction: ongoing [C:med]
+How they prefer to work: NOT_AVAILABLE [C:low]
+
+person:maryam
+type: person
+status: active
+Relationship: lead scriptwriter [C:high] [S:memory]
+Commercial terms: NOT_AVAILABLE
+Comm channel: Discord [C:med]
+Current state: active [C:high]
+
+person:franco
+type: person
+status: active
+Relationship: Spanish translator/subtitler [C:high] [S:memory]
+Commercial terms: NOT_AVAILABLE
+Comm channel: Discord [C:med]
+Current state: active [C:high]
+
+person:tyler
+type: person
+status: active
+Relationship: voiceover artist [C:high] [S:memory]
+Commercial terms: NOT_AVAILABLE
+Comm channel: Discord [C:med]
+Current state: active [C:high]
+
+person:izi
+type: person
+status: active
+Relationship: thumbnail designer [C:high] [S:memory]
+Commercial terms: NOT_AVAILABLE
+Comm channel: Discord [C:med]
+Current state: active [C:high]
+
+person:flame
+type: person
+status: passive
+Relationship: faceless-YouTube peer, past collaboration on RedSignalArchives [C:high] [S:memory]
+Commercial terms: own operation, cost concerns [C:high] [S:memory]
+Comm channel: Discord [C:med]
+Current state: no active outreach [C:high] [S:memory]
+Last known: Marvens decided not to contact for CM role despite past success [C:high] [S:memory]
+
+person:wannercashcow
+type: person
+status: active
+Relationship: group coaching advisor [C:high] [S:memory]
+Commercial terms: coaching retainer, NOT_AVAILABLE [C:low]
+Comm channel: Discord [C:med]
+Current state: Friday coach call scheduled in WannerCashCow's Discord, student-hosted [C:high] [S:memory]
+
+person:wizofyt-andrew
+type: person
+status: pending
+Relationship: potential consulting session [C:high] [S:memory] (3/12)
+What they do: faceless YouTube automation educator, 17.4K subs, 13 videos, claims $273K/mo Jun 2026 [C:high] [S:tool youtube-data]
+Commercial terms: session time TBD [C:med] [S:memory]
+Comm channel: NOT_AVAILABLE
+Current state: session to be scheduled [C:high] [S:memory]
+
+person:vincent-bekong
+type: person
+status: active
+Relationship: artist for Ace mascot [C:high] [S:memory]
+Commercial terms: Option A $510 (expressions), Option B $1090 (full) [C:high] [S:chat 2026-07-29]
+Comm channel: Discord [C:high]
+Current state: milestone 2 activated for $510 expressions sheet, awaiting delivery [C:high] [S:memory]
+
+person:alice
+type: person
+status: connection
+Relationship: platform team at Acme, co-leading Obsidian KB project [C:high] [S:memory]
+Commercial terms: NOT_AVAILABLE
+Comm channel: NOT_AVAILABLE
+Current state: connection [C:high]
+Last known: referenced in vault [C:high]
+
+person:abu-baker-s
+type: person
+status: rejected
+Relationship: Upwork CM candidate [C:high] [S:memory]
+Commercial terms: proposed $1,250/mo [C:high] [S:memory]
+Current state: rejected, ops-only, creative test failed [C:high] [S:memory]
+Rejection reason: all 3 GTA 6 angles failed ideation bot check, stated role was SEO/growth/analytics [C:high] [S:memory]
+
+person:aj-bascara
+type: person
+status: rejected
+Relationship: Discord CM candidate [C:high] [S:memory]
+Commercial terms: NOT_AVAILABLE
+Current state: rejected, India, no GTA proof on channel [C:high] [S:memory]
+
+person:damonovaah
+type: person
+status: rejected
+Relationship: Discord CM candidate via My Legacy Management [C:high] [S:memory]
+Commercial terms: NOT_AVAILABLE
+Current state: rejected, no GTA proof in delivered channels [C:high] [S:memory]
+
+person:trevor-pakistan
+type: person
+status: hold
+Relationship: Discord CM candidate [C:high] [S:memory]
+Commercial terms: NOT_AVAILABLE (4/12)
+Current state: borderline, Pakistan, Ice Station Zebras 4.8K subs, ops-focused, creative ownership unconfirmed [C:high] [S:memory]
+
+person:emanuele
+type: person
+status: pending
+Relationship: session host for hiring/team mgmt group session [C:high] [S:memory]
+Commercial terms: NOT_AVAILABLE
+Comm channel: NOT_AVAILABLE
+Current state: questions drafted, session date TBD [C:high] [S:memory]
+
+SYSTEMS AND SOPS
+sop:youtube-automation-pipeline
+type: sop
+status: active
+Input: topic from topic board or ideation bot [C:high] [S:memory]
+Steps: script -> VO -> edit -> thumbnail -> publish [C:high] [S:memory]
+Outputs: monetized YouTube video [C:high] [S:memory]
+Tools: hermes agent, ideationReportService.ts (user computer), discord, trello [C:high] [S:memory]
+Typical duration: NOT_AVAILABLE
+
+sop:cm-hiring-funnel
+type: sop
+status: active
+Input: CM applicants [C:high] [S:memory]
+Steps: breadcrumb check -> GTA proof -> viral proof -> creative/ops split screening -> Asia exception check -> Trello card [C:high] [S:memory]
+Outputs: one HOLD candidate or PASS [C:high] [S:memory]
+Tools: trello, discord, youtube api [C:high] [S:memory]
+Typical duration: NOT_AVAILABLE
+
+sop:ideation-composition-rules
+type: sop
+status: active
+Input: GTA topic [C:high] [S:memory]
+Steps: bot checks against stored thumbnail_read data + winning formula catalog [C:high] [S:memory]
+Outputs: pass/fail per angle + live version if fail [C:high] [S:memory]
+Tools: ideationReportService.ts on user computer (not accessible to Hermes) [C:high] [S:memory]
+Typical duration: NOT_AVAILABLE
+
+sop:mascot-brief-versioning
+type: sop
+status: reference
+Input: new artist brief [C:high] [S:memory]
+Steps: canonical description -> revision brief -> artist -> quote -> milestone [C:high] [S:memory]
+Outputs: approved asset sheets [C:high] [S:memory]
+Tools: trello, discord, payment [C:high] [S:memory]
+
+sop:youtube-audio-usage
+type: sop
+status: active (5/12)
+Input: audio need for upload [C:high] [S:memory]
+Steps: YouTube Audio Library first [C:high] [S:memory]
+Outputs: cleared audio file [C:high] [S:memory]
+Tools: YouTube Audio Library [C:high] [S:memory]
+Note: never use Rockstar/marketed music [C:high] [S:memory]
+
+sop:short-form-repackaging
+type: sop
+status: active
+Input: published long-form video [C:high] [S:memory]
+Steps: CM clips/parts across FB/TikTok/IG/Spotify [C:high] [S:memory]
+Outputs: short-form clips [C:high] [S:memory]
+Tools: NOT_AVAILABLE
+Owner: CM [C:high] [S:memory]
+
+DECISIONS
+decision:cm-first-hiring-model
+type: decision
+status: locked
+Chosen: hire single CM before any individual freelancers [C:high] [S:memory]
+Rejected: parallel editor/script/VO/thumbnail hires [C:high] [S:Project-GTA-Documentary-Channel]
+Reason: CM is force-multiplier, avoids coordinator bottleneck that blocked explainerchris scale [C:high] [S:memory]
+Date: 2026-07-26 [C:high]
+Trigger: coach WannerCashCow advice [C:high] [S:memory]
+
+decision:ace-brand-handles
+type: decision
+status: locked
+Chosen: @AceKnowsAGuy for IG/YT/X [C:high] [S:memory]
+Rejected: @ace.explainer (TikTok only, pending rename) [C:high] [S:memory]
+Date: 2026-07-26 [C:high]
+Reason: brand consistency [C:high]
+
+decision:ace-as-reaction-element
+type: decision
+status: locked
+Chosen: Ace offset 40-50% frame, reaction/framing element, not focal subject [C:high] [S:memory]
+Rejected: centered Ace, full-body hero [C:high] [S:memory]
+Date: 2026-07-26 [C:high]
+Reason: thumbnail data from DarkViperAU 6.9M, Dr Mod 2.6M/1.7M/1.4M [C:high] [S:memory]
+
+decision:ai-rule-exception-vidrush
+type: decision
+status: active
+Chosen: VidRush exception to fully-automated AI rejection [C:high] [S:memory]
+Rejected: applying hard no to VidRush [C:high] [S:memory]
+Date: 2026-07-29 [C:high]
+Reason: values coach WannerCashCow's opinion on VidRush specifically [C:high] [S:memory] (6/12)
+Trigger: coach recommendation; planned heavy use after Andrew session [C:high]
+
+decision:royalty-media-separation
+type: decision
+status: locked
+Chosen: new business LLC holds ONLY explainerchris, explainerchris ESP, and Ace [C:high] [S:Project-GTA-Documentary-Channel]
+Rejected: third channel on existing Royalty Media AdSense [C:high]
+Reason: avoid related-channel demonetization association; two existing channels share one AdSense [C:high]
+Date: 2026-07-26 [C:high]
+
+decision:discord-post-timing
+type: decision
+status: completed
+Chosen: publish 50k Discord CM post in #hiring [C:high] [S:memory]
+Rejected: hold until Upwork first [C:high]
+Date: 2026-07-29 [C:high]
+Trigger: public posts worked before (Flame found Marvens via past public post) [C:high]
+
+METRICS AND BASELINES
+metric:yt-revenue-monthly
+type: metric
+status: stale
+Jul 2026: ~$3.5k/mo [C:high] [S:memory]
+Jun 2026: ~$7k/mo [C:high] [S:memory]
+Drop: ~50% month over month [C:high] [S:memory]
+
+metric:gta-topic-board-size
+type: metric
+status: active
+Trello Ideas list: 12 topics [C:high] [S:Project-GTA-Documentary-Channel]
+
+metric:wizofyt-channel
+type: metric
+status: active
+17.4K subs, 13 videos, 463K views as of 2026-07-29 [C:high] [S:tool youtube-data]
+Latest video: $273k June breakdown (2026-07-25) [C:high] [S:tool youtube-data]
+
+metric:ice-station-zebras
+type: metric
+status: active
+4,800 subs, 49 videos, 2.96M views [C:high] [S:tool youtube-data]
+Top GTA video: "The Downfall of GTA Online" [C:high] [S:tool youtube-data]
+
+metric:neotastic
+type: metric
+status: verified
+140K to 415K subs in 18 months per candidate AJ Bascara [C:low] [S:chat 2026-07-29]
+Note: candidate-claimed, not tool-verified [C:low]
+
+metric:cm-budget-monthly
+type: metric
+status: active
+$1,250/mo total channel budget [C:high] [S:memory]
+
+metric:tiktok-rename-deadline
+type: metric
+status: active (7/12)
+30-day countdown from TikTok warning on 2026-07-29 [C:high] [S:memory]
+
+metric:vincent-milestone
+type: metric
+status: active
+$510 expressions sheet (Option A), milestone 2 activated [C:high] [S:memory]
+
+VOICE AND OUTPUT PREFERENCES
+Brief messages; hates long multi-message dumps [C:high] [S:memory]
+Single message, edited in place for status updates [C:high] [S:memory]
+No em-dashes in outward content (artist briefs, posts, public copy) [C:high] [S:memory]
+Em-dashes fine in private replies [C:high] [S:memory]
+Communication style: brief, no em-dashes outward [C:high] [S:memory]
+Wants agency + recommendation, not option lists [C:high] [S:memory]
+Asynchronous, no calls [C:high] [S:memory]
+"Some guy taking us out" risk: fully-automated operations rejected [C:high] [S:memory]
+
+Verbatim samples:
+"I do everything for a reason."
+"Some guy taking us out"
+"meh i dont want to talk to the offinetv guy after all lmao"
+
+OPEN LOOPS
+loop:aj-bascara-proof
+Date opened: 2026-07-29
+Waiting on: AJ to send channel link + exact role breakdown
+Owner: Marvens
+
+loop:vincent-delivery
+Date opened: 2026-07-29
+Waiting on: Vincent to deliver expressions sheet ($510 milestone active)
+Owner: Vincent
+
+loop:tiktok-rename
+Date opened: 2026-07-29
+Waiting on: 30-day TikTok warning window
+Owner: Marvens
+
+loop:wizofyt-session
+Date opened: NOT_AVAILABLE
+Waiting on: session time TBD
+Owner: Marvens + Andrew/WizofYT
+
+loop:upwork-post-deploy
+Date opened: NOT_AVAILABLE
+Waiting on: Discord monitor for 24-48 hours before deploying revised Upwork post
+Owner: Marvens
+
+loop:channel-build
+Date opened: NOT_AVAILABLE
+Waiting on: CM hire
+Owner: NOT_AVAILABLE
+
+loop:trevor-creative-ownership
+Date opened: 2026-07-29
+Waiting on: Trevor's response on creative vs ops role
+Owner: Trevor
+
+FAILURE LOG
+failure:abu-baker-s (8/12)
+What failed: CM candidate with 94% JSS, $10K+ earned, 1.6M GTA proof video [C:high] [S:memory]
+Diagnosed reason: demonstrated ops/SEO/growth/analytics only, lacked documentary creative ownership [C:high] [S:memory]
+Bot check: all 3 angles failed ideation bot (post-launch formats, not documentary) [C:high] [S:memory]
+Class: ops-only [C:high]
+
+failure:lance-a
+What failed: Upwork CM candidate [C:high] [S:memory]
+Diagnosed reason: wrong niche, political commentary not gaming [C:high] [S:memory]
+
+failure:muhammad-u
+What failed: Upwork CM candidate [C:high] [S:memory]
+Diagnosed reason: Asia-excluded, no GTA proof, failed breadcrumb, meeting-push [C:high] [S:memory]
+
+failure:damonovaah
+What failed: Discord CM candidate via My Legacy Management [C:high] [S:memory]
+Diagnosed reason: claimed GTA expertise, delivered channels were Minecraft/FNAF/Gorilla Tag, zero GTA [C:high] [S:memory]
+
+failure:aj-bascara
+What failed: Discord CM candidate [C:high] [S:memory]
+Diagnosed reason: India flagged, no GTA on channel, admits not sole decision-maker on best proof [C:high] [S:memory]
+
+failure:fls-advanced
+What failed: Faceless Success Advanced, $6K/3mo done-for-you service [C:high] [S:memory]
+Diagnosed reason: violates Marvens' AI rule (fully automated, aged accounts/proxies), too expensive, picks niche for you [C:high] [S:memory]
+
+failure:explainerchris-demonetization
+What failed: explainerchris YouTube channel demonetization [C:high] [S:memory]
+Diagnosed reason: related-channel flag or policy issue; led to Royalty Media separation rule [C:high] [S:memory]
+
+ASSET AND EXPORT MANIFEST
+Obsidian vault at /home/hermes/vault: 61 notes, exportable as markdown [C:high] [S:file vault-index]
+Hermes memory: lives in ~/.hermes/memory/, exportable [C:high] [S:memory]
+Trello board AceKnowsAGuy: board ID 6a5319cca50910796e314d4f, export via Trello API [C:high] [S:trello-api] (9/12)
+YouTube API key: exists in environment, NOT stored in vault [C:high]
+ideation bot: on user's computer, separate codebase/database, not accessible to Hermes [C:high] [S:memory]
+aceknowsaguy.com: live redirect to YouTube [C:high] [S:chat 2026-07-29]
+Discord: connected, home channel 1530986066125787268 [C:high] [S:memory]
+Telegram: connected, home channel 8218066663 [C:high] [S:memory]
+
+CHANNEL OPERATOR BLOCK
+channel:explainerchris
+type: channel
+status: active
+Platform: YouTube [C:high]
+Format: "Every X Explained" [C:high]
+AdSense: shared with explainerchrisESP on Royalty Media account [C:high]
+Editor: Joshua [C:high]
+Scriptwriter: Maryam [C:high]
+VO: Tyler [C:high]
+Spanish: Franco [C:high]
+Thumbnails: Izi [C:high]
+Audio: YouTube Audio Library [C:high]
+Short-form: repurpose clips to FB/TikTok/IG/Spotify [C:high]
+
+channel:aceknowsaguy
+type: channel
+status: pre-launch
+Platform: YouTube [C:high]
+Format: documentary-style GTA explainer [C:high]
+AdSense: separate from Royalty Media [C:high]
+Brand: AceKnowsAGuy [C:high]
+Mascot: orange beanie + Ace of Spades card + gold chain + black tank [C:high]
+Face/handles: IG+YT locked @AceKnowsAGuy, TikTok @ace.explainer pending rename (30-day warning), X reserved [C:high]
+Domain: aceknowsaguy.com redirect to YouTube [C:high]
+Arts: Vincent working on expressions sheet ($510 milestone) [C:high]
+CM: not hired [C:high]
+Content rules: never leaked GTA 6 footage, pre-release documentary framing only [C:high]
+Title/thumbnail formula: recognizable GTA character 40-60%, Ace reaction 40-50% offset, rim-lit edge, dark/menacing register, high contrast [C:high]
+
+channel:explainerguy01
+type: channel
+status: active
+Platform: YouTube [C:high]
+Status: demonetized via related @RedSignalArchives [C:high]
+Voice: NOT_AVAILABLE [C:low]
+
+channel:jiggypufffridays
+type: channel
+status: active
+Platform: YouTube [C:high]
+Voice: NOT_AVAILABLE [C:low]
+
+CONFLICTS (10/12)
+Conflict 1: Adobe WizofYT/Andrew session timing. Source says Fri 8 AM EST and separate from Friday coach call [C:high] [S:memory]. Prior session context mixed Andrew and WannerCashCow as same Friday event [C:med] [S:session_search]. Resolution needed: confirm Andrew session date/time independently.
+
+INTERVIEW QUEUE
+What's your exact monthly burn outside the GTA budget? [high gain]
+What are you willing to pay a CM base vs pure performance? [high gain]
+What happens if we miss the GTA 6 launch window? [high gain]
+What's your AdSense/legal structure across channels right now? [high gain]
+What's the actual editor capacity ceiling on existing channels? [high gain]
+What did the $7k-to-$3.5k drop come from? [high gain]
+What's the plan if TikTok handle expires unrenamed? [med gain]
+What's your stake in VideoVault / why is it dead? [med gain]
+What's your preferred load-level on Andrew: strategy or just VidRush workflow? [med gain]
+What's the actual timeline between Vincent delivery and first upload? [med gain]
+
+CONTEXT DEBT
+Royalty Media entity: referenced repeatedly but never explained in vault or memory. I do not know whether it is Marvens' company, a partner's company, or something else. This is load-bearing for channel separation rules.
+Emanuele session: date, host, platform all unknown; questions drafted but TBD.
+Andrew actual session date/time: never confirmed; Fri 8 AM EST mentioned once then retracted.
+VidRush specifics: not verified what it actually does or whether Marvens has access beyond the $100 trial. Coach says use it; Marvens hasn't used it yet.
+Trello candidate cards: I only have Trello IDs for the three current candidates; prior candidates Lance and Muhammad are mentioned in vault but I have not independently verified their Trello cards exist.
+explainerchris exact status: demonetized, but I do not know the mechanism or date.(11/12)
+END OF HARVEST | tool: hermes-agent | sections populated: 16/16 | self-assessed completeness: 78% (12/12)

@@ -1,0 +1,661 @@
+cat > /home/hermes/workspace/seed/ClaudeYTAIaudit.txt << 'YTAUDITEOF'
+# 0. HANDOFF HEADER
+
+tool: Claude Code (CLI) | model: claude-opus-5
+- Coverage window: 2025-11-17 (earliest video record I can read) -> 2026-07-30 01:15 UTC (latest DB write). Direct operator-statement records span 2026-05-04 -> 2026-07-24 (memory file dates).
+- Volume: 4 persisted memory files + 1 index; 2 project CLAUDE.md operating manuals (49KB + 15KB); 1 archived spec (36KB); 1 audience-intel doc; 1 live SQLite DB (2,911 videos / 7,405 comments / 131 keyword-bank terms / 18 ideation reports / 585 discovered videos); ~40 loose scripts + comment exports on disk; 4 sibling project directories.
+- Access: memory (read) / project files (read) / local SQLite app DB (read) / MCP tools present (Nexlev, Algrow, Google Drive, Gmail, Google Calendar). No prior chat transcript for this session -- this session began with this request. Everything below is from stored files, project instructions, and DB reads, not recalled conversation.
+- Nexlev personal-analytics tools (list_my_youtube_channels, get_my_*) returned ACCESS DENIED -- FREE plan, verified 2026-07-29. No YouTube Analytics (RPM, revenue, retention, traffic sources) is reachable through me.
+- Estimated completeness: ~85% of what I hold. The 15% gap is chat context from earlier sessions that was never written to memory and is not recoverable by me.
+
+# 1. IDENTITY (vault: 10-identity)
+
+### person:marvens
+type: person
+status: active
+vault: 10-identity
+updated: 2026-07-29
+- Operator/founder; goes by "Marvens" [C:high] [S:memory]
+- Business entity: Royalty Media Co LLC -- owner of the Explainer Chris channel/tooling [C:high] [S:memory]
+- Email: lroselt23@gmail.com [C:high] [S:tool env userEmail 2026-07-29]
+- Works on Windows 11 Home (10.0.26200), PowerShell primary shell; all projects under C:\Users\MarvensD\Desktop\YouTube Comment Checker\ [C:high] [S:tool env 2026-07-29]
+- Role in the content pipeline he designed: founder-level ideation via the tool (Idea -> Research -> Brief). A writer executes the briefs; researcher / asset-producer / editor are kept conceptually separate roles [C:high] [S:memory feedback_workflow_preferences]
+- Operating timezone: Eastern (a cron he specified is annotated "6am ET = 11:00 UTC") [C:med] [S:file YouTube Comment Checker/CLAUDE.md]
+- Non-negotiable -- evidence over inference: no model-invented statistics may ever reach the UI; every number must trace to a real API response [C:high] [S:file claude_code_ideator/CLAUDE.md, S:memory]
+- Non-negotiable -- honesty over polish: an unproven title word must show a visible amber "style choice, no data" pill rather than be quietly demoted to glue [C:high] [S:file claude_code_ideator/CLAUDE.md, S:memory]
+- Non-negotiable -- Shorts are never data (<180s excluded from all ideation evidence) [C:high] [S:memory]
+- Risk posture on tooling: reliability and quota-safety over speed -- stated explicitly when commissioning the compounding data engine [C:high] [S:memory 2026-07-24]
+- Refuses in content: clickbait lies, news-style headlines, speculation farming, low-effort AI content (GTA workspace title rules) [C:high] [S:tool sqlite workspaces.title_rules 2026-07-29]
+- Freeze rule he enforced: no structural tool rebuilds within 72h of a channel launch [C:high] [S:memory]
+- Legal name, address, phone, bank/payment entities: NOT_AVAILABLE
+- Stated working hours: NOT_AVAILABLE
+
+# 2. GOALS (vault: 20-goals)
+
+### goal:gta6-channel-launch
+type: goal
+vault: 20-goals
+updated: 2026-07-29
+- Launch "GTA 6 Explained" (workspace 2, documentary format) -- target launch ~2026-07-25 [C:high] [S:memory project_explainer_chris_whiteboard]
+- Current state as of 2026-07-29: workspace 2 live in the tool with full persona, 12 GTA competitor channels tracked (last scanned 2026-07-20/22), 6 GTA ideation reports generated (latest 2026-07-26), 0 own videos in DB for that workspace [C:high] [S:tool sqlite 2026-07-29]
+- Whether any GTA 6 video actually published: NOT_AVAILABLE
+- Blocker: NOT_AVAILABLE
+- Success measure: NOT_AVAILABLE
+
+### goal:million-view-path
+type: goal
+vault: 20-goals
+updated: 2026-07-24
+- Every produced idea must have a plausible, low-risk path to ~1,000,000 views [C:high] [S:memory]
+- Enforced as hard thresholds, not aspiration: proof video >=100,000 views (PROOF_FLOOR, server drops ideas below it); >=500,000 (STRONG_PROOF) gates a "High/Strong pick" confidence; competitor lane >=30,000 views (MIN_LANE_VIEWS) -- "4K/8K is NOT proof" [C:high] [S:memory, S:file claude_code_ideator/CLAUDE.md]
+- Operating cadence he stated: "Always looking for the best opportunities at the time, one video at a time" [C:high] [S:memory 2026-07-22]
+
+### goal:compounding-data-engine
+type: goal
+vault: 20-goals
+updated: 2026-07-24
+- Verbatim framing: "VERY important that our system reliably and efficiently gets better over time" -- the tool should spend spare YouTube quota every hour to keep finding more videos/niches/formats [C:high] [S:memory 2026-07-24]
+- Quantified as: hourly catalog_expansion scan, DAILY_SOFT_BUDGET 6,000 of 10,000 units, <=400 units/run, DISCOVER sub-budget 3,000 [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Current state 2026-07-29: 585 rows in discovered_videos, 131 terms in keyword_bank [C:high] [S:tool sqlite 2026-07-29]
+- Deadline / target size: NOT_AVAILABLE
+
+### goal:gta6-launch-runway
+type: goal
+vault: 20-goals
+updated: 2026-07-22
+- Fixed external date: GTA 6 launches 2026-11-19; pre-orders opened 2026-06-25 [C:high] [S:file docs/audience-intel-gta.md]
+- Phase plan he encoded: NOW = "everything we know" deep-dives / trailer breakdowns / predictions / nostalgia bridges -> LAUNCH WEEK = first impressions + beginner guides -> POST-LAUNCH EVERGREEN = money methods, guides, walkthroughs (most durable, per GTA 5's pattern) [C:high] [S:file docs/audience-intel-gta.md]
+
+# 3. PROJECTS (vault: 30-projects)
+
+### project:claude-code-ideator
+type: project
+status: active
+vault: 30-projects
+updated: 2026-07-29
+- Purpose: local-first competitive-intelligence + ideation whiteboard ("Explainer Chris Research Whiteboard") -- tracks competitors, detects outliers, mines comments, researches Trello cards, generates reports/ideas/outlines/briefs, manages bookmarks with AI chat [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Path: C:\Users\MarvensD\Desktop\YouTube Comment Checker\claude_code_ideator\; full build completed April 2026; multi-workspace added July 2026 [C:high] [S:memory]
+- Stack: React 18 + Vite + TS + Tailwind (dark navy) / Node Express + TS / SQLite better-sqlite3 WAL at server/data/explainer-chris.db / Anthropic SDK / YouTube Data API v3; Zustand, Recharts, @dnd-kit [C:high] [S:memory]
+- Run: npm run dev (both servers, :3001 + :5173), npm run db:init, npm run build, npm start [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Owner: Marvens, sole operator and sole developer-director [C:med] [S:memory]
+- Last activity: ideation report #20 generated 2026-07-29 17:46; CLAUDE.md last edited 2026-07-27 [C:high] [S:tool sqlite + fs 2026-07-29]
+- Next action: NOT_AVAILABLE
+- Kill criteria: NOT_AVAILABLE
+- Related: [[project:explainer-chris-channel]] [[project:gta6-explained]] [[system:ideation-report-pipeline]]
+
+### project:channel-comment-ranker
+type: project
+status: active (built, has run)
+vault: 30-projects
+updated: 2026-07-10
+- Purpose: self-refreshing S/A/B/C/D tier list of content requests mined from YouTube comments -- answers "What is my audience most asking me to make next?" Demand detection, not sentiment [C:high] [S:file YouTube Comment Checker/CLAUDE.md]
+- Path: C:\Users\MarvensD\Desktop\YouTube Comment Checker\channel_comment_ranker\; 5-stage pipeline COLLECT->MINE(Haiku)->CLUSTER->RANK(Sonnet)->RENDER; make refresh is the single command; Python 3.11 + vanilla HTML dashboard [C:high] [S:file YouTube Comment Checker/CLAUDE.md]
+- Evolved past the version in my loaded instructions: on-disk config.json is now a profile registry (many channels per profile, isolated DB each), not a single channel_url [C:high] [S:file channel_comment_ranker/config.json 2026-07-10]
+- Active profile: gta-explainers -- channels @KaiTheCriminal, @StickmanNiko, @ExplainerX_GTA [C:high] [S:file channel_comment_ranker/config.json]
+- Second profile: sabrinathetaurus -- https://www.youtube.com/@SabrinatheTaurus. This is the only reference I hold to a channel outside the tech/GTA brands and it is unexplained [C:high] [S:file channel_comment_ranker/config.json]
+- Both profiles have produced real output (comments.db + ideas.json + tierlist.json; gta-explainers 1.6MB, sabrinathetaurus 532KB, last written 2026-07-10) [C:high] [S:tool fs 2026-07-29]
+- Shared settings both profiles use: comments_per_video_cap 500, include_replies false, min_idea_confidence 0.6, tier_strategy "quantile", lookback_days_for_trend 30, languages "auto" [C:high] [S:file channel_comment_ranker/config.json]
+- Tier bucketing: S = top 8%, A = next 17%, B = 25%, C = 25%, D = remainder; score = request_count + 0.3*log1p(total_likes) + recency_boost -- frequency dominant by design [C:high] [S:file YouTube Comment Checker/CLAUDE.md]
+- Relationship to the whiteboard app: unclear whether this replaces, feeds, or duplicates it [C:low] -- flagged in section 13
+
+### project:explainer-clipper
+type: project
+status: dormant (last touched 2026-06-02/03)
+vault: 30-projects
+updated: 2026-06-03
+- "YouTube Clip Studio" -- Electron 31 + electron-vite + React 18 desktop app: download YouTube videos, manually clip sections, export per-platform captions for Facebook and TikTok [C:high] [S:file explainer_clipper/CLAUDE.md]
+- Spawns yt-dlp, ffmpeg, tesseract as child processes (no Python sidecar); better-sqlite3 needs Electron rebuild; library at %APPDATA%\youtube-clip-studio\library [C:high] [S:file explainer_clipper/CLAUDE.md]
+- Known incomplete: src/shared/description.ts -> buildDescription() is a PLACEHOLDER, "needs real formula" [C:high] [S:file explainer_clipper/CLAUDE.md]
+- Adapted from an original macOS spec to Windows [C:high] [S:file explainer_clipper/CLAUDE.md] -- implies an earlier Mac-oriented plan
+- explainer_clipper2/ exists as a parallel copy with an ffmpeg/ and sidecar/ dir, last touched 2026-06-03; which one is canonical: NOT_AVAILABLE [C:high] [S:tool fs]
+- Implies a repurposing workflow (long video -> clips -> FB/TikTok) that appears nowhere else in my context [C:med] [S:file explainer_clipper/CLAUDE.md]
+
+### project:thanos-scraper
+type: project
+status: dormant (last run 2026-04-02)
+vault: 30-projects
+updated: 2026-04-02
+- thanos.py -- "Multi-Channel YouTube Comment Scraper": scrapes all comments from all videos across a hardcoded CHANNELS list, outputs a CSV plus an AI-ready market gap analysis report [C:high] [S:file thanos.py]
+- Last output: market_gap_report_20260402_165559.md (65KB) + all_channel_comments_20260402_165559.csv (7.9MB) + a trimmed 259KB version via trim_fat.py [C:high] [S:tool fs]
+- Predates / stands outside the whiteboard app; the trimming step suggests the raw CSV was too big to paste into a model [C:med] [S:file trim_fat.py]
+
+### project:misc-scripts
+type: project
+status: dormant
+vault: 30-projects
+updated: 2026-06-16
+- comments.py (2026-03-11), comments_channel.py (2026-02-04), audio_cut.py (2026-01-21), YouTube Downloader.py (43KB, 2026-06-03), claude_code/ (app.js + index.html + style.css, 2026-03-30) [C:high] [S:tool fs]
+- Purpose of claude_code/ and audio_cut.py: NOT_AVAILABLE
+
+# 4. PEOPLE (vault: 40-people)
+
+- NOT_AVAILABLE -- this is the single largest hole in what I hold. I have no named collaborator, contractor, editor, writer, researcher, sponsor, agency, or client anywhere in memory or files.
+- The only person-shaped facts I hold:
+
+### person:the-writer
+type: person
+status: role only, unnamed
+vault: 40-people
+updated: 2026-07-22
+- A writer executes the research briefs Marvens generates; Marvens does not write the scripts himself [C:high] [S:memory project_explainer_chris_whiteboard]
+- Name, rate, channel, availability, contract: NOT_AVAILABLE
+- Roles researcher, asset-producer, editor are named as conceptually separate jobs, but I hold no evidence any are filled or by whom [C:high] [S:memory]
+- Feature built for this handoff: the GTA research output must SPLIT requirements into RESEARCHER items (facts, citations, trailer timestamps) vs PRODUCTION ASSETS (clips, screenshots, b-roll + where to get each) -- "never mix the two lists". Direct evidence of a real two-person handoff [C:high] [S:tool sqlite workspaces.persona_extra]
+- The VidRush prompt export and the thumbnail sketch prompt (paste-ready for Gemini/PoppyAI) exist because deliverables leave Marvens's hands as copy-paste text, not as files [C:med] [S:file claude_code_ideator/CLAUDE.md]
+
+# 5. SYSTEMS AND SOPS (vault: 50-systems)
+
+### system:daily-refresh-precondition
+type: system
+vault: 50-systems
+updated: 2026-05-04
+- Scan channels and refresh video stats BEFORE generating any report. Never generate from cached/stale DB state. Wire "Generate Report" to call scan/refresh first, await, then generate [C:high] [S:memory feedback_report_generation 2026-05-04]
+- Why he said it: reports built on stale data are inaccurate and he requires fresh data as a precondition [C:high] [S:memory]
+
+### system:ideation-report-pipeline
+type: system
+vault: 50-systems
+updated: 2026-07-29
+- The flagship surface (Analysis -> Ideation), modeled on his own reference HTML report "24 Net-New Ideas", which lives in ~/Downloads [C:high] [S:memory]
+- Ordered steps: (1) analyze own lanes (view multipliers) -- or, if <3 own videos, draw lanes from tracked competitor over-performers labeled "Proven in your niche"; (2) summarize top lane video transcripts (Haiku) to mine content gaps, not just titles; (3) Claude proposes candidates, each carrying a YouTube search query; (4) one real YouTube search per candidate (~100 quota units each); (5) batched channels.list for subs -> channel_multiplier = views/subs, outlier at >=2x; (6) pull ~30 top comments from each idea's strongest proof video (ranked views x log(comments)) for the "What the audience is saying" block + one server-verified approval comment; (7) format decision -- 2-3 competing packagings judged on real evidence; (8) one vision call reading the REAL top-3 proof thumbnails; (9) title anatomy + phrase-probe round (<=6 extra searches, PHRASE_PROBE_MAX); (10) mandatory server truth pass overwriting every stat by video_id and dropping tiles the API didn't return [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Duration: multi-minute, async, streamed over SSE with a 400-line replay buffer; one job per workspace [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Hard operational warning: editing anything under server/src restarts ts-node-dev and kills an in-flight report [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Ranking rule: opportunity_score = log10(best proof views) + weighted outlier strength + weighted lane strength. An outlier-backed 500K outranks a mega-channel's 5M-at-its-norm -- "the topic earned the views, not the channel" [C:high] [S:memory 2026-07-22]
+- Delivered < requested is normal, not a bug (accounting funnel is surfaced in an amber panel) [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### system:idea-mode-rule
+type: system
+vault: 50-systems
+updated: 2026-07-24
+- Every idea must be exactly one of two shapes: proven_rerun (run a title that already works -- near-identical wording is the POINT, a first-class output) or untapped_cross (proven format x a subject nobody crossed it with; the newness lives in the SUBJECT, not in invented phrasing) [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- The failure mode to avoid is the middle: a title that copies neither and proves nothing [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- "A straight re-make of a working title beats an invented title every time." His own phrasing on this: "sometimes we just copy LUL" [C:high] [S:memory 2026-07-23, S:file claude_code_ideator/CLAUDE.md]
+- Mix requirement: at most half of a report may be proven_rerun (a live run produced 5/6 re-runs, three at Dice 1.0 = identical titles) [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Target shape verbatim: every word proven somewhere in the evidence, no single existing title combining them. Reference example in the prompt: "What Happened to Vic Vance After Vice City Stories" [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Judge a title on support AND overlap together -- never support alone (copying verbatim scores 100% backed for free) [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### system:vidrush-script-prompt
+type: system
+vault: 50-systems
+updated: 2026-07-29
+- Turns one verified idea into a paste-ready VidRush.ai prompt per their documented format (docs.vidrush.ai/docs/prompt): "Title:" on line 1 (their thumbnail generator reads it), duration line, Style/Tone, exact hook block, numbered talking points [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- On demand per idea, never baked into report generation -- you only want a script prompt for ideas you're actually making; revision is one Claude call, zero YouTube quota [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Runtime comes from data: median of the proof videos' REAL duration_seconds; talking-point count follows VidRush's ~0.5-per-minute ratio [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Research pass: every talking point checked against competitor transcripts + live web research with verified citations; an unverified point is rewritten to frame the claim honestly ("what the community has pieced together...") and marked softened -- [UNCONFIRMED] markers may NEVER appear in the prompt because the text gets narrated [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Reading the badge: a 0/7 point-level ratio is normal (one unverified clause marks a whole compound sentence); judge by the ledger counts [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### system:scheduled-scans
+type: system
+vault: 50-systems
+updated: 2026-07-29
+- Nine cron jobs, all per-workspace, all with a UI "Run Now": channel_videos "0 */6 * * *"; video_stats "0 3 * * *"; outlier_recalc "0 4 * * *"; comment_scraping "0 0 * * 0" (top-20 outliers not harvested in 7d); trend_report "0 7 * * *"; weekly_report "0 8 * * 1"; db_maintenance "30 2 * * *" (global, workspace 1 only); catalog_expansion "15 * * * *"; trend_research "0 9 * * *" [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Composite outlier score: percentile-weighted view multiplier 35% / views-per-hour 25% / engagement 20% / comment+like volume 20%, outlier at >=85; triggers alert + auto comment harvest [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Velocity spike = a <48h video above the niche's p90 VPH [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Alert anti-spam rules he required: never alert on a channel's FIRST scan (backfill), only videos <72h old, auto-dismiss unread at 14 days [C:high] [S:memory]
+
+### system:quota-discipline
+type: system
+vault: 50-systems
+updated: 2026-07-29
+- YouTube daily quota 10,000 units, tracked in kv_store key youtube_quota, resets on UTC date change, global across workspaces (one API key) [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Cost table: channels.list 1, playlistItems.list 1/page, videos.list 1/call (<=50 ids), commentThreads.list 1/page, search.list 100 [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Rule: list channel uploads via the uploads playlist (UC... -> UU..., 1 unit), never search.list [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Never spend extra quota just to fetch an approval comment -- reuse comments already pulled [C:high] [S:memory]
+
+### system:claude-call-rules
+type: system
+vault: 50-systems
+updated: 2026-07-27
+- All Claude calls go through server/src/services/claudeService.ts; sole exception is routes/bookmarks.ts (vision chat) [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Never pass temperature -- sampling params are rejected HTTP 400 on Opus 4.7+ [C:high] [S:file claude_code_ideator/CLAUDE.md, S:memory]
+- Default model claude-opus-4-8; claude-sonnet-4-6 for Trello card scoring; Haiku for transcript summaries [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Responses cached 24h in ai_cache keyed SHA-256(system+user) -- pass useCache:false whenever the prompt embeds live data [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Retry built in: 3 attempts, exponential backoff, 65s wait on 429. Do not add another retry loop [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### system:db-safety
+type: system
+vault: 50-systems
+updated: 2026-07-27
+- Schema changes ONLY by appending to the migrations array in server/src/db/index.ts; never edit or reorder existing entries [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- NEVER "INSERT OR REPLACE" on channels or videos -- it wipes is_main and composite_score. This bug already happened once [C:high] [S:file claude_code_ideator/CLAUDE.md, S:memory]
+- sqlite3 CLI is not installed on this machine; I read the DB via the repo's own better-sqlite3 [C:high] [S:tool sqlite 2026-07-29]
+- Shorts exclusion predicate to copy verbatim everywhere: (duration_seconds IS NULL OR duration_seconds = 0 OR duration_seconds > 240) [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Persisted client stores holding workspace data must scope their name ...-ws{id} or a workspace switch rehydrates stale cross-workspace data (a real bug) [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### system:tierlist-pipeline
+type: system
+vault: 50-systems
+updated: 2026-07-10
+- Comment->idea mining prompt he uses, verbatim opener: "You extract video content requests from YouTube comments for a faceless explainer channel." Batches of ~40 comments on Haiku, strict JSON array, non-requests omitted entirely, categories = Comparison / Deep Dive / History-Evolution / Tutorial / List-Ranking / Reaction / Other [C:high] [S:file YouTube Comment Checker/CLAUDE.md]
+- Regex pre-filter signals (editable in filters.py): "you should", "do a video", "can you (do|cover|explain|make)", "please (do|make)", "next (video|one)", "idea:", "request", "i('| wou)ld love to see", "what about", "when are you going to" [C:high] [S:file YouTube Comment Checker/CLAUDE.md]
+- Incremental rule: stop paging a video at the first already-stored comment_id; skip 403 commentsDisabled without failing the run [C:high] [S:file YouTube Comment Checker/CLAUDE.md]
+- Tier colors he specified: S #ff5252, A #ffa726, B #ffee58, C #9ccc65, D #90a4ae -- "clean enough to screenshot for the Discord / the course" [C:high] [S:file YouTube Comment Checker/CLAUDE.md]
+
+# 6. DECISIONS (vault: 70-decisions)
+
+### decision:remove-useless-surfaces
+date: 2026-07 | vault: 70-decisions
+- Chose: unmount Ingest sidebar section, Analysis -> Heatmap tab, Trello -> Mind Map and Formats tabs. Code kept, not deleted. "Do not re-add without being asked" [C:high] [S:memory, S:file claude_code_ideator/CLAUDE.md]
+- Rejected because: useless to his workflow; the Mind Map specifically was laggy [C:high] [S:memory]
+- Kept as extremely useful: Bookmarks + AI chat, Comment mining, Trello research [C:high] [S:memory]
+
+### decision:reports-are-decision-briefs
+date: 2026-07 | vault: 70-decisions
+- Chose: daily report <=350 words (one thing that matters / <=3 signals / one action); weekly <=600. "Never re-expand into multi-section data dumps" [C:high] [S:memory, S:file claude_code_ideator/CLAUDE.md]
+- Reason, verbatim: reports were "too much data -> wrong decisions"; long multi-section reports caused him to overlook signals and make wrong calls [C:high] [S:memory]
+
+### decision:title-length-cap
+date: 2026-07-22 (reversal) | vault: 70-decisions
+- Chose: the MAIN CLAUSE (before any parenthesis/dash) must be <=60 chars so it fully shows on the YouTube home page; parenthetical "(X, Y, Z)" suffixes may overflow [C:high] [S:memory]
+- Reverses: an earlier "don't cap length" position. Trigger: home-page truncation [C:high] [S:memory]
+- Retained study behind it: <=20 chars = 3.97M avg ... 81-100 chars = 1.20M (-70%) -- shortest main clause that lands the hook [C:high] [S:memory]
+- A later guard allows a <=70-char main clause on an arbitration rewrite [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### decision:outlier-first-ranking
+date: 2026-07-22 | vault: 70-decisions
+- Chose: #1 ranking signal is a video outperforming ITS OWN channel (views/subs >=2x), not raw views. Rejected: raw-view ranking [C:high] [S:memory]
+- Reason: "the topic earned the views, not the channel" [C:high] [S:memory]
+
+### decision:packaging-must-be-earned
+date: 2026-07-22 | vault: 70-decisions
+- Chose: every idea runs a FORMAT DECISION -- 2-3 competing packagings with real evidence videos and server-computed stats; evidence picks the winner; losers stay visible so he can overrule [C:high] [S:memory]
+- Trigger: topics were great but titles were "made up by us" -- a lane pattern warped onto a subject [C:high] [S:memory]
+
+### decision:anti-plagiarism-guard
+date: 2026-07 | vault: 70-decisions
+- Chose: reject a phrase swap that would push similarity-to-any-real-title to >=0.7 Dice (DERIVATIVE_SIMILARITY) when the original was below it. Keeping an honest unproven flag is the better outcome [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Trigger: a live arbitration run produced a title at Dice 1.0 -- an exact duplicate of an existing video -- and pushed another to 0.83 [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### decision:trends-never-auto-banked
+date: 2026-07-24 | vault: 70-decisions
+- Chose: Reddit/web trend topics are never auto-banked into keyword_bank; the bank only accepts terms a real video's views put there. listTrendSignals merely reports whether a topic already has view-backed proof [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Reason: "a Reddit thread has no views" [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### decision:polls-are-low-signal
+date: 2026-07-22 | vault: 70-decisions
+- Chose: competitor Community-tab poll data is TIER 1 LOW-SIGNAL -- shapes framing/packaging/tone ONLY. Never enters the keyword brain, never outranks view evidence, never generates ideas alone [C:high] [S:file docs/audience-intel-gta.md]
+
+### decision:gta-narrator-not-mascot
+date: 2026-07-22 | vault: 70-decisions
+- Chose: "Ace" is a NARRATOR, not a mascot -- a fictional investigator inside the GTA universe, the audience's lens. No comic relief, no jokes-first framing, no lore about Ace himself. Content deliverables only; all analysis stays plain analyst voice [C:high] [S:tool sqlite workspaces.persona_extra 2026-07-29]
+- Applied via PATCH /api/workspaces/2 on 2026-07-22, propagating to every prompt [C:high] [S:memory]
+- Note: a mascot column on that same row still describes Ace visually as "the channel's recurring mascot" -- see section 13 [C:high] [S:tool sqlite]
+
+### decision:sourcing-bar-gta
+date: 2026-07-22 | vault: 70-decisions
+- Chose: verbatim quality bar "damn near every line sourced" -- every factual claim in a deliverable names its source (official Rockstar material, trailer + timestamp, interview, documented leak LABELED as leak) [C:high] [S:tool sqlite workspaces.persona_extra]
+
+### decision:bookmark-equals-research-intent
+date: 2026-07-22 | vault: 70-decisions
+- Chose: bookmarking a video = intent to research it -> instantly auto-scrape comments + run success analysis in the background, fail-soft per step [C:high] [S:memory]
+
+### decision:no-new-dashboard-sections
+date: 2026-07 | vault: 70-decisions
+- Chose: don't add new dashboard sections without asking -- "he prefers fewer, sharper surfaces" [C:high] [S:memory]
+
+### decision:coldstart-retry-interceptor
+date: 2026-07 | vault: 70-decisions
+- Chose: a global axios response interceptor retrying idempotent GETs on network errors + 500/502/503/504, up to 8 attempts with backoff (~12s coverage), re-attaching the workspace header each time. DO NOT REMOVE [C:high] [S:memory project_dev_coldstart]
+
+# 7. METRICS AND BASELINES (vault: 80-metrics)
+
+All figures below are exact DB/file values, unaveraged and unrounded.
+
+### metric:own-channels
+as of 2026-07-29 (DB read) | vault: 80-metrics
+- Explainer Chris (main, is_main=1, workspace 1): 24 videos in DB, best 1,727,675 views, 4,707,818 total views across tracked videos. subscriber_count field reads 11,300 but last_scanned_at is 2026-04-20 -> STALE by ~3 months [C:high] [S:tool sqlite 2026-07-29]
+- explainerguy01 (secondary, is_secondary=1): 22 videos, best 587,395, 4,405,391 total views. subscriber_count 39,600, also last scanned 2026-04-20 -> STALE [C:high] [S:tool sqlite 2026-07-29]
+- Video stats themselves are fresh: max last_updated_at = 2026-07-30 01:15 UTC [C:high] [S:tool sqlite]
+
+### metric:explainer-chris-top-videos
+as of 2026-07-28 stats refresh | vault: 80-metrics
+- Every Free App You Actually Need Explained in 20 Minutes -- 1,727,675 views, pub 2026-06-08, 1,220s [C:high] [S:tool sqlite]
+- Every AI Model Explained in 19 Minutes -- 917,528, pub 2026-04-01, 1,148s [C:high]
+- Every Web Browser Explained in 20 Minutes -- 664,983, pub 2026-04-11, 1,239s [C:high]
+- Every Graphics Setting Explained in 16 Minutes -- 446,372, pub 2026-03-26, 990s [C:high]
+- The "Free App" franchise is his proven series: Part 2 (18 Minutes) 127,499 (pub 2026-06-26), Part 3 108,696 (pub 2026-07-17) [C:high] [S:tool sqlite]
+
+### metric:explainer-chris-recent-publishes
+as of 2026-07-29 | vault: 80-metrics
+- Every Video Game Cheat Explained in 18 Minutes -- 250 views, pub 2026-07-28 (fresh upload, not a result) [C:high]
+- Every Windows Startup Sound Explained in 8 Minutes -- 3,284, pub 2026-07-19 [C:high]
+- Every AI Assistant Explained in 16 Minutes -- 5,881, pub 2026-07-13 [C:high]
+- Every Operating System Explained 17 Minutes -- 34,761, pub 2026-07-01 [C:high]
+- Derived cadence: 6 uploads between 2026-06-26 and 2026-07-28 = one every 5-9 days [C:med] [S:tool sqlite, computed]
+- Observable spread: recent non-"Free App" uploads (3.2K, 5.8K, 34.7K) sit far below the catalog's top end (1.7M, 917K, 665K). Cause NOT_AVAILABLE [C:high] [S:tool sqlite]
+
+### metric:explainerguy01-top-videos
+as of 2026-07-28 | vault: 80-metrics
+- Every DDR RAM Explained In 11 Minutes -- 587,395, pub 2025-11-20, 662s [C:high]
+- Every Mobile Network Generation Explained in 15 Minutes -- 480,610, pub 2026-02-03, 908s [C:high]
+- Every Linux Distro Explained in 17 Minutes -- 405,192, pub 2026-03-08 [C:high]
+- Every SSD Type Explained In 8 Minutes -- 361,511, pub 2025-11-21 [C:high]
+- Every RAM Size Explained in 11 Minutes -- 358,547, pub 2026-02-07 [C:high]
+- Every Computer Keyboard Type Explained in 11 Minutes -- 265,665, pub 2026-01-10 [C:high]
+- Every Programming Language Explained in 16 Minutes -- 249,927, pub 2025-11-23 [C:high]
+- Every Computer Component Explained in 14 Minutes -- 218,094, pub 2025-11-19 [C:high]
+- Every TV Refresh Rate Explained in 11 Minutes -- 193,226, pub 2025-11-17 (earliest record I hold) [C:high]
+- Every Intel Processor Explained in 11 Minutes -- 189,763, pub 2025-12-07 [C:high]
+
+### metric:growth-baseline-april
+as of 2026-04-02 -- STALE, keep as a growth anchor | vault: 80-metrics
+- Explainer Chris: 2,870 subs, 7 videos, 132,054 total views, 303 comments scraped [C:high] [S:file market_gap_report_20260402_165559.md]
+- explainerguy01: 32,100 subs, 22 videos, 3,288,743 total views, 7,088 comments [C:high]
+- Byte Sized Explainer: 151,000 subs / 20 videos / 13,873,359 views / 13,231 comments [C:high]
+- Tech in a Teacup: 41,400 / 97 / 3,711,151 / 4,031 [C:high]
+- explain dot exe: 28,400 / 40 / 2,632,485 / 5,080 [C:high]
+- Prime Explained: 13,300 / 10 / 1,225,056 / 1,537 [C:high]
+- Bit by Bit Explained: 5,550 / 8 / 563,673 / 605 [C:high]
+- Tech Explainer Guy: 3,390 / 7 / 427,205 / 1,761 [C:high]
+- Delta worth keeping: Explainer Chris went 2,870 -> 11,300 subs and 132,054 -> 4,707,818 tracked views between 2026-04-02 and (a stale) 2026-04-20/2026-07-28 [C:high] [S:tool sqlite + S:file market_gap_report]
+
+### metric:tracked-competitors
+as of last scan dates shown | vault: 80-metrics
+- 40+ channels tracked. Workspace 1 (tech) largest: BLASTERTECHNOLOGY 237,000 subs/178 videos (scanned 2026-04-22), Byte Sized Explainer 156,000/20 (2026-04-18), Code Bootcamp 70,000/5, Tech in a Teacup 42,900/104, Plain & Paint 42,200/12, Ask Nigel 37,200/63, Flash Bytes 36,400/26, Codist 35,700/15, explain dot exe 29,100/42, Me Explain 23,700/78, Sudo Bit Logic 21,300/23 [C:high] [S:tool sqlite 2026-07-29]
+- Workspace 2 (GTA), scanned 2026-07-20/22: Explainer X 152,000/150, Perfect Enrager 38,700/136, Game Affairs XT 17,500/33, CJ Explains Gaming 8,310/13, STICKMAN NIKO 7,080/67, Fat Cat 6,040/51, Trevor's Tapes 3,670/18, Stickman GTA 3,290/34, RENZI 3,240/166, Trevor Explains 3,150/69 [C:high] [S:tool sqlite]
+- Most workspace-1 competitor scans are from April/June 2026 -- stale relative to the GTA set [C:high] [S:tool sqlite]
+
+### metric:gta-verified-outliers
+verified 2026-07-22 | vault: 80-metrics
+- Cwylhvg6cSE "Everything We Know About Gangs in GTA 6" -- RENZI -- 496,986 views, pub 2026-06-11 (on a ~3,240-sub channel) [C:high] [S:file docs/audience-intel-gta.md]
+- fBeRpjGAink "Jumping From Highest Points: GTA 1 to GTA 6 Evolution (1997-2026)" -- ViceReel -- 575,660, pub 2026-04-16 [C:high]
+- J8rbn3xk3Yc "GTA 6 -- Everything We've NEVER Seen Before in a GTA Game" -- GameSight -- 100,276, pub 2026-04-11 [C:high]
+- db0wl9G-iCs "Why Every GTA Map is an Island (and GTA 6 Shouldn't Be)" -- hallafyre -- 92,946, pub 2026-05-19 [C:high]
+- tej1Kl9ICpI "GTA 6 Leaks That Were 100% Real" -- Jykes -- 73,019, pub 2026-05-27 [C:high]
+- Source channels were ~1.2K-14K subs per the VidIQ article (2026-06-24) -- every one a massive own-channel outlier [C:med, article context labeled unverified] [S:file docs/audience-intel-gta.md]
+
+### metric:vidiq-keyword-volumes
+US, June 2026 | vault: 80-metrics
+- "gta 6" ~= 9,900,000/mo searches, competition 67/100 [C:high] [S:file docs/audience-intel-gta.md]
+- "everything we know about gta 6" ~= 28,000/mo, comp 41 [C:high]
+- "gta 6 gameplay leak" ~= 67,000/mo, comp 25 [C:high]
+- "gta 6 development leak" ~= 5,000/mo, comp 13 [C:high]
+- Rule he drew: specificity drops competition faster than volume [C:high] [S:file docs/audience-intel-gta.md]
+
+### metric:keyword-bank-top-terms
+as of 2026-07-29, 131 terms total | vault: 80-metrics
+- "is michael worse than trevor gta 5" (keyword) -- best proof 6,917,817 views [C:high] [S:tool sqlite keyword_bank]
+- "gta vice city unsolved mysteries" -- 5,285,022 [C:high]
+- "most disturbing deaths in gta" -- 4,155,364 [C:high]
+- "ram brands explained difference corsair gskill kingston" (ws1) -- 4,138,566 [C:high]
+- "pc build tiers explained budget to high end" (ws1) -- 3,424,761 [C:high]
+- "gta 6 2022 rockstar hack leak story" -- 3,328,915 [C:high]
+- "pc building mistakes to avoid beginner" (ws1) -- 2,989,542 [C:high]
+- "what happened to vic vance" -- 2,663,503 [C:high]
+- "what happened to every gta protagonist after the end" -- 2,661,611 [C:high]
+- format entry "deep-cut location mystery deep-dive" -- 1,999,159 [C:high]
+
+### metric:poll-dataset
+collected 2026-07-22, LOW-SIGNAL by his own rule | vault: 80-metrics
+- STICKMAN NIKO, 3 weeks old, n=32: Deep Lore 47% / Characters 22% / Informations 19% / Story Summaries 13% [C:high] [S:file docs/audience-intel-gta.md]
+- STICKMAN NIKO, 11 months, n=78: "Every GTA GANG From GTA 5 Explained" 68% / Every Antagonist 18% / Every Rockstar Game 14% [C:high]
+- Explainer X, 3 months: "most alive city" n=2,300, 15 comments -- Vice City 48% / Los Santos 30% / San Andreas 13% / Liberty City 9% [C:high]
+- Explainer X: "most REALISTIC driving physics" n=3,800, 33 comments -- GTA IV 67% / V 28% / SA 5% [C:high]
+- Explainer X: "best main menu theme" n=1,500, 11 comments -- IV 50% / SA 32% / V 14% / VC 4% [C:high]
+- Explainer X: "most iconic villain" n=1,800, 13 comments -- Tenpenny 63% / Big Smoke 26% / Dimitri 6% / Devin Weston 6% [C:high]
+- Explainer X: "best hand-to-hand combat" n=1,300, 9 comments -- SA 56% / IV 23% / V 21% [C:high]
+- Explainer X: "hardest to 100%" n=2,000, 15 comments -- SA 67% / V 22% / IV 6% / VC 5% [C:high]
+- Derived rule: comment volume tracks debatability, not vote count -- IV-vs-V technical splits are the comment engine [C:high] [S:file docs/audience-intel-gta.md]
+
+### metric:tool-corpus-size
+as of 2026-07-29 | vault: 80-metrics
+- 2,911 videos / 7,405 comments / 16 ideas / 11 bookmarks / 31 reports / 131 keyword-bank terms / 18 ideation reports / 12 trend signals / 585 discovered videos / 2 research briefs [C:high] [S:tool sqlite]
+- Reports on record: dailies 2026-05-12, 06-06, 06-07, 06-10, 06-15, 06-23 (last daily); weeklies 2026-05-22, 06-03. All workspace 1 [C:high] [S:tool sqlite]
+- Ideation reports: #20 (ws1) 2026-07-29 17:46, #19 (ws1) 2026-07-26, #18 (ws2) 2026-07-26, #17/#16 (ws2) 2026-07-25 [C:high] [S:tool sqlite]
+
+# 8. VOICE AND OUTPUT PREFERENCES (vault: 90-voice)
+
+- Wants output shaped as "what do I make next and why," with evidence -- never a data dump. He works strategy-first [C:high] [S:memory]
+- Format he accepts for ideation: rank + an evidence CHAIN (his proven lane w/ multiplier x external proof w/ real views -> the video to make), a one-line "the move", a fit paragraph citing his own numbers, and labeled clickable proof tiles [C:high] [S:memory]
+- Length ceilings he set: daily brief <=350 words with exactly one action and <=3 signals; weekly <=600 [C:high] [S:memory]
+- Tolerance for hedging: he wants it explicit and separated -- CONFIRMED vs SPECULATION as distinct labeled lists; "(speculation)" / "[UNCONFIRMED]" markers in research output; never present unverified as fact [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- But hedging must never leak into narratable deliverables -- in VidRush prompts the claim gets rewritten honestly instead of tagged [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Numbers require receipts. He rejected prose like "the proven fate-catalog hook (2.66M outlier)" -- a number with no receipt attached -- and had numeric claims stripped from analysis prose server-side. Every number shown must come from a verified pill [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Wants disagreement/uncertainty rendered visibly, not resolved away: losing format options stay on screen with their real stats "so he can overrule"; unproven words wear an amber pill [C:high] [S:memory, S:file claude_code_ideator/CLAUDE.md]
+- Verbatim samples of his own phrasing:
+  1. "sometimes we just copy LUL" -- on being comfortable with near-copies of proven titles; honesty about provenance matters more than novelty [C:high] [S:memory 2026-07-23]
+  2. "VERY important that our system reliably and efficiently gets better over time" [C:high] [S:memory 2026-07-24]
+  3. "Always looking for the best opportunities at the time, one video at a time" [C:high] [S:memory 2026-07-22]
+- Verbatim standards he wrote into the tool: "damn near every line sourced" (GTA sourcing bar) and, on the tier-list dashboard, "clean enough to screenshot for the Discord / the course" [C:high] [S:tool sqlite persona_extra; S:file YouTube Comment Checker/CLAUDE.md]
+- Concrete UI complaints he made (useful signal on how he reads): the Trello progress view was "tiny on the board" and he wanted it BIG plus an after-action recap; the word "Nearly" looked identical to real connectors while having no data behind it [C:high] [S:memory]
+
+# 9. OPEN LOOPS (vault: 99-open-loops)
+
+### loop:gta6-launch-status
+opened 2026-07-22 | waiting on: Marvens | vault: 99-open-loops
+- GTA 6 Explained was slated to go live ~2026-07-25. As of 2026-07-29 the DB holds zero own videos in workspace 2. Whether it launched, slipped, or launched off-tool is unknown [C:high] [S:memory + S:tool sqlite 2026-07-29]
+
+### loop:stale-subscriber-counts
+opened 2026-04-20 | waiting on: a channel scan | vault: 99-open-loops
+- Both own channels' subscriber_count and last_scanned_at are frozen at 2026-04-20, while video stats refresh nightly. Every views/subs multiplier computed for his own channels is running on 3-month-old denominators [C:high] [S:tool sqlite 2026-07-29]
+- Most workspace-1 competitor channels were last scanned 2026-04-18/22 or 2026-06-07 [C:high] [S:tool sqlite]
+
+### loop:daily-reports-stopped
+opened 2026-06-23 | waiting on: Marvens | vault: 99-open-loops
+- Last daily report on record is 2026-06-23; last weekly 2026-06-03. The trend_report cron is scheduled "0 7 * * *". Either the scheduler stopped firing, the app isn't running daily, or he stopped using reports. Cause unknown [C:high] [S:tool sqlite 2026-07-29]
+
+### loop:trend-signals-never-aged
+opened 2026-07-24 | waiting on: repeat runs | vault: 99-open-loops
+- All 12 trend_signals rows show status "new", heat 0, times_seen 1 -- the lifecycle (new->rising->hot->faded) and the persistence-based heat rank have never advanced past a single run [C:high] [S:tool sqlite 2026-07-29]
+
+### loop:signals-dashboard-ui
+opened 2026-07-24 | waiting on: build | vault: 99-open-loops
+- Memory (2026-07-24) records "Visual dashboard UI still TODO (data + endpoints exist)". The current CLAUDE.md documents SignalsPanel.tsx as built (Analysis -> Signals). Likely closed after the memory was written, but unconfirmed against a live UI check [C:med] [S:memory vs S:file claude_code_ideator/CLAUDE.md]
+
+### loop:sabrinathetaurus-profile
+opened <=2026-07-10 | waiting on: Marvens to explain | vault: 99-open-loops
+- A fully-run comment-ranker profile exists for @SabrinatheTaurus (532KB of harvested data, tierlist.json produced). No context anywhere for who or what this is, or whether it's a client, a test, or a third brand [C:high] [S:file channel_comment_ranker/config.json + fs]
+
+### loop:clipper-description-formula
+opened <=2026-06-03 | waiting on: Marvens | vault: 99-open-loops
+- buildDescription() in explainer_clipper is a PLACEHOLDER "needs real formula" -- he never supplied the description formula, and the project has been untouched since 2026-06-03 [C:high] [S:file explainer_clipper/CLAUDE.md]
+
+### loop:clipper-duplicate-tree
+opened 2026-06-03 | waiting on: Marvens | vault: 99-open-loops
+- explainer_clipper/ and explainer_clipper2/ both exist with divergent contents ("2" has ffmpeg/ + sidecar/, and only a "CLAUDE (1).md"). Canonical branch undecided [C:high] [S:tool fs 2026-07-29]
+
+### loop:env-example-drift
+opened <=2026-07-27 | waiting on: a small edit | vault: 99-open-loops
+- server/.env.example is missing TRELLO_API_KEY and TRELLO_TOKEN; CLAUDE.md flags it as needing to stay in sync [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+# 10. FAILURE LOG (vault: 70-decisions)
+
+### failure:reports-too-much-data
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: long multi-section AI reports. Diagnosed reason: volume caused him to overlook signals and make wrong calls -- "too much data -> wrong decisions". Fix: hard word caps + one action [C:high] [S:memory]
+
+### failure:invented-titles
+diagnosed 2026-07-22 | vault: 70-decisions
+- What failed: the pipeline produced good topics with titles "made up by us" -- a lane pattern warped onto a subject with no proof the wording works. Fix: the FORMAT DECISION with competing evidence-backed options [C:high] [S:memory]
+
+### failure:middle-titles
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: titles that were neither a faithful re-run of a working title nor a genuine untapped cross -- copying nothing and proving nothing. Fix: the two-mode rule with server-side mode correction [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### failure:rerun-collapse
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: once the mode rules alone were in place, a live run produced 5 of 6 ideas as proven_rerun, three at Dice 1.0 (identical titles) -- because title_support alone is gameable: copying a real title scores 100% backed for free. Fix: at most half re-runs + recombination target + server logs/warns on the ratio [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### failure:arbitration-manufactured-a-duplicate
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: phrase arbitration, by moving titles toward verbatim real wording, produced a title at 1.0 Dice with an existing video and pushed another to 0.83. Diagnosed reason: the fix mechanism structurally walks a title toward its evidence's title. Fix: reject swaps that raise similarity to >=0.7 when the original was below [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### failure:phrase-evidence-checked-against-wrong-pool
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: wording like "From Least To Most Evil", "All Along", "Really" could never be backed. Diagnosed reason: chain.source.search_query is written in the CANDIDATE step, before any title exists, so it can only prove the SUBJECT -- the anatomy pass was checking phrasing against ~60 titles gathered for a different purpose. Fix: a dedicated phrase-probe search with the subject genericized; cross-niche hits count on purpose [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### failure:article-glue-broke-substring-match
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: a word was flagged UNPROVEN while its own evidence sat one article away -- the model emitted "the Gangs" and the literal test failed against a real title reading "Everything We Know About Gangs in GTA 6". Fix: trimSegmentEdges before matching; the trimmed core becomes the pill text [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### failure:subject-verbatim-match-too-strict
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: requiring "vic vance" verbatim stripped every receipt off a proof video titled "WHY DID THE VANCE'S EMPIRE COLLAPSE", leaving the most important pill looking unevidenced. Fix: subject segments match on proper-noun tokens (4+ chars) [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### failure:unproven-looked-like-glue
+diagnosed 2026-07-23 | vault: 70-decisions
+- What failed: a style word with no data ("Nearly") rendered identically to a real connector, hiding the absence of evidence. Fix: visible amber "style choice, no data" pill; never silently demote to glue [C:high] [S:memory, S:file claude_code_ideator/CLAUDE.md]
+
+### failure:numbers-without-receipts
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: analysis prose containing numbers, e.g. "the proven fate-catalog hook (2.66M outlier)". Diagnosed reason: "a prompt rule is not enforcement" -- the prompt already forbade it. Fix: stripNumericClaims() server-side [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### failure:invented-specifics
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: a subject naming specifics no source contains -- e.g. naming GTA 6 gangs "Ruling Leonida" for an unreleased game -- and it was silent. Fix: no_subject_proof amber warning [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### failure:thin-proof-shown-at-equal-weight
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: a 133K video at 1.3x its own channel displayed like real million-view evidence, overstating the case. Fix: thin flag -> "thin proof -- context, not a 1M path" [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### failure:citations-invented
+diagnosed 2026-07-24 | vault: 70-decisions
+- What failed: anything built on fetchWebContext couldn't show sources -- it discards the web_search_tool_result blocks -- so a model asked for URLs invents them. Fix: fetchWebResearch, which keeps the real cited pages; citations are index-only and verified server-side [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### failure:insert-or-replace-wiped-flags
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: "INSERT OR REPLACE" on channels/videos deleted and re-inserted rows, wiping is_main and composite_score. Fix: ON CONFLICT DO UPDATE. "Do not reintroduce" [C:high] [S:file claude_code_ideator/CLAUDE.md, S:memory]
+
+### failure:coldstart-empty-panels
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: every panel looked empty on launch; it read to him as "my reports disappeared". Diagnosed reason: Vite starts instantly but ts-node-dev takes seconds to bind :3001; during that window the proxy returns HTTP 500 (verified empirically), and the old .catch(() => {}) swallowed it forever. Data was safe in SQLite the whole time. Fix: the 8-attempt GET retry interceptor [C:high] [S:memory project_dev_coldstart]
+
+### failure:workspace-cache-bleed
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: a persisted client store rehydrated stale cross-workspace data after a switch -- "this was a real bug". Fix: scope every persisted store name ...-ws{id} [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### failure:alert-spam-on-backfill
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: adding a channel fired an alert for its entire backfilled catalog. Fix: never alert on first scan, only <72h videos, auto-dismiss at 14 days [C:high] [S:memory]
+
+### failure:sse-logs-went-nowhere
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: ideation report generation was a synchronous multi-minute await that never passed onLog, so every progress line the service emitted was discarded and the UI just spun. Fix: async start + SSE with a 400-line replay buffer, EventSource opened before the POST [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### failure:invisible-funnel-read-as-bug
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: asking for 8 ideas and getting 6 is correct behavior (model drops unbackable candidates, server drops sub-PROOF_FLOOR ideas) but was invisible and read as a bug. Fix: the ReportAccounting amber panel [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### failure:mindmap-lag
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: the Trello Mind Map tab was laggy and unused -> unmounted [C:high] [S:memory]
+
+### failure:sibling-context-thrown-away
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: when a proof video was an outlier, only that one video was stored -- its channel's back catalogue built on the same trick was discarded. Fix: harvestChannelOutliers, ~2 quota units/channel via uploads playlist [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### failure:temperature-rejected
+diagnosed 2026-07 | vault: 70-decisions
+- What failed: passing sampling params to Opus 4.7+ -> HTTP 400. The options field still exists but is deliberately not sent [C:high] [S:file claude_code_ideator/CLAUDE.md, S:memory]
+
+### failure:raw-csv-too-fat
+diagnosed 2026-04-02 | vault: 70-decisions
+- What failed: a 7.9MB multi-channel comment CSV was unusable downstream; trim_fat.py was written to cut it to 259KB [C:med, inferred from the file pair and script name] [S:tool fs]
+
+# 11. ASSET AND EXPORT MANIFEST (vault: 60-assets)
+
+### asset:explainer-chris-db
+- C:\Users\MarvensD\Desktop\YouTube Comment Checker\claude_code_ideator\server\data\explainer-chris.db -- SQLite WAL, the single system of record: channels, videos, video_snapshots, comments, ideas, bookmarks + chats + analyses, reports, ideation_reports, research_briefs, keyword_bank, trend_signals, discovered_videos, video_summaries, video_transcripts, trello_card_research, branch_research, activity_log, ai_cache, workspaces [C:high] [S:file claude_code_ideator/CLAUDE.md + S:tool sqlite]
+- Export: node -e with the repo's node_modules/better-sqlite3 (verified working 2026-07-29) -> JSON/CSV. The sqlite3 CLI is not installed on this machine [C:high] [S:tool sqlite 2026-07-29]
+- Pre-migration backup: server/data/explainer-chris.pre-workspaces-backup.db [C:high] [S:memory]
+- Do not delete -- CLAUDE.md marks it as holding all tracked data [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### asset:credentials-inventory
+- server/.env (never commit, never print) holds: YOUTUBE_API_KEY, ANTHROPIC_API_KEY, TRELLO_API_KEY, TRELLO_TOKEN, optional PORT, DB_PATH [C:high] [S:file claude_code_ideator/CLAUDE.md] -- values not read, not output
+- C:\Users\MarvensD\.claude\.credentials.json exists (Claude Code auth). Not opened [C:high] [S:tool fs]
+- GitHub Actions equivalents referenced as repo secrets YOUTUBE_API_KEY, ANTHROPIC_API_KEY in the tier-list spec [C:high] [S:file YouTube Comment Checker/CLAUDE.md]
+- One shared YouTube API key across both workspaces (which is why quota is global) [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### asset:memory-store
+- C:\Users\MarvensD\.claude\projects\C--Users-MarvensD-Desktop-YouTube-Comment-Checker-claude-code-ideator\memory\ -- 4 markdown memories + MEMORY.md index. Export: copy the directory (markdown) [C:high] [S:memory]
+
+### asset:claude-code-session-history
+- C:\Users\MarvensD\.claude\history.jsonl (152KB, live), plus sessions/, projects/, file-history/, telemetry/, plans/, tasks/, backups/ under .claude\ [C:high] [S:tool fs 2026-07-29]
+- Export: copy as JSONL. I cannot read prior sessions' conversational content from within this session -- the file exists but is not part of my context [C:high]
+
+### asset:comment-export-archive
+- ~30 raw comment exports in C:\Users\MarvensD\Desktop\YouTube Comment Checker\ as .csv/.txt, dated 2025-12-02 -> 2026-04-12, per video. Largest: all_channel_comments_20260402_165559.csv 7.9MB; channel_comments_explainerguy01_20260204_160454.txt 734KB [C:high] [S:tool fs]
+- Titles covered include Every AMD Ryzen, Wi-Fi Generation, Mobile Network Generation, Video Game Graphics Setting, Web Browser, AI Model, Android Version/OS Evolution, Keyboards, GPU Feature, Video Format, Mobile OS [C:high] [S:tool fs]
+
+### asset:market-gap-report
+- market_gap_report_20260402_165559.md (65KB) + channel_data_20260402_165559.json (17KB) -- 8-channel comparative baseline with subs/videos/views/comments-scraped per channel [C:high] [S:tool fs]
+
+### asset:tierlist-outputs
+- channel_comment_ranker\data\profiles\gta-explainers\{comments.db, ideas.json, tierlist.json} (1.6MB total) and .../sabrinathetaurus/... (532KB), both written 2026-07-10 [C:high] [S:tool fs]
+- Export: tierlist.json is the documented contract the dashboard reads; copy directly [C:high] [S:file YouTube Comment Checker/CLAUDE.md]
+
+### asset:reference-report
+- "24 Net-New Ideas" HTML report in ~/Downloads -- his stated reference style for all ideation output. I have never read this file; only memory's description of it. Flag: may have been deleted from Downloads [C:high] [S:memory]
+
+### asset:bookmark-images
+- server/data/bookmark-images/ -- images pasted into bookmark AI chats [C:high] [S:file claude_code_ideator/CLAUDE.md]
+
+### asset:not-exportable
+- YouTube Analytics (RPM, revenue, retention, traffic sources, demographics): NOT reachable. Nexlev personal-channel tools return ACCESS DENIED on the FREE plan, verified 2026-07-29 [C:high] [S:tool Nexlev 2026-07-29]
+- MCP servers connected but unqueried in this pass: Algrow (channel analytics, TTS, thumbnail search), Nexlev (niche finder, transcripts, outliers -- public-data tools may work even on FREE), Google Drive, Gmail, Google Calendar. Contents unknown to me [C:high] [S:tool env 2026-07-29]
+- Trello boards: reachable only through his own app's proxy with the .env credentials; board IDs are NULL in the workspaces table [C:high] [S:tool sqlite]
+
+# 12. CHANNEL OPERATOR BLOCK (vault: 30-projects)
+
+### project:explainer-chris-channel
+type: project
+status: active
+vault: 30-projects
+updated: 2026-07-29
+- Inventory: Explainer Chris (MAIN, is_main=1 + is_self=1, workspace 1) -- faceless tech explainer; explainerguy01 (SECONDARY, is_secondary=1) -- 22 videos, same format, appears to be the older/first channel; GTA 6 Explained (workspace 2, documentary) -- no videos on record [C:high] [S:tool sqlite]
+- Handle seen in a 2026-02 export filename: explainerguy01 [C:high] [S:tool fs]
+- Format rule (workspace 1, enforced in prompts): "Every video title MUST follow the 'Every [X] Explained' format (optionally with 'in [Time]' appended). Good: 'Every Browser Explained', 'Every CPU Architecture Explained in 10 Minutes'. Reject titles outside this format." [C:high] [S:tool sqlite workspaces.title_rules]
+- Niche (workspace 1): "tech explainers (hardware, software, networking, AI, operating systems, browsers, protocols)" [C:high] [S:tool sqlite]
+- Format rule (workspace 2): cinematic documentary hooks for 8-20 minute videos; prioritize CTR curiosity gap + retention promise; no clickbait lies, no news headlines; do NOT use "Every X Explained" unless it genuinely fits. Channel is explicitly NOT gaming news / daily updates / speculation farming / low-effort AI content; it IS evergreen, high-retention, cinematic, research-driven [C:high] [S:tool sqlite]
+- Runtime is part of the format: his own top performers run 662-1,239s (11-20 min) and the app derives script runtime from the median real duration of proof videos [C:high] [S:tool sqlite + S:file claude_code_ideator/CLAUDE.md]
+- Title patterns that worked, with numbers: "Every [X] Explained in [N] Minutes" across the board -- Free Apps 20 Min 1,727,675; AI Model 19 Min 917,528; Web Browser 20 Min 664,983; DDR RAM 11 Min 587,395; Mobile Network Generation 15 Min 480,610 [C:high] [S:tool sqlite]
+- Franchise/sequel pattern that worked: "Every Free App You Actually Need" -> Part 1 1.73M, Part 2 127,499, Part 3 108,696 [C:high] [S:tool sqlite]
+- Recent titles that under-performed relative to the catalog: Every Windows Startup Sound Explained in 8 Minutes 3,284 (pub 2026-07-19); Every AI Assistant Explained in 16 Minutes 5,881 (2026-07-13); Every Operating System Explained 17 Minutes 34,761 (2026-07-01). Diagnosis NOT_AVAILABLE -- he never told me why [C:high] [S:tool sqlite]
+- Title length law: main clause <=60 chars (<=70 on a rewrite); study on file <=20ch=3.97M avg down to 81-100ch=1.20M (-70%) [C:high] [S:memory]
+- Thumbnail rules (workspace 2, his wording): one focal point, one emotional hook, <=3 overlay words that pair with -- never repeat -- the title [C:high] [S:tool sqlite persona_extra]
+- Thumbnail process: one vision pass reads the REAL top-3 proof thumbnails per idea -> a report-level thumbnail_read thesis + per-idea sketch_prompt, a paste-ready Gemini / PoppyAI image prompt with a copy button [C:high] [S:file claude_code_ideator/CLAUDE.md, S:memory]
+- Publishing cadence: ~every 5-9 days on the main channel across 2026-06-26 -> 2026-07-28 [C:med, computed from publish dates] [S:tool sqlite]
+- Production pipeline stages: Marvens ideates in-tool (Ideation Report -> Research Brief / VidRush prompt) -> writer executes the brief -> researcher verifies facts/citations/timestamps -> asset-producer acquires clips/screenshots/b-roll -> editor. Only Marvens's and the writer's roles are confirmed as filled [C:high for the pipeline design, C:low on staffing] [S:memory, S:tool sqlite persona_extra]
+- Script generation tool of record: VidRush.ai, driven by the generated prompt format [C:high] [S:file claude_code_ideator/CLAUDE.md]
+- Never-publish rules: unverified claims stated as fact; unlabeled leaks (a leak must be labeled a leak); [UNCONFIRMED] markers inside narratable script text; Shorts-derived evidence; model-invented statistics [C:high] [S:file claude_code_ideator/CLAUDE.md, S:tool sqlite]
+- Sponsorship terms, rate card, CPM/CPA floors, brand-safety list, monetization status, channel strike/appeal history, MCN or AdSense state: NOT_AVAILABLE. Nothing in memory or on disk touches money [C:high]
+
+# 13. CONFLICTS
+
+1. Ace: narrator vs mascot. The workspaces.persona_extra for workspace 2 says Ace is "a NARRATOR, not a mascot: no comic relief, no jokes-first framing, no lore about Ace himself" [C:high, 2026-07-22]. The mascot column on the same row opens "Ace -- the channel's recurring mascot" and describes his costume in detail [C:high, same row]. Both live in the same DB row today. Unresolved.
+2. Comment-ranker config shape. My loaded project instructions describe config.json as a single required channel_url field [C:high, as loaded]. The file on disk is a profile registry with active_profile + a profiles[] array of multi-channel buckets [C:high, S:file, 2026-07-10]. The on-disk file is newer; the instructions in my context are stale.
+3. Signals dashboard UI status. Memory 2026-07-24: "Visual dashboard UI still TODO". CLAUDE.md (edited 2026-07-27): SignalsPanel.tsx is built and mounted at Analysis -> Signals [C:high both]. Probably sequential rather than contradictory, but I did not verify the running UI.
+4. Explainer Chris subscriber count. channels.subscriber_count = 11,300 with last_scanned_at 2026-04-20 [C:high]; the 2026-04-02 market gap report says 2,870 [C:high]. Neither reflects 2026-07-29. Real current figure: NOT_AVAILABLE.
+5. is_self semantics. CLAUDE.md calls is_self a "legacy flag from the original spec" still used by gapService and some ideation queries [C:high]. In the live DB both own channels carry is_self=1 alongside is_main/is_secondary -- so the documented competitor filter (is_main=0 AND is_self=0 AND is_secondary=0) works, but any query using is_self alone cannot distinguish main from secondary [C:high, S:tool sqlite].
+6. Where tier-list demand mining lives. Two independent systems answer "what does my audience want next": channel_comment_ranker (S-D tier list, last run 2026-07-10, now pointed at GTA competitor channels) and the whiteboard app's comment miner + ideation reports (last run 2026-07-29). No file states which is canonical or whether one supersedes the other [C:high, S:tool fs].
+
+# 14. INTERVIEW QUEUE
+
+1. What is the actual revenue picture -- AdSense monthly, RPM by channel, and any sponsorship rate, floor, or deal in flight? I hold zero financial data, which makes every "is this worth making" judgment ungrounded.
+2. Who are the named humans in this operation -- writer, researcher, asset-producer, editor, plus anyone else -- and what does each cost, on what channel do you reach them, and what is the current state of each relationship?
+3. Did GTA 6 Explained actually launch? If yes, on what channel/handle, with what first videos and what results. If no, what stopped it.
+4. What are the real current subscriber counts for Explainer Chris, explainerguy01, and the GTA channel -- the DB has been frozen at 2026-04-20 since April.
+5. Why did the last three non-"Free App" uploads land at 3.2K / 5.8K / 34.7K when the catalog top is 1.7M? Your read on the cause is the single most valuable thing missing from my model of the channel.
+6. What is explainerguy01's actual role now -- retired first channel, active second brand, or a testing ground? Should it still be publishing?
+7. Who or what is @SabrinatheTaurus, and why does it have a fully-run tier-list profile?
+8. Which of your tools do you actually open in a normal week, and which are dead weight? Ideation reports ran 2026-07-29 but the daily reports stopped on 2026-06-23 -- is that abandonment or breakage?
+9. What is the target -- subscriber number, monthly revenue, or views/month -- and by what date? I have thresholds (100K proof floor, ~1M-view path) but no business goal to attach them to.
+10. What are your hard brand-safety and never-publish lines beyond "no clickbait lies" -- topics, sponsors, claims, or formats that are off-limits regardless of the numbers?
+
+# 15. CONTEXT DEBT
+
+Blunt list of what an agent running your operations daily would need and I do not have:
+
+- All money. No revenue, no RPM, no CPM, no sponsorship rate, no production cost per video, no tool spend, no Anthropic or YouTube API spend. I know your DAILY_SOFT_BUDGET is 6,000 quota units but not what a video earns or costs. Every prioritization decision I could make is blind to unit economics.
+- All people. Not one name. No writer, editor, VA, accountant, sponsor contact, or Discord community manager. The two-list RESEARCHER/PRODUCTION-ASSETS split you designed proves a real handoff exists that I cannot see.
+- The actual publish loop. I know how ideas are generated in exhaustive detail and almost nothing about how a video gets made: who writes when, turnaround per stage, where scripts and assets live (Drive? Notion? Trello only?), what the approval gate is, how long an idea takes to reach upload.
+- Trello reality. A large share of the app is Trello-driven (board/research/published/branch/boosters) yet trello_board_id is NULL for both workspaces and I have never seen a board, list name, or card. Your real pipeline state is invisible to me.
+- Analytics. No retention curves, no CTR, no traffic sources, no audience geography or demographics. Your entire optimization strategy is built on competitor public view counts because your own performance data was never in scope. That is a significant strategic blind spot, not just a data gap.
+- Post-publish feedback. Nothing closes the loop: no record of which ideation-report idea became which video and what it did. recommendation_feedback and report_feedback tables exist; I have no evidence you've used them. Without that, the "brain" only learns from other people's videos, never from your own outcomes.
+- The Discord and "the course." The tier-list spec references screenshotting for "the Discord / the course". I know nothing about either -- audience size, whether the course is a product you sell, or whether these are revenue lines.
+- Why the two dormant projects stopped. explainer_clipper implies a Facebook/TikTok repurposing strategy abandoned around 2026-06-03; thanos.py implies a scraping approach abandoned 2026-04-02. Whether each was superseded, broken, or deprioritized is unknown, so an agent risks rebuilding a path you already rejected.
+- Time and constraints. No working hours, no capacity limit, no travel, no other income or job, no deadline pressure beyond GTA 6's 2026-11-19 launch. I cannot judge whether "make one more video" is realistic in any given week.
+- Machine and continuity risk. Everything material -- the DB, the memories, the exports, the tier-list outputs -- lives on one Windows desktop under C:\Users\MarvensD\Desktop\. I have no evidence of any backup beyond one local pre-migration .db copy and no evidence any of it is in git.
+
+END OF HARVEST | tool: claude-code | sections populated: 16/16 | self-assessed completeness: 85%
+
