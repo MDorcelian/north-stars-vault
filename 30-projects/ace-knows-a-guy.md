@@ -34,6 +34,9 @@ Decision 2026-07-26: hire ONE channel manager before any individual freelancers 
 - Trevor (Pakistan, Ice Station Zebras 4.8K): on hold pending creative-ownership answer [H][D]
 Pattern learned: the pool is full of growth-ops people, zero documentary storytellers so far [H][D].
 
+## TikTok handle rename
+Current handle: @ace.explainer. Rename window to @AceKnowsAGuy opens 2026-08-15 (per Marvens, 2026-08-01) [G2]. Hard deadline for completing the rename remains ~2026-08-28 (30-day window from 2026-07-29 lock). Do not attempt the rename before 08-15.
+
 ## Screening SOP
 Breadcrumb (favorite GTA character) -> GTA proof -> viral proof -> creative vs ops split -> Asia exception check (Pak/Ind/Ban need strong stats plus real GTA proof) -> Trello card [H][D].
 
