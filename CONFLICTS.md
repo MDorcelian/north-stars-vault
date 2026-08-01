@@ -1,33 +1,19 @@
-# CONFLICTS.md
+# CONFLICTS.md (archive — all resolved as of 2026-08-01)
 
-Unresolved contradictions awaiting Marvens' ruling. Present at most two per day. He can answer in shorthand ("1A, 3 delete").
+All 15 original conflicts have rulings. Nothing outstanding here; new conflicts get added below as they arise.
 
-1. RESOLVED 2026-08-01. Entity and AdSense map: Royalty Media LLC runs Explainer Chris, Explainer Chris ESP, and @AceKnowsAGuy. All other channels sit on his personal Gmail account. [G2] See 10-identity/entity-map.md.
-
-2. RESOLVED 2026-08-01. Canonical income target: staged, $30k/mo net after tax is the current steering metric, $100k/mo gross via automation is the stretch goal, open ceiling above that. [G2] See 20-goals/goals.md.
-
-3. "explainerchris demonetization" entry in the old agent's failure log [H] contradicts every other source (main channel active and monetized; it was explainerguy01 that was flagged). Confirm this is the old agent's confusion and delete, or correct me.
-
-4. Home base for weather and local context: Bloomfield NJ [H] vs Nutley NJ [C-side records].
-
-5. explainerguy01 today: retired feeder for collab credits, or active second brand that should keep publishing? Also: ~50K [C, 07-15] vs ~58K [M] subs.
-
-6. The "110,000+ subscriber explainer channel" claim in the marketing snapshot [T] matches no channel in the operational record. Which channel and when, or retire the claim from future copy.
-
-7. Email list truth: 70K+ historical [T] vs 40 on Kit (07-06) [T]. What is real, on what platform, and is the nurture sequence deployed?
-
-8. Ace: narrator or mascot. The workspace persona says narrator, no lore about Ace; the mascot column in the same DB row describes him as the recurring mascot [A]. One sentence from you settles the bible.
-
-9. Marketing-copy numbers (Track Record snapshot, sales pages) get graded G3 and never quoted as operational truth. Confirm.
-
-10. Legacy vault entry "Alice, platform team at Acme, co-leading Obsidian KB project" [H] looks like template contamination (Acme). Delete?
-
-11. Script length brief: keep stating the 2,300 ceiling, or update the standing brief to the proven 2,800 to 3,000 floor for 10-section scripts?
-
-12. Hook policy: cold-open absolute, or the documented retention exception (06-20 case) as a written rule?
-
-13. Workspace 2 naming: rename "GTA 6 Explained" to Ace Knows a Guy everywhere?
-
-14. @SabrinatheTaurus: a fully-run comment-ranker profile exists for this channel with zero context. Client, test, or third brand?
-
-15. VideoVault: confirmed dead and archived?
+1. RESOLVED 2026-08-01. Entity/AdSense map: Royalty Media LLC runs Explainer Chris, Explainer Chris ESP, @AceKnowsAGuy. All other channels on personal Gmail. See 10-identity/entity-map.md.
+2. RESOLVED 2026-08-01. Income target: staged, $30k/mo net after tax is the current steering metric, $100k/mo gross via automation is the stretch, open ceiling above. See 20-goals/goals.md.
+3. RESOLVED 2026-08-01. "explainerchris demonetization" was old-agent confusion; explainerguy01 was the channel actually flagged. Discarded, see 00-inbox/legacy-triage-log.md.
+4. RESOLVED 2026-08-01. Home base: Bloomfield NJ. See 10-identity/marvens.md.
+5. RESOLVED 2026-08-01. explainerguy01 is a retired feeder for collab credits only (every Explainer Chris video, including all previous, carries a collab credit per WannerCashCow's rec). Current subs: explainerguy01 73.2K, Explainer Chris 52.2K. See 30-projects/explainerguy01.md.
+6. RESOLVED 2026-08-01. The old "110,000+ subscriber" marketing claim is most likely the combined subscriber count across explainerguy01 + Explainer Chris (~125K today). Graded G3, not to be quoted as a single-channel figure. See 30-projects/explainerguy01.md.
+7. RESOLVED 2026-08-01. Email/funnel truth: 70K+ is historical Gumroad sales, not email subs. 40K+ actually emailed via Kit. Nurture sequences ARE deployed, live, with real send data (low volume, near-zero click rate except the purchase-follow welcome email). See 30-projects/jiggy.md.
+8. RESOLVED 2026-08-01. Ace is narrator AND returning mascot, no deep lore currently, has one-liners/recurring bits. See 30-projects/ace-knows-a-guy.md.
+9. RESOLVED 2026-08-01. Marketing-copy/sales-page numbers are graded G3 and never quoted as operational truth. Standard confirmed, no exceptions.
+10. RESOLVED 2026-08-01. "Alice, platform team at Acme" is template contamination, discarded. Unrelated to his real artist contact "thealicetrip." See 00-inbox/legacy-triage-log.md.
+11. RESOLVED 2026-08-01. Script length: 2,300-word ceiling stays as the aspirational brief target; accepted exception when the scriptwriter can't condense further. See 50-systems/hook-and-script-length.md.
+12. RESOLVED 2026-08-01. Hook policy: cold-open remains the default/near-absolute rule (matches top competitor Byte Sized Explainer). Hook tests need per-video sign-off, not a blanket policy change. See 50-systems/hook-and-script-length.md.
+13. RESOLVED 2026-08-01. Workspace renamed: "GTA 6 Explained" retired everywhere in favor of Ace Knows a Guy. See 30-projects/ace-knows-a-guy.md.
+14. RESOLVED 2026-08-01. @SabrinatheTaurus is a client account (his girlfriend). See 40-people/third-party-profiles.md.
+15. RESOLVED 2026-08-01. VideoVault confirmed dead/archived: pulled by Gumroad over YouTube takedown-policy exposure; was his best-selling digital product; advisor Serge Gatari recommended not reviving it (undercuts the premium offer). See 30-projects/dormant-dead.md.

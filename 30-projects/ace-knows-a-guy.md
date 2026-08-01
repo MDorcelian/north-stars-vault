@@ -10,13 +10,13 @@ related: [40-people/vincent-bekong.md, 20-goals/goals.md, CONFLICTS.md, 99-open-
 
 # Ace Knows a Guy (pre-launch GTA 6 documentary channel)
 
-Workspace 2 in the ideator; older internal name "GTA 6 Explained" (rename to Ace Knows a Guy everywhere: open question, CONFLICTS.md #13).
+Canonical name everywhere: Ace Knows a Guy. The old internal name "GTA 6 Explained" is retired, see CONFLICTS.md #13 (resolved).
 
 ## Brand
 Locked @AceKnowsAGuy on YT/IG, X reserved, TikTok @ace.explainer with a 30-day rename window opened 2026-07-29, deadline ~2026-08-28 [H][D]. aceknowsaguy.com 301-redirects to the YT channel; profile pic live; banner waits on Vincent [D].
 
-## Persona
-Ace: fictional investigator/narrator inside the GTA universe, NOT comic relief (but see CONFLICTS.md #12, narrator-vs-mascot question). Thumbnail formula: recognizable GTA character 40-60%, Ace reaction 40-50% offset, rim-lit edge, dark register, high contrast; one focal point, <= 3 overlay words that pair with (never repeat) the title [H][A].
+## Persona (RESOLVED 2026-08-01, closes CONFLICTS.md #8)
+Ace is both narrator AND returning mascot, not an either/or. Currently no deep lore, but does have one-liners and recurring bits [G2, not fully locked, may evolve]. Workspace naming: "GTA 6 Explained" is retired everywhere in favor of Ace Knows a Guy [G2, closes CONFLICTS.md #13].
 
 ## Budget
 $1,250/mo covers everything GTA this month; $740 remains after Vincent's milestone; August budget may be lower [D].

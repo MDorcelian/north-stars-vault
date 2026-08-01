@@ -12,7 +12,7 @@ related: [10-identity/standing-rules.md, 90-voice/voice.md, 20-goals/goals.md]
 
 Creator. Contractor alias "Leonard Roselt" (used on the faved contract with Vincent) [H][D]. Creator alias Jiggy / @JiggypuffFridays [C][T]. Discord jiggypufffridays [H]. Telegram 8218066663 [H].
 
-Location: New Jersey, EST [H][C]. Exact town conflicted: Bloomfield NJ [H] vs Nutley NJ [C]. See CONFLICTS.md #4.
+Exact town: Bloomfield NJ [G2, 2026-08-01].
 
 Does not drive, no license [H][D]. Async only, no calls [H][C]. Birthday August 8, used by the morning brief [H][D].
 

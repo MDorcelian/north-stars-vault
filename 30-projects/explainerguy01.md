@@ -8,14 +8,15 @@ sources: [C, M, A]
 related: [30-projects/explainer-chris.md, CONFLICTS.md]
 ---
 
-# explainerguy01 (secondary, demonetized via related @RedSignalArchives flag)
+# explainerguy01 (retired feeder for collab credits)
 
-Subscribers: ~50,000 stated 2026-07-15 [C]; one record says ~58K [M]; DB shows 39,600, stale as of 2026-04-20 [A]. See CONFLICTS.md #5 for the subscriber discrepancy.
+Status: RESOLVED 2026-08-01. explainerguy01 is not posting; Explainer Chris is the active channel. Per WannerCashCow's recommendation, every Explainer Chris video (including all previous videos, retroactively) carries a collab/cross-promotion credit back to explainerguy01. It functions purely as a feeder for collab credit, not an active second brand [G2].
 
-Cross-promoted with the main channel via YouTube collab credits [C].
+## Subscribers (current, 2026-08-01)
+- explainerguy01: 73.2K [G2]
+- Explainer Chris (main): 52.2K [G2]
+Supersedes the earlier conflicting figures (~50K/~58K for guy01, stale 39,600 DB read from 04-20). Combined subscriber count across the two channels (~125K) is the likely source of the old marketing claim of "110,000+ subscribers" on a single channel, see CONFLICTS.md #6, now resolved as a combined-channels figure, graded G3 until re-verified per-channel.
 
-Top videos: DDR RAM 587,395; Mobile Network Gen 480,610; Linux Distro 405,192 [A].
+Top videos (from prior DB read, still the best data on file): DDR RAM 587,395; Mobile Network Gen 480,610; Linux Distro 405,192 [A].
 
-Role today (retired feeder for collab credits, or active second brand?): CONFLICTED, see CONFLICTS.md #5.
-
-Note: this is the channel that was actually demonetized. A conflicting entry in the old agent's failure log claims "explainerchris demonetization" instead. See CONFLICTS.md #3.
+Demonetization: explainerguy01 is the channel that was actually demonetized, via the @RedSignalArchives related-channel flag. An old agent log incorrectly attributed this to Explainer Chris; that entry is discarded, see 00-inbox/legacy-triage-log.md.

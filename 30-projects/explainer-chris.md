@@ -13,7 +13,7 @@ related: [30-projects/revenue-sponsorship-engine.md, 40-people, CONFLICTS.md]
 Format law: "Every [X] Explained" (optionally "in [N] Minutes"), cold open on Section 1, no intro/hook (but see CONFLICTS.md #16 hook policy), ~2 min/section, 3 CTAs (mid like, end subscribe, next-video bridge "Now here's the thing... Click the video on screen right now"), main title clause <= 60 chars [C][A].
 
 ## Subscribers
-2,870 (2026-04-02) -> 11,300 (2026-04-20, last DB scan) -> ~22,000 (2026-07-15, stated) [A][C].
+2,870 (2026-04-02) -> 11,300 (2026-04-20, last DB scan) -> ~22,000 (2026-07-15, stated) -> 52.2K (2026-08-01, current) [A][C][G2].
 
 ## Top videos (DB read 2026-07-28)
 - Free App Part 1: 1,727,675 (pub 06-08)
