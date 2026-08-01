@@ -15,8 +15,21 @@ Format law: "Every [X] Explained" (optionally "in [N] Minutes"), cold open on Se
 ## Subscribers
 2,870 (2026-04-02) -> 11,300 (2026-04-20, last DB scan) -> ~22,000 (2026-07-15, stated) -> 52.2K (2026-08-01, current) [A][C][G2].
 
-## Revenue drop: hypothesis logged (2026-08-02)
-June $7k -> July $3.5k (~50% drop). Marvens' working explanation as of 2026-08-02: topic selection. Backed up on 2 videos (one being "Every Video Game Cheat") that he thought would do well but are likely just not in season. Frame: treat as a topically driven soft patch, not a structural/platform issue (i.e. not demonetization-related), pending confirmation against actual per-video view data. Still worth a look at per-video performance to confirm whether the refrain/revenue correlates with the seasonality theory before assuming.
+## Revenue drop: analysis (2026-08-02, live YouTube data)
+June $7k -> July $3.5k (~50% drop). Marvens proposed: topic selection, "Every Video Game Cheat" out of season. Live yt-dlp pull of Explainer Chris (UCSDU975BassXQZGoJmvctNQ, 52.2K subs) refines this:
+
+Recent uploads by views (live 08-02):
+- Video Game Cheat (pub 07-28): 3,000
+- Windows Startup Sound (pub 07-19): 3,500
+- Free App Part 3 (pub 07-17): 120,000
+- AI Assistant (pub 07-13): 6,100
+- Operating System (pub 07-01): 35,000
+
+Catalog anchors: Free App P1 1.7M, AI Model 923K, Web Browser 671K, Graphics Settings 452K, Network Protocol 149K, iPhone Chip 125K.
+
+Sharper finding: it is a PROVEN-SERIES GAP, not a pure seasonality effect. Every recent non-franchise one-off (Cheat 3K, Windows 3.5K, AI Assistant 6.1K, OS 35K) lands far below the catalog ceiling, not just "Video Game Cheat." The Free App franchise (1.7M / 133K / 120K) and evergreen anchors are what carry the channel. So the driver is a run of weaker one-off topics structurally underperforming vs. proven franchises, more actionable than seasonality alone. Implication: lean back into franchise/series and tested evergreen formats, test one-offs more selectively. (Caveat: revenue needs AdSense-side confirmation, views are the proxy here.)
+
+Related note: subscriber scans on this channel were previously frozen (see 99-open-loops/subscriber-scans-frozen.md); Marvens confirmed 08-02 that yt-dlp access is fine to use for channel checks.
 
 ## Top videos (DB read 2026-07-28)
 - Free App Part 1: 1,727,675 (pub 06-08)
