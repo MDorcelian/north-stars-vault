@@ -10,9 +10,9 @@ related: [40-people/vincent-bekong.md, 30-projects/ace-knows-a-guy.md]
 
 # Vincent delivery ($510 milestone active)
 
-Expressions sheet (6 expressions, left+right, 12 PNGs) awaiting delivery. Banner for Ace channel also waits on Vincent.
+Expressions sheet (6 expressions, left+right, 12 PNGs) awaiting delivery. NOTE 2026-08-02: the Ace channel banner is NOT Vincent's scope, Marvens creates it himself. Earlier notes that said the banner waits on Vincent are wrong, corrected.
 
-## Drafted nudge (awaiting his approval)
-_2026-08-01_
+Status: nudge sent 08-02 by Marvens (expressions milestone check-in only, per the Upwork thread). Awaiting Vincent's ETA/delivery.
 
-> Hey Vincent — quick check-in on the $510 expressions milestone (6 expressions, left+right, 12 PNGs). How's progress looking, and do you have a rough ETA? Also wanted to flag the Ace channel banner is still queued behind it whenever you get a chance. Thanks!
+## Drafted nudge (already sent 08-02, no banner mention)
+Hey Vincent, quick check-in on the $510 expressions milestone (6 expressions, left and right, 12 PNGs). How is progress looking and do you have a rough ETA? Thanks!

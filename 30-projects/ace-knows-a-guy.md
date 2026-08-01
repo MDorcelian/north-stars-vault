@@ -13,7 +13,7 @@ related: [40-people/vincent-bekong.md, 20-goals/goals.md, CONFLICTS.md, 99-open-
 Canonical name everywhere: Ace Knows a Guy. The old internal name "GTA 6 Explained" is retired, see CONFLICTS.md #13 (resolved).
 
 ## Brand
-Locked @AceKnowsAGuy on YT/IG, X reserved, TikTok @ace.explainer with a 30-day rename window opened 2026-07-29, deadline ~2026-08-28 [H][D]. aceknowsaguy.com 301-redirects to the YT channel; profile pic live; banner waits on Vincent [D].
+Locked @AceKnowsAGuy on YT/IG, X reserved, TikTok @ace.explainer with a 30-day rename window opened 2026-07-29, deadline ~2026-08-28 [H][D]. aceknowsaguy.com 301-redirects to the YT channel; profile pic live. Banner is Marvens' own task, NOT Vincent's (corrected 08-02).
 
 ## Persona (RESOLVED 2026-08-01, closes CONFLICTS.md #8, SUPERSEDED same day by full dossier)
 Full detailed persona now on file: see 30-projects/ace-launch-dossier-full.md §2. Ace is a corner-store insider character living inside the GTA universe (kayfabe POV rule), not comic relief but with real texture and personality (catchphrases: "allegedly", "you ain't heard this from me", "I know a guy"). This is much more developed than the earlier vault placeholder implied, that placeholder ("no deep lore, one-liners, not fully locked") undersold what actually exists. Workspace naming: "GTA 6 Explained" retired everywhere in favor of Ace Knows a Guy [G2, closes CONFLICTS.md #13].

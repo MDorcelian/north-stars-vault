@@ -12,7 +12,7 @@ related: [CONFLICTS.md, 30-projects/, 40-people/coaching-and-advisors.md]
 
 ## OPEN
 - TikTok rename @ace.explainer -> @AceKnowsAGuy: window opens 2026-08-15, hard deadline ~2026-08-28 [D][G2]. Dedicated one-shot reminder cron set for 2026-08-15 7am (job "TikTok Rename Reminder (Aug 15 window)").
-- Vincent Bekong delivery ($510 expressions milestone active) [H][D]. Nudge drafted, awaiting approval: 99-open-loops/vincent-delivery.md.
+- Vincent Bekong delivery ($510 expressions milestone active, nudge sent 08-02) [H][D]. Ace banner is NOT Vincent's scope, Marvens creates it himself (corrected 08-02).
 - Upwork CM post deploy decision after 24-48h of Discord monitoring [H][D].
 - Subscriptions-management video (teased, never made) [C].
 - TikTok appeals from June, outcome unknown [C]. Nudge drafted, awaiting approval: 99-open-loops/tiktok-appeals-outcome.md.
