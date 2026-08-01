@@ -22,7 +22,7 @@ Reference doc from the call (hiring kit / bullet points, sourced from onlinejobs
 ## Andrew / WizofYT — CORRECTED 2026-08-01
 No 1-on-1 meeting or session exists or is scheduled with Andrew. This was the old-agent's confusion (mixed up with the Friday WannerCashCow group call). Andrew/WizofYT's actual offering, per Marvens: a paid coaching program, $4,500 over 2 months, $9,000 total [G2, 2026-08-01].
 
-Marvens' read on Andrew (his words, 2026-08-01): "Andrew just has students who make more than anyone else I've seen. He understands AI to a tee and prints on his own channels. It's the student results that really are good." Recommended checking Andrew's own YouTube channel and reading his videos/transcripts and thumbnails directly: https://www.youtube.com/@wizofYT
+Marvens' read on Andrew (his words, 2026-08-01): "Andrew just has students who make more than anyone else I've seen. He understands AI to a tee and prints on his own channels. It's the student results that really are good." Additional context (2026-08-01): Andrew is vetted within the YouTube Automation community, and Marvens specifically flags his depth is on YouTube's platform strengths more than its weaknesses, i.e. he knows what works and scales on the platform very well. Recommended checking Andrew's own YouTube channel and reading his videos/transcripts and thumbnails directly: https://www.youtube.com/@wizofYT
 
 ## WizofYT channel data (pulled 2026-08-01 via yt-dlp, G1)
 Channel name: "Andrew". 18,500 subscribers. Recent uploads (title / views / duration):
