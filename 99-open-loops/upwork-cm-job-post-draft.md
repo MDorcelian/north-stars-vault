@@ -1,8 +1,7 @@
 ---
 name: Upwork CM Job Post (revised v2, policy-compliant)
-type: draft
-status: awaiting approval
-grade: draft
+type: live
+status: LIVE 2026-08-02
 updated: 2026-08-02
 sources: [drafted by North Stars, revised to be Upwork policy-compliant after a Rates & Fees violation]
 related: [99-open-loops/cm-job-post-guarded-v3.md, 40-people/cm-candidates.md]
