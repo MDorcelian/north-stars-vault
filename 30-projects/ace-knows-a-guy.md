@@ -31,7 +31,7 @@ Decision 2026-07-26: hire ONE channel manager before any individual freelancers 
 - Damonovaah: discarded (agency, zero GTA in delivered channels)
 - Lance: rejected (wrong niche)
 - Muhammad: rejected (Asia-excluded, meeting-push)
-- Trevor (Pakistan, Ice Station Zebras 4.8K): on hold pending creative-ownership answer [H][D]
+- "Trevor" (Pakistan, Ice Station Zebras 4.8K): DISCARDED 2026-08-01, not a real candidate identity. He responded "Trevor" to a GTA 6 screening question and never gave a real name [H][D][G2]
 Pattern learned: the pool is full of growth-ops people, zero documentary storytellers so far [H][D].
 
 ## TikTok handle rename

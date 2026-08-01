@@ -17,6 +17,6 @@ Decision 2026-07-26: hire ONE channel manager before any individual freelancers.
 - Damonovaah: discarded (agency, zero GTA in delivered channels).
 - Lance: rejected (wrong niche).
 - Muhammad: rejected (Asia-excluded, meeting-push).
-- Trevor (Pakistan, Ice Station Zebras 4.8K): on hold, pending creative-ownership answer (open loop).
+- "Trevor" (Pakistan, Ice Station Zebras 4.8K): DISCARDED 2026-08-01, not a real candidate. He responded "Trevor" to a GTA 6 screening question and never gave a real name, an evasion/red flag, not an identity to keep screening. Remove from active CM pipeline [G2].
 
 Pattern: pool is full of growth-ops people, zero documentary storytellers so far.
