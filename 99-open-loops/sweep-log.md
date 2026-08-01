@@ -1,0 +1,1 @@
+2026-08-01: Swept 16 files in 99-open-loops/ (excluding closed/); drafted 5 nudges (vincent-delivery, emanuele-hiring-session, trevor-creative-ownership, wizofyt-andrew-session, tiktok-appeals-outcome) for loops >72h waiting on external parties.
