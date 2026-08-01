@@ -15,8 +15,11 @@ Canonical name everywhere: Ace Knows a Guy. The old internal name "GTA 6 Explain
 ## Brand
 Locked @AceKnowsAGuy on YT/IG, X reserved, TikTok @ace.explainer with a 30-day rename window opened 2026-07-29, deadline ~2026-08-28 [H][D]. aceknowsaguy.com 301-redirects to the YT channel; profile pic live; banner waits on Vincent [D].
 
-## Persona (RESOLVED 2026-08-01, closes CONFLICTS.md #8)
-Ace is both narrator AND returning mascot, not an either/or. Currently no deep lore, but does have one-liners and recurring bits [G2, not fully locked, may evolve]. Workspace naming: "GTA 6 Explained" is retired everywhere in favor of Ace Knows a Guy [G2, closes CONFLICTS.md #13].
+## Persona (RESOLVED 2026-08-01, closes CONFLICTS.md #8, SUPERSEDED same day by full dossier)
+Full detailed persona now on file: see 30-projects/ace-launch-dossier-full.md §2. Ace is a corner-store insider character living inside the GTA universe (kayfabe POV rule), not comic relief but with real texture and personality (catchphrases: "allegedly", "you ain't heard this from me", "I know a guy"), cold-open ritual (cigarette-behind-ear bit) and sign-off signature (card flick + store bell) both locked. This is much more developed than the earlier vault placeholder implied, that placeholder ("no deep lore, one-liners, not fully locked") undersold what actually exists. Workspace naming: "GTA 6 Explained" retired everywhere in favor of Ace Knows a Guy [G2, closes CONFLICTS.md #13].
+
+## ENTITY CONFLICT (flagged 2026-08-01, NOT auto-resolved)
+The full launch dossier (dated 2026-07-12, §8 Phase 0 and D3) says the Ace channel should launch under a brand NEW LLC with AdSense SEPARATE from Royalty Media, specifically citing the explainerguy01 related-account strike risk as the reason. This directly conflicts with today's (2026-08-01) CONFLICTS.md #1 resolution, where Marvens stated Royalty Media LLC runs Explainer Chris, Explainer Chris ESP, AND @AceKnowsAGuy together. These cannot both be true as stated. Since the entity-map ruling is more recent and came directly from Marvens today, treating it as current UNLESS he says otherwise, but this needs his explicit call given the dossier's stated reason (strike risk isolation) is a real structural concern, not a trivial detail. See 10-identity/entity-map.md.
 
 ## Budget
 $1,250/mo covers everything GTA this month; $740 remains after Vincent's milestone; August budget may be lower [D].

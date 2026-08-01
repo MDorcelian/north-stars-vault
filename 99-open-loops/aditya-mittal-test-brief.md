@@ -20,7 +20,7 @@ Hey Aditya, thanks for reaching out, appreciate the Niko Bellic answer, that's t
 
 Your portfolio's strong, saw the client list and reviews on YT Jobs. Before we go further: none of your verified clients are GTA-specific, so I want to see the GTA knowledge translate into actual content, not just trivia.
 
-Quick test, no payment expected for this: write a 300 to 400 word explainer style outline, not a full script, just structure and key beats, for the topic "Everything We Know About Gangs in GTA 6." Cold open, no intro or hook, treat it like a Byte Sized Explainer style cold open. Should read as documentary and investigative, not comic relief, our narrator Ace is dry and matter of fact, not a jokester.
+Quick test, no payment expected for this: write a 300 to 400 word explainer style outline, not a full script, just structure and key beats, for the topic "Everything We Know About Gangs in GTA 6." Cold open, no intro or hook, treat it like a Byte Sized Explainer style cold open. Ace's real voice: he's an in-universe corner-store insider, not the game's narrator, so he frames things as "word is..." and "I know a guy" rather than "in this game." Serious/investigative undertone with personality texture (a knowing, conspiratorial energy), not comic relief, not deadpan.
 
 Send it over whenever's convenient, no deadline pressure, just want to see how you structure GTA content before we talk scope, rate, and whether this becomes the channel manager role or something narrower.
 
