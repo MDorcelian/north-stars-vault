@@ -30,3 +30,6 @@ Strongest verified-track-record candidate so far in the CM search, by a wide mar
 2. His current roster (gaming/entertainment, general) doesn't show a GTA-specific channel among his 30 verified clients from what's visible on the portfolio page. His stated GTA lore knowledge is currently just his own claim (Discord message + the breadcrumb answer), not yet verified via a work sample.
 
 Recommended next step if Marvens wants to proceed: use the SOP's test-and-sample method (per 50-systems/hiring-and-team-management.md) rather than taking the pitch at face value, e.g. a short unpaid GTA-explainer outline/script sample task, given how the other criteria already check out strongly.
+
+## Test brief drafted 2026-08-01
+See 99-open-loops/aditya-mittal-test-brief.md for the drafted reply (short unpaid GTA-explainer outline test, no payment, per the coaching call's test-and-sample screening rule). Awaiting Marvens' approval to send, and needs a real GTA 6 topic picked (currently a placeholder) before it goes out.
