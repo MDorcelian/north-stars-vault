@@ -1,44 +1,33 @@
 ---
-name: Upwork CM Job Post (drafted v1)
+name: Upwork CM Job Post (revised v2, policy-compliant)
 type: draft
 status: awaiting approval
 grade: draft
 updated: 2026-08-02
-sources: [drafted by North Stars per 50-systems/group-coaching-agenda-07-31.md and existing AceKnowsAGuy Upwork post fix list]
-related: [30-projects/ace-knows-a-guy.md, 40-people/cm-candidates.md, 99-open-loops/cm-job-post-draft.md]
+sources: [drafted by North Stars, revised to be Upwork policy-compliant after a Rates & Fees violation]
+related: [99-open-loops/cm-job-post-guarded-v3.md, 40-people/cm-candidates.md]
 ---
 
-# Upwork CM Job Post (drafted 2026-08-02)
+# Upwork CM Job Post — revised v2 (2026-08-02)
 
-Marvens said the Upwork post also needs refreshing, separate from the Discord post. The prior Upwork post fix-list (from 30-projects/ace-knows-a-guy.md) still pending: category to YouTube, JSS 90%+, $1K+ earned, native/bilingual English, Asia excluded. This draft incorporates the proven-series/creative-ownership angle and those posting criteria. This is the Upwork (formal gig/job) version, complementary to the Discord post (99-open-loops/cm-job-post-draft.md), both share the same creative-ownership test so responses are comparable.
+WHY REVISED: v1 on Upwork was taken down for a Rates & Fees policy violation. Root cause: v1 asked applicants for an unpaid 300-400 word outline test, which violates Upwork's rule against "free work, unpaid tasks, contest-style jobs" (Discord allows this, Upwork does not). This v2 REMOVES all unpaid-work asks. Screening on Upwork is done via the normal proposal/portfolio process and a paid trial contract later in the funnel, never a free sample.
 
-## Post (plain text, ready to copy into Upwork)
+This is the Upwork-specific version. The Discord post (cm-job-post-guarded-v3.md) keeps the unpaid outline filter because Discord's marketplace rules permit it.
 
-**Channel Manager for a New GTA 6 Documentary YouTube Channel (pre-launch, ~$1,250/mo)**
+## Post (plain text, ready to copy into ONE Upwork posting)
 
-Long-term channel manager for a new character-driven, documentary-style GTA explainer channel launching before the GTA 6 release in November. Long-form deep-lore videos (18-40 min), original on-screen character (not reaction commentary), premium production.
+Channel manager for a new long-form GTA documentary YouTube channel launching before GTA 6 this November. Character-driven, creative-first.
 
-About the role:
-- Own creative and content direction end to end: topic selection, documentary angle, script arc (cold open to payoff), thumbnail direction, editor oversight, consistent voice, and a publishing cadence through the Nov 19 launch.
-- This is a creative channel management role. The single most important thing you bring is demonstrated creative ownership of YouTube content, not SEO/growth/analytics alone.
+Looking for someone who can own a channel end to end: topic selection, creative direction, script oversight, thumbnail direction, and coordination of an editor and voiceover across a consistent publishing cadence. Content direction matters more than raw optimization.
 
-Must-have:
-- Real YouTube channel-management or creative-director experience with a portfolio you can point to (videos you shaped, not just reported on).
-- Genuine GTA universe familiarity or clear proof you can go deep fast on a lore-heavy niche.
-- Strong written English (US-native or equivalent).
+Must have real GTA universe familiarity, deep lore counts here, and demonstrated creative ownership of content you have worked on. If your background is purely growth, SEO, and analytics, this is not the right fit; I need creative ownership, not just performance reporting.
 
-Good to have:
-- Experience with documentary / long-form explainer formats (not just gaming shorts).
-- Character or narrative-driven channels.
+Please attach your portfolio and links to 2 or 3 videos where your creative/writing direction or management of the content was a direct factor. Experience coordinating editors, scriptwriters, and thumbnail designers is a plus.
 
-To stand out (unpaid, this is the filter):
-Write a 300-400 word outline for a video titled "Every GTA 6 Gang Explained," in the voice of a character who is an in-universe corner-store insider, he talks like he's from that world and supposedly knows a guy in every operation, not like a narrator describing a game. Open and close the outline with that personality. This is how I find the right creative fit quickly, I'm not asking for spec work beyond this.
-
-Budget: $1,250/mo to start, performance review after the first 30 days. Please reply in English. Location preference: not South/SE Asia.
+This is a long-term role. Budget is $1,250/mo to start, milestone or performance reviewed after the first 30 days. I will respond to serious, portfolio-bearing proposals only.
 
 ## Notes
-- Incorporates pending Upwork posting fixes: category = YouTube, JSS 90%+ and $1K+ earned are screening criteria Marvens applies when shortlisting (not written into the post itself, per standard practice), English required, Asia excluded via location preference line and his screening step.
-- Same creative-ownership test as the Discord post and the Aditya test, so all responses compare on the same axis.
-- "Location preference: not South/SE Asia" matches the standing Asia-exclusion in the Screening SOP (exceptional cases need strong stats + real GTA proof, evaluated case by case).
-- Same $1,250/mo budget and Nov 19 launch context as the Discord post.
-- Not posted yet. Awaiting Marvens' approval/edit.
+- No unpaid test/sample language anywhere, no contest framing, no "send me free work." Screening is via the proposal, the portfolio requirement (which is allowed, it's their own existing work), and a later paid trial contract if it advances.
+- $1,250/mo is above Upwork's minimum-rate threshold and honest about the role.
+- GTA + creative-first + portfolio requirement preserved, persona still hidden (no Ace, no corner-store insider, no specific topic slate).
+- Awaiting Marvens' acknowledgment of the Upwork warning flag and approval of this revised post.
