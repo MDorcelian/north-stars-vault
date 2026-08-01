@@ -21,7 +21,9 @@ related: [CONFLICTS.md, 30-projects/, 40-people/coaching-and-advisors.md]
 - Daily reports stopped 06-23, cause unknown [A].
 - FAL image-gen key location not yet confirmed (rotation flag still open).
 - YouTube API key: added to .env 2026-08-01, briefly pasted in this Discord chat before being moved; awaiting his call on whether to rotate once more.
-- Emanuele Fathom session (https://fathom.video/share/n4h369xoG6bHsXbkggF-UW2bJBjh6QCM): meeting already happened, but North Stars cannot extract the transcript (Fathom needs a rendered browser + Cloudflare pass, not available in this environment). Needs Marvens to paste the transcript/summary directly, see 40-people/coaching-and-advisors.md.
+- Emanuele Fathom session transcript: RECEIVED 2026-08-01, this loop is closed. Full SOP extracted into 50-systems/hiring-and-team-management.md. Still needed: the reference Google Doc from the call (extraction blocked, see below).
+- WizofYT/@wizofYT channel: PARTIALLY DONE 2026-08-01 via yt-dlp (installed fresh). Got channel stats + 13 recent video titles/views/durations, all real data, see 40-people/coaching-and-advisors.md. BLOCKED on transcripts and thumbnails: YouTube's bot-check wall stopped yt-dlp from fetching individual video pages/subtitles. Needs either browser cookies or another method if deeper research is wanted.
+- Web tool backend limitation: Brave-free cannot extract general page content (Google Docs, most web pages) or run web_search reliably as of 2026-08-01. YouTube specifically is now workable via yt-dlp (installed), but the Google Doc from the coaching call and general web research still need `web.extract_backend` reconfigured to firecrawl/tavily/exa/parallel. Marvens flagged real-content access (channels, transcripts, thumbnails) as important; YouTube channel-level access is now solved, transcript/thumbnail-level access and general page extraction are not.
 
 ## CLOSED / CORRECTED 2026-08-01
 - "Trevor" CM candidate: discarded, not a real identity, gave a fake name during GTA 6 screening. Not an open loop, not a real person to track. See 40-people/cm-candidates.md.
