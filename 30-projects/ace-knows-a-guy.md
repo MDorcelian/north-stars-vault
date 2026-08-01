@@ -38,7 +38,7 @@ Decision 2026-07-26: hire ONE channel manager before any individual freelancers 
 Live Trello data pulled 2026-08-02, see 30-projects/trello-board-sync.md for full detail. Current CM Candidates list status:
 - Lance A.: PASS, wrong niche (political-commentary background)
 - Muhammad U.: PASS/auto-reject, Asia-excluded, no GTA proof
-- Abu Baker S.: HOLD, not closed. First genuinely qualified candidate (1.6M GTA viral proof, passed breadcrumb, passed under Asia exception). Marvens' explicit instruction on the card: "leave it until the guy gets back, so NOT advancing yet." Worth revisiting given the search has otherwise stalled.
+- Abu Baker S.: REJECTED (corrected 2026-08-02, was wrongly logged as HOLD from a stale Trello card note). Ruled out per Discord: ops-only, failed the creative test, all 3 GTA 6 angles failed ideation bot check despite 1.6M viral proof. Not a live candidate.
 - AJ Bascara: PASS, India, no GTA proof on his channel (Neotastic)
 - Damonovaah: DISCARD, no GTA proof despite claims
 - "Trevor" (Pakistan, Ice Station Zebras 4.8K): DISCARDED 2026-08-01, not a real candidate identity. He responded "Trevor" to a GTA 6 screening question and never gave a real name [H][D][G2]. Trello's older card verdict ("borderline, ops-focused") predates this discovery and is now superseded.
