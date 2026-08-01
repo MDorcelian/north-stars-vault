@@ -1,20 +1,20 @@
 ---
-name: Aditya Mittal Test Brief (drafted, v3)
+name: Aditya Mittal Test Brief (drafted, v4)
 type: draft
 status: awaiting approval
 grade: draft
 updated: 2026-08-02
-sources: [drafted by North Stars per 50-systems/hiring-and-team-management.md SOP, updated per 2026-08-02 aesthetic ruling]
-related: [40-people/aditya-mittal-strange-mindset.md, 30-projects/ace-knows-a-guy.md, 30-projects/ace-launch-dossier-full.md]
+sources: [drafted by North Stars per 50-systems/hiring-and-team-management.md SOP, updated with real Trello topic 2026-08-02]
+related: [40-people/aditya-mittal-strange-mindset.md, 30-projects/ace-knows-a-guy.md, 30-projects/trello-board-sync.md]
 ---
 
-# Aditya Mittal — Test Sample Brief v3 (DRAFT, awaiting Marvens' approval to send)
+# Aditya Mittal — Test Sample Brief v4 (DRAFT, awaiting Marvens' approval to send)
 
-Updated 2026-08-02: cigarette and cold-open cigarette bit removed per Marvens' ruling, store-key pendant also removed. v2 (2026-08-02, earlier same day) included the cigarette cold-open, now stale.
+Updated 2026-08-02: now using a real topic pulled directly from the live Trello Ideas list (Trello access was fixed today), instead of the seed-audit topic used in earlier drafts. No cigarette references (removed per the 2026-08-02 aesthetic ruling).
 
-Topic unchanged: "Everything We Know About Gangs in GTA 6" (verified outlier, 496,986 views on a ~3,240-sub channel).
+Topic chosen: "Every GTA 6 Gang Explained" — this is the actual next planned video per the Trello Ideas list, with noted natural sequels (Every Crime Family Explained, Every Rivalry Explained, Every Territory Explained). More directly useful as a test than a generic legacy topic since it's what the channel would actually need first.
 
-## Message to copy and send to Aditya (plain text, no quote formatting)
+## Message (plain text, ready to copy)
 
 Hey Aditya, thanks for reaching out, appreciate the Niko Bellic answer, that's the kind of read on the material we're looking for.
 
@@ -26,11 +26,11 @@ Ace is a corner-store owner in his early 30s, born and raised on the block, who 
 
 Sign-off: one line summing up the thesis, then "You ain't heard this from me," card flick, store bell sound.
 
-Quick test, no payment expected for this: write a 300 to 400 word outline, not a full script, just structure and key beats, for "Everything We Know About Gangs in GTA 6," in Ace's voice as described above. Include the sign-off beat so I can see you've got the character, not just the topic.
+Quick test, no payment expected for this: write a 300 to 400 word outline, not a full script, just structure and key beats, for "Every GTA 6 Gang Explained," in Ace's voice as described above. Include the sign-off beat so I can see you've got the character, not just the topic.
 
 Send it over whenever's convenient, no deadline pressure, just want to see how you handle Ace before we talk scope, rate, and whether this becomes the channel manager role or something narrower.
 
-## Notes for Marvens
-- v3 removes all cigarette/cold-open-ritual references present in v2, per the 2026-08-02 aesthetic update (cigarette and pendant both cut from Ace's design).
-- Cold open beat is left unspecified in this brief since there's no confirmed signature physical bit to replace the cigarette lighter-flick yet. If you want a new cold-open ritual locked before sending, let me know and I'll fold it in; otherwise this version just doesn't test for a cold-open signature move.
-- Still not sent. Same approval gate as before, confirm/edit/hold.
+## Notes
+- v4 swaps the topic to a real Trello Ideas card ("Every GTA 6 Gang Explained") now that board access works. This was the actual next-planned video, more relevant than the earlier legacy-topic pick.
+- Cold-open beat: still left unspecified. Ace's cigarette/lighter-flick bit was removed and there's no confirmed replacement physical bit yet. If you lock one, tell me and I'll fold it into v5.
+- Not sent. Confirm/edit/hold, same as always.
