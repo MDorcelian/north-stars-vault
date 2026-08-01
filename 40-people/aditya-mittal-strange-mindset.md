@@ -32,4 +32,7 @@ Strongest verified-track-record candidate so far in the CM search, by a wide mar
 Recommended next step if Marvens wants to proceed: use the SOP's test-and-sample method (per 50-systems/hiring-and-team-management.md) rather than taking the pitch at face value, e.g. a short unpaid GTA-explainer outline/script sample task, given how the other criteria already check out strongly.
 
 ## Test brief drafted 2026-08-01
-See 99-open-loops/aditya-mittal-test-brief.md for the drafted reply (short unpaid GTA-explainer outline test, no payment, per the coaching call's test-and-sample screening rule). Awaiting Marvens' approval to send, and needs a real GTA 6 topic picked (currently a placeholder) before it goes out.
+See 99-open-loops/aditya-mittal-test-brief.md for the drafted reply (short unpaid GTA-explainer outline test, no payment, per the coaching call's test-and-sample screening rule). Topic finalized: "Everything We Know About Gangs in GTA 6" (a verified real outlier, 496,986 views on a ~3,240-sub channel). Awaiting Marvens' approval to send.
+
+## Vetting call (2026-08-01)
+Assessed as genuinely vetted: his YT Jobs portfolio has 30 independently-listed verified clients, 21 reviews written by those channel owners (not self-authored), and a multi-year upload timeline. This is third-party-verifiable, not just his own claim. The one real gap is GTA-specific experience, which the test brief is designed to probe.
