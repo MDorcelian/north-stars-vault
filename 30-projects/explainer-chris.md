@@ -15,6 +15,17 @@ Format law: "Every [X] Explained" (optionally "in [N] Minutes"), cold open on Se
 ## Subscribers
 2,870 (2026-04-02) -> 11,300 (2026-04-20, last DB scan) -> ~22,000 (2026-07-15, stated) -> 52.2K (2026-08-01, current) [A][C][G2].
 
+## Revenue: franchise/compilation plan (confirmed 2026-08-02, Trello is source of truth)
+Live Trello "Explainer YouTube Video Board" (cQ5yjjfo) confirms the franchise pipeline is already executing the data-driven lean:
+- "Every Free App You Actually Need Explained (Part 4)" is in Write Scripts (being scripted now).
+- Subcategory split already materialized in title pipeline: Every Free AI App / Free Android App / Free iPhone App / Free macOS App / Free Phone App, plus Free App All Parts.
+- "Every Windows Version Explained" and "Every Operating System Explained" both in pipeline (the true franchise target for the OS that underperformed is Windows Versions, per Marvens).
+- Many Trello idea cards carry a YouTube video reference in their description (outlier views or thumbnail structure), per Marvens, so card descriptions are not just names, they're evidence-backed.
+
+Compilation title (Marvens' decision): "Every Free App You Actually Need Explained (All Parts)", with a 6x4 logo-style thumbnail layout referencing https://www.youtube.com/watch?v=zUzE3TdOMCw (the thumbnail structure to mirror). Rationale: single-series well draining (comments no longer recommending many new apps), so consolidate into a compilation and pivot the franchise into subcategories.
+
+Note for future: don't re-flag Free App Part 4 or the subcategory plan; it is already active and being executed.
+
 ## Revenue drop: analysis (2026-08-02, live YouTube data)
 June $7k -> July $3.5k (~50% drop). Marvens proposed: topic selection, "Every Video Game Cheat" out of season. Live yt-dlp pull of Explainer Chris (UCSDU975BassXQZGoJmvctNQ, 52.2K subs) refines this:
 
