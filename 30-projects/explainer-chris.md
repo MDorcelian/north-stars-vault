@@ -15,6 +15,9 @@ Format law: "Every [X] Explained" (optionally "in [N] Minutes"), cold open on Se
 ## Subscribers
 2,870 (2026-04-02) -> 11,300 (2026-04-20, last DB scan) -> ~22,000 (2026-07-15, stated) -> 52.2K (2026-08-01, current) [A][C][G2].
 
+## Revenue drop: hypothesis logged (2026-08-02)
+June $7k -> July $3.5k (~50% drop). Marvens' working explanation as of 2026-08-02: topic selection. Backed up on 2 videos (one being "Every Video Game Cheat") that he thought would do well but are likely just not in season. Frame: treat as a topically driven soft patch, not a structural/platform issue (i.e. not demonetization-related), pending confirmation against actual per-video view data. Still worth a look at per-video performance to confirm whether the refrain/revenue correlates with the seasonality theory before assuming.
+
 ## Top videos (DB read 2026-07-28)
 - Free App Part 1: 1,727,675 (pub 06-08)
 - AI Model: 917,528
