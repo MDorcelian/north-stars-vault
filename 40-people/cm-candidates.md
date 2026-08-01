@@ -12,13 +12,19 @@ related: [30-projects/ace-knows-a-guy.md]
 
 Decision 2026-07-26: hire ONE channel manager before any individual freelancers.
 
-- Abu Baker: rejected (ops-only, failed creative test despite 94% JSS, $10K+ earned, 1.6M GTA proof).
-- AJ Bascara: rejected (India, no GTA on Neotastic, not sole decision-maker).
-- Damonovaah: discarded (agency, zero GTA in delivered channels).
-- Lance: rejected (wrong niche).
-- Muhammad: rejected (Asia-excluded, meeting-push).
-- "Trevor" (Pakistan, Ice Station Zebras 4.8K): DISCARDED 2026-08-01, not a real candidate. He responded "Trevor" to a GTA 6 screening question and never gave a real name, an evasion/red flag, not an identity to keep screening. Remove from active CM pipeline [G2].
-- Aditya Mittal ("Strange Mindset"): NEW 2026-08-01. Passed the GTA breadcrumb screen (real Niko Bellic answer). Strongest verified track record so far: 30 verified clients up to 6.73M subs, 402.59M portfolio views, 21 positive reviews (real data pulled from his YT Jobs portfolio). Not yet a client of a GTA-specific channel; his GTA lore depth is currently self-claimed only. Full writeup and recommended next step: 40-people/aditya-mittal-strange-mindset.md.
-- Abu Baker S.: REJECTED, not HOLD (corrected 2026-08-02). Ruled out per the Discord conversation. 94% JSS, $10K+ earned, 1.6M GTA viral proof, but demonstrated ops/SEO/growth/analytics only, lacked documentary creative ownership. All 3 of his GTA 6 angles failed the ideation bot check (post-launch formats, not documentary). Class: ops-only. The Trello card's "HOLD, first qualified, leave it until he gets back" note is STALE and contradicts the actual ruling, do not treat Abu as a live candidate.
+LIVE TRACKER (auto-updated 2026-08-02). Screening template: GTA breadcrumb -> writing/creative proof -> 300-400 word in-universe Ace-voice outline (same test for all) -> verification of claimed portfolio.
 
-Pattern: pool is full of growth-ops people, zero documentary storytellers so far.
+- Aditya Mittal ("Strange Mindset"): test SENT 2026-08-02. Verified: 30 clients up to 6.73M subs, 402M views, 21 reviews. Breadcrumb strong (Niko, deep). Awaiting sample. See 40-people/aditya-mittal-strange-mindset.md.
+- ThinQ ("Acey"): pending test. Role: Scriptwriter. Strongest GTA fit (daily GTA Online, Tommy/VC breadcrumb). Weak verification: 0 verified clients, 0 reviews, 600K views/7 videos. See 40-people/thinq.md.
+- Drey: pending test. Role: Scriptwriter/CD/Strategist. Biggest portfolio: 16.56M views/26 videos, 2 verified clients (Balled IN, Candor Beats). Weakest GTA (breadcrumb Trevor, thin; no GTA in named clients). Has a Scriptwriting_Portfolio.docx Marvens holds that North Stars cannot access. See 40-people/drey.md.
+- JOSHUA_A [YTF]: pending test. Openly ops/growth profile ("strategy and channel growth rather than GTA creator"), no creative shown. Likely another ops pass, routed through same test. See 40-people/joshua-a.md.
+- Damonovaah (My Legacy Management): DISCARD (pre-verified 07-29, re-applied to new post). Agency portfolio has zero GTA (Minecraft/FNAF/Gorilla Tag) despite "managers who live and breathe it" claim. Do not re-screen. See 40-people/cm-candidates.md discard notes below.
+
+## Older candidates (closed)
+- Abu Baker S.: REJECTED (not HOLD, corrected 08-02). Ops-only, all 3 GTA 6 angles failed ideation bot despite 1.6M proof.
+- AJ Bascara: PASS, India, no GTA proof (Neotastic).
+- Lance A.: PASS, wrong niche (political commentary).
+- Muhammad U.: PASS/auto-reject, Asia-excluded.
+- "Trevor": DISCARDED (fake identity during screening).
+
+Pattern: pool is full of growth-ops people, zero documentary storytellers so far, except the new scriptwriter applicants (ThinQ, Drey) who are the first actual writers.
