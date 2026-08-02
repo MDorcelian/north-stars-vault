@@ -17,7 +17,11 @@ Original "subscriptions-management video (teased, never made)" open loop, now re
 - "How Everything Became A Subscription" (How Money Works): 516,344
 - "Why everything is a subscription" (The Verge): 367,826
 - "Why Is Everything A Monthly Subscription Now?" (Haylo Hayley): 301,936
+- "I Replaced Every Subscription I Pay For" (Tucker): 507,353, published 2026-07-24 (9 days old at 08-02, recommended to Marvens organically), Raspberry Pi homelab replacing paid subs with self-hosted/free options. Latest-signal validation the subscription-replacement angle is hot right now.
 The why-everything-is-a-subscription angle has massive, proven, recurring demand. It is zeitgeist evergreen.
+
+## Trello card (added 08-02)
+Added to Explainer YouTube Video Board > Write Scripts list (id 6a6ead2daa6a423be6dca9cd). Pending script.
 
 ## Adjacent actionable lanes (cancellation / free-alternative / management)
 Consistent supply of: "best apps to cancel subscriptions," "free alternatives to paid apps," "Rocket Money / hidden subscription finders," "track and cancel subscriptions." This is a practical, tool-centric sub-lane with steady creators serving it (The Savvy Professor, Tech And Save, How-To-Heroes, Liron Segev, etc).
