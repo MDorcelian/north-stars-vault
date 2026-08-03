@@ -17,7 +17,8 @@ LIVE TRACKER (auto-updated 2026-08-02). Screening template: GTA breadcrumb -> wr
 - Aditya Mittal ("Strange Mindset"): outline CONFIRMED IN PROGRESS 08-02 ("gonna get started on the outline soon... will send it over as a doc"). Verified: 30 clients up to 6.73M subs, 402M views, 21 reviews. Breadcrumb strong (Niko, deep). Received the full Ace-voice brief (card-flip cold open). Awaiting his outline doc. See 40-people/aditya-mittal-strange-mindset.md.
 - ThinQ ("Acey"): DM filter SENT 08-02. 300-400 word Ace-voice outline + 2 writing links + managed-writer example. See 40-people/thinq.md and 99-open-loops/cm-replies.md.
 - Drey: DM filter SENT 08-02. Same outline + paste docx samples (North Stars can't read his attachment) + 2 writing links. See 40-people/drey.md and 99-open-loops/cm-replies.md.
-- JOSHUA_A [YTF]: DM filter SENT 08-02. Same outline, flag that he openly stated he's an ops/growth candidate. See 40-people/joshua-a.md and 99-open-loops/cm-replies.md.
+- JOSHUA_A [YTF]: outline DELIVERED 08-02, strong Ace voice + correctly used real deep-cut GTA 6 lore (Brian Heder, verified). Acknowledgment + fit question sent 08-02. Re-ranked serious tier on creative merit despite ops-flavored pitch. See 40-people/joshua-a.md.
+- Clinton (Apk Portal): DM filter SENT 08-02 (outline + why channel closed). Verified real ownership: 70K subs, 17M views. Awaiting both. See 40-people/clinton.md.
 - Damonovaah (My Legacy Management): DISCARD (pre-verified 07-29, re-applied to new post). Agency portfolio has zero GTA (Minecraft/FNAF/Gorilla Tag) despite "managers who live and breathe it" claim. Do not re-screen. See 40-people/cm-candidates.md discard notes below.
 
 ## Older candidates (closed)
