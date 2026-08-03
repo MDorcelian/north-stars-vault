@@ -19,7 +19,7 @@ LINKS:
 
 Real product facts (from Endgame page, used in emails 4-5): 12 modules ~3 hours execution; generated over $20K from one channel in 6 months; "last month $11K working 5 hours a week"; modules cover niche finding (NexLev), Outlier Signals, Channel Intelligence Prompts, Metadata Generator, live research session, Editor-to-Operator transition, AI script revisions, Trello board, 5 operator failures, Upwork hiring templates, Polish method, flowchart.
 
-Cadence: Mon-Fri, one each day. Volume is low/single-digit, so job is re-engagement and sequential build, emails 1-3 pitch only the free Edge, email 4 is the transition to the paid system, email 5 (Friday) is the offer with the discount code.
+Cadence: one per day over the available send window, with the final offer email landing on 2026-08-08 (Marvens' birthday, and the day he confirmed he can post; the 7th is not available). Emails 1-3 pitch only the free Edge, email 4 is the transition to the paid system, email 5 (on 08-08) is the offer with the discount code. SEND WINDOW (Marvens-confirmed 08-03): postable dates are 08-03 through 08-06, then 08-08 (skip 08-07). So: E1 08-03, E2 08-04, E3 08-05, E4 08-06, E5 08-08.
 
 ---
 
@@ -123,7 +123,7 @@ https://jiggypuff.gumroad.com/l/TheEditorsEndgame
 
 ---
 
-## EMAIL 5 (Fri) — The offer, discount code
+## EMAIL 5 (08-08, birthday) — The offer, discount code
 
 Subject: The Editor's Endgame is open (take $20 off)
 
