@@ -10,7 +10,10 @@ related: [40-people/coaching-and-advisors.md]
 
 # Research Toolchain Notes
 
-State as of 2026-08-01. These are tools/methods North Stars can now use for real research, not just the standard web_search/web_extract tools (which are limited to Brave-free, search-snippets only, no page rendering).
+State as of 2026-08-01 (updated 08-03 with crawl4ai). These are tools/methods North Stars can now use for real research, not just the standard web_search/web_extract tools (which are limited to Brave-free, search-snippets only, no page rendering).
+
+## General web page extraction: crawl4ai (LOCAL, cost-free, PREFERRED as of 08-03)
+Marvens set up crawl4ai (unclecode, local crawler) to avoid burning API/token budget. venv at ~/.venvs/crawl4ai, wrapper at ~/.hermes/scripts/crawl4ai_fetch.py. Usage: `~/.venvs/crawl4ai/bin/python ~/.hermes/scripts/crawl4ai_fetch.py "<url>" --max-chars N`. Confirmed working 08-03 on standard pages. Use this first for any general page fetch. See skill `crawl4ai-fetch` for details and pitfalls.
 
 ## YouTube channel/video listing: yt-dlp (WORKING)
 Installed via `pip install yt-dlp`. Works for channel stats and video listing without auth:
