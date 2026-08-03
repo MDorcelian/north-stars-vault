@@ -1,5 +1,5 @@
 ---
-name: 4-Day Email Sequence (Jiggy, Dan Koe method)
+name: 5-Day Email Sequence (Jiggy, Dan Koe method)
 type: draft
 status: ready to send
 grade: draft
@@ -8,17 +8,22 @@ sources: [Dan Koe method per 00-inbox Dan_Koe_Dump, jiggy.md funnel + voice rule
 related: [30-projects/jiggy.md, 90-voice/voice.md]
 ---
 
-# 4-Day Email Sequence (Jiggy education list)
+# 5-Day Email Sequence (Jiggy education list)
 
-Purpose: re-warm a low-engagement list, build the owner-seat thesis, funnel to The Editor's Edge (free lead magnet). Written through the Dan Koe method: pain-first hooks, APAG spine, a named concept, polarizing confidence, punchy rhythm, one-sentence paragraphs, frequent line breaks, listicles. All no em dashes, plain text, no naming of specific channels. Each email stands alone but carries the sequence forward.
+Purpose: re-warm a low-engagement list, build the Owner Seat thesis, funnel to The Editor's Edge (free lead magnet) then transition to The Editor's Endgame (paid, $79, EDGEREADER code $59). Dan Koe method: pain-first hooks, APAG spine, named concept, polarizing confidence, punchy rhythm, one-sentence paragraphs, listicles. All no em dashes, plain text, no naming of specific channels.
 
-The named concept across the sequence: THE OWNER SEAT vs THE WAGE. It's the through-line and matches the Editor's Edge product's own framing (owner seat / editor seat), so email and product speak the same language.
+LINKS:
+- Edge (free lead magnet): https://jiggypuff.gumroad.com/l/TheEditorsEdge
+- Endgame (paid): https://jiggypuff.gumroad.com/l/TheEditorsEndgame
+- Endgame reader discount code: EDGEREADER ($59, per vault)
 
-CONFIRM before send: insert real link in each (the [link] placeholder), add Jiggy sign-off if a standard closer exists. Volume note: funnel data shows near-zero clicks and single/double-digit sends, so the job of these four is re-engagement + list growth, not sales pressure; every email ends on the free magnet, one per sequence, no hard upsell.
+Real product facts (from Endgame page, used in emails 4-5): 12 modules ~3 hours execution; generated over $20K from one channel in 6 months; "last month $11K working 5 hours a week"; modules cover niche finding (NexLev), Outlier Signals, Channel Intelligence Prompts, Metadata Generator, live research session, Editor-to-Operator transition, AI script revisions, Trello board, 5 operator failures, Upwork hiring templates, Polish method, flowchart.
+
+Cadence: Mon-Fri, one each day. Volume is low/single-digit, so job is re-engagement and sequential build, emails 1-3 pitch only the free Edge, email 4 is the transition to the paid system, email 5 (Friday) is the offer with the discount code.
 
 ---
 
-## EMAIL 1 — Pain-first open (the wage trap)
+## EMAIL 1 (Mon) — Pain-first open, free magnet only
 
 Subject: Most editors trade hours for a one-time payment.
 
@@ -36,11 +41,11 @@ That's the difference I call the Wage versus the Owner Seat. Same eye, different
 
 The Editor's Edge walks through the whole shift. Short, free, read it in one sitting.
 
-[link]
+https://jiggypuff.gumroad.com/l/TheEditorsEdge
 
 ---
 
-## EMAIL 2 — The reframe (you're not starting from zero)
+## EMAIL 2 (Tue) — The reframe, free magnet only
 
 Subject: You're not starting from zero. That's the trap.
 
@@ -60,11 +65,11 @@ You were never starting from zero. You were starting from a finish line most peo
 
 The Editor's Edge is about pointing that eye at a channel you own. Free, read it in one sitting.
 
-[link]
+https://jiggypuff.gumroad.com/l/TheEditorsEdge
 
 ---
 
-## EMAIL 3 — The faceless path + a listicle (the owner seat needs no camera)
+## EMAIL 3 (Wed) — The faceless path, free magnet only
 
 Subject: The owner seat doesn't need your face.
 
@@ -88,36 +93,71 @@ That is not a small difference. That's the difference between trading time for m
 
 The Editor's Edge breaks down what that shift actually looks like. Free, read it in one sitting.
 
-[link]
+https://jiggypuff.gumroad.com/l/TheEditorsEdge
 
 ---
 
-## EMAIL 4 — The system + soft launch of the home base (what to do about it)
+## EMAIL 4 (Thu) — The system behind it, transition to Endgame
 
-Subject: The one shift that changed how I see this whole thing.
+Subject: The shift is real. Here's what actually runs it.
 
 You've read three versions of the same idea this week. There's a reason it keeps coming back.
 
 It's not about editing faster.
-
 It's not about a thumbnail trick.
-
 It's the shift from being paid for the effort to owning the result. The Wage, or the Owner Seat.
 
-I spent 20 to 40 hours editing a video for other people. Now I spend 1 to 2 hours shepherding videos on channels I own. Same eye. Less grinding. The assets keep working after I stop.
+But here's the part nobody says out loud: the Owner Seat needs a system, not just a mindset.
 
-The whole point is to stop pointing your best skill at someone else's channel.
+Because if you try to run a faceless channel the way most people teach it, you're editing for 70 plus hours a video. That's the same trap, with a different title on it.
 
-If you've read this far across the week, you're the person the Owner Seat is for. The next step is one short guide that lays out the shift plainly, no course, no fluff:
+The way it actually works is the opposite. You use your editor's eye as the finishing layer, not the whole job. Freelancers do the heavy lifting. You pick the niche, the outliers, and the taste. Then you ship in about 2 hours a day.
 
-The Editor's Edge. Free. Read it in one sitting. Your editing eye got you here. Now point it at something you own.
+I found this the hard way. And when the pieces clicked, the numbers followed. Over $20,000 from one channel in 6 months. And this is the exact system that runs it, not a theory.
 
-[link]
+That system is The Editor's Endgame. 12 modules. About 3 hours of execution. From niche finding to hiring templates to the exact board I run my channels on.
+
+If the Edge showed you the door, Endgame is the room on the other side.
+
+https://jiggypuff.gumroad.com/l/TheEditorsEndgame
+
+---
+
+## EMAIL 5 (Fri) — The offer, discount code
+
+Subject: The Editor's Endgame is open (take $20 off)
+
+All week you read about the same idea.
+
+The editor who owns the channel, instead of the editor who gets paid and lets someone else keep it.
+
+The Editor's Edge showed you why it matters. This is the full system for how to do it.
+
+The Editor's Endgame is 12 modules of pure execution:
+
+Niche finding, the exact way I found the niche that's generated the most.
+The Outlier Signals framework to find and decode viral hits.
+The editor-to-operator transition, so you ship in hours, not 70 plus a week.
+The exact Trello board I run my channels on.
+Hiring templates for editors, writers, voice, and thumbnails.
+The real mistakes that killed my early attempts, so you skip them.
+And a live research session and the Polish method for your finishing layer.
+
+Most editors will edit forever. Waking up at 35 still cutting someone else's videos. Still owning nothing.
+
+You don't have to be one of them.
+
+For this week only, use the code EDGEREADER to take $20 off. $79 becomes $59.
+
+The whole shift, in one system. It's the door the Edge pointed you at.
+
+https://jiggypuff.gumroad.com/l/TheEditorsEndgame
 
 ---
 
 ## Notes
-- Sequence assumes the reader sees them in order (1-4). If they don't, each still works alone via repeated [link].
-- The through-line concept "Owner Seat vs Wage" is deliberately simple and repeated, matching Dan Koe's "named concept positioned as the solution" technique, and aligns with the Editor's Edge product voice.
-- No channel names, no revenue figures specific to a channel beyond the vague 20-40hr to 1-2hr shift (which the Editor's Edge itself already states, so it's consistent with what the lead magnet claims). Confirm this is acceptable reveal-level for you.
-- Send cadence: one per day for 4 days. Open rate check after email 1 to adjust subject lines for 2-4 if needed.
+- Emails 1-3 pitch ONLY the free Edge (build trust, no friction). Email 4 transitions to the paid system. Email 5 (Friday) is the offer with the discount code and the urgency window. This matches the funnel: free lead magnet at top, paid at the end of the warm sequence.
+- Endgame product facts are taken verbatim from the live page, so no invented numbers.
+- "Last month $11K working 5 hours a week" and "over $20K from one channel in 6 months" come from the Endgame page copy; they are the product's own claims (G3), consistent with what the product states, include only if Marvens is comfortable standing behind them.
+- No channel names anywhere. The money claims are general (one channel) not channel-specific.
+- Confirm sign-off and any brand triage if needed.
