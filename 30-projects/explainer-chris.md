@@ -46,6 +46,7 @@ Related note: subscriber scans on this channel were previously frozen (see 99-op
 - Free App Part 1: 1,727,675 (pub 06-08)
 - AI Model: 917,528
 - Web Browser: 664,983
+- Web Browser Explained Part 2: script outline SENT to scriptwriter 08-03 (GetPoppy workflow: outline -> revise -> revise against thumbnail). Outro bridge DECIDED 08-03: chain to Every AI Model Explained (917K anchor), reuse Part 1's bridge, consistency; would self-chain to a future Part 3 once it exists.
 - Graphics Setting: 446,372
 - Franchise: Free App Part 2: 127,499 (06-26); Part 3: 108,696 (07-17) [A]
 
