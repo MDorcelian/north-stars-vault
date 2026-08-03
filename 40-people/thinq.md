@@ -25,4 +25,4 @@ Role: Scriptwriter. About: portfolio "600.64K views / 6.93K likes" across 7 vide
 - Applying for Channel Manager but role/history is Scriptwriter, so end-to-end channel ownership unproven.
 
 ## Screening
-Same 300-400 word in-universe Ace-voice outline (Every GTA 6 Gang Explained), plus request for 2 videos where the writing is his (to verify reach) and one concrete example of a writer he managed. Reply drafted, see 99-open-loops/cm-replies.md.
+Asked a clarifying question 08-03: outline vs full script, wanted to get it right. Answer sent (structure, not full script, with his voice woven through, hold the character across the whole video). Genuine care for doing it right, consistent with the strong judgment he's shown (the no-invented-lore question earlier). Awaiting his outline.
