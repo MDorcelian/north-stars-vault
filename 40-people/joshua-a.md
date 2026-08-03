@@ -22,4 +22,8 @@ Openly a strategy/growth/profile candidate, not GTA and not documentary creative
 His handle "JOSHUA_A [YTF]" closely matches the existing editor Joshua (Joshua Galadima) but they are different people, do not conflate.
 
 ## Screening
-Same 300-400 word in-universe Ace-voice outline filter is the fair, cheap probe, since his pitch is all process with no creative shown. If he can't produce character-driven documentary writing, he's another ops pass resolved in one exchange. Reply drafted, see 99-open-loops/cm-replies.md.
+JOSHUA_A delivered a strong Ace-voice outline for "Every GTA 6 Gang Explained" (08-02), see 99-open-loops/cm-replies.md. Hook in-character: "Me? I just sell snacks... That's how you hear things." Correct general-framing of GTA 6 gangs, wove Jason/Lucia into the ecosystem.
+
+VERIFIED his named GTA 6 character "Brian Heder": real, confirmed. An aging drug runner / boat-yard owner in the Leonida Keys, and per GTA Base, he lets protagonist Jason live rent-free at a property in exchange for help with jobs. JOSHUA_A used the name correctly and in-lore (old-school criminal world still hanging on). Verification source: GTA Base + GTA BOOM character entries (workaround via DuckDuckGo HTML since web_search backend was erroring). This upgrades his case: not just avoiding fabrication, but deploying correct deep-cut lore correctly, genuine franchise-literacy.
+
+Remaining consideration: his own pitch was openly ops/strategy ("YouTube strategy and channel growth rather than a GTA creator"), so the creative clearly works but the end-to-end channel-ownership + reliability question (the actual CM job) is still what the longer run must confirm, not a single outline. Still needs his outline, same as others; this is the delivered one reference.
