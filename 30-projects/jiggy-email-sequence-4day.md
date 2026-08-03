@@ -123,9 +123,11 @@ https://jiggypuff.gumroad.com/l/TheEditorsEndgame
 
 ---
 
-## EMAIL 5 (08-08, birthday) — The offer, discount code
+## EMAIL 5 (08-08, birthday) — The offer, discount code with birthday hook
 
-Subject: The Editor's Endgame is open (take $20 off)
+Subject: It's my birthday. Your $20 off The Editor's Endgame.
+
+Today's my birthday. And instead of a candles picture, you get this.
 
 All week you read about the same idea.
 
@@ -147,9 +149,9 @@ Most editors will edit forever. Waking up at 35 still cutting someone else's vid
 
 You don't have to be one of them.
 
-For this week only, use the code EDGEREADER to take $20 off. $79 becomes $59.
+Consider this my birthday gift to the people who read this far. Use the code EDGEREADER to take $20 off. $79 becomes $59.
 
-The whole shift, in one system. It's the door the Edge pointed you at.
+You made the door. I'm just holding it open today.
 
 https://jiggypuff.gumroad.com/l/TheEditorsEndgame
 
