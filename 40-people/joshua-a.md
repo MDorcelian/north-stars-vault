@@ -28,4 +28,6 @@ VERIFIED his named GTA 6 character "Brian Heder": real, confirmed. An aging drug
 
 FIT QUESTION answered 08-03, strongly ("You can't optimize a weak story into a great one"). Marvens sent full SCOPE + PORTFOLIO REQUEST 08-03 (owned end-to-end: idea to upload, not growth-only; asked for YT Jobs/portfolio, subs/views, end-to-end work examples, rate, availability). Joshua replied 08-04: aligned with the responsibility, will assemble everything organized rather than piece by piece, will get back shortly. AWAITING his full portfolio + scope confirmation.
 
+DECISION 08-04 (Marvens + partner): JOSHUA IS THE PICK. Chosen over Acey (best pure creative but thinnest on concreteness) and Aditya (most scale but list-driven). Reason: complete package, creative + verified lore + growth systems + reliable communication. Remaining to close BEFORE offer: (1) his actual portfolio/scope confirmation is still owed, (2) agree rate + availability, (3) paid trial / 30-day review structure per hiring SOP. Hold final commitment until portfolio lands.
+
 Remaining consideration: creative + fit both confirmed; what the longer run must confirm is end-to-end channel ownership + reliability over months (the actual CM job), which single-sample screening can't fully answer.
