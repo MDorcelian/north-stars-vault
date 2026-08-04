@@ -48,3 +48,8 @@ https://docs.google.com/document/d/<DOC_ID>/export?format=txt
 
 ## Recommended fix still pending
 Marvens flagged that Google Docs extraction "used to work" and these tools will be needed often. The proper long-term fix is reconfiguring `web.extract_backend` away from `brave-free` to a real extraction provider (firecrawl/tavily/exa/parallel), which needs an API key in `.env`. Attempted `hermes config set web.extract_backend firecrawl` on 2026-08-01, but no `FIRECRAWL_API_KEY` is present in `.env` yet (only commented-out placeholders for firecrawl/tavily/exa/parallel), so it's not actually functional until a key is added. Until then, the workarounds above (yt-dlp, Playwright, direct Google Docs export) cover the immediate need.
+
+## GetPoppy workflow + tier-5 API goal (from Marvens 08-04)
+- Explainer Chris pipeline: thumbnail designer first, then scriptwriter. For a card, the resources (thumbnail, script outline, reference videos, and the scriptwriter's returned script) are usually posted in the CARD COMMENTS on Trello (Marvens posts resources there).
+- Workflow per video: attach thumbnail + scriptwriter's script + script outline into GetPoppyAI, which revises everything (GetPoppy has lots of channel context).
+- GOAL (conditional): GetPoppy tier 5 ($2259 plan / $1770 upgrade, lifetime access) gives 5,000 monthly credits, 1,500 one-time bonus credits, 10 brands, 3 seats, BYOK, and API access with white-glove support. API access would let North Stars ping/revise the knowledgebases and scripts directly. NOT committed; may instead hire a manager for Explainer Chris (does not auto-consume this). Treat GetPoppy tier 5 as a conditional future upgrade, gated on revenue/monitoring.
