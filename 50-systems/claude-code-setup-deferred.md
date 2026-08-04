@@ -7,13 +7,31 @@ updated: 2026-08-04
 related: [50-systems/claude-ideation-engine-port.md, brains/north_stars_brain.py]
 ---
 
-# Claude Code setup on the servers — deferred pre-work notes
+# Claude Code setup on the servers — RESOLVED 2026-08-04
 
-## Context
-Marvens wants North Stars "on Claude Code" for full engine parity (Opus + vision + retained web
-sources) with its own database. The native SQLite evidence brain (brains/north_stars_brain.py + .db)
-already gives North Stars its own accumulating database TODAY with no Claude Code dependency. Full
-Claude Code parity is a LATER enhancement; the database is done now.
+## STATUS: WORKING
+Claude Code is authenticated and running on this box as of 08-04. FIX USED: Option 1 (root's OAuth
+creds copied to the hermes user), verified via `claude -p` returning real output. AuthMethod
+firstParty (Claude Pro, OAuth). The per-user scoping (root vs hermes) was the original blocker,
+NOT a broken install.
+
+## How auth was fixed (for reference / if it needs redoing)
+- Login was done as `root@agents-...nyc1` via `claude auth login` (claude.ai OAuth, Pro).
+- North Stars runs as the `hermes` user, whose ~/.claude did not see root's credentials.
+- Fix: `mkdir -p /home/hermes/.claude && cp -r /root/.claude/.credentials.json /home/hermes/.claude/ && chown -R hermes:hermes /home/hermes/.claude`
+
+## Provider/cost note for this box
+- ANTHROPIC_API_KEY in ~/.hermes/.env is STILL blank (length 0), but Claude Code uses the OAuth login,
+  so it works without a key.
+- North Stars itself still runs on OpenRouter (deepseek) for MY normal turns. Claude Code is a SEPARATE
+  CLI I can drive via terminal for delegated coding tasks, and it bills to the Claude Pro account.
+
+## What Claude Code gives North Stars now (agent-level capability)
+- Ability to run `claude -p "task"` / interactive sessions for delegated coding, automation, and
+  agentic work (see claude-code skill + wiki-backed-ops-agent skill).
+- Full parity with Marvens' engine (torque: Opus models + vision thumbnail pass + retained web search)
+  is now POSSIBLE, since Claude Code can make those calls, but it bills Pro tokens. The native
+  evidence brain (brains/north_stars_brain.py) still handles the accumulation cheaply.
 
 ## Blocker on the DIGITALOCEAN droplet (root@agents-...nyc1)
 Error observed on that droplet:
