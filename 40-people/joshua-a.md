@@ -43,3 +43,11 @@ Sent Joshua the first-video scope: "Every GTA 6 Gang Explained" per the shared d
 ~8-10 min script outline in Ace's voice, research-integrity + 60-char main-clause title rule noted.
 No hard deadline but launch-momentum framing. Awaiting his outline; next script follows on delivery
 (per-deliverable flow).
+
+
+## PAYMENT TERMS (08-04, Marvens decided)
+Per-deliverable Option A: PAYPAL, delivery-based. Joshua sends deliverable -> Marvens reviews vs brief
+-> on approval Marvens pays the agreed rate via PayPal. First deliverable = $50 script. Set the
+pay-on-approved-work pattern now so it scales clean to $100/1000. Joshua initiated the question
+(professional, good sign). Best practice from WannerCashCow doctrine: invoice/payment traceability,
+cut/pay on delivered approved work, not promises.
