@@ -25,4 +25,4 @@ Role: Scriptwriter. About: portfolio "600.64K views / 6.93K likes" across 7 vide
 - Applying for Channel Manager but role/history is Scriptwriter, so end-to-end channel ownership unproven.
 
 ## Screening
-Asked a clarifying question 08-03: outline vs full script, wanted to get it right. Answer sent (structure, not full script, with his voice woven through, hold the character across the whole video). Genuine care for doing it right, consistent with the strong judgment he's shown (the no-invented-lore question earlier). Awaiting his outline.
+Asked a clarifying question 08-03: outline vs full script, answered (structure not full script, hold the voice). After that, went SILENT despite the answer being sent. As of 08-04 we're dropping him per Marvens' call 'time to leave him be.' Best creative/genre fit on paper but didn't follow through with the deliverable — follow-through is a CM requirement, so the silence itself is disqualifying regardless of talent. See cm-candidates.md.
