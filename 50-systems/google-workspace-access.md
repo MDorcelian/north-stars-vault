@@ -32,13 +32,18 @@ Do not cross them.
 - Commands: $GAPI docs create/get/append; $GAPI drive search/share/upload/delete; $GAPI sheets create/get/update
 - Share: $GAPI drive share FILE_ID --email person@ --role writer/reader [--notify]
 
-## FIRST DELIVERABLE CREATED (08-04)
-Document: "ACE KNOWS A GUY — First Video Scope: Every GTA 6 Gang Explained"
-Docs ID: 1vdtx5l_89twKKeHix1na2W9dDBHf28ZjwoLym_T0S0Y
-URL: https://docs.google.com/document/d/1vdtx5l_89twKKeHix1na2W9dDBHf28ZjwoLym_T0S0Y/edit
-Content: full Option-1 first-video brief (topic, Ace voice rules, format beats, research integrity,
-title rule). Ready to share with Joshua (per-deliverable, scriptwriting).
-Test doc (ID 1zymow-KWTRds_ocRR-1_AD4VYVrc7_zu_l7AVH9ewTM) created then trashed during verification.
+## Deliverable convention (Marvens 08-04)
+- Docs must be NICELY FORMATTED, not plain-text blobs. Use the gdoc_format.py method: headings (HEADING_2 for sections), bold on key labels/rules, clean structure, no raw `**` or `[UNCONFIRMED]` artifacts in the doc body.
+- Docs are shared INSTANTLY as anyone-with-the-link, and the shareable link is given to Marvens. Default role = writer (editable by the recipient/self). Set via Drive permissions {role: writer, type: anyone}.
+- Formatter tool: /tmp/gdoc_format.py (builds via Docs batchUpdate + Drive share). Reusable pattern for ALL deliverables.
+
+## FIRST DELIVERABLE (08-04, FORMATTED + SHARED)
+Document: "ACE KNOWS A GUY — First Video Scope: Every GTA 6 Gang Explained" (v2, formatted)
+Docs ID: 1QAnu5Q8s90wjatEdfFiCuGgmdp38cD5vYADzTAGCd6Y
+Shareable link: https://docs.google.com/document/d/1QAnu5Q8s90wjatEdfFiCuGgmdp38cD5vYADzTAGCd6Y/edit
+Share: anyone-with-link, WRITER. Owned by gprestigue@gmail.com. Verified clean (no ** artifacts, sections present).
+The earlier plain-text brief doc (1vdtx5l_89twKKeHix1na2W9dDBHf28ZjwoLym_T0S0Y) was trashed as superseded.
+Test doc (1zymow-KWTRds_ocRR-1_AD4VYVrc7_zu_l7AVH9ewTM) also trashed during verification.
 
 ## Notes
 - NEVER create/share/delete docs or send without confirming with Marvens first (show recipients/content).
