@@ -35,3 +35,11 @@ GOTCHA-NOTE: If Joshua also becomes the Explainer Chris manager later (Marvens c
 NO LONGER PENDING final: Joshua accepted; now in ONBOARDING/first-scope. Next: send him the first video scope (Ace launch content), agree conversion trigger in writing, then consider onboarding steps per hiring SOP (EOD reports, Loom SOPs, SOP-via-Loom, invoice-first, cut-access-at-first-sign per WannerCashCow doctrine).
 
 Remaining consideration: creative + fit both confirmed; what the longer run must confirm is end-to-end channel ownership + reliability over months (the actual CM job), which single-sample screening can't fully answer.
+
+
+## FIRST SCOPE SENT 08-04 (Option C kickoff)
+Sent Joshua the first-video scope: "Every GTA 6 Gang Explained" per the shared doc
+(1QAnu5Q8s90wjatEdfFiCuGgmdp38cD5vYADzTAGCd6Y, anyone-with-link writer). Deliverable: structured
+~8-10 min script outline in Ace's voice, research-integrity + 60-char main-clause title rule noted.
+No hard deadline but launch-momentum framing. Awaiting his outline; next script follows on delivery
+(per-deliverable flow).
