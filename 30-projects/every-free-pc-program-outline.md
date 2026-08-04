@@ -47,6 +47,10 @@ The outline model invented plausible-looking specifics that are NOT verified. Do
   strip the unverified like-counts.
 - Outro to the sibling Free App video is correct and reinforces the franchise loop.
 
+## PER-SECTION TAM (verified 08-04, live YouTube Data API; drives section order)
+Disk space/WinDirStat 4.09M+1.88M · Rufus 870K+860K · PowerToys 287K+207K · Greenshot 191K · AutoHotkey 162K · Sysinternals 105K · Malwarebytes 95K · OnlyOffice 72K · Duplicati 53K · CUT Ninite (21K, below 100K proof floor).
+FRAMING: audience wants the OUTCOME (free disk space / faster PC, 1.5-4M) over specs; angle toward 'free tools to fix/make your PC faster' to capture that + separate from Free App. Order sections by TAM (above).
+
 ## Next step
 Fix the 4 unverified items (verify real comments/videos or rewrite honestly), then send to Maryam for
 full script wiring per the GetPoppy workflow. Record approved/rejected on this idea for the feedback
