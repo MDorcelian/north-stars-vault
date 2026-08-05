@@ -46,7 +46,7 @@ No hard deadline but launch-momentum framing. Awaiting his outline; next script 
 
 
 ## PAYMENT TERMS (08-04, Marvens decided)
-Per-deliverable Option A: PAYPAL, delivery-based. Joshua sends deliverable -> Marvens reviews vs brief
+Per-deliverable Option A, delivery-based. Payment vehicle FINALIZED 08-04: WISE (not PayPal, not bank transfer). Joshua declined PayPal (negative history) and requested bank transfer; Marvens preferred not to, chose Wise as the middle path that works for both. Delivery-based: Joshua delivers outline -> Marvens reviews vs brief -> on approval pays via Wise. Joshua sends deliverable -> Marvens reviews vs brief
 -> on approval Marvens pays the agreed rate via PayPal. First deliverable = $50 script. Set the
 pay-on-approved-work pattern now so it scales clean to $100/1000. Joshua initiated the question
 (professional, good sign). Best practice from WannerCashCow doctrine: invoice/payment traceability,
