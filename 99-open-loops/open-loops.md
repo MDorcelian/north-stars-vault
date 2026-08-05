@@ -37,3 +37,14 @@ related: [CONFLICTS.md, 30-projects/, 40-people/coaching-and-advisors.md]
 
 ## SUPERSEDED
 - "GTA 6 Explained launch ~07-25" [A] replaced by the CM-first decision on 07-26 [H]; launch now blocked on the CM hire.
+
+
+## [PRIORITY] Hire a Channel Manager for Explainer Chris (Marvens 08-04, ASAP)
+Marvens made this an explicit priority: get a channel manager for Explainer Chris, not necessarily right now but ASAP.
+CONTEXT: Explainer Chris is the active, monetized income channel (52K subs, Free App franchise 1.7M). Unlike Ace's CM (Joshua, Option C per-deliverable), EC's main channel runs mostly OUTSIDE North Stars (Trello-visible, Discord/Upwork-elsewhere; GetPoppy pipeline with Maryam scriptwriter, Izi thumbs, etc). A CM here would own the EC production loop end to end.
+HONEST TAKE (North Stars): Yes, this is the highest-leverage untapped hire. EC already generates revenue and has a real team + pipeline; a CM who owns it end to end (idea to upload, keeps cadence, drives the franchise lean + Free App plan) directly grows the $/month, and this is the channel whose performance feeds the $10k combined coaching bar. It's a bigger deal than Ace's pre-launch CM because the money is already flowing there.
+OPEN ITEMS to decide when pursued (ASAP but not tonight):
+- Same CM as Ace (Joshua) vs a separate EC CM? Earlier noted: if Joshua also does EC, clarify retainer stacking.
+- Budget / structure: EC has revenue, could justify a management retainer more than Ace's pre-launch could.
+- Who: source candidates fresh, or consider Joshua / existing EC team member (Maryam, Joshua Galadima)?
+STATUS: priority logged 08-04, not urgent-aggressive, plan to actively pursue soon.
