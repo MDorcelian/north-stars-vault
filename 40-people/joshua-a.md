@@ -51,3 +51,7 @@ Per-deliverable Option A, delivery-based. Payment vehicle FINALIZED 08-04: WISE 
 pay-on-approved-work pattern now so it scales clean to $100/1000. Joshua initiated the question
 (professional, good sign). Best practice from WannerCashCow doctrine: invoice/payment traceability,
 cut/pay on delivered approved work, not promises.
+
+
+## SHORTS/SOCIAL SCOPE NOTE (Marvens 08-04)
+Marvens wants shorts/social clips covered for the channel. Desire: Joshua handles the shorts too, OR a dedicated shorts guy gets the clips across social media. OPEN DECISION with Joshua: whether he takes short-form clip production as part of his role (maybe a per-deliverable add-on, or folded into the management retainer once live) vs hiring a separate shorts/social person. Flag to discuss when the first script lands or at onboarding. Note Explainer Chris already has a VA for short-form posting; for Ace decide who produces + who posts.

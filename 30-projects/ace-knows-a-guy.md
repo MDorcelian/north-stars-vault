@@ -61,3 +61,7 @@ Content rules and the 12-topic ideas list live on the AceKnowsAGuy board (ID 6a5
 
 ## Launch phase plan
 NOW: deep-dives/trailer breakdowns/nostalgia bridges. LAUNCH WEEK: first impressions and beginner guides. POST-LAUNCH: evergreen money methods and walkthroughs [A].
+
+
+## Shorts / social cross-posting (note added 08-04)
+Marvens wants short-form clips of Ace content distributed across socials. Open: Joshua to handle shorts, or a dedicated shorts guy. Produce + post roles to be decided at launch. Compare with Explainer Chris's existing VA-for-short-form pattern.
