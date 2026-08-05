@@ -50,9 +50,7 @@ OPEN ITEMS to decide when pursued (ASAP but not tonight):
 STATUS: priority logged 08-04, not urgent-aggressive, plan to actively pursue soon.
 
 
-## [REMINDER] Create a separate Wise account for Royalty Media (Marvens 08-05)
-Marvens wants a separate / dedicated Wise account for the ROYALTY MEDIA business entity, kept
-isolated from the personal/other Wise used for contractor payments (e.g. Ace's Joshua payments via
-the main Wise). Reason: clean separation of business (Royalty Media) money flow from the rest.
-ACTION NEEDED when convenient: open a dedicated Wise for Royalty Media + note which email/entity it
-owns. Flag in daily brief until done.
+## [DONE] Separate Wise for Royalty Media (created 08-05)
+Marvens created a separate/dedicated Wise account for ROYALTY MEDIA, isolated from the Main Wise used
+for contractor payments (Joshua's $ was paid via Main Wise). Clean business money separation. If not
+yet done, note which email/entity owns the Royalty Media Wise for the record.
