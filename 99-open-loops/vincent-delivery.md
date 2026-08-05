@@ -3,7 +3,7 @@ name: Vincent delivery
 type: open-loop
 status: open
 grade: G2
-updated: 2026-07-29
+updated: 2026-08-05
 sources: [H, D]
 related: [40-people/vincent-bekong.md, 30-projects/ace-knows-a-guy.md]
 ---
@@ -16,3 +16,8 @@ Status: nudge sent 08-02 by Marvens (expressions milestone check-in only, per th
 
 ## Nudge (sent 08-02, no banner mention)
 Hey Vincent, quick check-in on the $510 expressions milestone (6 expressions, left and right, 12 PNGs). How is progress looking and do you have a rough ETA? Thanks!
+
+## Drafted nudge (awaiting his approval)
+_2026-08-05_
+
+> Hey Vincent, quick follow-up on the $510 expressions milestone (6 expressions, left and right, 12 PNGs). Last week you mentioned they'd be done by end of day Monday, and I haven't received the files yet. Everything still on track? Let me know once they're sent over. Thanks!
