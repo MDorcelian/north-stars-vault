@@ -46,3 +46,12 @@ rest locked), confirmed that's useful and greenlit eyes-only.
 ## Payment state
 M2 = $510 (6 expressions x left+right = 12 PNGs) is the ACTIVE milestone. No payment release yet
 until the completed set is delivered. Option B package ($1,090) deferred to next milestone.
+
+
+## FACE-CONSISTENCY NUDGE (08-05, Marvens + partner + gf all separately felt faces read different)
+Marvens showed poses to gf; she said the faces look like different people; Marvens agreed. Vision-model
+read said 'same person' but human gut (2 independent) disagrees, trust human here. Message sent to
+Vincent 08-05 asking him to: lock ONE master face reference and re-derive the other poses' faces off
+that single reference, keeping all color/shading/rim-light work. Context: he's mid render/shading, so
+right time. AVOID AI face-replacement-at-end fix (high risk, faith-based); source-level master-face
+fix is correct. Awaiting his response.
