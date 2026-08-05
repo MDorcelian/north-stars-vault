@@ -55,3 +55,16 @@ cut/pay on delivered approved work, not promises.
 
 ## SHORTS/SOCIAL SCOPE NOTE (Marvens 08-04)
 Marvens wants shorts/social clips covered for the channel. Desire: Joshua handles the shorts too, OR a dedicated shorts guy gets the clips across social media. OPEN DECISION with Joshua: whether he takes short-form clip production as part of his role (maybe a per-deliverable add-on, or folded into the management retainer once live) vs hiring a separate shorts/social person. Flag to discuss when the first script lands or at onboarding. Note Explainer Chris already has a VA for short-form posting; for Ace decide who produces + who posts.
+
+
+## PAYMENT 1 SENT (08-05, $50 via Wise) — FIRST DELIVERABLE PAID IN FULL
+Deliverable 1 (Ace "Every GTA 6 Gang Explained" outline) approved + paid $50 via Wise.
+JOSHUA bank details on record: Acct Joshua Adewunmi Gbadebo / Lead Bank / Acct 218504202689 /
+Routing 101019644 / Personal Checking / address 9450 SW Gemini Drive, Beaverton OR 97008. No
+WiseTag/email/phone linked to Wise; pays via bank details. Marvens sent 08-05 ~1:36 PM.
+NOTE: monitor delivery, watch that future payouts stay, prefer getting a stable identifier (Wisetag
+or email) over raw bank details going forward for traceability/consistency.
+Outline approved notes: Section 3 anchored by confirmed protagonists Lucia Caminos + Jason Duval,
+gang structures flagged as community discussion. Strong voice + research integrity. Outline =
+launch-ready foundation. Payment = delivery-based per Option A (established pattern: deliver -> review
+-> approve -> pay).
