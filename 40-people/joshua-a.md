@@ -68,3 +68,9 @@ Outline approved notes: Section 3 anchored by confirmed protagonists Lucia Camin
 gang structures flagged as community discussion. Strong voice + research integrity. Outline =
 launch-ready foundation. Payment = delivery-based per Option A (established pattern: deliver -> review
 -> approve -> pay).
+
+
+## PAYMENT 1 RECEIPT (08-05)
+Marvens sent Joshua the Wise transfer status/confirmation for #2293178602 (transfer in-process: Wise
+received USD, payout scheduled Thu Aug 6 09:00, Joshua receives 14:00; 50 sent / 47 after 3 fee).
+Confirms the transfer is not a separate document, the status page IS the record.
