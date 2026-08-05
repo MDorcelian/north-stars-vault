@@ -74,3 +74,11 @@ launch-ready foundation. Payment = delivery-based per Option A (established patt
 Marvens sent Joshua the Wise transfer status/confirmation for #2293178602 (transfer in-process: Wise
 received USD, payout scheduled Thu Aug 6 09:00, Joshua receives 14:00; 50 sent / 47 after 3 fee).
 Confirms the transfer is not a separate document, the status page IS the record.
+
+
+## PAYMENT/BUNDLE DISCUSSION RESOLVED 08-05
+Joshua accepted holding the delivery-based (pay-per-approved-script) flow for the first few, agreed to
+revisit bundling script+VO payments once into a steady cadence, and appreciated the future rate
+adjustment (transfer-fee) openness. Thanked for transfer confirmation. Now writing the FULL narration
+script for Episode 1 (deliverable correctly reset to full script, outline = process not product).
+Transfer #2293178602 in-process (Wise received USD, payout to Joshua Aug 6).
