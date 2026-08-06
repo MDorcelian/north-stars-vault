@@ -55,3 +55,11 @@ Vincent 08-05 asking him to: lock ONE master face reference and re-derive the ot
 that single reference, keeping all color/shading/rim-light work. Context: he's mid render/shading, so
 right time. AVOID AI face-replacement-at-end fix (high risk, faith-based); source-level master-face
 fix is correct. Awaiting his response.
+
+
+## FACE-CONSISTENCY ACK (08-06)
+Vincent acknowledged the master-face-reference request ("Gotcha! I'll make those changes and get back
+to ya"). He's acting on it. Still outstanding in the same delivery: rim-lit silhouettes for the other
+tricky poses (greenlit), eye-direction variants (go), duplicate-pose consolidation (confirm one
+master), final render/shading with rim touches, then the full 12-PNG expression set. Awaiting his
+revised pass / final delivery.
