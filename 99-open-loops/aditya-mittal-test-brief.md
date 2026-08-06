@@ -30,6 +30,11 @@ Quick test, no payment expected for this: write a 300 to 400 word outline, not a
 
 Send it over whenever's convenient, no deadline pressure, just want to see how you handle Ace before we talk scope, rate, and whether this becomes the channel manager role or something narrower.
 
+## Drafted nudge (awaiting his approval)
+_2026-08-06_
+
+> Quick check-in on the GTA 6 gang outline — no rush at all, just touching base since it's been a few days since I sent the brief. Whenever you get a chance to write it up in Ace's voice, send it over and I'll take a real look. Happy to answer any questions on the character in the meantime.
+
 ## Note
 The cold-open card-flip move was added as the replacement for the removed cigarette bit (Marvens approved by sending this as-is). It reflects the ace-of-spades card tucked in the beanie from the locked reference art. Sign-off mirrors it with the card flick, matching the existing sign-off language.
 
