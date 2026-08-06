@@ -82,3 +82,9 @@ revisit bundling script+VO payments once into a steady cadence, and appreciated 
 adjustment (transfer-fee) openness. Thanked for transfer confirmation. Now writing the FULL narration
 script for Episode 1 (deliverable correctly reset to full script, outline = process not product).
 Transfer #2293178602 in-process (Wise received USD, payout to Joshua Aug 6).
+
+
+## PAYMENT 1 RECEIVED + FULL-SCRIPT ETA (08-06)
+Joshua confirmed he RECEIVED the payment (transfer #2293178602 landed, ~Aug 6). Coordinating with his
+writing team; full Episode 1 narration script on track to be completed within 2 days, tomorrow is the
+planned delivery date. Will send when ready.
