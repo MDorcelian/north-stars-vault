@@ -88,3 +88,12 @@ Transfer #2293178602 in-process (Wise received USD, payout to Joshua Aug 6).
 Joshua confirmed he RECEIVED the payment (transfer #2293178602 landed, ~Aug 6). Coordinating with his
 writing team; full Episode 1 narration script on track to be completed within 2 days, tomorrow is the
 planned delivery date. Will send when ready.
+
+
+## EPISODE 1 FULL SCRIPT DELIVERED + APPROVED (08-06)
+Full ~1,700-word narration script delivered + approved. Strong Ace voice throughout, Lucia/Jason as
+confirmed anchors, gang speculation cleanly labeled in-voice, comment-CTA ending. Two tiny fixes
+(TITTLE typo, add "you ain't heard this from me" sign-off beat). PAYMENT: $50 already sent covers this
+deliverable fully (outline+script = one script deliverable). FIRST DELIVERABLE SETTLED, no new payment
+due for ep1. NEXT: deliverable 2 = "Ranking Every GTA Protagonist From Least To Most Evil" ($50,
+suggested nad 08-06). Joshua sent a friend request, awaiting accept.

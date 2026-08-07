@@ -80,3 +80,11 @@ MARVENS OFFERED +$40 goodwill token for the extra pass (sent 08-06), framed as a
 late change, no conditions. (Not patronizing: pairs genuine appreciation with a clean token.)
 Awaiting his revised pass; final checklist for delivery = eyes locked, mouth-to-neck locked, extremes
 pulled to baseline, rim-lit silhouettes (other poses), duplicate pose consolidated, 12-PNG set complete.
+
+
+## FACE-FIX ACK #2 (08-06): Vincent refining again
+Vincent confirmed he can see the eye + mouth-to-neck drift and will refine: "I'll refine again. Keep
+the eyes and mouth to neck proportions consistent. Thank you so much for understanding. I'll get to
+those changes right away." Accepted the $40 goodwill gracefully. Awaiting revised set; then final
+delivery checklist (eyes locked, mouth-to-neck held, extremes pulled to baseline, rim-lit silhouettes,
+duplicate consolidated, 12-PNG complete).
