@@ -97,3 +97,11 @@ confirmed anchors, gang speculation cleanly labeled in-voice, comment-CTA ending
 deliverable fully (outline+script = one script deliverable). FIRST DELIVERABLE SETTLED, no new payment
 due for ep1. NEXT: deliverable 2 = "Ranking Every GTA Protagonist From Least To Most Evil" ($50,
 suggested nad 08-06). Joshua sent a friend request, awaiting accept.
+
+
+## REVIEW DECISION (08-06)
+REVIEW (Upwork/Discord) HELD until several videos are rolling, NOT first script. Honest + protects
+Marvens; reflects real reliability across multiple deliverables. Workflow: scripts-only during build,
+then 3 VOs for approved scripts, then art+thumbs, production at launch. Josh asked for a review on the
+first completed project; response holds it gracefully until real production volume exists. Production
+batch sized to launch timing (~Nov 19).

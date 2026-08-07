@@ -65,3 +65,18 @@ NOW: deep-dives/trailer breakdowns/nostalgia bridges. LAUNCH WEEK: first impress
 
 ## Shorts / social cross-posting (note added 08-04)
 Marvens wants short-form clips of Ace content distributed across socials. Open: Joshua to handle shorts, or a dedicated shorts guy. Produce + post roles to be decided at launch. Compare with Explainer Chris's existing VA-for-short-form pattern.
+
+
+## ACE PRODUCTION BATCH PLAN (Marvens 08-06)
+Marvens' sequencing (validated as smart; better than per-script immediate production):
+1. Produce the FIRST 3 scripts (per-deliverable, $50 each, script-only, Ace voice). Validates
+   consistency across multiple scripts before production spend.
+2. Then 3 VOICEOVERS once 3 scripts are approved (check VO consistency across episodes) - only
+   produce VO for approved scripts.
+3. Then ART + THUMBNAILS on the videos - production turns on only after scripts+VO validated, only
+   for scripts that made it through.
+4. HOLD external REVIEWS (Upwork/Discord) until several videos are actually rolling - not first
+   script. Builds Josh credibility honestly + reflects real reliability, and protects Marvens.
+GUARDRAIL: batch size matched to launch timing (~GTA 6 Nov 19). Don't hold expensive finished
+production for months pre-launch; if launch slips, consider smaller first production batch (2).
+STATUS: Joshua told scripts-only during build; will produce ep1 + 2 more scripts first.
