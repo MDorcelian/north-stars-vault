@@ -105,3 +105,11 @@ Marvens; reflects real reliability across multiple deliverables. Workflow: scrip
 then 3 VOs for approved scripts, then art+thumbs, production at launch. Josh asked for a review on the
 first completed project; response holds it gracefully until real production volume exists. Production
 batch sized to launch timing (~Nov 19).
+
+
+## REVIEW FRAMING (refined 08-06)
+Josh review response refined: (1) hold because channel-manager work still to be done/proven;
+(2) NO Upwork review because business is NOT conducted there (we connected/work via server + Marvens'
+own process, not Upwork, so an Upwork review would be off-platform/inaccurate); (3) happy to leave a
+genuine review in the FACELESS DISCORD where we actually connected, committed once a few videos roll.
+This is honest on all fronts and avoids insulting Upwork as a platform.
