@@ -99,3 +99,28 @@ See file body notes; the biggest gaps vs the 8-12 email benchmark:
 4. No true last-chance / urgency window for the $59/$20-off before it expires.
 5. No social proof from other students (only his own proof).
 6. Slight gap: no further day-6+ nurture / the 1-value-every-5-7-days post-launch sequence.
+
+
+## REAL SALES DATA (08-06, verbatim from Gumroad) — 12 SALES since May 2026
+Course is IN PRODUCTION with real buyers, NOT pre-launch. 12 purchases:
+- Aug 5: Jordan Shaw $79
+- Jul 31: Tyrique Jones $79
+- Jul 29: Manthan Ugemuge $39.50
+- Jul 20: Enrico Valzania $39.50
+- Jul 20: Cy N. $39.50
+- Jul 20: Christoff Gordon $39.50
+- Jul 20: Keyon Woolfalk $39.50
+- Jul 20: Doug Jansen $39.50
+- Jul 20: Oscar Martinez $39.50
+- Jun 10: karim $79 (PARTIALLY REFUNDED)
+- Jun 9: Yug Patil $63.20
+- May 24: Ethan Ramirez $79
+Rough gross ~$570-620 excluding the partial refund. Refund rate 1/12 (~8%), a real small signal to watch.
+
+## WHAT THIS UNLOCKS (corrected gap analysis)
+Earlier I said "no social proof possible until buyers exist" — WRONG. 12 buyers exist, including several
+who've had the course since May/Jun (2-3 months). That is legitimate testimonial/result-mining material:
+reach out to the earliest buyers (Ethan May 24, Yug Jun 9, karim Jun 10) asking if they've run any of
+it / any result / a one-line honest quote. This is REAL third-party proof, not fabricated. Do NOT
+invent testimonials; quarry them from actual buyers. This closes the (earlier-flagged) social-proof gap.
+Also enables a post-launch nurture / reactivation angle to the existing 12.
