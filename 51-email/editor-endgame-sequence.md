@@ -124,3 +124,36 @@ reach out to the earliest buyers (Ethan May 24, Yug Jun 9, karim Jun 10) asking 
 it / any result / a one-line honest quote. This is REAL third-party proof, not fabricated. Do NOT
 invent testimonials; quarry them from actual buyers. This closes the (earlier-flagged) social-proof gap.
 Also enables a post-launch nurture / reactivation angle to the existing 12.
+
+
+## CAMPAIGN: "i did it, I reached $11,000" reveal + 10k flash sale (Aug 2026)
+Marvens released a milestone email announcing he hit $11k in a month (the $4k Luma deal pushed it past
+the $10k goal, said he "got a bit excited" including the pending Luma deal). Paired with a 10-HOUR flash
+sale: code "10k" = 50% off The Editor's Endgame (to ~$39.50), "will never offer this discount again."
+Email also funnels: read The Editor's Edge (free) -> get The Editor's Endgame.
+
+SEND ANALYTICS (from screenshot, Jul 20-21 thread): 44.6-44.7k sends per email across the urgency
+thread ("4 hours left: 50% off ends today", "Final hour", "It's over", etc). Engagement ~12.9-13.6%.
+Best performer: "i did it, i reached $10,000/month with video editing." = 13.4% / 94 engagements / 6
+conversions. Confirms milestone/proof-driven urgency emails engaged well.
+
+## HONESTY FLAG (North Stars) — "$11k" vs "10k/month with video editing" + including pending Luma
+The email says "I hit $11,000" and "i reached $10,000/month WITH VIDEO EDITING". Honest check:
+- The $11k counted the PENDING Luma AI $4k deal (which Marvens flagged as still pending/contract issues,
+  "got a bit excited"). So $11k is not a settled $11k already banked, and $10k/month wasn't purely
+  video-editing income (the ~$7k was channels, not editing wages; +$4k pending sponsorship).
+- The $7k month was Explainer Chris channel revenue + EC ESP, which is NOT "video editing services."
+  Calling it "$10,000/month with video editing" overstates the mechanism (it was channels/ideation, not
+  editing services), and this directly contradicts the earlier, MORE honest case-study email that
+  correctly said "editing got me in the door, the niche pick and ideation made the money."
+WATCH: the milestone email re-introduces the very overclaim the case-study email fixed. FTC/trust risk
+if the pending $4k and channel-vs-editing framing are not caveated. Recommend (without nagging) that
+future milestone emails say "banked" not "hit," and separate "channel income" from "editing," or note
+the Luma deal is pending.
+
+## REFUND RESOLVED (Marvens clarification 08-06)
+The karim partial refund (Jun 10) was NOT a course problem. It was from when Marvens upsold all products
+(incl free) to The Editor's Endgame; a buyer said they purchased by ACCIDENT, and the page at the time
+had a 7-DAY REFUND POLICY, so Marvens refunded and switched to NO-REFUNDS from then on. Also REMOVED the
+upsell and now directs people to The Editor's Edge first. This fully explains the refund, is legitimate,
+and is consistent with the current no-refund stance. Logged as resolved; no red flag.
