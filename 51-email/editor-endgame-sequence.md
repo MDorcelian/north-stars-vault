@@ -1,0 +1,72 @@
+---
+name: Editor's Endgame nurture email sequence (Jiggy's course funnel)
+type: reference
+status: active product funnel (Jiggy Gumroad ~$859/mo baseline)
+grade: G1 (verbatim from Marvens' paste 08-06)
+related: [50-systems/daily-brief etc]
+---
+
+# The Editor's Endgame — Pre-Sale Nurture Email Sequence
+
+Context: sells a $79 course ($59 with $20-off guide-reader discount) via Gumroad. This is the CURRENT
+sequence (6 emails) AFTER someone buys the free "Editor's Edge" guide PDF. Goal: convert guide readers
+into course buyers.
+
+## The 6 current emails (verbatim)
+
+1. **0 hours after purchase** — "your guide's in your inbox, read this before anything else"
+   - Deliver the PDF, welcome, read-in-one-sitting, "one idea will bug you, that's the one that
+     changed everything." Short-version: you trained your eye, editors have an instinct most
+     beginners lack. Establishes identity + the "wrong seat" seed.
+
+2. **24 hours after purchase** — "i just got 334 revisions on one video..."
+   - Story: 334 revisions on one client video, barely paid; another client let him go for being
+     "inconvenient." Renting hours vs owning the asset. Wage vs Asset framing ("The wage," "The
+     asset"). "The only question is who you point it at." Teases a fear-clearing email tomorrow.
+
+3. **48 hours after purchase** — "addressing the allegations"
+   - Social proof / objection handling: reposted a scathing reply ("stop yapping kid... you failed at
+     YouTube"). Frames course as a hobby, main job = faceless YouTube operator ($7k/mo + pending $4k
+     sponsorship). Admits he failed at YouTube many times (affiliate, music, meme, AI story channels,
+     15-20 channels). "The sauce" = volume, demonetizations, money burned. Course purpose = editors
+     who failed → fast-track + dodge pitfalls.
+
+4. **72 hours after purchase** — "you're not quitting editing (read this)"
+   - Kills the fear: this is NOT quitting editing. You can still edit yourself; he polishes only the
+     high-leverage 20%, hands off the other 80% on channels he owns. Instead of 20-40 hrs cutting
+     someone else's vision, 1-2 hrs on his own. Honest: solo figuring cost a year. Course = skip the
+     year (niche, team, operating model). "The eye is already yours, just pointed at the wrong seat."
+
+5. **4 days after purchase** — "a year ago i was you"
+   - Origin story + proof. 1,000+ client videos, no ownership, got dropped. Editing transfers:
+     pacing/retention/hooks already known. Introduces The Editor's Endgame (12-module course).
+     Module 1: Niche Finding (NexLev, <150K subs); Module 2: Outlier Signals Framework (overperforming
+     vs channel average); Module 3: Channel Intelligence Prompts (Claude + NexLev MCP, six AI prompts).
+     Two things keep editors stuck: picking a niche + what ideas to create. Kills both.
+
+6. **5 days after purchase** — "🗺️ the map I wish someone had handed me ($20 off inside)"
+   - LAST one in the thread. Everything inside: 12 modules, ~3 hours. Niche process ($50k+), read
+     viral ideas, run a channel ~2 hrs/day, copy-paste hiring templates, the 5 mistakes. AI "second
+     brain." $20 off for guide readers: $79 → $59. CTA: "Get The Editor's Endgame." Honest framing:
+     not a get-rich button, it's a system, you still run it. Income disclosure.
+
+## ChatGPT benchmark / guidance (from Marvens' convo)
+- For a $79 product: 8-12 email launch sequence is typical; sell within first 1-3 weeks then evergreen.
+- Recommended: deliver PDF, welcome+story, quick win from PDF, biggest mistake, case study, $7k
+  month breakdown, introduce course, FAQ/objections, last-chance/bonus.
+- After: 1 value email per 5-7 days, pitch every 3-5 value emails.
+- Proof should be structured problem→shift→result→lesson→offer (transformation, not just a revenue
+  screenshot).
+- Current sequence = 6 emails, ends on offer at day 5. GAP identified: it's 6 not 8-12; no explicit
+  FAQ/objections email; no case-study breakdown of the $7k; no dedicated last-chance urgency for the
+  $59/$20-off window. See gap analysis below.
+
+## GAP ANALYSIS (North Stars 08-06) — what the sequence is missing
+See file body notes; the biggest gaps vs the 8-12 email benchmark:
+1. Only 6 emails (short of 8-12). Ends abruptly on offer at day 5 with no reinforcement.
+2. No dedicated FAQ / objection-handling email (testimonials, refund policy, "is this for me").
+3. The $7k proof is mentioned but never broken down case-study style in its own email; ChatGPT says
+   structure problem→shift→result→lesson→offer.
+4. No true last-chance / urgency window for the $59/$20-off before it expires.
+5. No social proof from other students (only his own proof).
+6. Slight gap: no further day-6+ nurture / the 1-value-every-5-7-days post-launch sequence.
