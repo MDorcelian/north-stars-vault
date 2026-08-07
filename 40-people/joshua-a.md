@@ -113,3 +113,9 @@ Josh review response refined: (1) hold because channel-manager work still to be 
 own process, not Upwork, so an Upwork review would be off-platform/inaccurate); (3) happy to leave a
 genuine review in the FACELESS DISCORD where we actually connected, committed once a few videos roll.
 This is honest on all fronts and avoids insulting Upwork as a platform.
+
+
+## WORKFLOW + REVIEW AGREED (08-06)
+Josh accepted: scripts-first library (build scripts, VO+edit at launch/production), held the review
+with good grace, will switch to Faceless Discord review once a few videos roll. Starting deliverable 2
+"Ranking Every GTA Protagonist From Least To Most Evil" (same format). Clean alignment, no friction.
