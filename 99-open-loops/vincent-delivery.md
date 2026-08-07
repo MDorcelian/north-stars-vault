@@ -63,3 +63,20 @@ to ya"). He's acting on it. Still outstanding in the same delivery: rim-lit silh
 tricky poses (greenlit), eye-direction variants (go), duplicate-pose consolidation (confirm one
 master), final render/shading with rim touches, then the full 12-PNG expression set. Awaiting his
 revised pass / final delivery.
+
+
+## FINAL FIX PASS MESSAGE SENT (08-06) — SPECIFIC, ACTIONABLE
+Second round of face-consistency feedback sent to Vincent (integrated from Marvens' real-life read +
+vision model). The sexual preserved: revised set improved color/rim-light/render but eyes + face
+proportions still drifted; Image 4 eyes read rounder/wider vs hooded on others.
+CONCRETE ASKS (verbatim intent):
+- Some expressions read too drastic from baseline: shocked, confused eyebrow-raise,
+  angry/determined, and the pointing pose. Keep the EMOTION, pull the VISUAL JUMP closer to baseline
+  so it reads as the same person emoting, not a different character.
+- Standardize EYES off single master reference: pick one eye shape, hold it everywhere.
+- Keep MOUTH-TO-NECK ratio locked across poses (flagged by Marvens' gf too).
+- Keep color/rim-light/render (all good).
+MARVENS OFFERED +$40 goodwill token for the extra pass (sent 08-06), framed as a thank-you for the
+late change, no conditions. (Not patronizing: pairs genuine appreciation with a clean token.)
+Awaiting his revised pass; final checklist for delivery = eyes locked, mouth-to-neck locked, extremes
+pulled to baseline, rim-lit silhouettes (other poses), duplicate pose consolidated, 12-PNG set complete.
