@@ -8,11 +8,40 @@ related: [50-systems/daily-brief etc]
 
 # The Editor's Endgame — Pre-Sale Nurture Email Sequence
 
-Context: sells a $79 course ($59 with $20-off guide-reader discount) via Gumroad. This is the CURRENT
-sequence (6 emails) AFTER someone buys the free "Editor's Edge" guide PDF. Goal: convert guide readers
-into course buyers.
+Context: sells a $79 course ($59 with $20-off guide-reader discount) via Gumroad. Sequence AFTER
+someone buys the free "Editor's Edge" guide PDF. Goal: convert guide readers into course buyers.
 
-## The 6 current emails (verbatim)
+PROMO-CODE CLARIFICATION (Marvens 08-06): EDGEREADER code is for a DIFFERENT promo, his BIRTHDAY
+(Aug 8, 30% off, Aug 7-13) — NOT the guide-reader $20-off. The $20-off/$79→$59 for guide readers and
+the birthday 30% code are separate. Do not conflate them. (Earlier note about a "leaves the table"
+deadline was WRONG and removed — no invented urgency, discount is evergreen for guide readers.)
+
+## The CURRENT email sequence (8 emails, verbatim) — 08-06 update
+1. 0h  — "📖 your guide's in your inbox, read this before anything else" — deliver PDF, read in one
+   sitting, "the eye is already yours" seed.
+2. 24h — "i just got 334 revisions on one video..." — Wage vs Asset story, renting hours.
+3. 48h — "addressing the allegations" — repost critic, social proof, $7k/mo + pending $4k sponsorship,
+   admits failing at YouTube (15-20 channels), course = fast-track + dodge pitfalls.
+4. 60h — "the case study ($7k month breakdown)" — $55k lead editor → $6k editing gig → niche shift →
+   $6k main + $1k side = $7k month; honest: editing got him in, niche pick + ideation made the money;
+   $50k banked. (Added 08-06; honest about ideation being the real driver.)
+5. 72h — "you're not quitting editing (read this)" — kills the fear, not quitting, polish 20%/hand off
+   80%, 1-2 hrs vs 20-40, course = skip the year.
+6. 4d  — "a year ago i was you" — origin + proof, editing transfers, first 3 modules (Niche Finding /
+   Outlier Signals / Claude+NexLev prompts), "two things keep editors stuck."
+7. 5d  — "🗺️ the map I wish someone had handed me ($20 off inside)" — everything inside, 12 modules ~3
+   hrs, hiring templates, 5 mistakes, AI second brain, $79→$59 for guide readers, "not a get-rich
+   button." NOTE: says "Last one in this thread" but an 8th email follows at 132h — flag to fix.
+8. 132h — "who this is for, and who it isn't (read this before you buy)" — the FAQ/objections email:
+   for editors who know pacing, "not a get-rich button," objections (niche-pick, no time), and the
+   NO-REFUND stance ("selling a system you run," "on you showing up"). (Added 08-06.)
+
+## Remaining gaps / flags (North Stars)
+- Email #7 says "Last one in this thread" but #8 (132h) follows — wording should be fixed OR #8 is the
+  closer and #7's "last one" removed. Since #8 is the objection/FAQ email, it reads better as the
+  penultimate and #7's "last one" should be corrected.
+- No fake-deadline urgency (decided 08-06): discount is evergreen, no invented countdown.
+- Still could add: a student/testimonial social-proof expansion; post-132h value-nurture cadence.
 
 1. **0 hours after purchase** — "your guide's in your inbox, read this before anything else"
    - Deliver the PDF, welcome, read-in-one-sitting, "one idea will bug you, that's the one that
