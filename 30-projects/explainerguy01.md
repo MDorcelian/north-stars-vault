@@ -20,3 +20,11 @@ Supersedes the earlier conflicting figures (~50K/~58K for guy01, stale 39,600 DB
 Top videos (from prior DB read, still the best data on file): DDR RAM 587,395; Mobile Network Gen 480,610; Linux Distro 405,192 [A].
 
 Demonetization: explainerguy01 is the channel that was actually demonetized, via the @RedSignalArchives related-channel flag. An old agent log incorrectly attributed this to Explainer Chris; that entry is discarded, see 00-inbox/legacy-triage-log.md.
+
+
+## DEMONETIZATION LIFTED (08/08) — MONETIZATION RESTORED
+Marvens reported the demonetization on explainerguy01 was LIFTED, back on track. This restores ad
+revenue + partnership potential for that channel. (G2 - Marvens' report 08-08). Significant for income
+(memory: survived a demonetization and rebuilt to 52K+ subs on Explainer Chris; explainerguy01 is
+the other major channel, 73.2K subs). Next: verify monetization status in YouTube Studio, note any
+re-application/RPM effects, and factor into monthly income steer toward $30k net.
