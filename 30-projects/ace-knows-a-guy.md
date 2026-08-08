@@ -80,3 +80,25 @@ Marvens' sequencing (validated as smart; better than per-script immediate produc
 GUARDRAIL: batch size matched to launch timing (~GTA 6 Nov 19). Don't hold expensive finished
 production for months pre-launch; if launch slips, consider smaller first production batch (2).
 STATUS: Joshua told scripts-only during build; will produce ep1 + 2 more scripts first.
+
+
+## GTA 6 PRE-LAUNCH INTEL (@TubeAIYT/TubeAI output, Aug 2026) — logged 08-08
+Source: Nick Bencino S @TubeAIYT, TubeAI-plan output for a GTA 6 channel. Grade: G3 (self-reported
+tool output; act on patterns, not exact multipliers).
+
+ACTIONABLE / KEEP:
+- Title formats that work for GTA: "Every (mechanic) in GTA 6 Explained" (~9x; = Ace franchise lane),
+  "The Evolution of (system)" (~11.4x), "What Happens If You (action)" (~11.1x).
+- Write "GTA 6", never "GTA VI".
+- Video length sweet spot 18-25 min (reported 1.54x; drops to 1.06x at 10-18). Supports longer
+  (RedSignal thesis). DECISION NEEDED: reconcile with the 8-10 min Ace scope given to Joshua, vs
+  sizing Ace videos to 18-25 min band.
+- AUG 27 play: gameplay premieres Aug 27, thousands flood same-day. Do NOT rush a frame-by-frame.
+  Publish a BREAKDOWN ~24h LATER, expanding on an existing successful video (differentiated). LOCK as
+  a launch-timing move.
+- PRE-LAUNCH lean: deep dives (patent breakdowns, leak audits, 3D map recreations) currently pulling
+  40-230K views. Validates the Ace pre-launch deep-dive library / "Every [GTA6 thing] Explained".
+- Candidate vectors to consider as video ideas: GTA + "superhero mods", + "RP"; "Feature"/"Evolution"
+  power words.
+
+HOLD as G3 (unverified multipliers): the exact lift figures; treat as directional not fact.
