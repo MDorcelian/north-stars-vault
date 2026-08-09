@@ -88,3 +88,10 @@ the eyes and mouth to neck proportions consistent. Thank you so much for underst
 those changes right away." Accepted the $40 goodwill gracefully. Awaiting revised set; then final
 delivery checklist (eyes locked, mouth-to-neck held, extremes pulled to baseline, rim-lit silhouettes,
 duplicate consolidated, 12-PNG complete).
+
+## Drafted nudge (awaiting his approval)
+_2026-08-09_
+
+> Quick check-in on the expression set. It's been a few days since you said you'd refine the eyes and
+> mouth proportions, just touching base to see where the render pass is at. No rush at all, whenever
+> you get the revised set over I'll take a real look. Happy to answer anything in the meantime.
