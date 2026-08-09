@@ -119,3 +119,19 @@ This is honest on all fronts and avoids insulting Upwork as a platform.
 Josh accepted: scripts-first library (build scripts, VO+edit at launch/production), held the review
 with good grace, will switch to Faceless Discord review once a few videos roll. Starting deliverable 2
 "Ranking Every GTA Protagonist From Least To Most Evil" (same format). Clean alignment, no friction.
+
+
+## EPISODE 2 VOICE FIX LANDED (08-09) — ACE VOICE RESTORED, APPROVED-READY
+After Marvens' feedback (Ep2 read as generic narrator, dropped Ace's verbal kit), Joshua revised:
+kept the ranking + research intact, re-narrated entirely through Ace. VERIFIED (North Stars read):
+- Opens in Ace voice ("You sit behind a counter like this long enough..."), verbal kit now returns
+  throughout: "who does everybody answer to," "rob a register," "from where I'm sitting," "you'd be
+  surprised what people will admit to when they think nobody's listening."
+- Corner-store framing used AS judgment (Michael: "I've had customers stand right at this register
+  and defend Michael to the death."; CJ: "people start arguing over the counter").
+- Sign-off holds: "your coffee's getting cold, I gotta restock the ice machine... You ain't heard this
+  from me." + card flick on the counter + store bell.
+- Research/ranking intact (Victor->Toni/Johnny/Michael/Trevor order; canon correct).
+EP2 heading to approval/payment for deliverable 2 (per-deliverable, Wise). This response (owned the
+criticism, came back clean in-register) is a STRONG signal Joshua has the channel-manager ownership
+Marvens is building toward. Good sign.
