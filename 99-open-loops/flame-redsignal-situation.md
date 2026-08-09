@@ -60,3 +60,15 @@ the easy cash but the risk I get from RedSignalArchives posting is just not wort
     Prefer transferring RSA, NOT explainerguy01, to minimize exposure (keep the reinstated channel on
     Marvens' own identity). If the price of Flame taking RSA is rev split, given his fair stance,
     consider agreeing rev-share + ownership-transfer as the real solution.
+
+## FLAME PUSHBACK + WANNER-DIRECT reframe (Marvens 08-09)
+Flame pushed back: said posting vs not posting won't matter (YT demonetizes whenever), called Marvens
+"too paranoid," repeated the ownership-transfer-unlinks point. Flame's credibility/context: he's made
+$100k+ (had the 100k+ role in faceless-YT discord for a year+, responds to people frequently) - real
+experience, don't dismiss, but his ease is his own; explainerguy01 re-apply is Marvens' asset at risk.
+MARVENS' PLAN (agreed 08-09): redirect the REASON to the coach (WannerCashCow). Wanner has told Marvens
+that related-channel signals can still hit THROUGH ADSENSE and it has before. So the wait-until-Sep15 is
+justified as coming from a trusted coach's direct statement, not Marvens being paranoid. This gives a
+third-party, authoritative reason without entering a mechanics debate Flame can win.
+NOTE: Marvens is "more surprised it hasn't happened to Wanner" - his coach has apparently avoided it.
+Fine as the justification source. Hold the Sep 15 transfer + quiet-until-then line.
