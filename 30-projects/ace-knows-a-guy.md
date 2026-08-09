@@ -102,3 +102,11 @@ ACTIONABLE / KEEP:
   power words.
 
 HOLD as G3 (unverified multipliers): the exact lift figures; treat as directional not fact.
+
+
+## LAUNCH NOTE (Marvens 08-09): testing different strategies, seeing what works
+These first few videos are an explicit test batch: Marvens is testing different strategies and wants
+to see what works before full commitment. So the opener polish + ace-voice + retention standards on
+Episodes 1-2 are partly experiments, not just quality gates. Retention to be measured across the early
+batch; iterate on whatever wins. Also implies: don't over-engineer/overburn on any single episode;
+treat cadence + hypothesis-testing as the point.
