@@ -135,3 +135,12 @@ kept the ranking + research intact, re-narrated entirely through Ace. VERIFIED (
 EP2 heading to approval/payment for deliverable 2 (per-deliverable, Wise). This response (owned the
 criticism, came back clean in-register) is a STRONG signal Joshua has the channel-manager ownership
 Marvens is building toward. Good sign.
+
+
+## EPISODE 2 APPROVED (08-09) — DELIVERABLE 2 COMPLETE
+Joshua dropped in the tightened cold open verbatim (verifed in PDF): confirms click (ranked least to
+most), plants stakes (top guy "not who he thinks he is" = surprise-outcome promise), keeps Ace's voice
+(counter framing), hooks to the end ("you'll want to fight me in the comments" = completion+comment
+driver). Ranking + research + Ace voice intact. Full Episode 2 now meets the standard. Ready to approve
+and pay deliverable 2 ($50, Wise) per per-deliverable structure.
+NOTE: first videos are strategy tests (Marvens), measure what works before full commitment.
