@@ -158,3 +158,9 @@ Standards across all 5: full narration in Ace voice, 30-sec cold open (confirm c
 research integrity (flag rumors, never invent), Ace verbal kit. Locations/Businesses/Vehicles =
 confirmed-info pre-launch deep-dives (specificity). Mysteries = comment-engine. Pay per script as each
 approves, same Wise flow. Ep2 already paid (confirmed by Joshua 08-09).
+
+
+## BATCH 1 CONFIRMED (08-09 evening)
+Joshua confirmed he'll work through all 5 in order, keeping same Ace voice, research standards, and
+cold-open structure across all five. Batch 1 fully agreed + assigned, Ep2 paid and approved. No open
+questions. Working Deliverable 3 (Locations) now; returns scripts in order, pay per approval.
