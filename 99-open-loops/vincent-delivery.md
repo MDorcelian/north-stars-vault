@@ -95,3 +95,12 @@ _2026-08-09_
 > Quick check-in on the expression set. It's been a few days since you said you'd refine the eyes and
 > mouth proportions, just touching base to see where the render pass is at. No rush at all, whenever
 > you get the revised set over I'll take a real look. Happy to answer anything in the meantime.
+
+
+## 3/4 EYE FIX CONFIRMED (08-10) — face-consistency achieved
+Vincent delivered a before/after; the vision read confirms the AFTER widened the 3/4 eye ~40-50%
+(from squinted/crescent to rounder, more open matching the front-view standard). The five-round
+face-consistency thread (mouth-to-neck + eye standardization) is resolved. Set now reads as the same
+character. Remaining to delivery: finish the full color/shading/rim-light render pass on all poses
+(as applicable), confirm no further eye drift survives the final render, full 12-PNG expression set,
+then the $510(+$40)=$550 milestone is payable.
