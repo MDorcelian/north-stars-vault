@@ -164,3 +164,12 @@ approves, same Wise flow. Ep2 already paid (confirmed by Joshua 08-09).
 Joshua confirmed he'll work through all 5 in order, keeping same Ace voice, research standards, and
 cold-open structure across all five. Batch 1 fully agreed + assigned, Ep2 paid and approved. No open
 questions. Working Deliverable 3 (Locations) now; returns scripts in order, pay per approval.
+
+
+## WISE DOCUMENT-REVIEW HOLD (08-10)
+Wise is reviewing documents and pausing outbound transactions (transfer #2300675302, $50 to Joshua,
+shows "Sending paused / verifying you"). Wise received funds, verification expected ~Aug 16, payout
+projected ~Aug 17. Marvens told Joshua (comply process, payment will follow once cleared). Joshua
+replied understanding, will watch for it. NOTE: this pauses ALL per-script payments until Wise clears,
+and creates a potential payment backlog during Batch 1. Backup payment vehicle consideration flagged
+(not PayPal per Joshua). Reinforces the Sep-1/Nov-19 timings are not payment-blocked.

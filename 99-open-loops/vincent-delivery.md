@@ -104,3 +104,9 @@ face-consistency thread (mouth-to-neck + eye standardization) is resolved. Set n
 character. Remaining to delivery: finish the full color/shading/rim-light render pass on all poses
 (as applicable), confirm no further eye drift survives the final render, full 12-PNG expression set,
 then the $510(+$40)=$550 milestone is payable.
+
+
+## FINAL RENDER GO (08-10)
+Marvens sent the confirmation the 3/4 eye fix is the one, told Vincent to finish color/shading/rim-light
+on the rest of the set with that eye shape locked, nothing drifts in final pass, then milestone settled.
+Vincent is finishing the full render. Milestone = $510(+$40)=$550 payable on the clean full set delivery.
