@@ -72,3 +72,19 @@ justified as coming from a trusted coach's direct statement, not Marvens being p
 third-party, authoritative reason without entering a mechanics debate Flame can win.
 NOTE: Marvens is "more surprised it hasn't happened to Wanner" - his coach has apparently avoided it.
 Fine as the justification source. Hold the Sep 15 transfer + quiet-until-then line.
+
+
+## FLAME DEAL CLOSED (08-09) — 80/20, wait until Sep 15
+Flame accepted: quiet until Sep 15 (no posting), then ownership transfer of RedSignalArchives to Flame,
+80/20 rev split (Flame 80, Marvens 20) as compensation for opportunity cost. Marvens agreed 08-09 9:38pm
+("80/20 is fair").
+
+CONTEXT/NOTES:
+- From Marvens' original 100%-to-Flame offer, 80/20 is actually a BETTER result for Marvens (he was
+  going to give everything). Accept was correct.
+- Flame stated "it's my AdSense though, not connected to your other channel." VERIFY on Marvens' side:
+  does explainerguy01 actually share AdSense/email identity with RedSignalArchives? If AdSense is truly
+  Flame's, the "signal through AdSense" worry (from coach Wanner) may not apply here, meaning the wait
+  was protective by courtesy rather than necessity. Confirm for clarity (not a blocker).
+- Next: after Sep 15 + explainerguy01 re-apply approval, execute the brand-account ownership transfer
+  to Flame's email, then channel is fully his and separated.

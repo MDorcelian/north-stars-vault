@@ -144,3 +144,17 @@ most), plants stakes (top guy "not who he thinks he is" = surprise-outcome promi
 driver). Ranking + research + Ace voice intact. Full Episode 2 now meets the standard. Ready to approve
 and pay deliverable 2 ($50, Wise) per per-deliverable structure.
 NOTE: first videos are strategy tests (Marvens), measure what works before full commitment.
+
+
+## BATCH SYSTEM AGREED + BATCH 1 ASSIGNED (08-09)
+Joshua proposed a 5-scrip-per-week batch at $250 (same $50/script, per-script review, pay on approval).
+Marvens accepted. BATCH 1 (5 topics, deliver in order):
+1. Every Location We Know About in GTA 6 Explained (Deliverable 3, started)
+2. Every Business Confirmed in GTA 6 Explained
+3. Every Vehicle Confirmed in GTA 6 Explained
+4. Every GTA Vice City Unsolved Mystery Explained
+5. Every GTA Game Explained
+Standards across all 5: full narration in Ace voice, 30-sec cold open (confirm click/stakes/hook),
+research integrity (flag rumors, never invent), Ace verbal kit. Locations/Businesses/Vehicles =
+confirmed-info pre-launch deep-dives (specificity). Mysteries = comment-engine. Pay per script as each
+approves, same Wise flow. Ep2 already paid (confirmed by Joshua 08-09).
