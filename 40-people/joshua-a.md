@@ -173,3 +173,10 @@ projected ~Aug 17. Marvens told Joshua (comply process, payment will follow once
 replied understanding, will watch for it. NOTE: this pauses ALL per-script payments until Wise clears,
 and creates a potential payment backlog during Batch 1. Backup payment vehicle consideration flagged
 (not PayPal per Joshua). Reinforces the Sep-1/Nov-19 timings are not payment-blocked.
+
+
+## ACE EXPRESSIONS HANDOFF TO JOSHUA (08-11)
+Sent Joshua the use-brief for Vincent's Ace character expressions (transparent PNGs, plain + outline
+versions) + the Expressions.zip. Instruction: keep Ace consistent across thumbnails/art (beanie, chain),
+use outlined version over busy/photo backgrounds, plain over clean, route to whoever makes thumbnails/
+edits. Payment note: Joshua's Wise payment pending verification, he's aware and patient.

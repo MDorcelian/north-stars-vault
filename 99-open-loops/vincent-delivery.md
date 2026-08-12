@@ -110,3 +110,13 @@ then the $510(+$40)=$550 milestone is payable.
 Marvens sent the confirmation the 3/4 eye fix is the one, told Vincent to finish color/shading/rim-light
 on the rest of the set with that eye shape locked, nothing drifts in final pass, then milestone settled.
 Vincent is finishing the full render. Milestone = $510(+$40)=$550 payable on the clean full set delivery.
+
+
+## VINCENT ACE EXPRESSIONS DELIVERED (08-11)
+Vincent delivered the full Ace expression set: shocked, confidence smirk, raised-eyebrow/caught,
+side-eye, pointing, determined. Each as clean transparent PNG, in plain + white-silhouette-outline
+versions (outline verified present, warm-white tone). 2048x2048, full-res, consistent face across set,
+all 24 verified clean. Milestone 2 ($510) done; $550-request note was Vincent's (accidental reject of
+the +$40 bump; he clarified). Usage brief + Expressions.zip sent to Joshua (Ace channel) 08-11 so the
+character stays consistent on thumbnails/art; outlined version for busy/photo backgrounds, plain for
+clean. Joshua is the recipient, not a thumb designer; orienting him on the asset.
