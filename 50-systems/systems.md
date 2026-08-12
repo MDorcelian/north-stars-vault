@@ -33,3 +33,17 @@ search_videos with channelId + sortBy viewCount for catalogs; isExactMatch true;
 
 ## Quota discipline
 Uploads playlist trick (1 unit) instead of search (100 units); 10K daily units global across workspaces [A].
+
+
+## STRATEGY UPDATE (08-11) — SHORT-FIRST, THEN EXTEND, ALL CHANNELS
+CHANNEL STRATEGY CHANGED (applies to ALL channels: Explainer Chris, Wade, Ace, etc.):
+Start SHORT to gain an audience first (like the Ace 8-10min scripts Joshua delivers), then increase
+video length over time as the audience grows. Modern/pre-launch phase = shorter videos to build
+audience + algorithmic discoverability; lengthen later to keep the audience.
+RATIONALE: WizofYT + multiple strategists recommend short-first for audience growth, then increase.
+Honest tension: RedSignal thesis (longer + faster = dominance) was REAL but earned on an already-
+established channel WITH an audience. Short-first is the audience-BUILDING phase; length is the
+audience-KEEPING phase. Not conflicting, sequenced.
+CAVEAT/ACTION: define the "we've built an audience" switch trigger deliberately (subs threshold,
+retention bar, or cadence held N weeks), so lengthen-time is data-driven not vibes. Voice/integrity
+standard stays constant across short and long.
