@@ -64,3 +64,10 @@ Joshua Galadima (editor, Upwork-sourced), Maryam (lead scriptwriter), Tyler (VO)
 
 ## Spanish sister channel
 explainerchris ESP exists, ~$1K of the June revenue [H][T].
+
+
+## FREE APP ALL-PARTS TITLING (08-11)
+Series runs to 10 parts; currently at part 4. Title the compilation "Parts 1-4" NOT "All Parts":
+"All Parts" falsely promises completeness we don't have yet and forces a walk-back each new part.
+"Parts 1-4" is accurate, signals scope without finality, leaves path to "Parts 5-10" later. Free App
+Part 4 just posted (08-11).
