@@ -180,3 +180,11 @@ Sent Joshua the use-brief for Vincent's Ace character expressions (transparent P
 versions) + the Expressions.zip. Instruction: keep Ace consistent across thumbnails/art (beanie, chain),
 use outlined version over busy/photo backgrounds, plain over clean, route to whoever makes thumbnails/
 edits. Payment note: Joshua's Wise payment pending verification, he's aware and patient.
+
+
+## SENT 08-11: APPROVED LOCATIONS + BUSINESSES + VEHICLES (corrections verified)
+Joshua fixed both notes: Locations repeat removed (kept hook once), Vehicles disclaimer replaced with
+Ace-register line ("Somebody's cousin swears it's in there, I just sell snacks, I'm not vouching for
+it"). Both verified in the PDFs. All three approved = good to go. He also asked about alternative
+payment (crypto/other) given the Wise delay - Jiggy said IGNORE that for now, no action. Two more
+Batch 1 scripts still incoming from Joshua ("almost finished").
