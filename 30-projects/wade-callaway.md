@@ -49,3 +49,18 @@ related: [16-people/diana-wade.md, 30-projects/ace-knows-a-guy.md]
 - ~/.hermes/scripts/wade_curate.py — lists High Priority queue with PROOF STATUS per card + ranking rule.
 - Cron "Wade High-Priority Idea Curator" (45 10 * * *) re-orders the list by proof daily + attaches refs
   to no-ref cards. Owner boundaries: only High Priority Ideas list; never Diana's workflow lists.
+
+
+## Daily Evidence + Reasoning Sweep (built 08-11)
+- Cron "Wade Evidence + Reasoning Sweep" (30 8 * * *) -> runs wade_evidence_sweep.py, writes channels/
+  videos/view-snapshots to ~/.hermes/brains/north_stars_brain.db, emits conclusion-form reasoning notes.
+  Fires BEFORE the 11:00 daily brief so the brief sees fresh evidence. Watchlist FIXED for clean velocity.
+- Watchlist (6 competitors): Gould Dunlap, Down On The Farm, Rational Ranchers, Harvest Machine,
+  Substructure, Farm Secrets.
+- Niche Watch list on board: Gould Dunlap, Harvest Machine, Substructure, Farm Secrets cards added (08-11).
+
+## BRAIN RECOVERY (08-11) — caution flag
+The brain DB (~/.hermes/brains/north_stars_brain.db) was accidentally DELETED at ~21:01 during a sweep
+test (careless rm). Rebuilt via seed_brain.py (schema + live channels restored; Free App master 33.87x
+intact) + re-added hand-banked Web Browser P1 (671K) + farm sweep. LESSON: NEVER rm the brain; it is NOT
+in git and is not recoverable from a backup. Seed then re-sweep is the rebuild path.
