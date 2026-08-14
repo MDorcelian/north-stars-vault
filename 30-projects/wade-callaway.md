@@ -40,7 +40,11 @@ related: [16-people/diana-wade.md, 30-projects/ace-knows-a-guy.md]
 2. Take that reference + Wade's avatar image into the combiner prompt.
 3. It gives back one thumbnail (and a design spec).
 
-## Scripts
+- Niche Watch list created on the board (08-11) for competitor-format models.
+  - Gould Dunlap (https://www.youtube.com/@goulddunlap9864, UC_kTpc6yrFRz6JFleB8r8xQ): sibling
+    "hidden value" format in antiques niche. 4,090 subs, 5 videos in one week, 320K views, top outlier
+    49.64x (rusty cast iron pans). Thumbnail formula logged in skill. Transferable mechanics only, not topic.
+- Scripts
 - ~/.hermes/scripts/wade_viral_ref.py — attach viral ref to a card (link in title), attachment-only.
 - ~/.hermes/scripts/wade_curate.py — lists High Priority queue with PROOF STATUS per card + ranking rule.
 - Cron "Wade High-Priority Idea Curator" (45 10 * * *) re-orders the list by proof daily + attaches refs
