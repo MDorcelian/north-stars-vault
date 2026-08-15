@@ -75,3 +75,14 @@ in git and is not recoverable from a backup. Seed then re-sweep is the rebuild p
 - Video 7: script + thumbnails delivered (1:14 AM) — pending Jiggy review.
 - Diana cadence is strong: scripts/thumbnails/render all moving, only video 4 render is blocked.
 - Next: Jiggy review video 6 + video 7 scripts; resolve video 4 render.
+
+
+## Niche Watch additions (08-15)
+- The Deed Report: cheap rural farmhouse/property 'why cheap' format sibling. 23 subs, 106x/58x
+  search-discovery outliers. Curiosity-hook transfer only.
+- Backyard Bankroll: 'animals that pay X/mo, zero land' — DIRECT sibling to Wade's animal-profit lane.
+  18K subs, 4 videos, 533K/29.66x launch outlier.
+- Amish Frugal Life: Amish self-sufficiency, 21K subs, 462K/21.6x top, multiple 12-21x outliers. Adjacent.
+- Seeds of Time: survival-gardening, one-hit (9.65x) then decay (0.05-0.10x). Warning pattern.
+- Evidence sweep watchlist now 10 competitors: Gould, DownOnTheFarm, RationalRanchers, HarvestMachine,
+  Substructure, FarmSecrets, DeedReport, BackyardBankroll, AmishFrugalLife, SeedsOfTime.
