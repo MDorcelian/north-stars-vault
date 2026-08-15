@@ -86,3 +86,13 @@ in git and is not recoverable from a backup. Seed then re-sweep is the rebuild p
 - Seeds of Time: survival-gardening, one-hit (9.65x) then decay (0.05-0.10x). Warning pattern.
 - Evidence sweep watchlist now 10 competitors: Gould, DownOnTheFarm, RationalRanchers, HarvestMachine,
   Substructure, FarmSecrets, DeedReport, BackyardBankroll, AmishFrugalLife, SeedsOfTime.
+
+
+## PROVEN OUTLIER PROOF-TILES (08-15) — banked to brain
+Cross-channel demand proof for Wade ideation engine (from 4 outlier videos):
+- chicken_feed_free: '5 Plants Replace ALL Chicken Feed' 56.70x (106K, Self Reliance Hub 1.8K subs)
+- feed_family_trees: '10 Trees feed family 300 yrs' 43.25x (480K, Backyard Garden Life 11K)
+- quit_9to5_livestock: 'Quit 9-5 with livestock, how many animals' 6.00x (260K, Rational Ranchers)
+- infinite_chicken_feed: 'Infinite FREE Chicken Feed' 1.90x (985K, Alt Ordo 520K - topic at scale)
+=> 'free/infinite chicken feed' + 'salary-replacement' are proven high-demand sub-lanes for Wade.
+TheLostNatureVault channel itself = decaying clone, NOT tracked (noise).
