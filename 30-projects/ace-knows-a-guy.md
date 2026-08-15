@@ -48,8 +48,10 @@ Live Trello data pulled 2026-08-02, see 30-projects/trello-board-sync.md for ful
 - Aditya Mittal ("Strange Mindset"): NEW 2026-08-01. Passed the GTA breadcrumb screen (real Niko Bellic answer). Strongest verified track record so far: 30 verified clients up to 6.73M subs, 402.59M portfolio views, 21 positive reviews (real data pulled from his YT Jobs portfolio). Not yet a client of a GTA-specific channel; his GTA lore depth is currently self-claimed only. Full writeup and recommended next step: 40-people/aditya-mittal-strange-mindset.md.
 Pattern learned: the pool is full of growth-ops people, zero documentary storytellers so far [H][D].
 
-## TikTok handle rename
-Current handle: @ace.explainer. Rename window to @AceKnowsAGuy opens 2026-08-15 (per Marvens, 2026-08-01) [G2]. Hard deadline for completing the rename remains ~2026-08-28 (30-day window from 2026-07-29 lock). Do not attempt the rename before 08-15.
+## TikTok handle rename & all-platform lock (08-15)
+- @AceKnowsAGuy is OFFICIALLY LIVE on TikTok (completing the @ace.explainer -> @AceKnowsAGuy rename).
+- Brand handle now locked across: YouTube, TikTok, Twitter/X, Instagram, Facebook. Domain: aceknowsaguy.com (owned).
+- Multi-platform short-form distribution is the plan (Ace content clips across socials); produce/post roles still TBD (shorts guy to decide, compare Explainer Chris VA short-form pattern).
 
 ## Screening SOP
 Breadcrumb (favorite GTA character) -> GTA proof -> viral proof -> creative vs ops split -> Asia exception check (Pak/Ind/Ban need strong stats plus real GTA proof) -> Trello card [H][D].
