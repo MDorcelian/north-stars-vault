@@ -64,3 +64,14 @@ The brain DB (~/.hermes/brains/north_stars_brain.db) was accidentally DELETED at
 test (careless rm). Rebuilt via seed_brain.py (schema + live channels restored; Free App master 33.87x
 intact) + re-added hand-banked Web Browser P1 (671K) + farm sweep. LESSON: NEVER rm the brain; it is NOT
 in git and is not recoverable from a backup. Seed then re-sweep is the rebuild path.
+
+
+## PRODUCTION STATUS (08-14) — pipeline snapshot
+- Video 3 ($40k Cattle): footages redone, APPROVED, SCHEDULED for upload (Diana 1:02 AM).
+- Video 4: RENDER FAILURE (Diana can't render, 2:08 AM). Jiggy advised refresh / paste error to AI
+  support bot. OPEN — needs follow-up; a stalled render is a pipeline blocker.
+- Video 5: script APPROVED + thumbnail chosen (go with the picked one).
+- Video 6: script delivered (1:04 AM) — pending Jiggy review.
+- Video 7: script + thumbnails delivered (1:14 AM) — pending Jiggy review.
+- Diana cadence is strong: scripts/thumbnails/render all moving, only video 4 render is blocked.
+- Next: Jiggy review video 6 + video 7 scripts; resolve video 4 render.
