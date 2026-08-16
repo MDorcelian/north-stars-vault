@@ -96,3 +96,13 @@ Cross-channel demand proof for Wade ideation engine (from 4 outlier videos):
 - infinite_chicken_feed: 'Infinite FREE Chicken Feed' 1.90x (985K, Alt Ordo 520K - topic at scale)
 => 'free/infinite chicken feed' + 'salary-replacement' are proven high-demand sub-lanes for Wade.
 TheLostNatureVault channel itself = decaying clone, NOT tracked (noise).
+
+
+## CHANNEL FRESHNESS SYSTEM (08-15)
+Lesson from the "gold" video dump: nearly all farm/self-sufficiency channels are spike-then-decay or
+one-hit-wonder; a video's outlier is NOT proof the channel is viable. Durable value = proof-tiles.
+- New daily cron "Wade channel discovery + decay scan" (15 16 * * *) -> wade_discovery.py. Finds NEW
+  growing small channels + flags STALE watched ones. Database stays fresh, not frozen competitors.
+- Kept-when-stale (historical/warning models on purpose): Down On The Farm (brag-hype decays),
+  Rational Ranchers (face-led farm-profit benchmark, valued for catalog not recent velocity).
+- Skill updated: ALWAYS check channel context (subs/new/top+recent) before logging a video as gold.
