@@ -106,3 +106,15 @@ one-hit-wonder; a video's outlier is NOT proof the channel is viable. Durable va
 - Kept-when-stale (historical/warning models on purpose): Down On The Farm (brag-hype decays),
   Rational Ranchers (face-led farm-profit benchmark, valued for catalog not recent velocity).
 - Skill updated: ALWAYS check channel context (subs/new/top+recent) before logging a video as gold.
+
+
+## CROSS-NICHE PLATFORM (Marvens 08-15 directive)
+The end goal is NOT owning niche research — it's owning sister and brother niches, and ultimately
+understanding what works across ALL of YouTube. Because outlier research gets arbitraged away (everyone
+runs the same faceless playbook), the durable edge is transferable FORMATS + PSYCHOLOGICAL TRIGGERS.
+- Implemented: brain `format_patterns` table seeded with 6 proven cross-niche patterns
+  (hidden_real_numbers, free_input_hack, x_vs_y_which_profits, every_x_explained, salary_replace_count,
+  forgotten_banned_hidden), each with niche-Evidence + top multipliers.
+- Ideation engine skill updated: cross-niche layer is now a first-class step — query patterns first,
+  transplant into any new niche cold, pattern-proven-in-4+-niches beats no-in-niche-outlier.
+- Compounds across sessions as each niche confirms a pattern (ADD back on new proof).
