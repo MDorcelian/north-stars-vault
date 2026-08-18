@@ -125,3 +125,14 @@ Locked with Joshua, confirmed both sides:
 - Growth: per-deliverable now; move to monthly management retainer when channel has volume + real revenue.
 - Long-form channel upload: Joshua does staging (Editor limited role on Ace channel); final publish via owner's isolated environment (NOT Joshua's personal network).
 - Girlfriend was initially against proceeding with Joshua; overridden to catch the Netflix window. Monitor relationship for pricing friction.
+
+
+## MILESTONE 1 FUNDED (08-17) — deal closed
+- FULL DEAL LOCKED with Joshua; both confirmed aligned 08-17 9:05 PM.
+- Per video $220 = production $100 + human VO $30 + TikTok/IG short form $50 + upload staging $40.
+- Milestone 1 = $470 (5 scripts $250 + video 1 $220). Milestone 2 = $1,150 (videos 2-6 $1,100 + Netflix script $50). Total $1,620.
+- Distribution TikTok + Instagram only, no YouTube Shorts. Netflix launch video prioritized for Aug 27 window.
+- PAYMENT SENT 08-17 via same-day ACH to Joshua's Lead Bank account (acct 218504202689, routing 101019644, personal checking, Beaverton OR). Email adewunmigbadebojoshua@gmail.com. Jiggy downgraded the schedule to same-day ACH upon request.
+- Joshua will start Milestone 1 (video 1 + prep). End-screen: first 3 videos point to each other.
+- Growth path: convert to monthly management retainer when channel has volume + real revenue.
+- Note: girlfriend was initially against proceeding with Joshua; overridden to catch the Netflix window. Monitor the relationship for pricing friction.
