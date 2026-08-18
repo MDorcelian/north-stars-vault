@@ -118,3 +118,19 @@ runs the same faceless playbook), the durable edge is transferable FORMATS + PSY
 - Ideation engine skill updated: cross-niche layer is now a first-class step — query patterns first,
   transplant into any new niche cold, pattern-proven-in-4+-niches beats no-in-niche-outlier.
 - Compounds across sessions as each niche confirms a pattern (ADD back on new proof).
+
+
+## ANGUS DOUGLAS — VERIFIED FORMAT-PEER PROOF (08-17, live API)
+@AngusDouglasUS (Angus Douglas, UCqmJMtkMyz9F2XCKm5quXoA). 11.3K subs, 18 videos, ~426K views.
+Fictional Scottish-shepherd AI authority + REAL chicken info + $47 ebook. Same skeleton as Wade
+(authority persona + real info + product funnel), but leads with PAIN/EMERGENCY hooks and pushes the
+ebook early.
+VERIFIED outliers (live): 'Heal a Dying Chicken in 5 Minutes' 131K/11.62x; 'Never Pay for Chicken Feed
+Again (Plant This Tree)' 75K/6.65x; 'NEVER Pay For Chicken Feed Again - Old Scottish Method' 54K/4.80x;
+'365 EGGS/Year chicken' 52K/4.63x; 'Your Hen Stopped Laying? Scottish Method' 48K/4.28x. Durations mostly
+16-24 min. (Tweet numbers were a few days stale: it said 14 vids/313K/9.1K subs; now 18/426K/11.3K.)
+TRANSFERABLE LESSONS for Wade: (1) lead with urgent pain/emergency topics ('your hen stopped laying',
+'never pay for feed again', 'your chicken is dying') for the Google-it-now clicks; (2) push the shop
+offer EARLY (soft first-3-min CTA = the same play); (3) 2/wk cadence, ride first 5x outlier, repeat
+formula; (4) keep Wade's honest-real-numbers framing (safer vs YouTube authenticity than a fake culture),
+borrow only the topic-energy + early-shop monetization, do NOT copy the fake-Scottish-authority gimmick.
