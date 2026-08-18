@@ -112,3 +112,16 @@ to see what works before full commitment. So the opener polish + ace-voice + ret
 Episodes 1-2 are partly experiments, not just quality gates. Retention to be measured across the early
 batch; iterate on whatever wins. Also implies: don't over-engineer/overburn on any single episode;
 treat cadence + hypothesis-testing as the point.
+
+## ACE DEAL FINALIZED (08-17) — per-deliverable with Joshua
+Locked with Joshua, confirmed both sides:
+- Per video full package $220 = production $100 + human VO $30 + TikTok/IG short form $50 + upload staging $40.
+- Distribution: TikTok + Instagram only for now. NO YouTube Shorts. Same short on both platforms at $50; separate versions priced later.
+- Scripts: 7 written total, 2 already paid on Wise, 5 outstanding at $50 = $250.
+- Milestone 1 = $470 (5 scripts $250 + video 1 $220). Pay now.
+- Milestone 2 = $1,150 (videos 2-6 at $220 = $1,100 + Netflix launch script $50). Releases after video 1 ships and performs across TikTok/IG.
+- Total = $1,620 (all scripts + all 6 videos + upload staging).
+- NETFLIX PRIORITY: launch video must be ready for Aug 27 "GTA VI: An Extended Look" window.
+- Growth: per-deliverable now; move to monthly management retainer when channel has volume + real revenue.
+- Long-form channel upload: Joshua does staging (Editor limited role on Ace channel); final publish via owner's isolated environment (NOT Joshua's personal network).
+- Girlfriend was initially against proceeding with Joshua; overridden to catch the Netflix window. Monitor relationship for pricing friction.
