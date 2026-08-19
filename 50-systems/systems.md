@@ -47,3 +47,10 @@ audience-KEEPING phase. Not conflicting, sequenced.
 CAVEAT/ACTION: define the "we've built an audience" switch trigger deliberately (subs threshold,
 retention bar, or cadence held N weeks), so lengthen-time is data-driven not vibes. Voice/integrity
 standard stays constant across short and long.
+
+
+## X (TWITTER) API CONNECTED — READ-ONLY (08-19, verified live)
+xurl installed at /usr/local/bin. App `n0rthstar` registered + default (client id QnV4clJq...). Working bot credentials in ~/.hermes/.env (X_CONSUMER_KEY/SECRET, X_BEARER_TOKEN, X_CLIENT_ID, X_APP, X_HANDLE). Handle @jiggywastaken.
+VERIFIED LIVE: `xurl --app n0rthstar --auth app '/2/users/by/username/jiggywastaken'` returns profile (7,454 followers); `xurl search` returns real posts. App-only bearer auth works; no OAuth browser freeze needed for reads.
+READ-ONLY ONLY. OAuth2 user-context (posting/reply/timeline/like) NOT configured — needs interactive browser login on a machine with a browser. Deferred until Jiggy wants to post from X.
+PITFALL (hit this session): `xurl auth oauth2 --app n0rthstar jiggywastaken` FREEZES on the headless VPS (no browser, waits for localhost:8080 callback). Do NOT run it on the server. Use `xurl auth app-only '*bearer*'` for reads. Also: a 401 persisted with the FIRST app because its access tier never let it read; a fresh bot worked immediately. If reads 401, the app access tier (not the token transcription) is usually the cause.
