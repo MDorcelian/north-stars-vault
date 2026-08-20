@@ -134,3 +134,9 @@ TRANSFERABLE LESSONS for Wade: (1) lead with urgent pain/emergency topics ('your
 offer EARLY (soft first-3-min CTA = the same play); (3) 2/wk cadence, ride first 5x outlier, repeat
 formula; (4) keep Wade's honest-real-numbers framing (safer vs YouTube authenticity than a fake culture),
 borrow only the topic-energy + early-shop monetization, do NOT copy the fake-Scottish-authority gimmick.
+
+## NICHE WATCH ADD (08-19): Lillie Ahlers (LIVE launch-phase, NOT decay)
+UCZgnDg-w6VqHLJB8Qwpwabg | @LillieAhlers | 8.18K subs, 14 vids, 416K views, started 2026-07-20 (1 month old).
+Live now (not decayed): top 17.86x '25 BANNED Appalachian Cooking Tricks', 9.02x grandma-never-wrote, 7.56x cast-iron; recent week still 2.6-7.6x.
+FORMAT: Heritage Hidden-Knowledge (BANNED/never-wrote + rotate item = cornbread/skillet/potato/meat). HIGHEST-OUTLIER TRANSFERABLE to Wade (old-farmer authority fits).
+Watch because it is a launch-phase channel actively ripping the hidden-knowledge pattern, not a spike-then-decay case. Pattern + thumb banked in brain (heritage_hidden_knowledge).
