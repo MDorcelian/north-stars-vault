@@ -140,3 +140,7 @@ UCZgnDg-w6VqHLJB8Qwpwabg | @LillieAhlers | 8.18K subs, 14 vids, 416K views, star
 Live now (not decayed): top 17.86x '25 BANNED Appalachian Cooking Tricks', 9.02x grandma-never-wrote, 7.56x cast-iron; recent week still 2.6-7.6x.
 FORMAT: Heritage Hidden-Knowledge (BANNED/never-wrote + rotate item = cornbread/skillet/potato/meat). HIGHEST-OUTLIER TRANSFERABLE to Wade (old-farmer authority fits).
 Watch because it is a launch-phase channel actively ripping the hidden-knowledge pattern, not a spike-then-decay case. Pattern + thumb banked in brain (heritage_hidden_knowledge).
+
+## FORMAT-PROOF REINFORCEMENT (08-20)
+- Cow Calculator (GB, 400 subs, 12 vids, started 2026-06): '$10,000 in Sheep vs Goats vs Rabbits vs Quail' 52.91x + 'Start With $300 Make $61,000/yr 8 most profitable' 22.86x. Reinforces x_vs_y_which_profits (52.9) + salary_replace_count (22.9) money-threshold animal-comparison lane. Spike-then-taper (top = weeks 1-2, decayed since) -> bank evidence only, do NOT track channel.
+- BalKony Chillz (UG AI podcast, 64 subs): 45.3x on one farm video among 20 non-farm podcasts = stray search fluke, NO format signal. Ignored.
