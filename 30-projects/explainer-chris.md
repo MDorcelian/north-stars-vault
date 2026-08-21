@@ -71,3 +71,7 @@ Series runs to 10 parts; currently at part 4. Title the compilation "Parts 1-4" 
 "All Parts" falsely promises completeness we don't have yet and forces a walk-back each new part.
 "Parts 1-4" is accurate, signals scope without finality, leaves path to "Parts 5-10" later. Free App
 Part 4 just posted (08-11).
+
+## JOEL OKELLO — NOT A PARTNER (08-20, closed)
+Inbound strategist who pitched EC research/script collaboration (Feb 2026). Pattern: after Marvens said explainerguy01 was permanently demonetized, Joel kept re-approaching with escalating 'help me / reduced rate / free script / new baby' pitches wrapped as generosity, repeatedly pressing after boundaries were set. Marvens' partner flagged him as entitled; Marvens agreed and is NOT engaging. Decision closed.
+KEEP (his first-email strategy was sound, already adopted): 2-3 videos/wk cadence, stay niche-locked (no topic drift), second channel for risk-spread. Keep the strategy, drop the strategist. Do not re-open if he pings again.
