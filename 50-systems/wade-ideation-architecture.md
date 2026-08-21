@@ -26,6 +26,19 @@ thumbnail-backed; noise is trashed daily.
    text comment).
 4. No proper thumbnail reference => the card is ARCHIVED (Marvens rule 08-21). Never attach unverified refs.
 
+## PREFERENCE RULE — low-duration-viral-expansion (Marvens strategy, 08-21)
+A proof video that is LOW-SUB channel + LOW DURATION (2-7 min, NOT a Short) + HIGH OUTLIER is a strong signal
+that the TOPIC is bubbling on its own, independent of a big channel's length. These are prime candidates to be
+made into a LONGER video (the short hit proves the topic; we expand it to our 8-15 min format).
+- Duration is now recorded on every proof_tile (duration_s column, seconds).
+- USE: when ranking idea candidates, a proof that is low-sub + low-duration (<=420s, >=120s so not a Short) +
+  high-outlier gets a PRIORITY BOOST over a comparable idea whose proof is long/high-sub.
+- OVERRIDE RULE: "These can take priority over best ideas if already best idea AND original timestamp is low
+  duration. Otherwise these are limited to the videos available to us." => A low-duration low-sub outlier ONLY
+  jumps the queue when the idea is ALREADY a best/top idea AND its proof is low-duration. It does not displace
+  a clearly stronger best-idea that lacks a low-duration proof; it is limited to the pool of videos we already
+  have access to (no forced category to find new low-duration proofs).
+
 ## Layer 4 — Trello pipeline (output)
 High Priority Ideas -> Scripting -> Scripts Need Approval -> Scripts Approved -> Video Generated -> Uploaded.
 Only proof+thumb backed cards survive; weak/ref-less cards archived.
