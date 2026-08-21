@@ -52,3 +52,51 @@ double down on (Lillie/Every model: one format pops, then you rotate the subject
 Elder-trust persona + honest real-numbers + cheap ultra-specific manual/calendar ($29-47) at ~0.025% conversion =
 meaningful monthly revenue ON TOP of ads. Wade product candidate: evergreen zone-based farm monthly calendar
 (plant/feed/breed + frost dates), NO year-date (keeps it near-zero-maintenance). Comment qualify-questions = product signal.
+
+## MARKET STRATEGY LAYER (added 08-21 — Jake Trinder's Views-to-Clients method, source of the CSVs)
+These frameworks upgrade how we JUDGE ideas and set strategy, sourced from the client-strategy methodology
+that produced the reverse-engineering research dumps. Marvens logs this as his foundational strategy doctrine.
+
+### 1. God Mode = foundational YouTube research FIRST
+Do broad cross-niche YouTube research BEFORE niche research (avoids confirmation bias + conventional thinking).
+Continuously: collect outliers + patterns-between-outliers (formats) + trends, and study WHY each won/lost
+(the "why did that work / why did that make it work" drill). Our daily sweeps ARE this. God Mode wanted-state =
+an omniscient, always-fresh sense of what works across all of YouTube.
+
+### 2. Market Sophistication Theory (Eugene Schwartz, 5 levels)
+The ladder of increasing audience awareness/saturation:
+ L1 introduce a new mechanism (iPhone touchscreen) -> L2 enhance it -> L3 add benefits -> L4 bolder claims/story
+ -> L5 innovate past saturation (Tesla). OUT-SOPHISTICATE the current level of your niche to break through.
+ Application to Wade: farm real-numbers content is low-maturity in this market (few creators, big demand), so
+ we often sit at L1-L3 (educate on the real mechanism = the real cost / the real income). As the niche catches
+ up, keep out-sophisticating (claims, storytelling, vaulting gaps).
+
+### 3. View Ceiling vs View Floor + 75/25 split for small/new channels
+- View ceiling = max of your target market the packaging can attract. View floor = min you'd expect.
+- Goal: raise floor toward ceiling AND raise ceiling; idea with high floor + high ceiling = "banger."
+- For a NEW/SMALL channel: go 75% prioritizing VIEW FLOOR (high-certainty) + 25% VIEW CEILING (risky upside).
+- This formalizes Wade's queue: most cards should be high-floor (proven formats), a few high-ceiling risks.
+
+### 4. Demon Mode — kill your ideas before you ship
+After ideating (God Mode = see green), switch to Demon Mode (see red): poke holes, find points of failure,
+build each idea back stronger, or abandon it. Our archive-on-no-ref gate is a crude version; the full loop is
+"identify cracks -> fix -> repeat -> unbreakable or dead". Apply at every card before it ships.
+
+### 5. Stacking Rocks framework
+A "rock" = any element (title format, thumbnail, topic, trend, length, style) that pushes a video toward
+success (positive rock, left) or failure (negative rock, right). Rocks have different weights. A video wins
+when positive weight > negative weight. Note: a rock that worked elsewhere can be weightless or negative here,
+and a heavyweight topic alone can outweight everything else. Use as a per-card checklist: stack positive rocks,
+eliminate negatives, honesty on the weight.
+
+### 6. Content gap = demand with no supply
+An audience wants a type of video that isn't being supplied. Biggest B2B/product-gap: youtube education is
+growing (1.3B learners, 27% YoY) but supply is thin (5-10% serious creators). Content gaps in Wade's farm lane =
+the "underserved angle not topic" we identified. Find = study top performers, spot what they're NOT doing
+(underrepresented topics, underused formats, underserved segments), then win the gap.
+
+### Research-collection standard (how to log analysis)
+Per data point (video), record via the multi-lens breakdown seen in the CSVs: Format (why it worked),
+Topic (why the topic won/lost), Thumbnail (why it worked/failed), Execution traits (why retained/missed).
+Record the WHY at each level, not just the WHAT. Log into Trello cards with the video link + screenshot +
+analysis in the notes (matches existing WR directive).
