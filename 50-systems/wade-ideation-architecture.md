@@ -99,4 +99,6 @@ the "underserved angle not topic" we identified. Find = study top performers, sp
 Per data point (video), record via the multi-lens breakdown seen in the CSVs: Format (why it worked),
 Topic (why the topic won/lost), Thumbnail (why it worked/failed), Execution traits (why retained/missed).
 Record the WHY at each level, not just the WHAT. Log into Trello cards with the video link + screenshot +
-analysis in the notes (matches existing WR directive).
+analysis in the notes (matches existing WR directive). SEE jake-live-ideation-walkthrough.md for the full
+field-by-field operational demo (how to actually capture + analyze one data point, the niche-vs-topic split,
+audience-splitting, the remarkable-$ + unique-mechanism pattern, full-course format, raw-authenticity rock).
