@@ -54,3 +54,11 @@ xurl installed at /usr/local/bin. App `n0rthstar` registered + default (client i
 VERIFIED LIVE: `xurl --app n0rthstar --auth app '/2/users/by/username/jiggywastaken'` returns profile (7,454 followers); `xurl search` returns real posts. App-only bearer auth works; no OAuth browser freeze needed for reads.
 READ-ONLY ONLY. OAuth2 user-context (posting/reply/timeline/like) NOT configured — needs interactive browser login on a machine with a browser. Deferred until Jiggy wants to post from X.
 PITFALL (hit this session): `xurl auth oauth2 --app n0rthstar jiggywastaken` FREEZES on the headless VPS (no browser, waits for localhost:8080 callback). Do NOT run it on the server. Use `xurl auth app-only '*bearer*'` for reads. Also: a 401 persisted with the FIRST app because its access tier never let it read; a fresh bot worked immediately. If reads 401, the app access tier (not the token transcription) is usually the cause.
+
+## REFERENCE/THUMBNAIL STANDARD — no 3rd-world data (08-20, Marvens rule)
+When choosing a viral reference or data for a video, NEVER use a 3rd-world country as the source.
+These distort the viewer's expectation (costs, prices, economics differ wildly) and set the wrong REAL-NUMBERS
+baseline. A reference from a developing/3rd-world market is a mismatch for a US/developed-audience channel like Wade.
+Action: check the reference video's origin country before banking it as proof or attaching to a card. If it's
+India, Nigeria, Kenya etc (3rd-world economy), pass on it as the primary reference even if the multiplier is big.
+Confirmed in practice 08-20: Wade '5 Biggest Mistakes' card was using an India video as reference; flagged to re-source.
