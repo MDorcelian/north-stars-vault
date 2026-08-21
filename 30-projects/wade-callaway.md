@@ -144,3 +144,16 @@ Watch because it is a launch-phase channel actively ripping the hidden-knowledge
 ## FORMAT-PROOF REINFORCEMENT (08-20)
 - Cow Calculator (GB, 400 subs, 12 vids, started 2026-06): '$10,000 in Sheep vs Goats vs Rabbits vs Quail' 52.91x + 'Start With $300 Make $61,000/yr 8 most profitable' 22.86x. Reinforces x_vs_y_which_profits (52.9) + salary_replace_count (22.9) money-threshold animal-comparison lane. Spike-then-taper (top = weeks 1-2, decayed since) -> bank evidence only, do NOT track channel.
 - BalKony Chillz (UG AI podcast, 64 subs): 45.3x on one farm video among 20 non-farm podcasts = stray search fluke, NO format signal. Ignored.
+
+## TUBELAB $120K THREAD (08-21) — product model validation + Wade actions
+Thread shares ~7 money channels (NOTE: images show MOST are real-person 50+ presenters, not AI avatars; so it validates the elder-trust + product model, not AI-avatar specifically).
+VERIFIED PATTERNS (from reading images + thread):
+- Beat the Contractor: 25.9K subs, $11.5K/mo ads (1.14M views), PLUS a $29.99 58-page manual (40 numbered fixes, materials/prices/steps) at 0.025% conv ~ +$8.5K/mo.
+- Garden Problem-Solving: 25.4K subs $7K/mo. Title format 'The One Crop I Plant in [MONTH] That Feeds Me Until [MONTH]'. Suggested product: $47 calendar w/ frost dates by zone.
+- Senior Money: 22.6K $7.5K/mo ads; comments ask 'do I qualify?' = product signal; suggested $37 eligibility guide = +$25K/mo they leave on the table.
+TAKEAWAYS FOR WADE:
+1. VALIDATES Wade's exact monetization: elder-trust honest-real-numbers persona + cheap ultra-specific manual/calendar ($29-47) at 0.025% conversion = meaningful monthly revenue on top of ads.
+2. NEW PRODUCT IDEA: a Wade farm monthly calendar (month-month: plant/feed/breed + frost dates by zone) at $29-47. Mirror of Garden's $47 calendar.
+3. TITLE FORMULA to borrow: date/month-anchored ('The One Crop I Plant in [MONTH]...', 'Stop Paying These [N] Bills After 65') + number-anchored.
+4. PRODUCT SIGNAL: when Wade comments ask qualify questions ('can I afford', 'should I'), that's the product.
+Status: banked in brain (elder_trust_product) + hidden_real_numbers evidence updated. Wade monthly-calendar product card NOT yet created.
