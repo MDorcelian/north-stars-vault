@@ -157,3 +157,8 @@ TAKEAWAYS FOR WADE:
 3. TITLE FORMULA to borrow: date/month-anchored ('The One Crop I Plant in [MONTH]...', 'Stop Paying These [N] Bills After 65') + number-anchored.
 4. PRODUCT SIGNAL: when Wade comments ask qualify questions ('can I afford', 'should I'), that's the product.
 Status: banked in brain (elder_trust_product) + hidden_real_numbers evidence updated. Wade monthly-calendar product card NOT yet created.
+
+## V18 Amish Machinery Ledger — APPROVED (08-25)
+- Script approved (strongest sourcing yet: Randall James OSU Geauga 2002 study, $126/acre Amish wheat vs $10 conventional; honest machinery dual-ledger; $15-20K Amish toolkit vs $94K+30K tractors / $340-420K combine / $850-950K flagship; custom hire $35-45/acre; Purdue cost benchmarks; honest ceiling).
+- Thumbnail: 3-way tie-break via 3 models. My Haiku-side + Fable = B ($15K OUTWORKS $340K); Opus = D (AMISH $15K SETUP). Fable tiebreak rationale: zero-audience channel wins on CTR first, B legible at 120px, title already carries 'Amish Machinery Ledger', D is best for traction stage not #1. PICK = B, ship it. D = documented variant for A/B later at scale.
+- Important practice: thumbnail review used manual Opus call (Marvens asked) + Fable tiebreak — routed per model-routing (Opus = high-leverage review, Fable = manual-trigger ideation/tiebreak only).
