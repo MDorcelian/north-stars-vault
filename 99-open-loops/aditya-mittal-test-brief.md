@@ -43,6 +43,10 @@ _2026-08-19_
 
 > Hey Aditya, one more touch base on the GTA 6 gang outline in Ace's voice — it's been a couple weeks since I sent the brief. Still totally open if you want to take it on, no deadline pressure at all. Whenever the timing works, send it over and I'll give it a proper look. Happy to answer anything on the character in the meantime.
 
+_2026-08-25_
+
+> Hey Aditya, just touching base again on the GTA 6 gang outline in Ace's voice — it's been a little over three weeks since I sent the brief. Still completely open if you want to take it on, no deadline pressure at all. If you've decided it's not the right fit, no hard feelings either, just a quick yes/no so I know where things stand. Whenever the timing works, or if you have any questions on the character, happy to hear from you.
+
 ## Note
 The cold-open card-flip move was added as the replacement for the removed cigarette bit (Marvens approved by sending this as-is). It reflects the ace-of-spades card tucked in the beanie from the locked reference art. Sign-off mirrors it with the card flick, matching the existing sign-off language.
 
