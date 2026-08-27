@@ -26,3 +26,5 @@ How it works: publish on one channel, invite another channel as collaborator -> 
 ## Tooling
 - Coach: Claude is the best scriptwriting + research tool, over ChatGPT. Confirms locking banked ideation/writing to the Claude layer (Sonnet/Fable per model-routing); Deepseek stays for agent turns.
 - Channel account safety: aged/pre-monetized channels carry hidden-linkage risk. Use fresh burner-phone + SIM channels per network. Not buying aged accounts.
+## AmishFaithToday = Vidrush/AI channel (correction 08-27)
+- Confirmed: AmishFaithToday is a Vidrush/AI channel (created 2008 empty then 2026 burst, AI-style docs). The amish_heritage_money format multipliers are REAL audience demand but AI-DERIVED: valid format signal, NOT a hard/trusted reference channel. Never reuse that specific AI channel thumb as a hard reference. Reinforces: Amish AI spin-off is a floodable lane, hold it, grow Wade first.
