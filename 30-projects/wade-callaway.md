@@ -162,3 +162,11 @@ Status: banked in brain (elder_trust_product) + hidden_real_numbers evidence upd
 - Script approved (strongest sourcing yet: Randall James OSU Geauga 2002 study, $126/acre Amish wheat vs $10 conventional; honest machinery dual-ledger; $15-20K Amish toolkit vs $94K+30K tractors / $340-420K combine / $850-950K flagship; custom hire $35-45/acre; Purdue cost benchmarks; honest ceiling).
 - Thumbnail: 3-way tie-break via 3 models. My Haiku-side + Fable = B ($15K OUTWORKS $340K); Opus = D (AMISH $15K SETUP). Fable tiebreak rationale: zero-audience channel wins on CTR first, B legible at 120px, title already carries 'Amish Machinery Ledger', D is best for traction stage not #1. PICK = B, ship it. D = documented variant for A/B later at scale.
 - Important practice: thumbnail review used manual Opus call (Marvens asked) + Fable tiebreak — routed per model-routing (Opus = high-leverage review, Fable = manual-trigger ideation/tiebreak only).
+
+## Beef-wave validation + thumbnail log (08-26)
+- Logged reference thumbnail: 60-references/amos_hale_beef_197x.jpg (saved 08-26).
+- OUTLIER COMPARISON (which beef reference is the biggest outlier):
+  - Amos Hale 'America's Beef Supply Just Hit a New Warning Sign' -> 40,896 views on 207 subs = 197.6x. GENUINE real outlier (not rounding artifact). Channel created 08-04, only 3 weeks old. 789 likes. ~15 min. Published 08-21. THE biggest, most current outlier.
+  - CNBC 'Why Beef Prices Keep Rising' (n1bF_8yC8QM) -> this is the card-22 attached ref by FORMAT family (hidden_real_numbers), but as a massive-multiplier REFERENCE it's a big-channel news explainer, NOT the outlier to copy for packaging. Amos is the outlier for PACKAGING (warning/person-first); CNBC is the data source.
+- VERDICT on card 22: ship FIRST, use AMOS's packaging recipe (person-first + warning/urgency + concerned face + institutional cue) because Amos is the true packaging outlier (197x vs CNBC's normal news format). CNBC remains the number/research source.
+- Card 22 updated accordingly (title 'Beef Is $9 a Pound. Here's the Real Problem.', thumb recipe = Amos-derived, ship first).
