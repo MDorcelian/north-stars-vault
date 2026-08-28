@@ -1,0 +1,4 @@
+
+## Outlier comment-demand process (baked 08-28)
+Default post-outlier step: find banked outlier -> run ~/.hermes/scripts/outlier_comments.py <vid> -> distill the demand "vacuum" (repeated asks, frustration/alternatives, "you missed X" holes) -> feed as high-priority idea in Wade voice. Skill: outlier-comment-demand.
+Demo on Amos beef (197x, u6Fw1OW5U_E) surfaced the vacuum: (1) consumers shifting AWAY from expensive beef -> 'protein alternatives' free_input lane; (2) 'buy beef from local farmers' -> direct-from-farm/local-buy demand; (3) farmer retirement+supply-drop confirms card 22 beef-shortage; (4) anti-monopoly/packer anger = strong engagement driver. All Wade-fillable with real numbers.
