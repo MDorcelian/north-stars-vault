@@ -7,10 +7,10 @@
 - No title text in the thumbnail (YouTube titles are not in thumbs).
 - No host/person, no arrows, no clickbait. (Person-first applies to WADE, NOT Explainer Chris.)
 
-## The SUBJECT element (KEY — this is what makes a thumb "fit")
-- Golden: **a clean smartphone (or the topic device) on the far LEFT of the thumbnail** for context — "phones → put phones," "PCs → put PCs." The earlier version that was JUST circles/logos looked "emptier" than the one WITH the clean phone on the left. That device is the differentiator.
-- The grid of circles/logos fills the rest to the right.
-- Avoid ONLY-logos UNLESS the topic is software (logos ARE the differentiator there).
+## The SUBJECT element (KEY — CORRECTED 08-28)
+- The clean, EVEN grid of colored circles + icon logos IS the standard on its own — clean and self-sufficient.
+- A smartphone/device on the far left was tried and reads as STRANGE / off-canvas (Marvens: "thought the smartphone addition was strange"). DO NOT put a device on a side — it doesn't fit and it's NOT part of the EC style.
+- The good versions are the ones with just the grid of colored circles + logos (the information-first look).
 
 ## Grid / layout rules
 - Side-by-side (4-7 items) when logos are long.
