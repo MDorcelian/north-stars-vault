@@ -4,6 +4,7 @@
 - WHITE background, colorful.
 - GRID of colored circles, each with a **slightly thick BLACK OUTLINE**, each containing a **clean vector logo**.
 - SUBTITLE under each circle in **Comic Sans, black, NO outline**, ONE LINE only (no line breaks/wrap).
+- **Comic Sans looks squished** — loosen the letter-spacing/tracking so it doesn't look compressed; give it comfortable spacing.
 - No title text in the thumbnail (YouTube titles are not in thumbs).
 - No host/person, no arrows, no clickbait. (Person-first applies to WADE, NOT Explainer Chris.)
 
@@ -12,6 +13,10 @@
 - The smartphone-on-the-far-left is an INTERESTING VARIANT that appears on some thumbs — Marvens is surprised by it / curious about it (not a firm part of the standard, not a firm rejection). Treat it as an open question worth testing: does adding the topic-device on the left help or hurt CTR? Log any test result.
 
 ## Grid / layout rules
+- Default: **circle grid only** (the clean even grid of colored circles + icon logos IS the standard). The smartphone-left variant is NOT the default; drop it unless A/B testing opts it back in.
+- Circles: **FLAT, NO bevel / NO 3D / NO bevel edge**.
+- **Real > stylized**: use real device renders/photos and real logos, NOT vector illustrations — "real stuff works best" (if a device is shown, a REAL phone, not a cartoon/stylized one).
+- Lines/borders: **thicker**.
 - Side-by-side (4-7 items) when logos are long.
 - 4x2 or 5x2 (best for circles/squares). 4x3 if the images are 16:9.
 - Even, uniform circles, equal spacing.
