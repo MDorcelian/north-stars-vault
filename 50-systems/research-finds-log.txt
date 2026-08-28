@@ -5,3 +5,9 @@ Demo on Amos beef (197x, u6Fw1OW5U_E) surfaced the vacuum: (1) consumers shiftin
 
 ## LOOKUP BUG CORRECTION (08-28)
 check_vid.py mislabeled distinct videos as Humus Home. FIXED (check_real.py). Re-scan found REAL strong outliers: Amish-leaving 332x (Richard Snow), Every-YT-Play-Button 192x (Explorer Guy, EC-relevant!), tree-stump 129x, Dead-Sea-Scrolls 104x, Amish-boars 96x, orchard 95x, own-cattle-no-land 52x, feed-family-trees 42x. Banked the strongest.
+
+## Granger Invests - tracked AI-copycat (08-28)
+- Channel: Granger Invests (11 subs, 4 vids, created 08-12, US). AI-avatar channel with a CUSTOM AI video model (worse than Vidrush), MIMICKING the format of established human channel Rational Ranchers (44.3K, first-gen ranchers).
+- OUTLIER FORMAT SIGNAL: 'Invested in X: Can [N] animals build a $1M business? The 5-year...' pulled 57x (10 sheep) + 18x (12 hives) on a brand-new 4-video channel = the algorithm TESTS this drift-income title even on a weak clone.
+- Rational Ranchers (the real origin): stable-but-modest 0.3-1.6x, NOT viral - reinforces the honest-depth slow-compound thesis, not a breakout lane.
+- ACTION: keep watching Granger (tracked role=ai-copycat-watch); do NOT copy the thin clone - if we use the format, win with real-numbers depth. Watch whether his new videos confirm/sustain.
