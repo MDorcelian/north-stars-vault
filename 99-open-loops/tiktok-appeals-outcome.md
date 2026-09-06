@@ -30,3 +30,7 @@ _2026-08-25_
 _2026-08-31_
 
 > Following up once more on the TikTok appeals from June — still no status change or resolution on our end, now over two months since the original submission. Whenever you get a chance, a check on the current outcome or an escalation path with TikTok if one exists would be great.
+
+_2026-09-06_
+
+> Following up once more on the TikTok appeals from June — still no status change or resolution on our end, now over two months since the original submission. Whenever you get a chance, a check on the current outcome or an escalation path with TikTok if one exists would be great.
