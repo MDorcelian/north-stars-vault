@@ -170,3 +170,42 @@ Status: banked in brain (elder_trust_product) + hidden_real_numbers evidence upd
   - CNBC 'Why Beef Prices Keep Rising' (n1bF_8yC8QM) -> this is the card-22 attached ref by FORMAT family (hidden_real_numbers), but as a massive-multiplier REFERENCE it's a big-channel news explainer, NOT the outlier to copy for packaging. Amos is the outlier for PACKAGING (warning/person-first); CNBC is the data source.
 - VERDICT on card 22: ship FIRST, use AMOS's packaging recipe (person-first + warning/urgency + concerned face + institutional cue) because Amos is the true packaging outlier (197x vs CNBC's normal news format). CNBC remains the number/research source.
 - Card 22 updated accordingly (title 'Beef Is $9 a Pound. Here's the Real Problem.', thumb recipe = Amos-derived, ship first).
+
+## 10-VIDEO FARM-HISTORY PIVOT BATCH MATERIALIZED (09-10)
+Card 27 ("30 Things Every American Farmhouse Had Before Electricity", uploaded 09-10) carried a research plan
+buried in its DESC that was never turned into board cards. Materialized it: 10 cards created in the
+**Scripting** list, numbered **28-37**, one per planned video.
+Script: `~/.hermes/scripts/wade_pivot_batch.py` (reusable, `--dry-run` supported; gates every ref).
+- Cards: 28 farm well | 29 farmhouse kitchen | 30 farm buildings | 31 farm child skills | 32 tech replaced by
+  electricity | 33 barn 1950s | 34 farm tractor | 35 machines built to repair | 36 prairie winter | 37 workshop tools.
+- Every proof reference RE-VERIFIED live 09-10 (never trust the 09-04 snapshot): all long-form 24-38 min
+  (no Shorts), all developed-market English channels, outlier range 8.4x-55.7x. Two ref channels:
+  Forgotten American Farm & Country Life (5,060 subs) and Earl's Old Farm Days (2,900 subs).
+- Each card desc is self-contained: title, angle, modules, thumbnail hook, refreshed proof numbers,
+  outline-first workflow, hard research rules, deliverables list + link to DNA.
+- Each card carries its verified ref thumbnail as a `[VIRAL REF Nx]` attachment (attachment-only, cover cleared).
+- Card #28's ref (jXz_PuC5IuQ, 55.7x) is the flagship format outlier but its topic is the farmhouse itself, not
+  water. Added an ALT REF line on that card: Two Hands Restorations "Red Jacket Hand Water Pump Restoration"
+  (373,228v / 55,600 subs = 6.7x, 28.2 min) = exact object match. Left the choice to Jiggy rather than
+  silently substituting.
+- Card 27 desc updated to point at cards 28-37.
+
+### NICHE WATCH ADD (09-10): Forgotten Home Engineering — live launch-phase format peer
+@forgottenhomeengineering | UCE3DzKfdkEEf3kwQYPqcJFA | created 2026-08-03 (5 weeks old) | 20 vids | 7,100 subs |
+1,176,259 total views. NOT decaying: 09-07 upload still at 82,446v.
+Top outliers (live 09-10): "20 Forgotten Home Designs That Stayed Cool Before Air Conditioning" 336,329v/47.4x
+(29.9 min); "20 Old-House Ventilation Tricks Modern Builders Quietly Abandoned" 184,980v/26.1x;
+"25 Old-School Basement Tricks That Kept Homes Dry Without a Sump Pump" 161,517v/22.7x;
+"20 Old-House Drainage Tricks..." 110,092v/15.5x.
+TWO title shapes: "N Forgotten/Old-House [system] Tricks ... Before Modern [X]" and "Old-House [system] Tricks
+Modern Builders Quietly Abandoned" — all 25-30 min. Strongest live proof the "forgotten old-home system"
+framing carries 300K+ views on a brand-new channel. TRANSFERABLE: framing + "Quietly Abandoned" angle +
+25-30 min catalog length. Do NOT copy topics verbatim.
+Logged in the board under Niche Watch. Ownership UNCONFIRMED: Jiggy called it "another channel for Wade
+Callaway"; channel description reads as an independently owned property (nostalgiaoperations@gmail.com), so it
+is logged as an external peer. Ask Jiggy if it is actually ours before treating it as a competitor again.
+
+### OPEN ITEM for Jiggy
+Whether the 10 pivot videos continue the existing upload numbering (28-37 on the WadeCallaway board, where
+card 27 already sits) or start fresh on a new channel. Numbered 28-37 on the assumption the pivot continues the
+same sequence, since card 27 is itself a farm-history video in that sequence. One command to renumber.
