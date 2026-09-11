@@ -467,3 +467,45 @@ Whole Thing First" vs the live "...—So He Moved the Whole Thing"), confirming 
   apply the subscribe overlay and end card. The reference has no such line. Either set the end screen manually at
   upload, or add the sign-off as the only non-story line placed AFTER the closing image. Diana needs this
   answered before the first script.
+
+## DNA v3.1 — KILLED THE MENU (09-11, Jiggy: "the DNA is making Diana pick options")
+Jiggy sent a screenshot of Diana's AI asking "How should I handle this topic?" with four options (build as the
+secondary list format / pull one real story out / narrow to a tighter list / something else). **Two causes, both
+ours:**
+1. The DNA contained a **primary/secondary format split**, so the AI genuinely had a format decision to make.
+2. Every one of cards 28-37 carried a literal `*** FORMAT HOLD ***` block saying *"DO NOT start scripting this
+   card until Jiggy confirms whether this topic stays a secondary list-format episode or gets recast as a
+   story-format episode. Awaiting that call."* The card was instructing the AI to stop and ask.
+
+### Fixes applied
+**DNA v3.1** (`50-systems/wade-callaway-script-dna.md`):
+- New **PART 0**: "This is an instruction set, not a menu." Explicit do-not-ask / do-not-offer-options /
+  do-not-request-a-decision directive, with a substitution rule for every urge to ask (ambiguous topic -> pick and
+  state it; list topic -> convert; unverifiable fact -> drop it and continue; conflicting rules -> follow the more
+  specific one). "A response that ends in a question is a failed response."
+- **One format only.** The primary/secondary split is GONE. The list format is retired from this channel.
+- New **OUTPUT CONTRACT**: fixed order (INTERPRETATION / THREE TITLES / THUMBNAIL HOOK / OUTLINE / SCRIPT /
+  DESCRIPTION / VISUAL BRIEF), two-step, step 1 returns titles+hook+outline and contains no question.
+- New **TOPIC TO STORY CONVERSION** procedure (5 steps) with a worked example for the exact card-28 topic
+  ("30 Things Every American Farm Well Had to Do"). The key mechanic: **the topic's list items are distributed
+  through the story as the MECHANISM layer and never enumerated.** The viewer absorbs twenty items and never
+  hears a list. This is what dissolves options 1, 2 and 3 from the screenshot.
+- Closed the last open decision: the **Vidrush sign-off is now a fixed rule** (one final line after the closing
+  image) instead of "decision needed from Jiggy".
+- Title shapes trimmed from 6 (two of which needed human judgement) to 3 with an explicit "use 1 or 3".
+- Honesty rule 8 no longer says to kill the story (a stop-and-ask); it says to substitute a different documented
+  case and continue.
+
+**Cards 28-37 rewritten:** the FORMAT HOLD block is deleted and replaced with a decisive brief: format is story,
+no decision needed, do not ask, the card line is an ASSIGNED TOPIC not a title, convert it by procedure, here is
+a concrete STORY SEED (one incident + one institution + the two clocks per topic), follow the OUTPUT CONTRACT.
+The string "TITLE:" was relabelled "ASSIGNED TOPIC:". Verified zero cards still say hold/awaiting.
+
+### BLOCKER: Google write access lost mid-task
+The stored OAuth refresh token was **revoked** (`invalid_grant: Token has been expired or revoked`), expiry
+2026-09-11T05:45:12Z. The v3 doc sync had already landed earlier; the **v3.1 amendments could NOT be pushed to
+the Google Doc**. The cards are fixed and live, so Diana has the decisive instructions, but the Doc still shows
+v3 content without Part 0, the conversion procedure and the sign-off rule. Needs Jiggy to re-auth via
+`setup.py --auth-url` -> visit -> `setup.py --auth-code <CODE>`, then run
+`python3 ~/.hermes/scripts/sync_dna_doc.py` to push v3.1. The sync script now refreshes tokens automatically
+when the refresh token is alive.

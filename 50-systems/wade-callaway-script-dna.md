@@ -5,12 +5,62 @@
 differ, the Google Doc wins. Diana and any other VA can only read the Doc, never this path, so every change made
 here MUST be pushed to the Doc before it counts.
 
-Version: 2026-09-11 (v3). Supersedes v2 (same day) and v1 (2026-09-04).
+Version: 2026-09-11 (v3.1). Supersedes v3 (same day), v2 (same day) and v1 (2026-09-04).
+v3.1 amendment: the document is now a single-format, no-questions instruction set. The primary/secondary format
+split is removed, list topics are converted by procedure instead of becoming list episodes, and every remaining
+open decision has been closed so the AI never stops to ask.
 **v3 is no longer theory. A real script was obtained and reverse-engineered.** See "VERIFIED AGAINST A REAL
 SCRIPT" below. The beat sheet, the CTA rules and the narrator identity in v3 are taken from that transcript, not
 inferred from titles and descriptions.
 
 ---
+
+# PART 0 - READ THIS FIRST
+
+## This is an instruction set, not a menu
+
+**Produce the deliverable. Do not ask questions. Do not offer options. Do not present alternatives. Do not ask
+which format to use. Do not ask for a decision from anybody. Do not ask for clarification.**
+
+There is exactly one format, one workflow and one output order, all specified below. Everything you need is in
+this document. The only external input is the assigned topic.
+
+If you ever feel the urge to ask something, do this instead:
+- **Topic seems ambiguous?** Pick the strongest interpretation, state which one you picked in one line at the top
+  of your output, and keep going.
+- **Topic is shaped like a list of items?** Convert it to a story using the TOPIC TO STORY CONVERSION procedure.
+  Do not ask whether it should be a list. It should not be a list.
+- **A fact cannot be verified?** Drop that fact, use a different one, and keep going.
+- **An instruction seems to conflict with another?** Follow the more specific one and keep going.
+
+A response that ends in a question is a failed response.
+
+## The one format
+
+**Single-story underdog vindication documentary, 10 to 15 minutes.** There is no second format. The modular
+"X things" list documentary is not used on this channel. Topics that arrive shaped like lists are converted into
+stories, never made into list episodes.
+
+## OUTPUT CONTRACT (fixed order, no deviation)
+
+Return exactly these, in this order, under exactly these headings:
+
+1. **INTERPRETATION** - one line only, if the topic was ambiguous. Otherwise omit.
+2. **THREE TITLES** - under 60 characters where possible.
+3. **THUMBNAIL HOOK** - 3 to 6 words.
+4. **OUTLINE** - the beat sheet, filled in with what actually happens at each beat, including both clocks, the
+   institution and its legitimate reason, the failure and how it is discovered, the planted contingency, and the
+   closing image.
+5. **SCRIPT** - clean narration only thereafter, once the outline is approved. 1,750 to 1,900 words for an
+   average episode. No headings, no labels, no CTA inside the narration.
+6. **DESCRIPTION** - dramatisation line, hook line, watch-through prompt, subscribe line, chapter timestamps,
+   SOURCES.
+7. **VISUAL BRIEF** - one line per beat.
+
+**Work in two steps.** Step one returns items 1 to 4 only (the outline). Step two, after approval comes back,
+returns items 5 to 7. Step one never contains a question.
+
+Never return research notes, a critique, a change summary or a list of options before the script.
 
 # PART 1 - WHAT THE CHANNEL IS
 
@@ -58,12 +108,11 @@ default premise, failure-based credibility, the older weathered farmer identity,
 unless the topic genuinely requires economic history, addressing the viewer as a prospective farmer, and the
 barn-red / khaki / cream palette as a rigid rule.
 
-## Primary and secondary formats
+## The format (there is only one)
 
-- **Primary (this DNA): the single-story underdog vindication documentary.** 10 to 15 minutes. This is where the
-  evidence is strongest by a wide margin.
-- **Secondary: the modular "X things" list documentary.** Still valid on the farm-catalog channels and useful for
-  later compilations, but it is not the primary format and it is not what the launch should run on.
+**Single-story underdog vindication documentary, 10 to 15 minutes.** There is no second format and there is no
+choice to make. Every assignment is a story. Topics that arrive shaped like lists are converted by the procedure
+in Part 3, not turned into episodes of their own.
 
 ---
 
@@ -121,6 +170,34 @@ outlier is 13.8x across 15 videos, 8 of 15 above 10x.
 
 # PART 3 - HOW TO WRITE IT
 
+## THE TOPIC TO STORY CONVERSION (do this automatically, never ask)
+
+Most assigned topics arrive shaped like a subject or a list: "30 Things Every American Farm Well Had to Do",
+"Farm Buildings", "Hay". **Do not turn the topic into an episode of its own and do not ask how to handle it.**
+Convert it, silently, like this:
+
+1. **Find the single failure or fix inside the topic.** Every subject contains one dramatic incident: a well that
+   went bad in a drought, a barn that had to move, a machine nobody could repair. Choose the incident with the
+   clearest deadline and the clearest physical stakes.
+2. **Institutionalise the pressure.** Ask what outside force made the incident unavoidable: a county, a mill, a
+   co-op, a bank, a code, a season, a supplier. That force must have a legitimate reason for what it does.
+3. **Cast the protagonist as a dramatised composite.** A person with a trade, a stake and something to lose.
+   Confirm the description will carry the dramatisation line.
+4. **Distribute the topic's list across the beats, as mechanisms.** The individual items in the assigned topic do
+   not get enumerated. They get **spread through the story** as the mechanical detail the protagonist relies on:
+   the hand pump in one beat, the cistern lining in another, the frost line in the failure beat. **This is the
+   whole trick.** The topic supplies the mechanism layer; the incident supplies the story layer. The viewer
+   absorbs twenty items and never hears a list.
+5. **Pick the one number that will land at roughly a quarter of the way in**, and the second number that resolves
+   it. Both must be real or honestly framed.
+
+Worked example. Assigned topic: "30 Things Every American Farm Well Had to Do".
+Do not write thirty things. Write the story of one farm family whose well fails in a dry August with livestock on
+it and no replacement source, against a deadline and against a neighbour or contractor who wants to drill a new
+well they cannot afford. Across the story, show the mechanisms from the topic in the places where they actually
+matter: hand pump, cistern, bucket yoke, trenching and drainage, livestock troughs, winter thawing. By the end the
+viewer has learned a dozen well systems without ever being read a list.
+
 ## The beat sheet to follow
 
 Use the beat map above as the template. Proportional targets for any runtime:
@@ -163,24 +240,17 @@ Use the beat map above as the template. Proportional targets for any runtime:
 
 ## Title rules
 
-The title opens a loop and withholds the resolution. Verified shapes:
+The title opens a loop and withholds the resolution. **Use shape 1 or shape 3.** Shape 2 is allowed only if
+neither fits. Never use a first-person shape.
 
 1. `The [Institution] [Dumped / Wrote Off / Rejected] [specific wasted thing] - Then [outcome with a number]`
-2. `They Laughed / Mocked / Nobody Wanted [person or thing] - Then / Until [the reveal]`
-3. `The [Institution] Came to [do X] - So He [did the impossible]` (the reference script's own shape)
-4. `[N] [forbidden / forgotten thing] Every [person] [kept / hid] (I [kept / quit] [X])` - requires a first-person
-   frame, so it conflicts with the third-person narration rule. Use only as a deliberate exception with the
-   disclosure in place.
-5. Refusal and legal escalation: `She Refused Every Offer to [X]`, `Then Faced the [Y] That Cost Them Millions in
-   Court`.
-6. HOA and easement confrontation, an adjacent lane running hot. Only use if the land angle is real.
+2. `They Laughed / Mocked / Nobody Wanted [person or thing] - Then / Until [the reveal]` (heavily saturated, use
+   sparingly)
+3. `The [Institution] Came to [do X] - So He [did the impossible]`
 
 Rules: under 60 characters where possible. Name the object and the number. Never "secrets", "amazing", "insane",
-or "you won't believe". Always state the problem and withhold the ending. Deliver three options.
-
-**SATURATION WARNING.** The "They Laughed / Nobody Wanted / Until" shape is now heavily farmed, including
-near-duplicate titles on the reference channels' own rails. Prefer shapes 1, 3 and 5. The differentiator is no
-longer the shape; it is the specificity of the mechanism, the object and the number.
+or "you won't believe". Always state the problem and withhold the ending. Deliver three options. The
+differentiator is not the shape; it is the specificity of the mechanism, the object and the number.
 
 ## Length and pacing
 
@@ -210,8 +280,8 @@ longer the shape; it is the specificity of the mechanism, the object and the num
    with AI / Sounds or visuals were altered or fully generated" notice. Evidence: the two highest-multiplier
    videos in our reference set (Barnside Tales 273.5x, Burl Sizemore 44.4x) both carry that label and both still
    perform. It is not a performance penalty, and it is the posture that survives an authenticity sweep.
-8. **If the honest version of the story cannot be told, kill the story.** There are enough real documented rural
-   cases.
+8. **If a story cannot be told honestly, choose a different documented case and continue.** Do not stop, do not
+   ask, and do not write the version that cannot be supported.
 
 ## Description and packaging (this is where the CTA lives)
 
@@ -225,10 +295,10 @@ The narration carries no CTA, so the description does the work. Every upload nee
 - The SOURCES list.
 - A comment question.
 
-**Vidrush mechanic note (decision needed from Jiggy):** the old Wade DNA required a spoken sign-off line because
-Vidrush detects it to apply the subscribe overlay and the end card. The reference script has no such line and
-relies on the description plus a manually set end screen. Either set the end screen manually at upload, or add
-the sign-off as the only non-story line, placed after the closing image. Do not bury it inside the story.
+**Vidrush sign-off (fixed rule, do not ask).** End the narration with the closing image, then add one final line
+only: "Thanks for watching, and I'll see you in the next one." Vidrush detects this line to apply the subscribe
+overlay and the end card, so it is required. It is the only non-story line in the script, it goes last, after the
+image, and it never goes inside the story. Do not add any other spoken CTA.
 
 ## Outline-first workflow for Diana
 
@@ -245,7 +315,9 @@ Deliver an outline containing:
 - The contingency that will save the climax, and where it is planted
 - The closing image
 
-An outline with no institution, no mechanism, no second clock, or no legacy beat is rejected.
+An outline with no institution, no mechanism, no second clock, or no legacy beat is rejected. **Return the
+outline and stop. Do not ask any question with it. Do not ask for approval in words; the outline itself is the
+submission.**
 
 ## Deliverables per video
 
@@ -308,7 +380,7 @@ script or description.
 - **Barnside Tales**, UCBdsf1T1WLVU1Eb_5hPHqfQ. 265 subs, 17 videos, created 2026-08-06. Top 72,468 / 273.5x at
   27.3 min. A single breakout on a tiny channel, not channel proof.
 
-## Secondary list-format references
+## List-format references (background only, not a format we produce)
 
 - **Forgotten American Farm & Country Life**, 5,060 subs. 281,789 views / 55.7x on the 1950s farmhouse episode.
 - **Earl's Old Farm Days**, 2,900 subs. 78,528 views / 27.1x on the 1950s tractor episode.
