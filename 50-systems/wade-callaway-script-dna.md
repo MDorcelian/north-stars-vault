@@ -5,7 +5,10 @@
 differ, the Google Doc wins. Diana and any other VA can only read the Doc, never this path, so every change made
 here MUST be pushed to the Doc before it counts.
 
-Version: 2026-09-11 (v3.1). Supersedes v3 (same day), v2 (same day) and v1 (2026-09-04).
+Version: 2026-09-11 (v3.2). Supersedes v3.1, v3, v2 (all same day) and v1 (2026-09-04).
+v3.2: THE DELIVERABLE IS THE SCRIPT (one pass, no approval gate, no outline-only reply). Two formats with a
+mechanical rule that selects between them, plus a full spec for the numbered documentary, which is the format the
+existing card batch uses.
 v3.1 amendment: the document is now a single-format, no-questions instruction set. The primary/secondary format
 split is removed, list topics are converted by procedure instead of becoming list episodes, and every remaining
 open decision has been closed so the AI never stops to ask.
@@ -35,32 +38,34 @@ If you ever feel the urge to ask something, do this instead:
 
 A response that ends in a question is a failed response.
 
-## The one format
+## The format rule (decide it yourself, never ask)
 
-**Single-story underdog vindication documentary, 10 to 15 minutes.** There is no second format. The modular
-"X things" list documentary is not used on this channel. Topics that arrive shaped like lists are converted into
-stories, never made into list episodes.
+There are two formats. Which one applies is decided by a **mechanical rule**, not by preference and not by asking
+anyone:
+
+- **The assigned topic contains a number** ("30 Things...", "25 Farm Tools...", "20 Systems...") -> **FORMAT A,
+  the NUMBERED DOCUMENTARY.** The number stays in the title and the script delivers exactly that many items.
+- **The assigned topic has no number** -> **FORMAT B, the SINGLE-STORY DOCUMENTARY.**
+
+The card normally states the format too. If the card and the rule disagree, **the card wins**. Either way you
+never ask.
 
 ## OUTPUT CONTRACT (fixed order, no deviation)
 
-Return exactly these, in this order, under exactly these headings:
+**THE DELIVERABLE IS THE SCRIPT. Not an outline. Not a plan. The script.** Return these, in this order, under
+exactly these headings, in ONE pass:
 
-1. **INTERPRETATION** - one line only, if the topic was ambiguous. Otherwise omit.
-2. **THREE TITLES** - under 60 characters where possible.
+1. **SCRIPT** - the actual narration, written out in full. This is the deliverable and it comes first. Word count
+   rules below.
+2. **TITLE** - the one you recommend, then two alternates. Under 60 characters where possible.
 3. **THUMBNAIL HOOK** - 3 to 6 words.
-4. **OUTLINE** - the beat sheet, filled in with what actually happens at each beat, including both clocks, the
-   institution and its legitimate reason, the failure and how it is discovered, the planted contingency, and the
-   closing image.
-5. **SCRIPT** - clean narration only thereafter, once the outline is approved. 1,750 to 1,900 words for an
-   average episode. No headings, no labels, no CTA inside the narration.
-6. **DESCRIPTION** - dramatisation line, hook line, watch-through prompt, subscribe line, chapter timestamps,
-   SOURCES.
-7. **VISUAL BRIEF** - one line per beat.
+4. **DESCRIPTION** - dramatisation line (Format B only), hook line, watch-through prompt, subscribe line, chapter
+   timestamps, SOURCES.
+5. **VISUAL BRIEF** - one line per section (Format A) or per beat (Format B).
 
-**Work in two steps.** Step one returns items 1 to 4 only (the outline). Step two, after approval comes back,
-returns items 5 to 7. Step one never contains a question.
-
-Never return research notes, a critique, a change summary or a list of options before the script.
+**Do not stop for approval. Do not reply with an outline instead of a script. Do not ask a question.** If an
+outline is ever wanted, it will be asked for by name. Never return research notes, a critique, a change summary
+or a list of options before the script.
 
 # PART 1 - WHAT THE CHANNEL IS
 
@@ -108,11 +113,13 @@ default premise, failure-based credibility, the older weathered farmer identity,
 unless the topic genuinely requires economic history, addressing the viewer as a prospective farmer, and the
 barn-red / khaki / cream palette as a rigid rule.
 
-## The format (there is only one)
+## The two formats
 
-**Single-story underdog vindication documentary, 10 to 15 minutes.** There is no second format and there is no
-choice to make. Every assignment is a story. Topics that arrive shaped like lists are converted by the procedure
-in Part 3, not turned into episodes of their own.
+1. **Numbered documentary** (topic contains a number). Exactly N items, 45 to 70 words each, each with a real
+   mechanism and a sourced fact. 12 to 20 minutes. This is what the launch batch uses.
+2. **Single-story documentary** (topic has no number). One person against one institution, 10 to 15 minutes.
+
+Which one applies is decided by the mechanical rule in Part 0, or by the card. It is never a question.
 
 ---
 
@@ -170,7 +177,50 @@ outlier is 13.8x across 15 videos, 8 of 15 above 10x.
 
 # PART 3 - HOW TO WRITE IT
 
-## THE TOPIC TO STORY CONVERSION (do this automatically, never ask)
+## FORMAT A - THE NUMBERED DOCUMENTARY (topic contains a number)
+
+This is the format the launch batch uses. The strongest single video in the entire lane is a numbered
+documentary: "30 Things Every American Farmhouse Had in the 1950s", 281,789 views = 55.7x on a 5,060-sub channel.
+**The number is the click. Keep the number in the title.**
+
+### Structure
+
+1. **Opening, 60 to 90 seconds.** Present tense. One specific household scene or moment from the era, then the
+   promise in one line: what these N things were and why the knowledge is disappearing. Pay off the thumbnail in
+   the first 30 seconds. No host, no greeting, no "welcome back".
+2. **Exactly N items.** Not N minus two, not N plus three. **Exactly N.** Each item is **45 to 70 words** and
+   contains, in this order:
+   - what it was, named plainly;
+   - the mechanical reason it existed, or how it actually worked, in physical detail;
+   - **one real number, dimension, date or price**;
+   - what replaced it, or why it disappeared.
+   An item with no mechanism is deleted and replaced with one that has a mechanism. No exceptions.
+3. **Group the items into sections of 5 or 6**, each with a short section title. These become the chapter
+   timestamps. Do not read the section titles out loud.
+4. **Closing, 60 to 90 seconds.** Land on the single item that matters most, say what was lost when it vanished,
+   and end on an image. Then the sign-off line.
+
+### Rules
+
+- **Third person, present tense.** "You" is allowed in this format, because the items were used by the audience's
+  grandparents. "I" and "we" are banned in every format.
+- **Order the items for retention:** the strongest and most surprising first, the most emotionally satisfying
+  last. Never alphabetical, never by category, never by room.
+- **No filler.** No "and finally, one more thing", no padding between items, no summary of what was covered.
+- **Every item carries at least one sourced fact.** Sources go in the description.
+- Numbers in the narration are spoken naturally. "Thirty" in the promise line. Digits where the figure is
+  technical (a measurement, a price).
+- The channel angle stands: these are educational modular documentaries, not invented farm dramas. Every item
+  must be reusable inside a future themed compilation.
+
+### Length
+
+**155 words per minute.** 12 to 20 minutes is **1,860 to 3,100 words**. Add the opening and closing on top of the
+item count, do not subtract them from it.
+
+## FORMAT B - THE SINGLE-STORY DOCUMENTARY (topic has no number)
+
+### THE SUBJECT TO STORY CONVERSION (do this automatically, never ask)
 
 Most assigned topics arrive shaped like a subject or a list: "30 Things Every American Farm Well Had to Do",
 "Farm Buildings", "Hay". **Do not turn the topic into an episode of its own and do not ask how to handle it.**
@@ -198,7 +248,7 @@ well they cannot afford. Across the story, show the mechanisms from the topic in
 matter: hand pump, cistern, bucket yoke, trenching and drainage, livestock troughs, winter thawing. By the end the
 viewer has learned a dozen well systems without ever being read a list.
 
-## The beat sheet to follow
+## FORMAT B beat sheet (single story)
 
 Use the beat map above as the template. Proportional targets for any runtime:
 
@@ -254,9 +304,10 @@ differentiator is not the shape; it is the specificity of the mechanism, the obj
 
 ## Length and pacing
 
-- Launch target: **10 to 15 minutes.**
-- Pacing: **155 words per minute.** A 11.5-minute script is about **1,750 to 1,900 words.** Plan from that
-  number rather than guessing.
+- Pacing for both formats: **155 words per minute.**
+- **Format A (numbered):** 12 to 20 minutes. 1,860 to 3,100 words plus the opening and closing. The item count is
+  fixed by the topic; the word count follows the runtime you are targeting.
+- **Format B (single story):** 10 to 15 minutes. About **1,750 to 1,900 words** for an 11.5-minute episode.
 - Where the story genuinely has enough turns, 20 to 25 minutes is allowed. Do not pad.
 - Count the words and record the actual runtime before submitting.
 
@@ -315,9 +366,9 @@ Deliver an outline containing:
 - The contingency that will save the climax, and where it is planted
 - The closing image
 
-An outline with no institution, no mechanism, no second clock, or no legacy beat is rejected. **Return the
-outline and stop. Do not ask any question with it. Do not ask for approval in words; the outline itself is the
-submission.**
+An outline with no institution, no mechanism, no second clock, or no legacy beat is rejected. **Note: the
+outline-first gate in this section applies to Format B only, and only when an outline is asked for by name. The
+default deliverable is always the finished script.**
 
 ## Deliverables per video
 
@@ -342,6 +393,14 @@ where the old system used to be. Prefer visual nouns. Avoid paragraphs of abstra
 
 ## Quality gate before submission
 
+**Format A (numbered):**
+- The item count is **exactly** the number in the title.
+- Every item has a mechanism, one real number and a replacement or a reason it vanished.
+- No filler entries, no summary section, no "and finally".
+- The strongest item is first and the most emotionally satisfying is last.
+- Sections of 5 or 6, with short titles, ready to become chapter timestamps.
+
+**Both formats:**
 - Third person, present tense, and **zero instances of "I", "my", "we" or "me"** in the narration.
 - No spoken CTA anywhere in the narration.
 - Both clocks present; the second one introduced early.
@@ -380,7 +439,7 @@ script or description.
 - **Barnside Tales**, UCBdsf1T1WLVU1Eb_5hPHqfQ. 265 subs, 17 videos, created 2026-08-06. Top 72,468 / 273.5x at
   27.3 min. A single breakout on a tiny channel, not channel proof.
 
-## List-format references (background only, not a format we produce)
+## List-format references (these are FORMAT A references: the numbered documentary)
 
 - **Forgotten American Farm & Country Life**, 5,060 subs. 281,789 views / 55.7x on the 1950s farmhouse episode.
 - **Earl's Old Farm Days**, 2,900 subs. 78,528 views / 27.1x on the 1950s tractor episode.

@@ -509,3 +509,32 @@ v3 content without Part 0, the conversion procedure and the sign-off rule. Needs
 `setup.py --auth-url` -> visit -> `setup.py --auth-code <CODE>`, then run
 `python3 ~/.hermes/scripts/sync_dna_doc.py` to push v3.1. The sync script now refreshes tokens automatically
 when the refresh token is alive.
+
+## DNA v3.2 — SCRIPT-ONLY OUTPUT + THE NUMBERED FORMAT (09-11, Jiggy + Diana)
+Jiggy: "It's just supposed to be a script." Diana: "update the prompt for specific topics with numbers like:
+30 farm tools, 25 farm etc."
+**Diagnosis: my v3.1 brief contradicted the cards' own bodies.** Card 28's text said "these are educational modular
+'X things' documentaries, not fictional AI farm stories" and "WORKFLOW IS OUTLINE-FIRST: Diana delivers an outline
+for approval". I had bolted a "FORMAT: STORY, do NOT enumerate" brief on top, so the card said two different
+things. That plus the approval gate is what kept the workflow non-seamless.
+**Fix:**
+- **The deliverable is now the SCRIPT, one pass, no approval gate, no outline-only reply.** OUTPUT CONTRACT is
+  SCRIPT first, then title, thumbnail hook, description+SOURCES, visual brief. "If an outline is ever wanted it
+  will be asked for by name."
+- **Two formats with a MECHANICAL selection rule** (topic has a number -> FORMAT A numbered documentary; no number
+  -> FORMAT B single story; the card wins if they disagree). Never a question, never a choice.
+- **New FORMAT A spec** for the numbered documentary, which is what the batch actually is: opening 60-90s paying
+  off the thumbnail; **EXACTLY N items** at 45-70 words each; each item must give what it was, how it actually
+  worked, one real number/dimension/date/price, and what replaced it; items grouped into sections of 5-6 for the
+  chapter timestamps; ordered strongest-first most-satisfying-last; no filler; close on the single best item and
+  end on an image. Pacing 155 wpm, 12-20 min = 1,860-3,100 words. "You" is allowed in this format (the items were
+  used by the audience's grandparents); "I" and "we" stay banned in both formats.
+- FORMAT B keeps the verified Old Timber beat sheet for non-numbered topics.
+- **Cards 28-37 rebuilt:** numbered-format brief with N stated, the hook, the modules as a COVERAGE CHECKLIST (not
+  a running order), the build spec, and the no-ask directive. Body text fixed: outline-first gate deleted, the
+  deliverables list now leads with the script, runtime aligned to 12-20 min, and the "ALT REF ... if you want a
+  pump-first composition" line de-optioned into a plain object reference. Verified zero cards still mention the
+  story format, an outline for approval, or awaiting a call.
+- Google Doc resynced to **v3.2** (same URL), 0 formatting artifacts, 0 local paths, anyone-with-link writer.
+- OAuth was re-authorised by Jiggy; only Docs/Drive/Sheets scopes granted (Gmail/Calendar/Contacts not granted,
+  which does not affect this workflow). sync_dna_doc.py now auto-refreshes tokens.
