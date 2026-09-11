@@ -1,333 +1,310 @@
 # Dennis Taylor Script DNA and Vidrush Production Handoff
 
-Version: 2026-09-04
+Version: 2026-09-11 (v2, supersedes v1 of 2026-09-04)
 Channel: Dennis Taylor
-Handle: @DennisTaylor-k1j
 Production platform: Vidrush
-
-## The channel promise
-
-Dennis Taylor explains how old American farms, farmhouses, workshops, barns, and rural communities actually worked before modern convenience replaced their systems.
-
-This is educational historical storytelling. It is not AI farm fiction, fake personal reminiscence, or Wade-style farm-business education.
-
-The central idea is:
-
-**Every old farm was a connected operating system.**
-
-A well was not just a well. It supplied the kitchen, animals, garden, washing, and fire protection. A barn was not just a building. It was storage, climate control, animal care, repair space, and seasonal labor management. Every episode should reveal the system behind the object.
-
-## Audience
-
-The audience is made up of people who are curious about:
-
-- How earlier Americans solved practical problems
-- Rural and agricultural history
-- Old tools, buildings, machines, and household systems
-- What grandparents used before electricity, supermarkets, plumbing, and modern equipment
-- The engineering and labor hidden inside ordinary historical life
-- Honest comparisons between older systems and modern replacements
-
-They may be nostalgic, but do not assume they believe the past was better. Respect the ingenuity of earlier generations while explaining the real labor, danger, inconvenience, and inequality involved.
-
-## Dennis's identity and voice
-
-Dennis is a calm, observant 44-year-old guide. He sounds like a knowledgeable man who has spent years studying practical history, not an elderly farmer pretending to remember events from the 1950s.
-
-He does not claim personal experience he did not have. Never write invented lines such as “when I was a boy on the farm” or “my father used to.” Use honest framing:
-
-- “Farm manuals from the period show...”
-- “A farmhouse like this had to solve several problems at once...”
-- “The practical reason was...”
-- “What disappears from the photograph is the labor...”
-- “Modern equipment made this safer, but it also made the old skill unnecessary...”
-
-His tone is:
-
-- Calm and conversational
-- Curious rather than theatrical
-- Warm but not sentimental
-- Plainspoken and precise
-- Interested in mechanisms and consequences
-- Occasionally dry or lightly amused
-- Never angry, salesy, or motivational
-
-Do not use Wade's “cut the bullshit” voice, farming-profit skepticism, hard-money persona, or failure-based farmer identity. Dennis can correct a popular misconception, but he should sound like a guide opening up a forgotten system, not a man scolding the viewer.
-
-## What the reference channels teach us
-
-The direct farm references repeatedly use a modular list structure:
-
-- Forgotten American Farm & Country Life has proven long-form list documentaries including “30 Things Every American Farmhouse Had in the 1950s,” “25 Things Only Kids Who Grew Up on American Farms in the 1960s Will Understand,” farmhouse kitchens, farm buildings, forgotten technologies, farm machines, and farm skills.
-- Earl's Old Farm Days extends the same system into tractors, barns, buildings, and workshops.
-- The strongest direct reference titles promise a specific inventory, time period, and disappearance or replacement. They do not rely on a vague nostalgia promise.
-- Curious Banana and related nostalgia channels demonstrate that large, modular collections can support long viewing sessions and later compilations.
-- Archibald History is an adjacent model for the narrative layer. Its videos turn a historical process into a concrete problem: how people moved enormous logs, built railroads, crossed terrain, or completed difficult work before modern equipment. The lesson is not to copy logging topics. The lesson is to make the viewer ask, “How did they actually do that?”
-- Forgotten Hustles by Adam is an adjacent format/network signal, not a direct farm reference. It uses repeated numbered packages, a strong practical promise, and a catalog that can be recombined into related episodes. Use the repeatable packaging mechanic only. Do not import its money claims or “still pays” promise into Dennis's historical channel.
-
-The Dennis format combines the direct farm channels' catalog structure with Archibald's mechanism-first storytelling:
-
-**X things, each explained as a practical problem and solution.**
-
-## Core format
-
-Most episodes should be structured as:
-
-- 20 to 30 things for a broad inventory episode
-- 8 to 15 minutes for the launch phase
-- 1,200 to 1,800 spoken words unless the assigned brief says otherwise
-- Modular sections that can later be combined into themed compilations
-- One clearly defined period, region, or setting when the topic requires it
-
-The title should make the catalog and historical frame visible:
-
-- “30 Things Every American Farm Well Had to Do”
-- “25 Things Every Farmhouse Kitchen Needed Before 1960”
-- “30 Farm Buildings That Kept Families Alive”
-
-Do not make every title sound identical. Rotate the promise among:
-
-- Things every X had
-- Things only X understood
-- Buildings every X needed
-- Skills every X learned
-- Technologies replaced by X
-- How X solved a difficult problem before X existed
-- Why X disappeared
-
-## The section formula
-
-Every item is a mini-documentary, not a name in a list. Use this sequence:
-
-1. Name the object, practice, or system.
-2. Establish the practical problem it solved.
-3. Show how it worked in ordinary use.
-4. Explain the labor, skill, danger, cost, or limitation involved.
-5. Connect it to another farm or household system.
-6. Explain what replaced it and why the replacement spread.
-7. Leave the viewer with a concrete image, consequence, or question.
-
-Example:
-
-“A farmhouse well was not simply the place where someone drew a bucket. It was the farm's water utility. The same source might serve the kitchen, the livestock, the garden, and the washing. That made its location and depth a daily calculation, not a decorative choice.”
-
-## Story architecture
-
-1. Cold open
-
-Start with a practical contradiction or vivid problem. Do not begin with “welcome back.”
-
-Good patterns:
-
-- “Before rural electricity, a farmhouse had to manufacture its own light, cooling, water, and food storage.”
-- “The old barn looked simple from the outside. Inside, it was doing the work of several modern buildings.”
-- “A farm family could not buy a replacement part on a Sunday afternoon. The workshop had to make the repair possible.”
-
-2. Promise
-
-Tell the viewer what system they will understand by the end. Do not promise a list without a reason the list matters.
-
-3. Setting
-
-State the approximate decade, region, and farm type when relevant. American farms were not identical. Avoid universal claims when the evidence is regional.
-
-4. Escalating modules
-
-Start with a familiar item, then move toward more surprising, technical, dangerous, or consequential examples. Each module should add a new layer of the system.
-
-5. Modern contrast
-
-Explain what replaced the old method. Include both sides: what became safer, faster, cleaner, or more reliable, and what skill, independence, or local knowledge disappeared.
-
-6. Closing synthesis
-
-Return to the central system. The viewer should understand that the objects were connected, not random antiques.
-
-7. Comment question and sign-off
-
-Ask a specific memory or knowledge question without forcing nostalgia.
-
-## Hook rotation
-
-Rotate among these four openings:
-
-A. The impossible job: describe a task modern viewers assume required machinery, then explain how the farm did it without that machinery.
-
-B. The hidden system: reveal that an ordinary object was performing several jobs at once.
-
-C. The vanished routine: describe a routine that was once necessary and is now almost invisible.
-
-D. The replacement tradeoff: show what modernization fixed and what it made unnecessary.
-
-Pay off the thumbnail's visual promise within the first 30 seconds.
-
-## Research and truth requirements
-
-Research every factual claim before writing the final script.
-
-Use sources such as:
-
-- USDA and land-grant university publications
-- Agricultural extension services
-- Historical farm manuals
-- Smithsonian and Library of Congress collections
-- State historical societies and museums
-- National and regional archives
-- Reputable books and academic sources
-- Primary photographs only when the caption, date, and context are known
-
-Do not invent memories, dates, measurements, prices, customs, or universal practices. “Every” in a title is a packaging phrase, not permission to claim that every farm used an identical system. Qualify by region, period, class, crop, climate, or farm size where needed.
-
-If the topic involves a number, date, capacity, distance, temperature, price, or claim of danger, cite it in the research notes and include a SOURCES section with the source title, institution or author, date if available, and URL.
-
-The audience may include people who grew up around farms. Do not use fake authority. A wrong specific detail is worse than a cautious explanation.
-
-## Visual and narration guidance
-
-Write for a Vidrush avatar documentary with supporting historical visuals.
-
-Each module should create an obvious visual sequence:
-
-- Establishing farmhouse, barn, field, workshop, or landscape
-- Close-up of the object or tool
-- Demonstration, diagram, archival photograph, or reconstruction
-- Modern replacement or empty space where the old system disappeared
-
-Do not write a script that depends on Dennis physically demonstrating something unless the production brief confirms that footage exists.
-
-Use visual nouns. Avoid paragraphs of abstract history. Prefer “a hand pump, a cistern, a covered bucket, and a trough” over “water infrastructure.”
-
-## Retention rules
-
-- No generic introduction
-- No repeated “back then” phrasing
-- No list item that exists only to reach the target number
-- Each item must add a new problem, system, or consequence
-- End sections with a forward question or revealed connection
-- Alternate familiar items with surprising ones
-- Keep explanations concrete and visual
-- Do not overload every paragraph with dates
-- Put the strongest, most recognizable item near the opening
-- Save the most consequential or counterintuitive item for the final third
-
-## CTA rules
-
-Place one soft CTA after a meaningful block of value, not in the first minute:
-
-“If you enjoy these practical histories of how earlier generations solved ordinary problems, subscribe. There are plenty more systems worth bringing back into the light.”
-
-Near the end, ask for a like and subscription naturally, then direct the viewer to the next video without naming a specific video:
-
-“If you want more of these forgotten farm systems, the video on screen continues the story.”
-
-End with:
-
-“Thanks for watching, and I'll see you in the next one.”
-
-## Outline-first workflow for Diana
-
-Before writing the full script, produce an outline containing:
-
+Evidence base: `/home/hermes/vault/50-systems/farm-story-format-evidence.md` (read it before
+disagreeing with anything here). All figures are live API snapshots of 2026-09-10/11.
+
+## WHAT CHANGED FROM V1 AND WHY
+
+V1 was a modular list documentary: "30 things every American farm had", objects explained in
+sequence. That format still works on the farm-catalog channels, but it is not the format with the
+strongest current evidence behind it.
+
+The four farm-story examples we pulled show a different and stronger engine. **Old Timber**, a
+1,290-sub channel, is the proof: 15 videos, **median outlier 13.8x, 8 of 15 above 10x, 13 of 15 above
+3x**, on 10 to 15 minute videos. That is not one hit. That is a formula that repeats. On the same
+evidence: Burl Sizemore 44.4x top with 6 of 37 above 10x; The Stubborn Farmwife 50.9x top with 25 of
+91 above 3x; Barnside Tales 273.5x on a single video on a 265-sub channel.
+
+So the answer to "are these still stories": **yes, and the story version is the stronger of the two.**
+The list format is not dead, it is now the secondary lane. This is the product-market-fit correction.
+
+V1's modular documentary is retired as the primary format. Its research and honesty standards are
+kept and strengthened.
+
+**One thing to understand about the change:** V1 forbade invention. The winners invent. V2 resolves
+this by keeping the story architecture (the thing that actually drives the views) while refusing the
+specific act that carries the authenticity and monetisation risk. See Honesty and disclosure.
+
+## THE CHANNEL PROMISE
+
+Dennis Taylor tells the story of how ordinary rural Americans out-thought a system that had written
+them off, and shows the forgotten engineering those people were using while everyone else was
+laughing.
+
+Two layers, both required in every episode:
+1. **The story layer (the engine).** One person, one place, one thing everybody else threw away,
+   one outcome. This is what the click and the retention come from.
+2. **The mechanism layer (the credibility).** The real, researched, citable engineering or
+   agricultural practice the story turns on. This is what makes the channel trustworthy and what
+   keeps it monetisable.
+
+A story without mechanism is fiction. A mechanism without story is the V1 documentary that
+underperforms. Both, always.
+
+## AUDIENCE
+
+People who want older American rural life explained by someone who respects it, plus the much larger
+group who click on an underdog who was doubted and turned out right. They are nostalgic without being
+fools. Do not tell them the past was better; show them what the past figured out and what we traded
+away for it.
+
+## DENNIS'S IDENTITY AND VOICE
+
+Dennis is a calm, observant guide in his forties who has spent years studying how earlier Americans
+solved practical problems. He is a **narrator and a guide, not a witness.**
+
+That distinction is load-bearing. Dennis does NOT say "my grandfather kept", "when I was a boy",
+"we used to", or anything else that claims lived memory he cannot have. The story subjects are other
+people, told in third person. Dennis is the man who found the record and is telling you about it.
+
+Voice rules:
+- Calm, conversational, curious. Plainspoken and precise.
+- Dryly amused sometimes. Warm but never sentimental.
+- Interested in mechanisms and consequences, not in feelings.
+- Never angry, never salesy, never motivational.
+- He can correct a common misconception, but he sounds like a man opening up a forgotten system, not
+  a man scolding the viewer.
+- He never announces the theme. He lets the story land it.
+
+Banned voice carryovers from Wade: the "cut the bullshit" register, farm-profit math as the default
+premise, failure-based credibility, the older weathered farmer identity, the barn-red and khaki
+palette as a rule.
+
+## THE STORY ARCHITECTURE (the engine - this is the core of v2)
+
+Every episode is ONE story, built on these eight beats, in this order. This is the template Old Timber
+is clearly running; its published chapter lists are this shape every time.
+
+**1. The contradiction open (0:00 to 0:20).**
+Open on a concrete scene where the person is being doubted, ignored or openly laughed at. Specific
+time, specific place, specific object. No greeting, no "welcome back", no thesis statement.
+- Model: "The county excavator was already in the field when Walt Kessler got the call. He had
+  thirteen hours."
+- Model: "Every Thursday, the dairy dumped thousands of gallons of milk at Ruth Keller's farm and
+  drove away."
+
+**2. The stakes and the antagonist named (0:20 to 1:30).**
+Say plainly who the power is and what they get out of it. The antagonist is an institution, not a
+villain character: a dairy, a mill, a co-op, a county, a plant, an auction house, a building code.
+The viewer must understand what the protagonist is up against before they understand the method.
+
+**3. The discarded thing at the centre (1:30 to 2:30).**
+The whole story orbits one object the world priced at zero: rejected wool, 300 old windows, 500
+rusty oilfield pipes, 40 tons of shells, six cows nobody bid on, bent barn tin, a house built before
+electricity. Name it and make the viewer see the pile.
+
+**4. The methodical response (2:30 to 4:30).**
+This is where the mechanism layer goes, and it is the credibility beat. The protagonist does
+something disciplined: weighs every delivery, tests every load, demands the disposal records, sorts
+by hand, measures and re-measures. **Detail here is the proof of worth.** Explain the real practice
+and cite it.
+
+**5. The failure beat (4:30 to 6:00).**
+The first attempt fails in a specific, technical way. The greenhouse overheats. One batch of pellets
+burns bitter. The gate sags once the load is on it. Never skip this. The failure is what makes the
+fix feel earned and it is where retention is won, because the viewer now wants to know the answer.
+
+**6. The mentor and the single fix (6:00 to 7:30).**
+The turn comes from outside: an old rancher, a commercial grower, a miller, a blacksmith, a county
+extension agent. The fix is one specific change, not a montage. Explain WHY it works, in mechanism
+terms.
+
+**7. The backlash (7:30 to 9:00).**
+Just before the payoff, the power moves: the mill stops delivery without warning, the county
+reschedules, the buyer walks, the drought or the storm arrives at the worst moment. This is the
+tension spike. Do not resolve the story before this beat.
+
+**8. The payoff and the theme (9:00 to end).**
+Land on a hard, specific outcome with a number: $180,000 in gross sales, $1.8 million, $294,000 at
+auction, a six-figure business, the county finding an empty site. Then one line, once, that states
+what the story meant, without preaching.
+- Model: "The difference between trash and opportunity is knowing what you're looking at."
+- Model: "The line moved. He stood still."
+
+**Rotation rules for the open.** Do not open every video the same way. Rotate the four entry shapes:
+A. The scene of public doubt (they laughed, they mocked, nobody bid).
+B. The deadline (thirteen hours, the county returns at dawn).
+C. The absurd delivery (a mountain of waste appearing at a farm gate).
+D. The disappearance (a system that everybody removed and nobody wrote down).
+
+## TITLE RULES
+
+The title is the story's open loop. It must name the protagonist's problem and withhold the
+resolution. Two proven shapes, both live in the evidence:
+
+**Shape 1 - the institutional dump and the number payoff**
+`The [Institution] [Dumped / Wrote Off / Rejected] [specific wasted thing] - Then [specific outcome with a number]`
+- "The Pecan Mill Dumped Mountains of Shells on Her Farm - She Built a Six-Figure BBQ Pellet Business"
+- "The Co-op Wrote Off Her 60 Acres of Sunflowers as a Loss - The Oil Press Paid Off the Whole Farm"
+- "She Paid $800 for 40 Tons of Rejected Wool - Then Made $1.8 Million"
+
+**Shape 2 - the mockery and the reveal**
+`They Laughed/Mocked When [person] [did the odd thing] - Then/Until [the reveal]`
+- "They Laughed When She Took 300 Old Windows - Then Her Greenhouse Earned $180,000"
+- "Kansas Ranchers Mocked Her Cattle for 12 Years - Then Those Same Cattle Brought $294,000"
+- "They Laughed When the Girl Took Their Broken Sewing Machines - Until They Saw What Ran in the Loft"
+
+**Shape 3 - the countdown with personal proof (the Burl lane, secondary)**
+`[N] [forbidden/forgotten thing] Every [person] [kept/hid/carried] (I [kept/quit/own] [X])`
+- "25 'Outlawed' Tools Every Appalachian Grandfather Hid in His Barn Loft (I Quit Using 9)"
+This shape requires the first-person frame, so use it with the disclosure rule below, and never
+attach a product to a claimed memory.
+
+Rules for all shapes: under 60 characters where possible. Name the object and the number. Never use
+"secrets", "amazing", "insane", or "you won't believe". Always state the protagonist's problem and
+withhold the ending. Deliver three title options per script.
+
+## HOOK AND RETENTION
+
+- The thumbnail promise must be paid off inside the first 30 seconds of narration.
+- Every beat ends on a forward pull: the next concrete question, the next number, the next object.
+  Never "stay tuned", never a vibe.
+- Alternate the concrete and the surprising. The strongest, most recognizable object or detail goes
+  in the first third. The most consequential or counterintuitive detail goes in the final third.
+- One recurring artefact carries the whole story: the wet sample sheet, the disposal record, the
+  clipboard, the bent bolt. Reintroduce it at each beat with more weight and land on it in the close.
+  This is the spine. Do not over-explain it.
+- Publish chapter timestamps in the description. They are retention furniture and they force the
+  writer to build in beats, which is exactly what this DNA wants.
+
+## LENGTH AND FORMAT
+
+- Launch phase: **10 to 15 minutes**, roughly 1,400 to 2,200 spoken words. The Old Timber winners
+  that carry a 13.8x median are all 10 to 15 minutes. Long is not the advantage; density is.
+- The Stubborn Farmwife lane runs 30 to 44 minutes and works, but only on a volume channel with a
+  proven hook. Do not start there.
+- Where the story genuinely has enough turns, a 20 to 25 minute version is allowed.
+- Count the words before submitting and record the actual runtime.
+
+## HONESTY AND DISCLOSURE (the mandatory spine of v2)
+
+This section is not optional and it is not a formality. It is what separates a channel that can be
+monetised for years from one that gets swept.
+
+1. **Dennis never claims a memory he cannot have.** No "my grandfather", no "when I was a boy", no
+   first-person rural past, unless a documented, verifiable, attributable source is attached to it
+   and the human presenter is the person with the history.
+2. **The mechanism layer must be real and sourced.** Every technique, capacity, temperature, statute,
+   price, acreage or measurement gets verified and cited in a SOURCES list: source title, institution
+   or author, date and URL. Use USDA and land-grant extension publications, historical farm manuals,
+   the Smithsonian and Library of Congress, state historical societies, museum archives and reputable
+   academic work.
+3. **Protagonists are dramatised composites, and the description says so.** One plain line, once per
+   episode, near the top of the description: this is a dramatised account built on documented
+   practice and history, names and some details are illustrative. Do not buries it. Do not claim the
+   person is a specific real individual.
+4. **Never present an invented person as a documented one.** No fake citations, no invented study,
+   no fabricated quote attributed to a real named person or body.
+5. **Numbers are outcome claims and get held to a higher standard.** If a payoff figure cannot be
+   sourced or honestly framed as an illustrative composite, describe the outcome without a fabricated
+   precision instead of inventing a dollar figure.
+6. **No product is ever sold on a claimed personal memory.** The product funnel is allowed (see
+   below) but it attaches to the channel's research, not to an invented life.
+7. **If the honest version of a story cannot be told, kill the story.** There is no shortage of real
+   documented rural cases. Use one.
+
+## CTA AND PRODUCT FUNNEL
+
+- **Soft CTA**, after a full block of value, never in the first minute, never hard-sold. Written as a
+  natural aside.
+- **Direct subscribe and like ask** in the closing section, plainly, in Dennis's voice.
+- **Watch-next direction**, general, never naming a specific video: "the story up next on screen
+  continues this one."
+- **Sign-off, always the same line**, so Vidrush applies the subscribe overlay and end card:
+  "Thanks for watching, and I'll see you in the next one."
+- **Product lane (allowed, evidence-backed).** Burl Sizemore sells an Appalachian guide at the
+  persona (44.4x top video) and our own brain banks elder-trust persona plus a cheap ultra-specific
+  manual at 25.9K subs = $11.5K/mo. The Dennis product, when built, is a cheap ultra-specific
+  practical guide (the forgotten-systems manual or zone calendar), never a get-rich or money-making
+  claim, and it is never tied to a fictional memory. Deliver a product signal note whenever the
+  comments ask a qualify question ("can I still buy this", "where do I get the plans").
+
+## OUTLINE-FIRST WORKFLOW FOR DIANA
+
+Before any full script, deliver an outline containing:
 - Working title and thumbnail hook
-- Historical period and region
-- Hook type
-- Central system or recurring mechanism
-- Ordered list of modules
-- What each module proves or explains
-- Planned modern contrast
-- Sources to verify
-- Proposed closing synthesis
+- The person, the place, the period, and what the description's dramatisation line will say
+- Antagonist institution
+- The discarded object at the centre
+- The eight beats, filled in with what actually happens at each one
+- The real mechanism being explained, and the sources to verify it
+- The hard outcome number, and how it is sourced or framed
+- The theme line, once
 
-The outline must be reviewed before the full script is generated. A list of objects without a central system is not approved.
+The outline is reviewed before the full script is written. An outline that is a list of objects, or
+that has no antagonist, or that has no mechanism, is rejected.
 
-## Deliverables per video
+## DELIVERABLES PER VIDEO
 
 1. Outline for approval
-2. Clean Vidrush-ready script
-3. Sources list
-4. Three title options under 60 characters where possible
+2. Clean Vidrush-ready narration
+3. SOURCES list for every claim
+4. Three title options, under 60 characters where possible
 5. One truthful thumbnail hook of 3 to 6 words
-6. A short visual brief showing the archival or generated visual needed for each module
+6. A short visual brief per beat
+7. The description, including the dramatisation line and the chapter timestamps
 
-## Vidrush formatting
+## VIDRUSH FORMATTING
 
-Submit clean narration only:
+Clean narration only: no speaker labels, no timestamps, no stage directions, no bracketed notes, no
+markdown, no bullets, no URLs, no all-caps, no [Music] or [Applause]. Natural paragraphs. Numbers
+phonetic where it reads naturally, digits for years, prices, percentages and measurements.
 
-- No speaker labels
-- No timestamps
-- No stage directions
-- No bracketed notes
-- No markdown headings or bullets in the narration
-- No URLs in the narration
-- No all-caps words
-- No [Music] or [Applause]
-- Natural paragraphs
-- Spell numbers phonetically when natural for voiceover, but retain digits for exact years, measurements, percentages, and source-specific figures
+## VISUAL AND NARRATION GUIDANCE
 
-The source list and production notes may be separate from the narration. The final narration must sound like Dennis speaking, not like a research paper.
+Write for a Vidrush avatar documentary with supporting historical visuals. Each beat should have an
+obvious visual: the scene establishing, the object close-up, the diagram or archival photograph of
+the mechanism, the empty space where the old system used to be. Prefer visual nouns. "A hand pump, a
+cistern, a covered bucket and a trough" beats "water infrastructure". Do not write a beat that depends
+on Dennis physically demonstrating something.
 
-## Forbidden carryovers from Wade
+## FORBIDDEN CARRYOVERS FROM WADE
 
-Do not use:
+Older weathered farmer identity. "Cut the bullshit" branding. Farm-profit math as the default
+premise. Fake first-person farm memories. Failure-based credibility inserted into a historical story.
+Dollar figures as the main hook unless the topic genuinely requires economic history. Addressing the
+viewer as a prospective farmer. Wade's barn-red, khaki and cream palette as a rigid rule. The v1
+modular list as the primary format.
 
-- Older weathered farmer identity
-- “Cut the bullshit” branding
-- Farm-profit or farm-business math as the default premise
-- Fake first-person farm memories
-- “I learned this the hard way” unless it is clearly Dennis's real documented experience
-- Failure-based credibility inserted into historical episodes
-- Dollar figures as the main hook unless the assigned topic genuinely requires economic history
-- Directly addressing the viewer as a prospective farmer
-- Wade's barn-red, khaki, and cream identity as a rigid visual rule
+## QUALITY GATE BEFORE SUBMISSION
 
-Dennis can be direct. He should not sound like Wade wearing historical clothing.
+- One story, one person, one institution, one discarded object.
+- All eight beats present, failure beat included, backlash before payoff.
+- The payoff carries a specific number, sourced or honestly framed.
+- The mechanism is real, explained, and cited.
+- Dennis claims no memory he cannot have.
+- The description carries the dramatisation line and the chapter timestamps.
+- The thumbnail promise is paid off in the first 30 seconds.
+- The title opens a loop and withholds the outcome, under 60 characters where possible.
+- The recurring artefact is present and lands in the close.
+- Runtime and word count are recorded.
+- The thumbnail reference is a real, topic-matched long-form outlier, and not a Short.
 
-## Quality gate before Diana submits
+## REFERENCE EVIDENCE USED FOR v2
 
-Confirm:
+Live snapshots, 2026-09-10/11. Refresh before quoting any figure in a published script or description.
 
-- The title has a specific catalog and historical frame.
-- The hook pays off the thumbnail.
-- The episode explains a system, not just a pile of objects.
-- Every item has a practical problem and solution.
-- Every factual claim is verified or honestly qualified.
-- The script does not invent Dennis's memories.
-- The past is not presented as universally better.
-- The modern replacement is explained fairly.
-- The sections can be reused in a later compilation.
-- The script is clean for Vidrush.
-- The thumbnail reference is a real, topic-matched long-form outlier.
-- The final runtime and word count are recorded.
+Story-format references:
+- Old Timber, UCNxBYhgZD47M776dylkkXIA. 1,290 subs, 15 videos, created 2025-04-20. Median outlier
+  13.8x. Top: 145,688 / 112.9x, 12.0 min. PRIMARY ARCHITECTURE SOURCE.
+- Burl Sizemore, UCXO5xjzNQzkPqVqBhMLgMiw. 1,810 subs, 37 videos, created 2022-03-30. Top 80,360 /
+  44.4x. Elder persona plus product lane.
+- The Stubborn Farmwife, UCzMsmR_aJBEA53FjuWez0oQ. 3,030 subs, 91 videos. Top 154,353 / 50.9x,
+  37.1 min. Volume lane, 30 to 44 min.
+- Barnside Tales, UCBdsf1T1WLVU1Eb_5hPHqfQ. 265 subs, 17 videos, created 2026-08-06. Top 72,468 /
+  273.5x, 27.3 min. Single breakout, NOT channel proof.
 
-## Reference evidence used for this DNA
+Secondary list-format references (still valid, now the second lane, useful for compilations):
+- Forgotten American Farm & Country Life, 5,060 subs. 281,789 / 55.7x on the 1950s farmhouse episode.
+- Earl's Old Farm Days, 2,900 subs. 78,528 / 27.1x on the 1950s tractor episode.
 
-Direct farm references:
+Adjacent:
+- Archibald History, approximately 8,020 subs, mechanism-first narrative ("how did they do that").
+- Forgotten Home Engineering, UCE3DzKfdkEEf3kwQYPqcJFA, created 2026-08-03, 20 videos, 7,100 subs,
+  1,176,259 total views. Top 336,329 / 47.4x. "Forgotten [system] Tricks ... Before Modern [X]" and
+  "Old-House [system] Tricks Modern Builders Quietly Abandoned". Still live, not decayed.
 
-- Forgotten American Farm & Country Life, “30 Things Every American Farmhouse Had in the 1950s (Now Completely Gone),” video ID jXz_PuC5IuQ, verified long-form, approximately 277,000 views at research time.
-- Forgotten American Farm & Country Life, “25 Things Only Kids Who Grew Up on American Farms in the 1960s Will Understand,” video ID 5zSnntnPPBk, approximately 182,000 views.
-- Forgotten American Farm & Country Life, “30 Things Every Farmhouse Kitchen Had in the 1950s,” video ID vOsfndJ0pgc, approximately 85,000 views.
-- Earl's Old Farm Days, “30 Things Every American Farm Tractor Had in the 1950s,” video ID qsPq4SxSOLM, approximately 71,000 views.
-- Earl's Old Farm Days, “20 Things Every American Farm Barn Had in the 1950s,” video ID 94Q7D7GmlZ0, approximately 71,000 views.
-
-Adjacent narrative references:
-
-- Archibald History, channel ID UC7Cj2Ctw1UDnit77thAqAcw. Verified approximately 8,020 subscribers. Its recent catalog focuses on explaining how historical logging and infrastructure problems were solved before modern machinery. One video, “How Loggers Cut Down 30-Foot-Wide Trees Before Chainsaws Existed,” was approximately 96,000 views at research time. Use its mechanism-first narrative pattern, not its subject matter as a requirement.
-- Forgotten Hustles by Adam, channel ID UCc8fitpvUDs5ivfatGtG_vQ. Verified approximately 2,230 subscribers and 28 videos. It is an adjacent catalog-format channel, not a direct farm proof source. Its repeated numbered packaging is useful as a structural comparison only.
-
-These figures are research snapshots and must be refreshed before being quoted in a published script.
-
-## Production handoff
-
-Diana is responsible for:
-
-- Running the outline gate
-- Verifying sources
-- Generating the final Vidrush script
-- Checking avatar consistency
-- Checking visuals against the historical claim
-- Confirming that the title, thumbnail, and opening make the same promise
-- Sending the finished package for approval before publishing
-
-A polished AI voiceover is not enough. The historical claim, visual, title, and thumbnail must agree.
-
-End of master DNA.
+End of master DNA v2.

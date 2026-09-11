@@ -209,3 +209,58 @@ is logged as an external peer. Ask Jiggy if it is actually ours before treating 
 Whether the 10 pivot videos continue the existing upload numbering (28-37 on the WadeCallaway board, where
 card 27 already sits) or start fresh on a new channel. Numbered 28-37 on the assumption the pivot continues the
 same sequence, since card 27 is itself a farm-history video in that sequence. One command to renumber.
+NOTE (09-11): Jiggy moved the 10 cards from `Scripting` to `High Priority Ideas (next in line)`. Treat High
+Priority Ideas as the intake list for new idea cards on this board; do not drop new cards straight into Scripting.
+
+## SCRIPT DNA v2 + FARM-STORY SYNTHESIS (09-11) — primary format changed
+Jiggy challenged the DNA against four farm-story example videos and asked for the right DNA / product-market fit.
+Verdict: **the winners are stories, and the story format is stronger than our modular list documentary.**
+- v1 DNA archived to `50-systems/dennis-taylor-script-dna-v1-ARCHIVED-2026-09-04.md`.
+- New master: `50-systems/dennis-taylor-script-dna.md` (v2, 09-11). Evidence file:
+  `50-systems/farm-story-format-evidence.md` (all figures live-API snapshots 09-10/11).
+
+### The decisive evidence
+- **Old Timber** (1,290 subs, 15 vids, created 2025-04-20): **median outlier 13.8x, 8/15 above 10x, 13/15 above
+  3x**, on 10-15 min videos. Top 145,688 / 112.9x. This is a REPEATABLE formula, not a one-hit. Primary
+  architecture source for v2.
+- **Burl Sizemore** (1,810 subs, 37 vids): top 80,360 / 44.4x, 6/37 above 10x. First-person 72-year-old
+  Appalachian narrator + product funnel (burlsizemore.com). Live independent confirmation of our banked
+  `elder_trust_product` model.
+- **The Stubborn Farmwife** (3,030 subs, 91 vids): top 154,353 / 50.9x, but median 1.0x with 25/91 above 3x.
+  Volume lane, 30-44 min. Hit machine, not a floor.
+- **Barnside Tales** (265 subs, 17 vids, created 2026-08-06): top 72,468 / **273.5x** but median 1.2x, only
+  2/17 above 10x. A single breakout on a tiny channel, NOT channel proof.
+
+### The formula distilled (now the v2 beat sheet)
+One person vs one institution. A discarded/rejected object at the centre. The protagonist is methodical
+(weighs, tests, records) which makes vindication feel earned. A mid-story technical FAILURE. One mentor with one
+specific fix. Institutional BACKLASH before payoff. A hard number payoff ($180,000 / $1.8M / $294,000). Then one
+theme line, stated once. Titles: "The [institution] Dumped/Wrote Off [thing] - Then [number payoff]" and "They
+Laughed/Mocked When She [did the odd thing] - Then/Until [reveal]". Published chapter timestamps = the beat
+template. 10-15 min launch length, not 30-44.
+
+### The tradeoff v2 had to resolve (documented honestly)
+v1 forbade invented people; the top outliers invent them (Old Timber / Barnside use fabricated named people; Burl
+sells a product on an invented first-person memoir). v2 keeps the story ENGINE and refuses the specific act with
+real authenticity/monetisation risk: Dennis stays a third-person narrator/guide with NO claimed personal memory,
+the mechanism layer must be real + sourced, protagonists are explicitly labelled dramatised composites in the
+description, and no product is ever attached to a claimed memory. Flagged to Jiggy as a deliberate decision.
+
+### BLOCKER: transcripts unavailable
+Full transcripts could NOT be obtained on 09-10/11. yt-dlp blocked on every player client ("sign in to confirm
+you're not a bot"); youtube-transcript-api RequestBlocked; YouTube timedtext caption track returns HTTP 200 with
+ZERO-length body, both from our server AND from inside a Browserbase cloud session; the on-page transcript panel
+opens but segments never load; youtubetranscript.com reports YouTube blocking it; youtube-transcript.io needs
+login; kome.ai 522; tactiq 401. So the structural read is from titles, full DESCRIPTIONS (rich: Barnside and Burl
+paste script openings), published CHAPTER LISTS, catalogs and outlier maths. Labelled as such in the evidence
+file; NOT claimed as verbatim script analysis.
+
+### Card state
+Cards 28-37 were flagged with a prominent `FORMAT HOLD` note at the top of each description pointing at DNA v2,
+so Diana does not start scripting a superseded list-format brief. Each card is explicitly awaiting Jiggy's call on
+keep-as-secondary-list vs recast-as-story.
+
+### INFERENCE FLAG (unconfirmed)
+Barnside Tales and Old Timber share title grammar AND repeatedly name the protagonist **Ruth** (Ruth Alder, Ruth
+Ackerman, Ruth Merrick, Ruth Keller), plus the same "On a Tuesday morning in [month], outside [town]..." opening.
+Consistent with a shared production template/operator behind both. If so, they are ONE validation, not two.
