@@ -291,3 +291,35 @@ Jiggy supplied a Firecrawl API key to unblock scraping. Result:
   (click / wait / executeJavascript) and `/scrape/{id}/interact` takes `prompt` or `code` (node/python/bash).
   Key left INLINE only: `~/.hermes/.env` is write-protected, so FIRECRAWL_API_KEY is still a commented
   placeholder there. Add it manually if we want Firecrawl available next session.
+
+### YOUTUBE-TRANSCRIPT-API TEST (09-11) — library fine, wall is YouTube-side. DO NOT RETRY.
+Jiggy suggested https://github.com/jdepoix/youtube-transcript-api. Ran it properly (v1.2.4, in the hermes venv):
+- **The library works.** Control video `dQw4w9WgXcQ` returned 61 segments, repeatedly, between every failing
+  attempt. So the tool, our IP and the install are all fine.
+- **Every target video returns `RequestBlocked`**, consistently: all 7 top Old Timber videos, all 7 top Barnside
+  Tales videos, 7 Stubborn Farmwife videos, 7 Burl Sizemore videos, the 1950s farmhouse/kitchen references, the
+  Earl's tractor/barn/workshop references, and Forgotten Home Engineering's two biggest (336K / 184K). Even
+  `api.list(vid)` is blocked, and requesting the transcript in es/fr/de is blocked too.
+- Diagnosed as per-video, NOT per-IP: the control succeeded immediately before AND after each blocked fetch.
+- **Root cause evidence:** fetching the caption track from INSIDE a real browser session already sitting on the
+  youtube.com watch page (same origin, same session) returns HTTP 200 with `Content-Length: 0` and
+  `Server: video-timedtext`, for BOTH the asr track and the uploaded en-US track, on a video that the API says
+  has captions. YouTube now gates caption delivery behind a PoToken / signed-in session. The caption URL is
+  present in `ytInitialPlayerResponse.captions` but serves an empty body to anonymous requests.
+- Combined with the caption-availability data above: **3 of the 4 supplied example videos have no captions in
+  existence at all**, and the 4th is PoToken-gated. Verbatim transcripts for this lane are not obtainable from
+  this environment by any method tried (yt-dlp x6 clients, youtube-transcript-api direct/list/translated,
+  timedtext x3 formats x2 IPs, on-page panel x2 browsers, 4 third-party services, Firecrawl actions + interact
+  prompt + interact code).
+- **Local ASR is not a viable fallback in this environment:** ffmpeg present and faster-whisper installed, but
+  the box has 2 CPUs / 3 GB RAM, no whisper model cached, and there is no way to obtain the audio (yt-dlp
+  download blocked; signed googlevideo URLs are IP-bound to the browser that requested them).
+- **THE PATH THAT WOULD WORK:** a residential IP. Jiggy runs one yt-dlp subtitle command on his own machine and
+  drops the .vtt into the vault, or opens the video, clicks Show transcript and pastes it. That takes about a
+  minute and closes the gap permanently for any video we care about.
+
+### NET EFFECT ON THE DNA
+None. DNA v2 does not depend on transcripts. The transcript would let us verify pacing and exact CTA placement
+inside Old Timber's script; it would not change the architecture, the beat sheet, the honesty rules or the
+primary/secondary lane split, all of which are already evidenced from descriptions, published chapter lists,
+catalogs, outlier maths and the live title census.
