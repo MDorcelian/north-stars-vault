@@ -1,5 +1,13 @@
 # Dennis Taylor Script DNA and Vidrush Production Handoff
 
+**CANONICAL COPY: https://docs.google.com/document/d/1DzE4qrUxXlJtJAtVDPzqL6L54i7lOVyZNWsbI4tmtoo/edit
+(anyone-with-link: writer, owned by gprestigue@gmail.com).** This local file is a WORKING DRAFT only.
+When the two differ, the Google Doc wins. Diana and any other VA can only read the Doc, never this path,
+so every change made here MUST be pushed to the Doc before it counts (see gdoc-deliverables skill,
+"Source-of-truth rule"). Diana was locked out of the pivot for exactly this reason: the DNA was written
+as a local markdown and pointed at from Trello card descriptions as a /home/hermes path she cannot open,
+so she kept scripting from the old Wade Callaway Google Doc.
+
 Version: 2026-09-11 (v2, supersedes v1 of 2026-09-04)
 Channel: Dennis Taylor
 Production platform: Vidrush

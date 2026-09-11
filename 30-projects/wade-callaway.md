@@ -323,3 +323,63 @@ None. DNA v2 does not depend on transcripts. The transcript would let us verify 
 inside Old Timber's script; it would not change the architecture, the beat sheet, the honesty rules or the
 primary/secondary lane split, all of which are already evidenced from descriptions, published chapter lists,
 catalogs, outlier maths and the live title census.
+
+## REVIEW: DIANA'S "Video 28" FOLDER (09-11) — ROOT CAUSE FOUND AND FIXED
+Jiggy linked Drive folder `1yRVOw3cyRaqPbDpvGVnmF2Q7-TfUCmpO` ("Video 28"), owner diana.aquino0123@gmail.com.
+Contents: Google Doc "28" (script, 2,049 words, plus a SOURCES tab and a TITLE OPTIONS tab) and 3 thumbnails.
+
+### WHAT DIANA PRODUCED
+- Script opens "Everybody thinks homesteading was free because the land was free" and builds on a genuinely
+  strong angle: the Homestead Act land was free but startup cost about $1,000. Real sourced numbers.
+- 7 sources cited (Library of Congress, North Dakota Studies, Lumen Learning, ValleyHistory, Britannica Kids,
+  a Substack).
+- 3 photo-real thumbnails, consistent elderly avatar, clean readable text: "30 JOBS EVERY DAY",
+  "FARMING WASN'T FREE" (with a ledger), "$1,000 TO START" (with a ledger).
+
+### WHY IT DOES NOT MATCH DNA v2 (every item traceable to one root cause)
+1. **Still the Wade persona.** "I'm not a historian. I'm a farmer." Plus fabricated first-person memory:
+   "my own family", "My great grandfather ran cattle and put in wheat", "Mine's the soap." DNA v2 rule 1 bans
+   exactly this.
+2. **Still the retired list format.** "That's your thirty. Water, food, animals, building, making, and trading,
+   five apiece." No protagonist, no antagonist institution, no mid-story failure beat, no sourced mechanism.
+3. **Topic drift.** Card 28 is "30 Things Every American Farm Well Had to Do" (hook WATER BEFORE PIPES). The
+   script is a general homestead-survival list; the well is gone and the title options dropped it.
+4. **Wrong CTA.** "I built a calculator for that, it's linked below" = Wade's calculator CTA, not Dennis's
+   product lane.
+5. **Formatting artifacts.** Literal "Tab 1" / "Tab 2" lines and the working title sit inside the script body;
+   pasted into Vidrush they would be read aloud.
+6. **Invented specifics on the thumbnails.** Thumb 2's ledger reads "Farm Start Up 1952 / Land $1,000 (red
+   circled) / Barn 350 / Tools 275 / Livestock 410 / Seeds 125 / Other 190" = **$2,350**, contradicting the
+   $1,000 premise, and dated 1952 against 1890s content. Thumb 3's ledger sums to exactly $1,000 (coherent),
+   but both itemised breakdowns are fabricated: the cited source says only "close to one thousand dollars".
+7. **Source quality mixed.** Britannica Kids and a Substack are below the DNA's standard (USDA, land-grant
+   extension, archives). All sources are marked "accessed 2025" while it is 2026.
+8. **Avatar age conflict.** Thumbnails show a man in his 70s; DNA says Dennis is in his forties. Two decisions
+   needed: pick the age, and either way the doc must match the avatar asset. (Evidence favours the elder for
+   the elder-trust lane, cf. Burl Sizemore at 72.)
+
+### ROOT CAUSE (the important finding)
+**The pivot DNA existed only as a local markdown file on our server.** DNA v1, and then v2, were written to
+`/home/hermes/vault/50-systems/dennis-taylor-script-dna.md`, and Trello cards 27-37 pointed Diana at that
+`/home/hermes/...` path. Diana has no access to this machine. So she fell back to the last prompt she actually
+had, the "Wade Callaway - Script DNA & Production Handoff (UPDATED)" Google Doc (id 194-GRe2FJKn4HIbIQETzAtEet0EFqVdTkEimeJDrcDM,
+last modified 08-18), which is exactly the doc Jiggy pasted last turn. That single fact explains the persona,
+the format, the calculator CTA and the failure-based credibility all at once.
+This is the documented pitfall in the gdoc-deliverables skill's "Source-of-truth rule": never let a local
+markdown be the master for a VA-facing prompt.
+
+### FIX APPLIED (09-11)
+- Published DNA v2 as a properly formatted Google Doc, anyone-with-link **writer**, owned by gprestigue:
+  **https://docs.google.com/document/d/1DzE4qrUxXlJtJAtVDPzqL6L54i7lOVyZNWsbI4tmtoo/edit**
+  Verified: no ** artifacts, all sections present, owner gprestigue@gmail.com, permission (anyone, writer).
+- Repointed all 11 Trello card descriptions (card 27 and cards 28-37) from the local `/home/hermes` paths to
+  the Doc URL. Verified zero cards still contain a local vault path.
+- Local DNA file now declares the Google Doc canonical and the local copy a working draft.
+- **The Wade DNA Google Doc (194-GRe2...) is still live and still what Diana is working from. It needs to be
+  explicitly retired with her, or she will keep producing Wade scripts. Left in place deliberately: it is
+  Jiggy's canonical doc and not ours to trash unilaterally.**
+
+### STILL OPEN
+Diana's Video 28 script is unusable under v2 and has not been rewritten or sent back. Needs Jiggy's call:
+recast the topic as a v2 story, or hold the list lane. Also unresolved: the DNA's "Dennis is in his forties"
+vs the elderly avatar actually rendered.
