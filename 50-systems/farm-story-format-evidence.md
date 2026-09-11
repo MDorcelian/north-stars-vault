@@ -1,6 +1,6 @@
 # Farm-story format evidence (live YouTube Data API, pulled 2026-09-10/11)
 
-Purpose: the evidence base for the Old Ground Script DNA v2. Every number here is a live API
+Purpose: the evidence base for the Wade Callaway Script DNA v2. Every number here is a live API
 snapshot on the date shown, not a stored or remembered figure. Multiplier = video views / channel
 subscriber count at pull time.
 
