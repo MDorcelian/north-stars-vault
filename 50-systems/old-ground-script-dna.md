@@ -1,4 +1,4 @@
-# Dennis Taylor Script DNA and Vidrush Production Handoff
+# Old Ground Script DNA and Vidrush Production Handoff
 
 **CANONICAL COPY: https://docs.google.com/document/d/1DzE4qrUxXlJtJAtVDPzqL6L54i7lOVyZNWsbI4tmtoo/edit
 (anyone-with-link: writer, owned by gprestigue@gmail.com).** This local file is a WORKING DRAFT only.
@@ -9,7 +9,7 @@ as a local markdown and pointed at from Trello card descriptions as a /home/herm
 so she kept scripting from the old Wade Callaway Google Doc.
 
 Version: 2026-09-11 (v2, supersedes v1 of 2026-09-04)
-Channel: Dennis Taylor
+Channel: Old Ground
 Production platform: Vidrush
 Evidence base: `/home/hermes/vault/50-systems/farm-story-format-evidence.md` (read it before
 disagreeing with anything here). All figures are live API snapshots of 2026-09-10/11.
@@ -38,7 +38,7 @@ specific act that carries the authenticity and monetisation risk. See Honesty an
 
 ## THE CHANNEL PROMISE
 
-Dennis Taylor tells the story of how ordinary rural Americans out-thought a system that had written
+Old Ground tells the story of how ordinary rural Americans out-thought a system that had written
 them off, and shows the forgotten engineering those people were using while everyone else was
 laughing.
 
@@ -61,12 +61,12 @@ away for it.
 
 ## DENNIS'S IDENTITY AND VOICE
 
-Dennis is a calm, observant guide in his forties who has spent years studying how earlier Americans
+Hollis is a calm, observant guide in his forties who has spent years studying how earlier Americans
 solved practical problems. He is a **narrator and a guide, not a witness.**
 
-That distinction is load-bearing. Dennis does NOT say "my grandfather kept", "when I was a boy",
+That distinction is load-bearing. Hollis does NOT say "my grandfather kept", "when I was a boy",
 "we used to", or anything else that claims lived memory he cannot have. The story subjects are other
-people, told in third person. Dennis is the man who found the record and is telling you about it.
+people, told in third person. Hollis is the man who found the record and is telling you about it.
 
 Voice rules:
 - Calm, conversational, curious. Plainspoken and precise.
@@ -206,7 +206,7 @@ number.
 This section is not optional and it is not a formality. It is what separates a channel that can be
 monetised for years from one that gets swept.
 
-1. **Dennis never claims a memory he cannot have.** No "my grandfather", no "when I was a boy", no
+1. **Hollis never claims a memory he cannot have.** No "my grandfather", no "when I was a boy", no
    first-person rural past, unless a documented, verifiable, attributable source is attached to it
    and the human presenter is the person with the history.
 2. **The mechanism layer must be real and sourced.** Every technique, capacity, temperature, statute,
@@ -238,14 +238,14 @@ monetised for years from one that gets swept.
 
 - **Soft CTA**, after a full block of value, never in the first minute, never hard-sold. Written as a
   natural aside.
-- **Direct subscribe and like ask** in the closing section, plainly, in Dennis's voice.
+- **Direct subscribe and like ask** in the closing section, plainly, in Hollis's voice.
 - **Watch-next direction**, general, never naming a specific video: "the story up next on screen
   continues this one."
 - **Sign-off, always the same line**, so Vidrush applies the subscribe overlay and end card:
   "Thanks for watching, and I'll see you in the next one."
 - **Product lane (allowed, evidence-backed).** Burl Sizemore sells an Appalachian guide at the
   persona (44.4x top video) and our own brain banks elder-trust persona plus a cheap ultra-specific
-  manual at 25.9K subs = $11.5K/mo. The Dennis product, when built, is a cheap ultra-specific
+  manual at 25.9K subs = $11.5K/mo. The Hollis product, when built, is a cheap ultra-specific
   practical guide (the forgotten-systems manual or zone calendar), never a get-rich or money-making
   claim, and it is never tied to a fictional memory. Deliver a product signal note whenever the
   comments ask a qualify question ("can I still buy this", "where do I get the plans").
@@ -287,7 +287,7 @@ Write for a Vidrush avatar documentary with supporting historical visuals. Each 
 obvious visual: the scene establishing, the object close-up, the diagram or archival photograph of
 the mechanism, the empty space where the old system used to be. Prefer visual nouns. "A hand pump, a
 cistern, a covered bucket and a trough" beats "water infrastructure". Do not write a beat that depends
-on Dennis physically demonstrating something.
+on Hollis physically demonstrating something.
 
 ## FORBIDDEN CARRYOVERS FROM WADE
 
@@ -303,7 +303,7 @@ modular list as the primary format.
 - All eight beats present, failure beat included, backlash before payoff.
 - The payoff carries a specific number, sourced or honestly framed.
 - The mechanism is real, explained, and cited.
-- Dennis claims no memory he cannot have.
+- Hollis claims no memory he cannot have.
 - The description carries the dramatisation line and the chapter timestamps.
 - The thumbnail promise is paid off in the first 30 seconds.
 - The title opens a loop and withholds the outcome, under 60 characters where possible.

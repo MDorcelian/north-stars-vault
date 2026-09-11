@@ -216,7 +216,7 @@ Priority Ideas as the intake list for new idea cards on this board; do not drop 
 Jiggy challenged the DNA against four farm-story example videos and asked for the right DNA / product-market fit.
 Verdict: **the winners are stories, and the story format is stronger than our modular list documentary.**
 - v1 DNA archived to `50-systems/dennis-taylor-script-dna-v1-ARCHIVED-2026-09-04.md`.
-- New master: `50-systems/dennis-taylor-script-dna.md` (v2, 09-11). Evidence file:
+- New master: `50-systems/old-ground-script-dna.md` (v2, 09-11). Evidence file:
   `50-systems/farm-story-format-evidence.md` (all figures live-API snapshots 09-10/11).
 
 ### The decisive evidence
@@ -242,7 +242,7 @@ template. 10-15 min launch length, not 30-44.
 ### The tradeoff v2 had to resolve (documented honestly)
 v1 forbade invented people; the top outliers invent them (Old Timber / Barnside use fabricated named people; Burl
 sells a product on an invented first-person memoir). v2 keeps the story ENGINE and refuses the specific act with
-real authenticity/monetisation risk: Dennis stays a third-person narrator/guide with NO claimed personal memory,
+real authenticity/monetisation risk: Hollis stays a third-person narrator/guide with NO claimed personal memory,
 the mechanism layer must be real + sourced, protagonists are explicitly labelled dramatised composites in the
 description, and no product is ever attached to a claimed memory. Flagged to Jiggy as a deliberate decision.
 
@@ -344,7 +344,7 @@ Contents: Google Doc "28" (script, 2,049 words, plus a SOURCES tab and a TITLE O
    five apiece." No protagonist, no antagonist institution, no mid-story failure beat, no sourced mechanism.
 3. **Topic drift.** Card 28 is "30 Things Every American Farm Well Had to Do" (hook WATER BEFORE PIPES). The
    script is a general homestead-survival list; the well is gone and the title options dropped it.
-4. **Wrong CTA.** "I built a calculator for that, it's linked below" = Wade's calculator CTA, not Dennis's
+4. **Wrong CTA.** "I built a calculator for that, it's linked below" = Wade's calculator CTA, not Hollis's
    product lane.
 5. **Formatting artifacts.** Literal "Tab 1" / "Tab 2" lines and the working title sit inside the script body;
    pasted into Vidrush they would be read aloud.
@@ -354,13 +354,13 @@ Contents: Google Doc "28" (script, 2,049 words, plus a SOURCES tab and a TITLE O
    but both itemised breakdowns are fabricated: the cited source says only "close to one thousand dollars".
 7. **Source quality mixed.** Britannica Kids and a Substack are below the DNA's standard (USDA, land-grant
    extension, archives). All sources are marked "accessed 2025" while it is 2026.
-8. **Avatar age conflict.** Thumbnails show a man in his 70s; DNA says Dennis is in his forties. Two decisions
+8. **Avatar age conflict.** Thumbnails show a man in his 70s; DNA says Hollis is in his forties. Two decisions
    needed: pick the age, and either way the doc must match the avatar asset. (Evidence favours the elder for
    the elder-trust lane, cf. Burl Sizemore at 72.)
 
 ### ROOT CAUSE (the important finding)
 **The pivot DNA existed only as a local markdown file on our server.** DNA v1, and then v2, were written to
-`/home/hermes/vault/50-systems/dennis-taylor-script-dna.md`, and Trello cards 27-37 pointed Diana at that
+`/home/hermes/vault/50-systems/old-ground-script-dna.md`, and Trello cards 27-37 pointed Diana at that
 `/home/hermes/...` path. Diana has no access to this machine. So she fell back to the last prompt she actually
 had, the "Wade Callaway - Script DNA & Production Handoff (UPDATED)" Google Doc (id 194-GRe2FJKn4HIbIQETzAtEet0EFqVdTkEimeJDrcDM,
 last modified 08-18), which is exactly the doc Jiggy pasted last turn. That single fact explains the persona,
@@ -381,5 +381,31 @@ markdown be the master for a VA-facing prompt.
 
 ### STILL OPEN
 Diana's Video 28 script is unusable under v2 and has not been rewritten or sent back. Needs Jiggy's call:
-recast the topic as a v2 story, or hold the list lane. Also unresolved: the DNA's "Dennis is in his forties"
+recast the topic as a v2 story, or hold the list lane. Also unresolved: the DNA's "Hollis is in his forties"
 vs the elderly avatar actually rendered.
+
+## NAME CHANGE: "Dennis Taylor" -> "Old Ground" (09-11, Jiggy directive)
+Jiggy: "Change Dennis Taylor name - that was the name of the aged channel." Confirmed the existing channel:
+title "Dennis Taylor", handle @dennistaylor-k1j, id UCNDqVAkrhfM3DNoBFEpI96Q, created 2026-08-23, empty
+description, 1 test video. Retired as the pivot's name.
+**New channel name: Old Ground. Host/narrator first name: Hollis.**
+- Channel vs persona are now DECOUPLED (channel = brand name, host = a different personal name), so the
+  channel name can change again without renaming the persona, and vice versa.
+- Handle availability probed live via the YouTube API (`channels?forHandle=`): @OldGround AVAILABLE.
+  Also available: Barnwright, TheFarmwright, OldFieldNotes, HarrowAndHome, GrayBarnStories, CrosscutHollow,
+  OldFarmstead, ForgottenFarmstead, RidgelineFarmDays, BarnsideStories, OldIronTimber.
+  TAKEN: ForgottenGround, BackFortyStories, TheOldGround, StonewallFarm.
+- Applied everywhere: local DNA (now `50-systems/old-ground-script-dna.md`, renamed from
+  dennis-taylor-script-dna.md), the evidence file, the Google Doc title AND body (via replaceAllText, so the
+  Doc URL is UNCHANGED), and all 12 Trello card descriptions. Verified: zero "Dennis" strings remain outside
+  the deliberately preserved v1 archive (`dennis-taylor-script-dna-v1-ARCHIVED-2026-09-04.md`, restored via
+  git checkout after an accidental edit).
+- DNA Doc (URL unchanged): https://docs.google.com/document/d/1DzE4qrUxXlJtJAtVDPzqL6L54i7lOVyZNWsbI4tmtoo/edit
+- Chosen naming logic: the lane's two proven name shapes are brand names (Old Timber = 13.8x median,
+  Barnside Tales = 273x, Forgotten Home Engineering) and persona names (Burl Sizemore = 44x). "Old Ground"
+  sits in the winning brand family (old + American land noun) without copying a competitor, fits both the
+  farm and old-home-engineering halves of the lane, and reads as land + standing your ground, which is the
+  underdog-vindication story engine. Avoided the "Forgotten X" family deliberately: it is the most crowded
+  name space in this lane.
+- NAME ALTERNATIVES if Jiggy prefers (all handles verified available): Barnwright, Crosscut Hollow,
+  Harrow and Home, Gray Barn Stories, Forgotten Farmstead.
