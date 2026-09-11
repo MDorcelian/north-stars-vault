@@ -264,3 +264,30 @@ keep-as-secondary-list vs recast-as-story.
 Barnside Tales and Old Timber share title grammar AND repeatedly name the protagonist **Ruth** (Ruth Alder, Ruth
 Ackerman, Ruth Merrick, Ruth Keller), plus the same "On a Tuesday morning in [month], outside [town]..." opening.
 Consistent with a shared production template/operator behind both. If so, they are ONE validation, not two.
+
+### FIRECRAWL PASS (09-11) — transcript dead end CONFIRMED, two new findings banked
+Jiggy supplied a Firecrawl API key to unblock scraping. Result:
+- **Transcripts are a proven dead end, not a lack of effort.** YouTube API `contentDetails.caption`: Barnside
+  Tales 0/17, Stubborn Farmwife 0/25, Burl Sizemore 0/25, Forgotten Home Engineering 0/20 have captions at all.
+  Only **Old Timber has captions (14/15)**. Even there, every path returns an empty body: timedtext (both the
+  asr and uploaded en-US track, no-param + fmt=json3 + fmt=srv3) = HTTP 200 zero-length from our IP AND via
+  Firecrawl's cloud IP; the on-page panel populates no segments; Firecrawl interact in code mode is unreliable.
+  Three of the four examples have no transcript in existence. Stop retrying transcript extraction on this lane.
+- **NEW FINDING 1, AI disclosure labels.** YouTube renders "How this was made / Made with AI / Sounds or visuals
+  were altered or fully generated" on **Barnside Tales (273.5x)** and **Burl Sizemore (44.4x)**; NOT on Old Timber
+  or Stubborn Farmwife. The two highest multipliers openly carry the synthetic-content label and still perform.
+  => The disclosure is NOT a performance penalty. DNA v2 now MANDATES ticking it (rule 7) as the monetisation-safe
+  posture. This materially de-risks the earlier "disclosure will hurt us" assumption.
+- **NEW FINDING 2, live title census (52 titles from the Old Timber sidebar).** Confirms the "They Laughed /
+  Nobody Wanted / Until" template is SATURATED (near-duplicate titles on the reference channels themselves) and
+  adds two live lanes: Shape 4 = refusal + legal escalation ("She Refused Every Offer to Move It"; "Cost Them
+  Millions in Court"), Shape 5 = HOA/easement confrontation ("HOA Installed A Gate On My Private Bridge - So I
+  Removed The Entire Bridge Overnight!"). Also saw template drift into non-farm genres = template farming at
+  scale. Lane durations run 12-51 min.
+- Audience comments fact-check cost figures ("you'd think he would have built a new one for $185,000"), which is
+  exactly the pressure the real-mechanism + sources rule exists to survive.
+- Firecrawl API notes for reuse: max 2 concurrent browser jobs (429 otherwise); free stuck slots with
+  `GET /v2/interact?status=active` then `DELETE /v2/interact/{sessionId}`; v2 `/scrape` supports `actions`
+  (click / wait / executeJavascript) and `/scrape/{id}/interact` takes `prompt` or `code` (node/python/bash).
+  Key left INLINE only: `~/.hermes/.env` is write-protected, so FIRECRAWL_API_KEY is still a commented
+  placeholder there. Add it manually if we want Firecrawl available next session.

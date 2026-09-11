@@ -157,6 +157,20 @@ Rules for all shapes: under 60 characters where possible. Name the object and th
 "secrets", "amazing", "insane", or "you won't believe". Always state the protagonist's problem and
 withhold the ending. Deliver three title options per script.
 
+**Two live lanes worth knowing about (from the sidebar census 2026-09-11).**
+- **Shape 4 - the refusal and the legal escalation.** `The [catastrophe/institution] left [thing] - She
+  Refused Every Offer to [X]`, and `They [destroyed X] - Then Faced the [Y] That Cost Them Millions in
+  Court`. Legal consequence as the payoff instead of a dollar windfall.
+- **Shape 5 - HOA and easement confrontation (adjacent lane, running hot).** `HOA [did Y on my land] - So I
+  [reversed it]` and `HOA [did Y] - Then the [authority] Arrived`. Different antagonist, same architecture.
+  Only use it if the farm or land angle is real; do not drift off the channel's promise.
+
+**SATURATION WARNING.** The "They Laughed / Nobody Wanted / Until" template is now heavily farmed, including
+near-duplicate titles on the reference channels themselves, and the rails are showing template drift into
+unrelated genres. Pick the shape that fits the specific story rather than defaulting to "They Laughed" every
+time. The differentiator is no longer the shape; it is the specificity of the mechanism, the object, and the
+number.
+
 ## HOOK AND RETENTION
 
 - The thumbnail promise must be paid off inside the first 30 seconds of narration.
@@ -203,7 +217,13 @@ monetised for years from one that gets swept.
    precision instead of inventing a dollar figure.
 6. **No product is ever sold on a claimed personal memory.** The product funnel is allowed (see
    below) but it attaches to the channel's research, not to an invented life.
-7. **If the honest version of a story cannot be told, kill the story.** There is no shortage of real
+7. **Tick YouTube's altered-or-synthetic content disclosure on every upload.** YouTube then renders the
+   "Made with AI / Sounds or visuals were altered or fully generated" notice. Evidence, live 2026-09-11:
+   the two highest-multiplier videos in our reference set (Barnside Tales at 273.5x, Burl Sizemore at
+   44.4x) both carry that label and both still perform. The label is not a performance penalty, and it is
+   the posture that survives an authenticity sweep. Do not hide the process; disclose it and let the
+   story carry the video.
+8. **If the honest version of a story cannot be told, kill the story.** There is no shortage of real
    documented rural cases. Use one.
 
 ## CTA AND PRODUCT FUNNEL

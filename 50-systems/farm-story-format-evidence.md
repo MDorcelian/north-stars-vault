@@ -6,18 +6,83 @@ subscriber count at pull time.
 
 ## METHOD LIMIT (read this first)
 
-Full transcripts were NOT obtained. Every transcript route failed on 2026-09-10/11:
-- yt-dlp subtitle download: "Sign in to confirm you're not a bot" on all player clients (tv, web,
-  web_embedded, mweb, ios, web_safari).
+Full transcripts were NOT obtained, and this is now a proven dead end, not a lack of effort.
+
+Caption availability, checked via the YouTube Data API `contentDetails.caption` field on 2026-09-11:
+- **Barnside Tales: 0 of 17 videos have captions.**
+- **The Stubborn Farmwife: 0 of 25 sampled have captions.**
+- **Burl Sizemore: 0 of 25 sampled have captions.**
+- **Forgotten Home Engineering: 0 of 20 have captions.**
+- Forgotten American Farm & Country Life and Earl's Old Farm Days: no captions on the checked videos.
+- **Old Timber: 14 of 15 videos DO have captions** (the one exception being the 2026-09-05 upload).
+
+So for three of the four supplied examples there is literally no transcript in existence to retrieve. For Old
+Timber, where captions do exist, every retrieval path still returned an empty body:
+- yt-dlp subtitle download: "Sign in to confirm you're not a bot" on all player clients (tv, web, web_embedded,
+  mweb, ios, web_safari).
 - youtube-transcript-api: RequestBlocked from this IP.
-- YouTube timedtext caption track URL, fetched both from this server and from inside a Browserbase
-  cloud browser session: HTTP 200 with a zero-length body.
-- YouTube's own on-page transcript panel: panel opens, segments never load.
-- Third-party transcript services: youtubetranscript.com returns "YouTube is currently blocking us
-  from fetching subtitles"; youtube-transcript.io requires login; kome.ai API 522; tactiq 401.
-So the structural read below is built from titles, full video descriptions, published chapter lists,
-channel catalogs and outlier maths. Where a specific claim describes how a script is built, it is
-inference from those artefacts and is labelled as such. It is NOT a verbatim script analysis.
+- YouTube timedtext caption track URL (both the asr and the uploaded en-US track, each tried with no format
+  param, `fmt=json3` and `fmt=srv3`): HTTP 200 with a **zero-length body**, from this server AND via
+  Firecrawl's cloud IP.
+- YouTube's own on-page transcript panel, driven through Firecrawl's browser: the panel is present in the DOM
+  but segment elements never populate.
+- Third-party services: youtubetranscript.com reports "YouTube is currently blocking us from fetching
+  subtitles"; youtube-transcript.io requires login; kome.ai API 522; tactiq 401.
+- Firecrawl `/interact` in code mode (Node/Playwright) was inconsistent: it sometimes executed (output landing
+  on stderr) and sometimes returned nothing.
+- Firecrawl `/interact` in prompt mode refused to reproduce the transcript verbatim, but DID return a 390KB
+  accessibility tree, which is where the comment and sidebar-title evidence below comes from.
+
+Conclusion: the structural read below is built from titles, full video descriptions, published chapter lists,
+channel catalogs, outlier maths, comment text and the live sidebar title ecosystem. Where a claim describes how
+a script is built it is inference from those artefacts and is labelled as such. It is NOT a verbatim script
+analysis, and no verbatim transcript was ever in hand.
+
+## AI DISCLOSURE LABELS (new finding, 2026-09-11, Firecrawl page render)
+
+YouTube renders a "How this was made / Made with AI / Sounds or visuals were altered or fully generated" notice
+on two of the four supplied examples:
+- **Barnside Tales, "Nobody Bid on 6 Quiet Cows" (273.5x): label present.**
+- **Burl Sizemore, "25 Outlawed Tools" (44.4x): label present.**
+- Old Timber "The County Came to Demolish His 100-Year-Old Barn": label NOT present.
+- The Stubborn Farmwife "The Little Girl Paid a Nickel": label NOT present.
+
+**This matters more than it looks.** The two highest-multiplier examples in the set are openly carrying
+YouTube's synthetic-content disclosure and still pulling 273x and 44x. The disclosure is not a performance
+penalty. It is also the compliance posture that protects monetisation. DNA v2 therefore mandates it rather
+than treating it as a risk to be hidden.
+
+## LIVE TITLE ECOSYSTEM (from the sidebar of the Old Timber video, 2026-09-11)
+
+The related-video rail is a live census of what the lane is actually making right now. 52 candidate titles
+captured. Recurring shapes:
+
+1. **They Laughed / Nobody Wanted / Neighbors Called It Worthless + Until/Then.** Fully saturated. Includes
+   near-duplicates of Old Timber's own video ("The County Came to Demolish His 100-Year-Old Barn - But He Moved
+   the Whole Thing First" beside "- So He Moved the Whole Thing").
+2. **Widow / single mom / teen / elderly underdog against an institution.** "A Widow Bought 50 Rusty Plows for
+   $1,000 - They Laughed Until She Turned the Scrap Into a Fortune." "Nobody Wanted the Giant Redwood Log -
+   Until a Single Mom Took One Look" (51 min).
+3. **Refusal and legal escalation.** "The Flood Left a 60-Ton Locomotive Standing in Her Cornfield - She Refused
+   Every Offer to Move It." "They Bulldozed a Little Girl's Orchard - Then Faced the Harvest That Cost Them
+   Millions in Court."
+4. **HOA / easement confrontation (an adjacent lane running hot).** "HOA Installed A Gate On My Private Bridge -
+   So I Removed The Entire Bridge Overnight!" "HOA Built Houses Around My Airstrip - Then the FAA Inspector
+   Arrived." "HOA Booted My Tractor Inside My Own Barn - So I Revoked Every Easement They Held."
+5. **Genre drift.** Some rail entries are not farm content at all, e.g. a 48-minute "The Girls Choose the Deadly
+   Chained Alien" story. Same template machinery, different genre, which is a strong sign of template farming
+   at scale.
+
+Observed durations in the lane: 12 to 51 minutes. Our 10 to 15 minute target sits at the low end, which is
+where Old Timber's repeatable 13.8x median lives.
+
+## Audience reaction (from the Old Timber comment block, 2026-09-11)
+
+Comments on the barn video show the emotional payload landing and, importantly, viewers fact-checking cost
+figures: "I know that the barn was 100 yrs old but you'd think he would have built a brand new better one for
+$185,000." Also "Made me hold my breath for the farmer." and a viewer revealing their own barn loss to a
+county. That is the credibility pressure our DNA's real-mechanism and sources rule exists to survive.
+
 
 ## The four examples (as supplied)
 
