@@ -84,6 +84,56 @@ $185,000." Also "Made me hold my breath for the farmer." and a viewer revealing 
 county. That is the credibility pressure our DNA's real-mechanism and sources rule exists to survive.
 
 
+## TRANSCRIPT OBTAINED AND REVERSE-ENGINEERED (2026-09-11) — the theory is now verified
+
+Jiggy ran the yt-dlp subtitle pull from a residential IP (the only thing that worked; see the blocklist above).
+Files received: `tRVOQf8cNv8.en.vtt` and `tRVOQf8cNv8.en-orig.vtt` (identical, 96,652 bytes, the real auto track),
+plus `tRVOQf8cNv8.en-US.vtt` and `tRVOQf8cNv8.en-en-US.vtt` (154 and 157 bytes, an UPLOADED "caption" track whose
+entire content is one line: the title). So Old Timber's `contentDetails.caption=true` was a placeholder track,
+and the only real transcript is the auto-generated one. Stored at
+`vault/60-references/old-timber/` with clean prose extracted to `tRVOQf8cNv8-transcript.txt` (10,239 chars).
+
+**Measured facts (not inference):**
+- Runtime **11:34**. Narration **1,794 / 1,801 words** (two extraction passes). **≈155 words per minute.**
+- Tone: **third person, present tense, invisible narrator.** Zero instances of "I", "my", "we", "me" anywhere
+  in the narration. No host, no greeting, no sign-off.
+- **One line of dialogue in the entire script**: "Call the crew," he says. "We roll at 6:00."
+- **No spoken CTA of any kind.** The narration ends on the closing image. All CTA work sits in the DESCRIPTION
+  ("Watch until the end to see whether Walt saves the barn before the county crew returns." / "If you enjoy
+  stories about old barns... subscribe to Old Timber for more.") plus published chapter timestamps.
+- **No theme line, no moral.** The meaning is delivered by an image.
+
+**Verified beat map (real timings):**
+0:00 contradiction open (time-stamped scene, 13-hour clock) | 0:46 SECOND clock (weather) | 0:52 the antagonist
+has a legitimate reason (county needs ambulance access; families drive 40 extra minutes) | 1:11 options
+eliminated one by one (creek, road, flooding) forcing a mile-long route | 1:41 legacy beat (two young farmers
+using tools the protagonist taught them) | 2:04 expert arrives, measures before opining ("a tape measure, a
+notebook, and no opinion yet") | 2:38 the elegant solution (route stays entirely on his own land) | 3:00 THE
+NUMBER as a complication ($180,000; county pays $150,000; $30,000 missing) | 3:11 sacrifice (sells the restored
+tractor whose engine the young man learned on; gavel $35,000) | 3:57 mechanism (steel piles, no cure time) |
+4:27 escalation (crossing has never held 80 tons) | 5:15 FAILURE discovered by tooling (a screwdriver sinks to
+the handle; rot from decades of trapped water) | 5:36 engineered fix + contingency nearly spent | 6:22 test lift
+proves the repair | 6:55 weather forces the decision | 7:26 the move; the survey stake the excavator cannot cross
+| 8:33 CLIMAX (hydraulic hose fails over the creek; the pre-positioned crib stack catches it) | 10:06 PAYOFF as
+an image (county arrives to an empty ring of foundation stone) | 10:20-11:33 resolution, succession, final image.
+
+**What this CORRECTED in our DNA:**
+1. No spoken CTA. v1 and v2 both mandated spoken CTAs inside the narration. Removed.
+2. No theme line. v2 required one. Removed.
+3. The hard number arrives at ~26% as a complication, not as a closing payoff.
+4. Two clocks, the second introduced before the exposition finishes.
+5. The institution is defensible, not villainous.
+6. The emotional engine is SUCCESSION (who inherits the skill), not nostalgia.
+7. The climax resolves through a plant from 4 minutes earlier (crib stack placed at ~4:37, saves at ~8:44).
+8. Present tense throughout.
+9. The reference script has a real bug: the mover is "Denny Okafor" early and "Danny" repeatedly after 6:22.
+   Character-name consistency is now an explicit item in our quality gate.
+
+**Duplicate-title note:** the `en-US` / `en-en-US` tracks contain the title "The County Came to Demolish His
+100-Year-Old Barn - But He Moved the Whole Thing First", while the live title is "...- So He Moved the Whole
+Thing". That is the near-duplicate upload pair seen in the sidebar census, confirming the same operator runs
+multiple near-identical titles on the same story.
+
 ## The four examples (as supplied)
 
 | Video | Channel | Subs | Views | Mult | Dur |

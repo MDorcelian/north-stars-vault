@@ -1,339 +1,323 @@
 # Wade Callaway Script DNA and Vidrush Production Handoff
 
 **CANONICAL COPY: https://docs.google.com/document/d/1DzE4qrUxXlJtJAtVDPzqL6L54i7lOVyZNWsbI4tmtoo/edit
-(anyone-with-link: writer, owned by gprestigue@gmail.com).** This local file is a WORKING DRAFT only.
-When the two differ, the Google Doc wins. Diana and any other VA can only read the Doc, never this path,
-so every change made here MUST be pushed to the Doc before it counts (see gdoc-deliverables skill,
-"Source-of-truth rule"). Diana was locked out of the pivot for exactly this reason: the DNA was written
-as a local markdown and pointed at from Trello card descriptions as a /home/hermes path she cannot open,
-so she kept scripting from the old Wade Callaway farm-economics Google Doc (id 194-GRe2...).
+(anyone-with-link: writer, owned by gprestigue@gmail.com).** This local file is a WORKING DRAFT. When the two
+differ, the Google Doc wins. Diana and any other VA can only read the Doc, never this path, so every change made
+here MUST be pushed to the Doc before it counts.
 
-Version: 2026-09-11 (v2, supersedes v1 of 2026-09-04)
-Channel: Wade Callaway
-Production platform: Vidrush
-Evidence base: `/home/hermes/vault/50-systems/farm-story-format-evidence.md` (read it before
-disagreeing with anything here). All figures are live API snapshots of 2026-09-10/11.
+Version: 2026-09-11 (v3). Supersedes v2 (same day) and v1 (2026-09-04).
+**v3 is no longer theory. A real script was obtained and reverse-engineered.** See "VERIFIED AGAINST A REAL
+SCRIPT" below. The beat sheet, the CTA rules and the narrator identity in v3 are taken from that transcript, not
+inferred from titles and descriptions.
 
-## WHAT CHANGED FROM V1 AND WHY
+---
 
-V1 was a modular list documentary: "30 things every American farm had", objects explained in
-sequence. That format still works on the farm-catalog channels, but it is not the format with the
-strongest current evidence behind it.
+# PART 1 - WHAT THE CHANNEL IS
 
-The four farm-story examples we pulled show a different and stronger engine. **Old Timber**, a
-1,290-sub channel, is the proof: 15 videos, **median outlier 13.8x, 8 of 15 above 10x, 13 of 15 above
-3x**, on 10 to 15 minute videos. That is not one hit. That is a formula that repeats. On the same
-evidence: Burl Sizemore 44.4x top with 6 of 37 above 10x; The Stubborn Farmwife 50.9x top with 25 of
-91 above 3x; Barnside Tales 273.5x on a single video on a 265-sub channel.
+## The promise
 
-So the answer to "are these still stories": **yes, and the story version is the stronger of the two.**
-The list format is not dead, it is now the secondary lane. This is the product-market-fit correction.
+Wade Callaway tells the true story of how ordinary rural Americans out-thought a system that had written them
+off, and shows the forgotten engineering they were using while everyone else was laughing.
 
-V1's modular documentary is retired as the primary format. Its research and honesty standards are
-kept and strengthened.
+Two layers, both required:
+1. **The story layer (the engine).** One person, one institution, one thing everybody else threw away, one
+   outcome. This is the click and the retention.
+2. **The mechanism layer (the credibility).** The real, researched, technically specific practice the story
+   turns on. This is what makes the channel trustworthy and keeps it monetisable.
 
-**One thing to understand about the change:** V1 forbade invention. The winners invent. V2 resolves
-this by keeping the story architecture (the thing that actually drives the views) while refusing the
-specific act that carries the authenticity and monetisation risk. See Honesty and disclosure.
+A story without mechanism is fiction. A mechanism without story is a documentary that underperforms.
 
-## THE CHANNEL PROMISE
+## Audience
 
-Wade Callaway tells the story of how ordinary rural Americans out-thought a system that had written
-them off, and shows the forgotten engineering those people were using while everyone else was
-laughing.
+People who want older American rural life explained by someone who respects it, plus the much larger group who
+click on an underdog who was doubted and turned out right. They are nostalgic without being fools. Never tell
+them the past was better. Show what earlier generations figured out and what we traded away for it.
 
-Two layers, both required in every episode:
-1. **The story layer (the engine).** One person, one place, one thing everybody else threw away,
-   one outcome. This is what the click and the retention come from.
-2. **The mechanism layer (the credibility).** The real, researched, citable engineering or
-   agricultural practice the story turns on. This is what makes the channel trustworthy and what
-   keeps it monetisable.
+## Narrator identity (CHANGED IN v3 - read carefully)
 
-A story without mechanism is fiction. A mechanism without story is the V1 documentary that
-underperforms. Both, always.
+**The winning scripts have no narrator persona at all.** In the verified reference script there is no "I", no
+host, no introduction, no personal memory, no first-person register of any kind. It is a cinematic third-person
+voiceover in the **present tense**, and the invisible narrator never appears.
 
-## AUDIENCE
+Therefore:
+- The narration is **third person and present tense.** "At 6:00, the excavator's engine cuts out."
+- **No "I", no "my", no "we", no "me"** in the narration. Not once.
+- Wade Callaway is a **packaging presence** (the name, the channel, the avatar on the thumbnail), not a
+  first-person narrator. He does not tell you about his farm, his grandfather, or his own mistakes.
+- Do not write a host personality, a greeting, a "welcome back", or a sign-off in the narration.
+- Dialogue is allowed and powerful, but extremely sparing: **one line in an 11-minute script** is the reference
+  standard. Use it only at the moment of maximum tension.
 
-People who want older American rural life explained by someone who respects it, plus the much larger
-group who click on an underdog who was doubted and turned out right. They are nostalgic without being
-fools. Do not tell them the past was better; show them what the past figured out and what we traded
-away for it.
+This supersedes the v1/v2 framing of a "calm, observant guide". There is no guide. There is a camera and a
+voice telling you what happened.
 
-## DENNIS'S IDENTITY AND VOICE
+## Retired register (do not bring this back)
 
-Wade is a calm, observant guide in his forties who has spent years studying how earlier Americans
-solved practical problems. He is a **narrator and a guide, not a witness.**
+The old Wade Callaway farm-economics voice is retired: the "cut the bullshit" register, farm-profit math as the
+default premise, failure-based credibility, the older weathered farmer identity, dollar figures as the main hook
+unless the topic genuinely requires economic history, addressing the viewer as a prospective farmer, and the
+barn-red / khaki / cream palette as a rigid rule.
 
-That distinction is load-bearing. Wade does NOT say "my grandfather kept", "when I was a boy",
-"we used to", or anything else that claims lived memory he cannot have. The story subjects are other
-people, told in third person. Wade is the man who found the record and is telling you about it.
+## Primary and secondary formats
 
-Voice rules:
-- Calm, conversational, curious. Plainspoken and precise.
-- Dryly amused sometimes. Warm but never sentimental.
-- Interested in mechanisms and consequences, not in feelings.
-- Never angry, never salesy, never motivational.
-- He can correct a common misconception, but he sounds like a man opening up a forgotten system, not
-  a man scolding the viewer.
-- He never announces the theme. He lets the story land it.
+- **Primary (this DNA): the single-story underdog vindication documentary.** 10 to 15 minutes. This is where the
+  evidence is strongest by a wide margin.
+- **Secondary: the modular "X things" list documentary.** Still valid on the farm-catalog channels and useful for
+  later compilations, but it is not the primary format and it is not what the launch should run on.
 
-RETIRED REGISTER. This channel keeps the Wade Callaway name and brand, but NOT the old farm-economics
-register. Do not use: the "cut the bullshit" register, farm-profit math as the default
-premise, failure-based credibility, the older weathered farmer identity, the barn-red and khaki
-palette as a rule.
+---
 
-## THE STORY ARCHITECTURE (the engine - this is the core of v2)
+# PART 2 - VERIFIED AGAINST A REAL SCRIPT
 
-Every episode is ONE story, built on these eight beats, in this order. This is the template Old Timber
-is clearly running; its published chapter lists are this shape every time.
+Reference script: **Old Timber, "The County Came to Demolish His 100-Year-Old Barn - So He Moved the Whole
+Thing"**, video ID tRVOQf8cNv8. Runtime 11:34. Narration **1,794 words** = **155 words per minute**. Full
+transcript held internally (ask Jiggy for a copy if you want to read it in full). Old Timber's channel median
+outlier is 13.8x across 15 videos, 8 of 15 above 10x.
 
-**1. The contradiction open (0:00 to 0:20).**
-Open on a concrete scene where the person is being doubted, ignored or openly laughed at. Specific
-time, specific place, specific object. No greeting, no "welcome back", no thesis statement.
-- Model: "The county excavator was already in the field when Walt Kessler got the call. He had
-  thirteen hours."
-- Model: "Every Thursday, the dairy dumped thousands of gallons of milk at Ruth Keller's farm and
-  drove away."
+## The verified beat map (timings are real, from the script)
 
-**2. The stakes and the antagonist named (0:20 to 1:30).**
-Say plainly who the power is and what they get out of it. The antagonist is an institution, not a
-villain character: a dairy, a mill, a co-op, a county, a plant, an auction house, a building code.
-The viewer must understand what the protagonist is up against before they understand the method.
+| Time | % | Beat | What actually happens |
+|---|---|---|---|
+| 0:00 | 0% | Contradiction open | A time-stamped scene. Excavator's engine cuts out, bucket inches from a century-old barn. Then the clock: 13 hours to move 80 tons, or lose it forever. |
+| 0:46 | 7% | **Second clock** | Two separate deadlines run in parallel: the county's clock and the weather. "The county's clock is not the only one running." |
+| 0:52 | 8% | **The antagonist is right** | The county needs the road for ambulance access. Families already drive 40 extra minutes. The institution has a legitimate public reason, which is what makes the conflict real rather than a cartoon. |
+| 1:11 | 10% | Options eliminated | Every nearby site is ruled out, in sequence, on-page: too close to the creek, too close to the new road, ground too low and floods. The mile-long route is forced, not chosen. |
+| 1:41 | 15% | **Legacy beat** | Two young farmers bent over an old tractor engine, using tools the protagonist taught them to use. This is the emotional payload and it must appear early. |
+| 2:04 | 18% | Expert arrives, measures first | The structural mover refuses to promise anything from a phone call. He arrives with a tape measure, a notebook, and **no opinion yet**. |
+| 2:38 | 23% | The elegant solution | The route stays entirely on the man's own land. No public bridge, no weight limit, no permission needed but his own. |
+| 3:00 | 26% | **The number as a problem** | $180,000 for the move. County money covers $150,000. **$30,000 missing.** The hard number lands a third of the way in, not at the end. |
+| 3:11 | 27% | The sacrifice | He sells his restored tractor at auction, the same engine the young man learned to rebuild. Gavel falls at $35,000. |
+| 3:57 | 34% | Mechanism layer | Steel piles instead of concrete, and the reason why: no pour, no weeks waiting for it to cure. |
+| 4:27 | 38% | Escalation | The creek crossing has held a loaded truck, but it has never held 80 tons at once. |
+| 5:15 | 45% | **Failure discovered by tooling** | A screwdriver sinks into one section of the oak sill all the way to the handle. Dark and soft beneath, decades of trapped water. The failure is physically proven, never announced. |
+| 5:36 | 48% | Expert fix, contingency spent | The engineer sends a reinforcement drawing within a day. The repair consumes two full days and almost all of the contingency. |
+| 6:22 | 55% | Test proves the repair | The barn lifts 3 inches and stops. Nobody moves. The frame stays square. |
+| 6:55 | 60% | The decision | The forecast kills the planned departure. "Call the crew. We roll at 6:00." |
+| 7:26 | 64% | The move begins | The corridor's survey stake marks the line the excavator can never cross. |
+| 8:33 | 74% | **Climax, resolved by setup** | A hydraulic hose fails halfway across the creek. The corner drops 6 inches and stops hard, because the crib stack was **already positioned beneath it**. The backup pump finishes the job. |
+| 10:06 | 87% | **Vindication as an image** | The county crew arrives to an empty ring of foundation stone. "There is no barn left to demolish." |
+| 10:20 | 89% | Resolution and return | The barn set on its new foundation. The young man starts another engine the way he was taught. Final image: the barn above the valley, the engine still running. |
 
-**3. The discarded thing at the centre (1:30 to 2:30).**
-The whole story orbits one object the world priced at zero: rejected wool, 300 old windows, 500
-rusty oilfield pipes, 40 tons of shells, six cows nobody bid on, bent barn tin, a house built before
-electricity. Name it and make the viewer see the pile.
+## What the transcript changed (v3 corrections)
 
-**4. The methodical response (2:30 to 4:30).**
-This is where the mechanism layer goes, and it is the credibility beat. The protagonist does
-something disciplined: weighs every delivery, tests every load, demands the disposal records, sorts
-by hand, measures and re-measures. **Detail here is the proof of worth.** Explain the real practice
-and cite it.
+1. **There is no spoken CTA. None.** The narration ends on the closing image. No subscribe ask, no like ask, no
+   "the video up next", no sign-off line. The CTA work happens entirely in the **description** ("Watch until the
+   end to see whether he saves the barn", "If you enjoy stories about old barns... subscribe to Old Timber").
+   v1 and v2 both mandated spoken CTAs placed inside the narration. That was wrong for this lane and is removed.
+2. **No theme line.** v2 said to end with one stated line of meaning. The real script states no theme at all.
+   The meaning is carried by an image (the excavator facing an empty foundation ring).
+3. **The hard number comes early, as a complication**, at roughly a third of the way in, not as a closing payoff.
+4. **Two clocks, not one.** The second deadline is introduced before the exposition is finished.
+5. **The antagonist has a defensible reason.** Write the institution as correct-but-in-the-way, never as evil.
+6. **The emotional layer is succession**, not nostalgia: who inherits the skill. That is what turns a logistics
+   story into a story.
+7. **The climax must resolve through something set up earlier.** The crib stack is placed at 4:37 and saves the
+   day at 8:44. Nothing resolves by luck or heroics.
+8. **The narration is present tense throughout.** Not past tense. It puts the viewer inside the event.
+9. **Even the reference has a bug.** The mover is named "Denny Okafor" early and drifts to "Danny" repeatedly
+   after 6:22. A character name must never change mid-script. See the quality gate.
 
-**5. The failure beat (4:30 to 6:00).**
-The first attempt fails in a specific, technical way. The greenhouse overheats. One batch of pellets
-burns bitter. The gate sags once the load is on it. Never skip this. The failure is what makes the
-fix feel earned and it is where retention is won, because the viewer now wants to know the answer.
+---
 
-**6. The mentor and the single fix (6:00 to 7:30).**
-The turn comes from outside: an old rancher, a commercial grower, a miller, a blacksmith, a county
-extension agent. The fix is one specific change, not a montage. Explain WHY it works, in mechanism
-terms.
+# PART 3 - HOW TO WRITE IT
 
-**7. The backlash (7:30 to 9:00).**
-Just before the payoff, the power moves: the mill stops delivery without warning, the county
-reschedules, the buyer walks, the drought or the storm arrives at the worst moment. This is the
-tension spike. Do not resolve the story before this beat.
+## The beat sheet to follow
 
-**8. The payoff and the theme (9:00 to end).**
-Land on a hard, specific outcome with a number: $180,000 in gross sales, $1.8 million, $294,000 at
-auction, a six-figure business, the county finding an empty site. Then one line, once, that states
-what the story meant, without preaching.
-- Model: "The difference between trash and opportunity is knowing what you're looking at."
-- Model: "The line moved. He stood still."
+Use the beat map above as the template. Proportional targets for any runtime:
 
-**Rotation rules for the open.** Do not open every video the same way. Rotate the four entry shapes:
-A. The scene of public doubt (they laughed, they mocked, nobody bid).
-B. The deadline (thirteen hours, the county returns at dawn).
-C. The absurd delivery (a mountain of waste appearing at a farm gate).
-D. The disappearance (a system that everybody removed and nobody wrote down).
+1. **0-3% Contradiction open.** A time-stamped scene, present tense, with the stakes and the deadline in the
+   first three sentences. Pay off the thumbnail here.
+2. **3-8% Second clock.** A second, independent pressure that the protagonist does not control.
+3. **8-10% The antagonist's legitimate reason.** State what the institution gains, and why a reasonable person
+   would agree with them.
+4. **10-15% Options eliminated.** Rule out the easy answers on-page so the hard path is forced.
+5. **15-18% Legacy beat.** Who the protagonist is teaching. The emotional stake.
+6. **18-23% Expert arrives and measures first.** Measurement before judgement. This is the credibility move.
+7. **23-27% The elegant solution.** The answer should be thematically satisfying, not merely technical.
+8. **26-34% The number, then the gap, then the sacrifice.** What it costs, what is missing, what the protagonist
+   gives up to close it.
+9. **34-45% Mechanism, then escalation.** Explain the real engineering, then show the thing that has never been
+   tested to this limit.
+10. **45-55% Failure discovered by tooling, expert fix, contingency spent.** The failure must be physical and
+    undeniable.
+11. **55-64% Test, then the hard decision.** Prove the repair, then let outside conditions force the call.
+12. **64-87% The operation and the climax.** The climax resolves through a setup the viewer already saw.
+13. **87-100% Vindication as an image, then resolution and return.** Show the antagonist arriving too late. End on
+    a picture of continuity, not a summary.
 
-## TITLE RULES
+## Craft rules
 
-The title is the story's open loop. It must name the protagonist's problem and withhold the
-resolution. Two proven shapes, both live in the evidence:
+- **Present tense, third person, invisible narrator.** No "I". No host.
+- **Two clocks minimum.** One the protagonist controls, one they do not.
+- **The institution is defensible.** No villains. The conflict is a legitimate need colliding with a life's work.
+- **Measurement before opinion.** Show the expert refusing to judge until they have measured. That is how the
+  script earns its credibility without a single credential.
+- **Failure is discovered, never announced.** Use a tool, a gauge, or a test. Never "he realised the wood was
+  rotten".
+- **Chekhov's contingency.** Whatever saves the day in the climax is introduced, on-page and casually, earlier.
+- **One line of dialogue maximum.** Save it for the moment of maximum tension.
+- **End on an image.** Not a theme, not a moral, not a call to action.
+- **Every beat adds a new problem, system, or consequence.** No filler object, no padded module.
+- **Rotate the open.** Scene of public doubt / deadline / absurd delivery / disappearance. Do not open every
+  video the same way.
 
-**Shape 1 - the institutional dump and the number payoff**
-`The [Institution] [Dumped / Wrote Off / Rejected] [specific wasted thing] - Then [specific outcome with a number]`
-- "The Pecan Mill Dumped Mountains of Shells on Her Farm - She Built a Six-Figure BBQ Pellet Business"
-- "The Co-op Wrote Off Her 60 Acres of Sunflowers as a Loss - The Oil Press Paid Off the Whole Farm"
-- "She Paid $800 for 40 Tons of Rejected Wool - Then Made $1.8 Million"
+## Title rules
 
-**Shape 2 - the mockery and the reveal**
-`They Laughed/Mocked When [person] [did the odd thing] - Then/Until [the reveal]`
-- "They Laughed When She Took 300 Old Windows - Then Her Greenhouse Earned $180,000"
-- "Kansas Ranchers Mocked Her Cattle for 12 Years - Then Those Same Cattle Brought $294,000"
-- "They Laughed When the Girl Took Their Broken Sewing Machines - Until They Saw What Ran in the Loft"
+The title opens a loop and withholds the resolution. Verified shapes:
 
-**Shape 3 - the countdown with personal proof (the Burl lane, secondary)**
-`[N] [forbidden/forgotten thing] Every [person] [kept/hid/carried] (I [kept/quit/own] [X])`
-- "25 'Outlawed' Tools Every Appalachian Grandfather Hid in His Barn Loft (I Quit Using 9)"
-This shape requires the first-person frame, so use it with the disclosure rule below, and never
-attach a product to a claimed memory.
+1. `The [Institution] [Dumped / Wrote Off / Rejected] [specific wasted thing] - Then [outcome with a number]`
+2. `They Laughed / Mocked / Nobody Wanted [person or thing] - Then / Until [the reveal]`
+3. `The [Institution] Came to [do X] - So He [did the impossible]` (the reference script's own shape)
+4. `[N] [forbidden / forgotten thing] Every [person] [kept / hid] (I [kept / quit] [X])` - requires a first-person
+   frame, so it conflicts with the third-person narration rule. Use only as a deliberate exception with the
+   disclosure in place.
+5. Refusal and legal escalation: `She Refused Every Offer to [X]`, `Then Faced the [Y] That Cost Them Millions in
+   Court`.
+6. HOA and easement confrontation, an adjacent lane running hot. Only use if the land angle is real.
 
-Rules for all shapes: under 60 characters where possible. Name the object and the number. Never use
-"secrets", "amazing", "insane", or "you won't believe". Always state the protagonist's problem and
-withhold the ending. Deliver three title options per script.
+Rules: under 60 characters where possible. Name the object and the number. Never "secrets", "amazing", "insane",
+or "you won't believe". Always state the problem and withhold the ending. Deliver three options.
 
-**Two live lanes worth knowing about (from the sidebar census 2026-09-11).**
-- **Shape 4 - the refusal and the legal escalation.** `The [catastrophe/institution] left [thing] - She
-  Refused Every Offer to [X]`, and `They [destroyed X] - Then Faced the [Y] That Cost Them Millions in
-  Court`. Legal consequence as the payoff instead of a dollar windfall.
-- **Shape 5 - HOA and easement confrontation (adjacent lane, running hot).** `HOA [did Y on my land] - So I
-  [reversed it]` and `HOA [did Y] - Then the [authority] Arrived`. Different antagonist, same architecture.
-  Only use it if the farm or land angle is real; do not drift off the channel's promise.
+**SATURATION WARNING.** The "They Laughed / Nobody Wanted / Until" shape is now heavily farmed, including
+near-duplicate titles on the reference channels' own rails. Prefer shapes 1, 3 and 5. The differentiator is no
+longer the shape; it is the specificity of the mechanism, the object and the number.
 
-**SATURATION WARNING.** The "They Laughed / Nobody Wanted / Until" template is now heavily farmed, including
-near-duplicate titles on the reference channels themselves, and the rails are showing template drift into
-unrelated genres. Pick the shape that fits the specific story rather than defaulting to "They Laughed" every
-time. The differentiator is no longer the shape; it is the specificity of the mechanism, the object, and the
-number.
+## Length and pacing
 
-## HOOK AND RETENTION
+- Launch target: **10 to 15 minutes.**
+- Pacing: **155 words per minute.** A 11.5-minute script is about **1,750 to 1,900 words.** Plan from that
+  number rather than guessing.
+- Where the story genuinely has enough turns, 20 to 25 minutes is allowed. Do not pad.
+- Count the words and record the actual runtime before submitting.
 
-- The thumbnail promise must be paid off inside the first 30 seconds of narration.
-- Every beat ends on a forward pull: the next concrete question, the next number, the next object.
-  Never "stay tuned", never a vibe.
-- Alternate the concrete and the surprising. The strongest, most recognizable object or detail goes
-  in the first third. The most consequential or counterintuitive detail goes in the final third.
-- One recurring artefact carries the whole story: the wet sample sheet, the disposal record, the
-  clipboard, the bent bolt. Reintroduce it at each beat with more weight and land on it in the close.
-  This is the spine. Do not over-explain it.
-- Publish chapter timestamps in the description. They are retention furniture and they force the
-  writer to build in beats, which is exactly what this DNA wants.
+## Honesty and disclosure (mandatory)
 
-## LENGTH AND FORMAT
+1. **The narrator never claims a memory he cannot have.** Third person only, and the protagonist's life is not
+   the narrator's life.
+2. **The mechanism layer must be real and sourced.** Every technique, capacity, temperature, statute, price,
+   acreage or measurement gets verified and cited: source title, institution or author, date, URL. Use USDA and
+   land-grant extension publications, historical farm manuals, the Smithsonian and Library of Congress, state
+   historical societies, museum archives and reputable academic work.
+3. **Protagonists are dramatised composites and the description says so.** One plain line, once per episode,
+   near the top of the description. Do not claim the person is a specific real individual.
+4. **Never present an invented person as a documented one.** No fake citations, no invented study, no fabricated
+   quote attributed to a real named person or body.
+5. **Numbers are claims.** If a figure cannot be sourced or honestly framed as an illustrative composite,
+   describe the outcome without fabricated precision. Do not put invented itemised dollar figures on screen as
+   history.
+6. **No product is ever sold on a claimed personal memory.**
+7. **Tick YouTube's altered-or-synthetic content disclosure on every upload.** YouTube then renders the "Made
+   with AI / Sounds or visuals were altered or fully generated" notice. Evidence: the two highest-multiplier
+   videos in our reference set (Barnside Tales 273.5x, Burl Sizemore 44.4x) both carry that label and both still
+   perform. It is not a performance penalty, and it is the posture that survives an authenticity sweep.
+8. **If the honest version of the story cannot be told, kill the story.** There are enough real documented rural
+   cases.
 
-- Launch phase: **10 to 15 minutes**, roughly 1,400 to 2,200 spoken words. The Old Timber winners
-  that carry a 13.8x median are all 10 to 15 minutes. Long is not the advantage; density is.
-- The Stubborn Farmwife lane runs 30 to 44 minutes and works, but only on a volume channel with a
-  proven hook. Do not start there.
-- Where the story genuinely has enough turns, a 20 to 25 minute version is allowed.
-- Count the words before submitting and record the actual runtime.
+## Description and packaging (this is where the CTA lives)
 
-## HONESTY AND DISCLOSURE (the mandatory spine of v2)
+The narration carries no CTA, so the description does the work. Every upload needs:
+- The **dramatisation line** (mandatory, see honesty rule 3).
+- A one-line hook restating the stakes, in the same present-tense voice.
+- A watch-through prompt: "Watch until the end to see whether [outcome]."
+- A subscribe line tied to the channel's promise.
+- **Chapter timestamps.** The reference publishes them on every upload. They are retention furniture and they
+  force the writer to build in beats.
+- The SOURCES list.
+- A comment question.
 
-This section is not optional and it is not a formality. It is what separates a channel that can be
-monetised for years from one that gets swept.
+**Vidrush mechanic note (decision needed from Jiggy):** the old Wade DNA required a spoken sign-off line because
+Vidrush detects it to apply the subscribe overlay and the end card. The reference script has no such line and
+relies on the description plus a manually set end screen. Either set the end screen manually at upload, or add
+the sign-off as the only non-story line, placed after the closing image. Do not bury it inside the story.
 
-1. **Wade never claims a memory he cannot have.** No "my grandfather", no "when I was a boy", no
-   first-person rural past, unless a documented, verifiable, attributable source is attached to it
-   and the human presenter is the person with the history.
-2. **The mechanism layer must be real and sourced.** Every technique, capacity, temperature, statute,
-   price, acreage or measurement gets verified and cited in a SOURCES list: source title, institution
-   or author, date and URL. Use USDA and land-grant extension publications, historical farm manuals,
-   the Smithsonian and Library of Congress, state historical societies, museum archives and reputable
-   academic work.
-3. **Protagonists are dramatised composites, and the description says so.** One plain line, once per
-   episode, near the top of the description: this is a dramatised account built on documented
-   practice and history, names and some details are illustrative. Do not buries it. Do not claim the
-   person is a specific real individual.
-4. **Never present an invented person as a documented one.** No fake citations, no invented study,
-   no fabricated quote attributed to a real named person or body.
-5. **Numbers are outcome claims and get held to a higher standard.** If a payoff figure cannot be
-   sourced or honestly framed as an illustrative composite, describe the outcome without a fabricated
-   precision instead of inventing a dollar figure.
-6. **No product is ever sold on a claimed personal memory.** The product funnel is allowed (see
-   below) but it attaches to the channel's research, not to an invented life.
-7. **Tick YouTube's altered-or-synthetic content disclosure on every upload.** YouTube then renders the
-   "Made with AI / Sounds or visuals were altered or fully generated" notice. Evidence, live 2026-09-11:
-   the two highest-multiplier videos in our reference set (Barnside Tales at 273.5x, Burl Sizemore at
-   44.4x) both carry that label and both still perform. The label is not a performance penalty, and it is
-   the posture that survives an authenticity sweep. Do not hide the process; disclose it and let the
-   story carry the video.
-8. **If the honest version of a story cannot be told, kill the story.** There is no shortage of real
-   documented rural cases. Use one.
+## Outline-first workflow for Diana
 
-## CTA AND PRODUCT FUNNEL
-
-- **Soft CTA**, after a full block of value, never in the first minute, never hard-sold. Written as a
-  natural aside.
-- **Direct subscribe and like ask** in the closing section, plainly, in Wade's voice.
-- **Watch-next direction**, general, never naming a specific video: "the story up next on screen
-  continues this one."
-- **Sign-off, always the same line**, so Vidrush applies the subscribe overlay and end card:
-  "Thanks for watching, and I'll see you in the next one."
-- **Product lane (allowed, evidence-backed).** Burl Sizemore sells an Appalachian guide at the
-  persona (44.4x top video) and our own brain banks elder-trust persona plus a cheap ultra-specific
-  manual at 25.9K subs = $11.5K/mo. The Wade product, when built, is a cheap ultra-specific
-  practical guide (the forgotten-systems manual or zone calendar), never a get-rich or money-making
-  claim, and it is never tied to a fictional memory. Deliver a product signal note whenever the
-  comments ask a qualify question ("can I still buy this", "where do I get the plans").
-
-## OUTLINE-FIRST WORKFLOW FOR DIANA
-
-Before any full script, deliver an outline containing:
+Deliver an outline containing:
 - Working title and thumbnail hook
-- The person, the place, the period, and what the description's dramatisation line will say
-- Antagonist institution
-- The discarded object at the centre
-- The eight beats, filled in with what actually happens at each one
-- The real mechanism being explained, and the sources to verify it
-- The hard outcome number, and how it is sourced or framed
-- The theme line, once
+- The person, the place, the period, and the exact description dramatisation line
+- The institution and its legitimate reason
+- The discarded object or impossible task at the centre
+- Both clocks
+- The legacy beat: who is being taught
+- The mechanism to be explained and the sources to verify it
+- The cost, the gap, and the sacrifice
+- The failure and how it is discovered by tooling
+- The contingency that will save the climax, and where it is planted
+- The closing image
 
-The outline is reviewed before the full script is written. An outline that is a list of objects, or
-that has no antagonist, or that has no mechanism, is rejected.
+An outline with no institution, no mechanism, no second clock, or no legacy beat is rejected.
 
-## DELIVERABLES PER VIDEO
+## Deliverables per video
 
 1. Outline for approval
-2. Clean Vidrush-ready narration
-3. SOURCES list for every claim
-4. Three title options, under 60 characters where possible
+2. Clean narration (third person, present tense, no CTA)
+3. Description, including the dramatisation line, the chapter timestamps and the SOURCES list
+4. Three title options under 60 characters where possible
 5. One truthful thumbnail hook of 3 to 6 words
-6. A short visual brief per beat
-7. The description, including the dramatisation line and the chapter timestamps
+6. A visual brief per beat
 
-## VIDRUSH FORMATTING
+## Vidrush formatting
 
-Clean narration only: no speaker labels, no timestamps, no stage directions, no bracketed notes, no
-markdown, no bullets, no URLs, no all-caps, no [Music] or [Applause]. Natural paragraphs. Numbers
-phonetic where it reads naturally, digits for years, prices, percentages and measurements.
+Clean narration only: no speaker labels, no timestamps, no stage directions, no bracketed notes, no markdown, no
+bullets, no URLs, no all-caps, no [Music] or [Applause]. Natural paragraphs. Numbers phonetic where it reads
+naturally; digits for years, prices, percentages and measurements.
 
-## VISUAL AND NARRATION GUIDANCE
+## Visual guidance
 
-Write for a Vidrush avatar documentary with supporting historical visuals. Each beat should have an
-obvious visual: the scene establishing, the object close-up, the diagram or archival photograph of
-the mechanism, the empty space where the old system used to be. Prefer visual nouns. "A hand pump, a
-cistern, a covered bucket and a trough" beats "water infrastructure". Do not write a beat that depends
-on Wade physically demonstrating something.
+Write for a Vidrush avatar documentary with supporting historical visuals. Each beat needs an obvious visual: the
+scene establishing, the object close-up, the diagram or archive photograph of the mechanism, the empty space
+where the old system used to be. Prefer visual nouns. Avoid paragraphs of abstraction.
 
-## RETIRED REGISTER (the old Wade Callaway farm-economics voice, do not bring it back)
+## Quality gate before submission
 
-Older weathered farmer identity. "Cut the bullshit" branding. Farm-profit math as the default
-premise. Fake first-person farm memories. Failure-based credibility inserted into a historical story.
-Dollar figures as the main hook unless the topic genuinely requires economic history. Addressing the
-viewer as a prospective farmer. Wade's barn-red, khaki and cream palette as a rigid rule. The v1
-modular list as the primary format.
-
-## QUALITY GATE BEFORE SUBMISSION
-
-- One story, one person, one institution, one discarded object.
-- All eight beats present, failure beat included, backlash before payoff.
-- The payoff carries a specific number, sourced or honestly framed.
-- The mechanism is real, explained, and cited.
-- Wade claims no memory he cannot have.
+- Third person, present tense, and **zero instances of "I", "my", "we" or "me"** in the narration.
+- No spoken CTA anywhere in the narration.
+- Both clocks present; the second one introduced early.
+- The institution has a stated, legitimate reason.
+- The failure is discovered by tooling, not announced.
+- The climax resolves through something planted earlier.
+- The closing beat is an image, with no theme line and no moral.
+- **Character names and place names are identical on every appearance.** (The reference script fails this. We
+  will not.)
+- Every factual claim is verified or honestly qualified, with a SOURCES list.
 - The description carries the dramatisation line and the chapter timestamps.
 - The thumbnail promise is paid off in the first 30 seconds.
-- The title opens a loop and withholds the outcome, under 60 characters where possible.
-- The recurring artefact is present and lands in the close.
-- Runtime and word count are recorded.
+- The title opens a loop, under 60 characters where possible.
+- Runtime and word count recorded (about 155 words per minute).
 - The thumbnail reference is a real, topic-matched long-form outlier, and not a Short.
 
-## REFERENCE EVIDENCE USED FOR v2
+---
 
-Live snapshots, 2026-09-10/11. Refresh before quoting any figure in a published script or description.
+# PART 4 - EVIDENCE AND REFERENCES
 
-Story-format references:
-- Old Timber, UCNxBYhgZD47M776dylkkXIA. 1,290 subs, 15 videos, created 2025-04-20. Median outlier
-  13.8x. Top: 145,688 / 112.9x, 12.0 min. PRIMARY ARCHITECTURE SOURCE.
-- Burl Sizemore, UCXO5xjzNQzkPqVqBhMLgMiw. 1,810 subs, 37 videos, created 2022-03-30. Top 80,360 /
-  44.4x. Elder persona plus product lane.
-- The Stubborn Farmwife, UCzMsmR_aJBEA53FjuWez0oQ. 3,030 subs, 91 videos. Top 154,353 / 50.9x,
-  37.1 min. Volume lane, 30 to 44 min.
-- Barnside Tales, UCBdsf1T1WLVU1Eb_5hPHqfQ. 265 subs, 17 videos, created 2026-08-06. Top 72,468 /
-  273.5x, 27.3 min. Single breakout, NOT channel proof.
+Live YouTube Data API snapshots, 2026-09-10 and 2026-09-11. Refresh any figure before quoting it in a published
+script or description.
 
-Secondary list-format references (still valid, now the second lane, useful for compilations):
-- Forgotten American Farm & Country Life, 5,060 subs. 281,789 / 55.7x on the 1950s farmhouse episode.
-- Earl's Old Farm Days, 2,900 subs. 78,528 / 27.1x on the 1950s tractor episode.
+## Primary architecture source
 
-Adjacent:
-- Archibald History, approximately 8,020 subs, mechanism-first narrative ("how did they do that").
-- Forgotten Home Engineering, UCE3DzKfdkEEf3kwQYPqcJFA, created 2026-08-03, 20 videos, 7,100 subs,
-  1,176,259 total views. Top 336,329 / 47.4x. "Forgotten [system] Tricks ... Before Modern [X]" and
-  "Old-House [system] Tricks Modern Builders Quietly Abandoned". Still live, not decayed.
+- **Old Timber**, UCNxBYhgZD47M776dylkkXIA. Created 2025-04-20, 1,290 subs, 15 videos. **Median outlier 13.8x,
+  8 of 15 above 10x, 13 of 15 above 3x**, on 10 to 15 minute videos. Top: 145,688 views / 112.9x at 12.0 min.
+  The verified transcript above is from this channel.
 
-End of master DNA v2.
+## Other story-format references
+
+- **Burl Sizemore**, UCXO5xjzNQzkPqVqBhMLgMiw. 1,810 subs, 37 videos. Top 80,360 / 44.4x. Elder persona plus a
+  product funnel. Live confirmation of the elder-trust-plus-product model.
+- **The Stubborn Farmwife**, UCzMsmR_aJBEA53FjuWez0oQ. 3,030 subs, 91 videos. Top 154,353 / 50.9x at 37.1 min.
+  Volume lane, 30 to 44 min. Hit machine, no floor.
+- **Barnside Tales**, UCBdsf1T1WLVU1Eb_5hPHqfQ. 265 subs, 17 videos, created 2026-08-06. Top 72,468 / 273.5x at
+  27.3 min. A single breakout on a tiny channel, not channel proof.
+
+## Secondary list-format references
+
+- **Forgotten American Farm & Country Life**, 5,060 subs. 281,789 views / 55.7x on the 1950s farmhouse episode.
+- **Earl's Old Farm Days**, 2,900 subs. 78,528 views / 27.1x on the 1950s tractor episode.
+
+## Adjacent
+
+- **Forgotten Home Engineering**, UCE3DzKfdkEEf3kwQYPqcJFA. Created 2026-08-03, 20 videos, 7,100 subs,
+  1,176,259 total views. Top 336,329 / 47.4x. "Forgotten [system] Tricks... Before Modern [X]" and "Old-House
+  [system] Tricks Modern Builders Quietly Abandoned". Still live, not decayed.
+- **Archibald History**, about 8,020 subs. Mechanism-first narrative ("how did they actually do that").
+
+End of master DNA v3.

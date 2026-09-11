@@ -414,3 +414,56 @@ description, 1 test video. Retired as the pivot's name.
   CrosscutHollow, OldFarmstead, ForgottenFarmstead, RidgelineFarmDays, BarnsideStories, OldIronTimber.
   TAKEN: ForgottenGround, BackFortyStories, TheOldGround, StonewallFarm. Also @WadeCallaway and @wadecallaway
   are both currently AVAILABLE, which is worth grabbing if the existing channel's handle should be upgraded.
+
+## TRANSCRIPT ARRIVED -> DNA v3 (09-11) — theory replaced by measurement
+Jiggy pulled the yt-dlp subtitles from his residential IP (the ONLY thing that ever worked) and sent four VTTs for
+Old Timber's `tRVOQf8cNv8`. Stored at `60-references/old-timber/` with clean prose at
+`tRVOQf8cNv8-transcript.txt` (10,239 chars, 1,801 words).
+**Measured, not inferred: 11:34 runtime, 1,794-1,801 words = ~155 words per minute.**
+Files: `.en.vtt` and `.en-orig.vtt` are the real auto track (96,652 bytes each). `.en-US.vtt` and
+`.en-en-US.vtt` are 154-157 bytes and contain ONLY the title line, so Old Timber's `caption=true` was a
+placeholder track, not a transcript. The embedded title is the near-duplicate variant ("...—But He Moved the
+Whole Thing First" vs the live "...—So He Moved the Whole Thing"), confirming the duplicate-upload pair.
+
+### The four corrections that mattered
+1. **NO spoken CTA anywhere in the narration.** v1 and v2 both mandated a soft CTA, a subscribe ask, a watch-next
+   line and a sign-off. The reference has none. All CTA work lives in the DESCRIPTION plus chapter timestamps.
+   The narration ends on a closing image.
+2. **NO theme line.** v2 required one stated line of meaning. The reference states none; meaning is carried by an
+   image (the county arriving to an empty ring of foundation stone).
+3. **Third person, present tense, invisible narrator.** Zero "I/my/we/me" in the whole script. No host, no
+   greeting, no sign-off. So Wade Callaway is a PACKAGING presence, not a first-person narrator. This dissolves
+   the "which register does Wade use" question from the previous turn: the winning narration has no host register
+   at all. One line of dialogue in 11 minutes is the reference standard.
+4. **The hard number lands at ~26% as a COMPLICATION**, not as a closing payoff ($180,000; county $150,000;
+   $30,000 missing -> he sells the restored tractor for $35,000).
+
+### Craft moves the transcript revealed that we had not specified
+- **Two clocks**: the county's deadline and the weather, second one introduced at 0:46, before the exposition ends.
+- **The antagonist is defensible**: the county needs the road for ambulance access; families already drive 40
+  extra minutes. No villain. The conflict is a legitimate need colliding with a life's work.
+- **Options eliminated on-page** (creek, new road, flooding) so the mile-long route is FORCED, not chosen.
+- **Legacy beat at 1:41**: two young farmers bent over an engine using tools the protagonist taught them. The
+  emotional engine is SUCCESSION, not nostalgia.
+- **Measurement before opinion** at 2:16: the expert arrives with a tape measure, a notebook, and no opinion yet.
+- **The solution is thematically elegant**: the route stays entirely on his own land.
+- **Failure discovered by tooling** at 5:15: a screwdriver sinks into the sill all the way to the handle.
+- **Chekhov's contingency**: the crib stack is placed ~4:37 and catches the dropped corner at 8:44. Nothing
+  resolves by luck.
+- **Vindication as an image**, and the last beat is continuity (the young man starts another engine), not a sum-up.
+- **The reference has a real bug**: the mover is "Denny Okafor" early and "Danny" repeatedly after 6:22.
+  Character-name consistency is now an explicit quality-gate item for us.
+
+### Delivered
+- DNA rewritten to **v3** at `50-systems/wade-callaway-script-dna.md` (v2 archived as
+  `wade-callaway-script-dna-v2-ARCHIVED-2026-09-11.md`).
+- Evidence file gained a full "TRANSCRIPT OBTAINED AND REVERSE-ENGINEERED" section with the beat map.
+- New reusable script `~/.hermes/scripts/sync_dna_doc.py` regenerates the Google Doc body from the local
+  markdown master IN PLACE (delete + reinsert with real heading/bold styling, markdown tables converted to
+  readable lines, em dashes normalised, `**` artifacts stripped), so the Doc URL never changes.
+- Google Doc retitled **v3** and updated (same URL), verified 0 formatting artifacts, 0 local paths, permission
+  still anyone-with-link writer. Cards 28-37 relabelled from "DNA v2" to "DNA v3" with the CTA correction noted.
+- **STILL OPEN / NEEDS JIGGY**: the old Wade DNA required a spoken sign-off line because Vidrush detects it to
+  apply the subscribe overlay and end card. The reference has no such line. Either set the end screen manually at
+  upload, or add the sign-off as the only non-story line placed AFTER the closing image. Diana needs this
+  answered before the first script.
