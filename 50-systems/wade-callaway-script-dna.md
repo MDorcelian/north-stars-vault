@@ -5,7 +5,8 @@
 differ, the Google Doc wins. Diana and any other VA can only read the Doc, never this path, so every change made
 here MUST be pushed to the Doc before it counts.
 
-Version: 2026-09-11 (v3.2). Supersedes v3.1, v3, v2 (all same day) and v1 (2026-09-04).
+Version: 2026-09-11 (v3.3). Supersedes v3.1, v3, v2 (all same day) and v1 (2026-09-04).
+v3.3 adds the no-pastiche, title-promise and word-count-floor checks after reviewing Diana's first script under this DNA.
 v3.2: THE DELIVERABLE IS THE SCRIPT (one pass, no approval gate, no outline-only reply). Two formats with a
 mechanical rule that selects between them, plus a full spec for the numbered documentary, which is the format the
 existing card batch uses.
@@ -400,7 +401,24 @@ where the old system used to be. Prefer visual nouns. Avoid paragraphs of abstra
 - The strongest item is first and the most emotionally satisfying is last.
 - Sections of 5 or 6, with short titles, ready to become chapter timestamps.
 
+**No pastiche (applies to both formats):**
+- **Never reuse a sentence from a reference script.** Borrow the ARCHITECTURE, never the phrasing. These specific
+  phrasings have already leaked into a draft from Old Timber's barn script and are now banned: "no opinion",
+  "no permission needed but his own", "the county's clock", "measuring before he trusts it", and any variation of
+  "the [X] clock and the [Y] clock are not running together". The structure is public property; the sentences are
+  not, and a channel that recycles them reads as a copy within five episodes.
+- **No false self-referential claims.** Do not write "the only line spoken aloud in the whole story" unless it
+  literally is. Do not claim "nobody said a word" in a script that contains dialogue. Check every statement the
+  narration makes about itself.
+
 **Both formats:**
+- **The title's promise is delivered in full.** If the title contains a number, the script contains exactly that
+  many items. If the script is a story, the title contains no number.
+- **Every named price, date, place and dimension is sourced or removed.** A figure like a dollar amount from a
+  specific year is a claim, not decoration. If it cannot be sourced, describe the cost without inventing
+  precision.
+- **The word count clears the minimum for the format.** Do not submit a script that is short of the floor,
+  however good it reads. Count it and record it.
 - Third person, present tense, and **zero instances of "I", "my", "we" or "me"** in the narration.
 - No spoken CTA anywhere in the narration.
 - Both clocks present; the second one introduced early.
