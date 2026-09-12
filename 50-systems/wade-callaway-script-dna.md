@@ -5,7 +5,8 @@
 differ, the Google Doc wins. Diana and any other VA can only read the Doc, never this path, so every change made
 here MUST be pushed to the Doc before it counts.
 
-Version: 2026-09-11 (v3.3). Supersedes v3.1, v3, v2 (all same day) and v1 (2026-09-04).
+Version: 2026-09-11 (v3.4). Supersedes v3.1, v3, v2 (all same day) and v1 (2026-09-04).
+v3.4 fixes the Format A tense rule (opening and closing present, items past).
 v3.3 adds the no-pastiche, title-promise and word-count-floor checks after reviewing Diana's first script under this DNA.
 v3.2: THE DELIVERABLE IS THE SCRIPT (one pass, no approval gate, no outline-only reply). Two formats with a
 mechanical rule that selects between them, plus a full spec for the numbered documentary, which is the format the
@@ -203,8 +204,11 @@ documentary: "30 Things Every American Farmhouse Had in the 1950s", 281,789 view
 
 ### Rules
 
-- **Third person, present tense.** "You" is allowed in this format, because the items were used by the audience's
-  grandparents. "I" and "we" are banned in every format.
+- **Third person.** "You" is allowed in this format, because the items were used by the audience's grandparents.
+  "I" and "we" are banned in every format.
+- **Tense:** the opening and the closing run in present tense. The items themselves run in past tense, except
+  where the mechanism is still physically true (a hog still cannot sweat, a suction pump still cannot lift more
+  than about twenty-five feet). Do not force a historical item into the present tense.
 - **Order the items for retention:** the strongest and most surprising first, the most emotionally satisfying
   last. Never alphabetical, never by category, never by room.
 - **No filler.** No "and finally, one more thing", no padding between items, no summary of what was covered.
